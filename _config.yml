@@ -89,7 +89,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: NedHsu/NedHsu.github.io # <gh-username>/<repo>
+    repo: # <gh-username>/<repo>
     repo_id:
     category:
     category_id:
