@@ -16,20 +16,20 @@ timezone: Asia/Taipei
 
 title: mins Dream # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: 闖關人生，在學習中找回遊戲最初的感動 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Blog for pathways: Senior software engineer, Unity Beginner, Startup Company, C#, dotnet, design pattern, react.js, vue.js, SEO... unlimited.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://nedhsu.github.io"
 
 github:
   username: NedHsu # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: NedHsu # change to your twitter username
 
 social:
   # Change to your full name.
