@@ -89,10 +89,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: NedHsu/NedHsu.github.io # <gh-username>/<repo>
-    repo_id: R_kgDOKrQkYA
-    category: Announcements
-    category_id: DIC_kwDOKrQkYM4Ca0dx
+    repo: "NedHsu/NedHsu.github.io" # <gh-username>/<repo>
+    repo_id: "R_kgDOKrQkYA"
+    category: "Announcements"
+    category_id: "DIC_kwDOKrQkYM4Ca0dx"
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
