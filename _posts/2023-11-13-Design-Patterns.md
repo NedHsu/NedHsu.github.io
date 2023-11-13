@@ -7,7 +7,7 @@ pin: true
 mermaid: true
 ---
 
-> 透過實例探討設計模式的使用。
+> 透過實例探討設計模式(Design Pattern)的使用。
 
 # 常用的設計模式：
 
