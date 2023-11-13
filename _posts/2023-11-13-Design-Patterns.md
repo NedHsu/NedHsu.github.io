@@ -7,12 +7,14 @@ pin: true
 mermaid: true
 ---
 
+> 透過實例探討設計模式的使用。
+
 # 常用的設計模式：
 
 ## 創建型模式（Creational Patterns）
 
-- [ ] [單例模式（Singleton Pattern）](/posts/Singleton-Pattern)
-- [ ] [原型模式（Prototype Pattern）](/posts/Prototype-Pattern)
+- [X] [單例模式（Singleton Pattern）](/posts/Singleton-Pattern)
+- [X] [原型模式（Prototype Pattern）](/posts/Prototype-Pattern)
 - [ ] [建造者模式（Builder Pattern）](/posts/Builder-Pattern)
 - [ ] [簡單工廠模式（Simple Factory Pattern）](/posts/Simple-Factory-Pattern)
 - [ ] [工廠方法模式（Factory Method Pattern）](/posts/Factory-Method-Pattern)
