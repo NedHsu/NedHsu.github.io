@@ -16,7 +16,7 @@ mermaid: true
 - [X] [單例模式（Singleton Pattern）](/posts/Singleton-Pattern)
 - [X] [原型模式（Prototype Pattern）](/posts/Prototype-Pattern)
 - [X] [建造者模式（Builder Pattern）](/posts/Builder-Pattern)
-- [ ] [簡單工廠模式（Simple Factory Pattern）](/posts/Simple-Factory-Pattern)
+- [X] [簡單工廠模式（Simple Factory Pattern）](/posts/Simple-Factory-Pattern)
 - [ ] [工廠方法模式（Factory Method Pattern）](/posts/Factory-Method-Pattern)
 - [ ] [抽象工廠模式（Abstract Factory Pattern）](/posts/Abstract-Factory-Pattern)
 
