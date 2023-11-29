@@ -35,12 +35,10 @@ classDiagram
     +DecoratMethodB()*
   }
   class ConcreteDecoratorA{
-    #IProduct product
     +DecoratMethodA()
     +DecoratMethodB()
   }
   class ConcreteDecoratorB{
-    #IProduct product
     +DecoratMethodA()
     +DecoratMethodB()
   }
