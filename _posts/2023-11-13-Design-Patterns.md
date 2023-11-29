@@ -18,7 +18,7 @@ mermaid: true
 - [X] [建造者模式（Builder Pattern）](/posts/Builder-Pattern)
 - [X] [簡單工廠模式（Simple Factory Pattern）](/posts/Simple-Factory-Pattern)
 - [X] [工廠方法模式（Factory Method Pattern）](/posts/Factory-Method-Pattern)
-- [ ] [抽象工廠模式（Abstract Factory Pattern）](/posts/Abstract-Factory-Pattern)
+- [X] [抽象工廠模式（Abstract Factory Pattern）](/posts/Abstract-Factory-Pattern)
 
 ## 結構型模式（Structural Patterns）
 
