@@ -22,8 +22,8 @@ mermaid: true
 
 ## 結構型模式（Structural Patterns）
 
-- [ ] [裝飾器模式（Decorator Pattern）](/posts/Decorator-Pattern)
-- [ ] [代理模式（Proxy Pattern）](/posts/Proxy-Pattern)
+- [X] [裝飾器模式（Decorator Pattern）](/posts/Decorator-Pattern)
+- [X] [代理模式（Proxy Pattern）](/posts/Proxy-Pattern)
 - [ ] [享元模式（Flyweight Pattern）](/posts/Flyweight-Pattern)
 - [ ] [橋接模式（Bridge Pattern）](/posts/Bridge-Pattern)
 - [ ] [外觀模式（Facade Pattern）](/posts/Facade-Pattern)
