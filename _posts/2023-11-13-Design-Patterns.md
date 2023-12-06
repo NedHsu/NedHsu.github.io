@@ -32,7 +32,7 @@ mermaid: true
 
 ## 行為型模式（Behavioral Patterns）
 
-- [ ] [策略模式（Strategy Pattern）](/posts/Strategy-Pattern)
+- [X] [策略模式（Strategy Pattern）](/posts/Strategy-Pattern)
 - [ ] [狀態模式（State Pattern）](/posts/State-Pattern)
 - [ ] [觀察者模式（Observer Pattern）](/posts/Observer-Pattern)
 - [ ] [命令模式（Command Pattern）](/posts/Command-Pattern)
@@ -45,7 +45,7 @@ mermaid: true
 ## 其他模式
 
 - [ ] [模板方法模式（Template Method Pattern）](/posts/Template-Method-Pattern)
-- [ ] [備忘錄模式（Memento Pattern）](/posts/Memento-Pattern)
+- [X] [備忘錄模式（Memento Pattern）](/posts/Memento-Pattern)
 - [ ] [優先隊列模式（Priority Queue Pattern）](/posts/Priority-Queue-Pattern)
 - [ ] [空物件模式（Null Object Pattern）](/posts/Null-Object-Pattern)
 - [ ] [複製模式（Clone Pattern）](/posts/Clone-Pattern)
