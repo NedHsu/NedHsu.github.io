@@ -33,7 +33,7 @@ mermaid: true
 ## 行為型模式（Behavioral Patterns）
 
 - [X] [策略模式（Strategy Pattern）](/posts/Strategy-Pattern)
-- [ ] [狀態模式（State Pattern）](/posts/State-Pattern)
+- [X] [狀態模式（State Pattern）](/posts/State-Pattern)
 - [ ] [觀察者模式（Observer Pattern）](/posts/Observer-Pattern)
 - [ ] [命令模式（Command Pattern）](/posts/Command-Pattern)
 - [ ] [中介者模式（Mediator Pattern）](/posts/Mediator-Pattern)
