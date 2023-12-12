@@ -13,17 +13,17 @@ excerpt: "抽象工廠模式（Abstract Factory Pattern） - 使客戶端程式�
 
 ```mermaid
 classDiagram
-  Client ..|> IFactory
-  Client ..|> ProductA
-  Client ..|> ProductB
+  Client ..> IFactory
+  Client ..> ProductA
+  Client ..> ProductB
   ProductA <|-- FactoryAProductA
   ProductA <|-- FactoryBProductA
-  FactoryAProductA <|.. ConcreteFactoryA
-  FactoryAProductB <|.. ConcreteFactoryA
-  FactoryBProductA <|.. ConcreteFactoryB
+  FactoryAProductA <.. ConcreteFactoryA
+  FactoryAProductB <.. ConcreteFactoryA
+  FactoryBProductA <.. ConcreteFactoryB
   ProductB <|-- FactoryAProductB
   ProductB <|-- FactoryBProductB
-  FactoryBProductB <|.. ConcreteFactoryB
+  FactoryBProductB <.. ConcreteFactoryB
   IFactory <|-- ConcreteFactoryA
   IFactory <|-- ConcreteFactoryB
   note for Client "Inject Factory to Generate Product"
@@ -88,7 +88,7 @@ classDiagram
 
 ### Product
 
-```csharp
+```cs
 // 抽象 GUI 控制元件類別
 public abstract class Button
 {
@@ -106,7 +106,7 @@ public abstract class Label
 }
 ```
 
-```csharp
+```cs
 // 具體 MacOS 控制元件類別
 public class MacOSButton : Button
 {
@@ -133,7 +133,7 @@ public class MacOSLabel : Label
 }
 ```
 
-```csharp
+```cs
 // 具體 Windows 控制元件類別
 public class WindowsButton : Button
 {
@@ -162,7 +162,7 @@ public class WindowsLabel : Label
 
 ### Factory
 
-```csharp
+```cs
 // 抽象工廠介面
 public interface IGUIFactory
 {
@@ -172,7 +172,7 @@ public interface IGUIFactory
 }
 ```
 
-```csharp
+```cs
 // 具體的 MacOS 工廠
 public class MacOSGUIFactory : IGUIFactory
 {
@@ -193,7 +193,7 @@ public class MacOSGUIFactory : IGUIFactory
 }
 ```
 
-```csharp
+```cs
 // 具體的 Windows 工廠
 public class WindowsGUIFactory : IGUIFactory
 {
@@ -216,7 +216,7 @@ public class WindowsGUIFactory : IGUIFactory
 
 ### Client
 
-```csharp
+```cs
 // 用戶端程式碼
 public class Client
 {
@@ -242,7 +242,7 @@ public class Client
 
 ### Program
 
-```csharp
+```cs
 // 使用 Windows 工廠
 IGUIFactory windowsFactory = new WindowsGUIFactory();
 Client windowsClient = new Client(windowsFactory);

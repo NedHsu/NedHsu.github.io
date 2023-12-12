@@ -60,7 +60,7 @@ classDiagram
 
 ### Aabstract/Interface Product
 
-```csharp
+```cs
 // 抽象披薩類別
 public abstract class Pizza
 {
@@ -73,7 +73,7 @@ public abstract class Pizza
 
 ### Concrete Product
 
-```csharp
+```cs
 // 具體的起司披薩
 public class CheesePizza : Pizza
 {
@@ -101,7 +101,7 @@ public class CheesePizza : Pizza
 
 ### Simple Factory
 
-```csharp
+```cs
 // 簡單披薩工廠
 public class SimplePizzaFactory {
     public Pizza CreatePizza(string type) {
@@ -130,7 +130,7 @@ public class SimplePizzaFactory {
 
 ### Client
 
-```csharp
+```cs
 SimplePizzaFactory factory = new SimplePizzaFactory();
 
 // 客戶點餐：起司披薩

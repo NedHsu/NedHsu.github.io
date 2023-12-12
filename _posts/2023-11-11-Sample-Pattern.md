@@ -52,7 +52,7 @@ classDiagram
 
 ### Class
 
-```csharp
+```cs
 
 ```
 

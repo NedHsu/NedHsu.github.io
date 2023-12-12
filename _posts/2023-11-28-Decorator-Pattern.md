@@ -14,7 +14,7 @@ excerpt: "裝飾器模式（Decorator Pattern） - 動態地往一個類別中�
 
 ```mermaid
 classDiagram
-  IProduct <|-- Product
+  IProduct <|.. Product
   IProduct <|-- AbstractDecorator
   IProduct --o AbstractDecorator
   AbstractDecorator <|-- ConcreteDecoratorA
@@ -54,7 +54,7 @@ classDiagram
 
 ### Product
 
-```csharp
+```cs
 // 定義咖啡介面
 public interface ICoffee
 {
@@ -63,7 +63,7 @@ public interface ICoffee
 }
 ```
 
-```csharp
+```cs
 // 實現基本的黑咖啡類別
 public class BlackCoffee : ICoffee
 {
@@ -81,7 +81,7 @@ public class BlackCoffee : ICoffee
 
 ### Decorator
 
-```csharp
+```cs
 // 定義裝飾器基礎類別
 public abstract class CoffeeDecorator : ICoffee
 {
@@ -106,7 +106,7 @@ public abstract class CoffeeDecorator : ICoffee
 
 ### ConcreteDecorator
 
-```csharp
+```cs
 // 實現具體的裝飾器類別
 public class MilkDecorator : CoffeeDecorator
 {
@@ -127,7 +127,7 @@ public class MilkDecorator : CoffeeDecorator
 
 ```
 
-```csharp
+```cs
 public class SugarDecorator : CoffeeDecorator
 {
     public SugarDecorator(ICoffee coffee) : base(coffee)
@@ -148,7 +148,7 @@ public class SugarDecorator : CoffeeDecorator
 
 ### Client
 
-```csharp
+```cs
 // 點一杯基本的黑咖啡
 ICoffee coffee = new BlackCoffee();
 

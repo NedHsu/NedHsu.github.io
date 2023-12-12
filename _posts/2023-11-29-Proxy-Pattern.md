@@ -13,8 +13,8 @@ excerpt: "代理模式（Proxy Pattern） - 透過代理控制對要訪問的物
 
 ```mermaid
 classDiagram
-  IEditor <|-- EditorProxy
-  IEditor <|-- Writer
+  IEditor <|.. EditorProxy
+  IEditor <|.. Writer
   EditorProxy --> Writer
   Client ..> IEditor
   class IEditor{
@@ -41,7 +41,7 @@ classDiagram
 
 ### Interface
 
-```csharp
+```cs
 // 定義代理編輯介面
 public interface IEditor
 {
@@ -51,7 +51,7 @@ public interface IEditor
 
 ### RealSubject
 
-```csharp
+```cs
 // 實現寫作家類別
 public class Writer : IEditor
 {
@@ -64,7 +64,7 @@ public class Writer : IEditor
 
 ### Proxy
 
-```csharp
+```cs
 // 實現代理編輯類別
 public class EditorProxy : IEditor
 {
@@ -89,7 +89,7 @@ public class EditorProxy : IEditor
 
 ### Client
 
-```csharp
+```cs
 // 創建寫作家實例
 IEditor writer = new Writer();
 

@@ -38,7 +38,7 @@ mermaid: true
 - [ ] [命令模式（Command Pattern）](/posts/Command-Pattern)
 - [ ] [中介者模式（Mediator Pattern）](/posts/Mediator-Pattern)
 - [ ] [解釋器模式（Interpreter Pattern）](/posts/Interpreter-Pattern)
-- [ ] [訪問者模式（Visitor Pattern）](/posts/Visitor-Pattern)
+- [X] [訪問者模式（Visitor Pattern）](/posts/Visitor-Pattern)
 - [ ] [迭代器模式（Iterator Pattern）](/posts/Iterator-Pattern)
 - [ ] [責任鏈模式（Chain of Responsibility Pattern）](/posts/Chain-of-Responsibility-Pattern)
 
@@ -55,3 +55,7 @@ mermaid: true
 - [ ] [參數物件模式（Parameter Object Pattern）](/posts/Parameter-Object-Pattern)
 - [ ] [容錯模式（Fault-Tolerant Pattern）](/posts/Fault-Tolerant-Pattern)
 - [ ] [管線模式（Pipeline Pattern）](/posts/Pipeline-Pattern)
+
+# 附註說明
+
+## [物件關係](/posts/Object-Relationship)

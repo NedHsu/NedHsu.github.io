@@ -61,7 +61,7 @@ classDiagram
 
 ### Memento
 
-```csharp
+```cs
 // 備忘錄類別，保存原發器的狀態
 public class Memento
 {
@@ -76,7 +76,7 @@ public class Memento
 
 ### MementoManager
 
-```csharp
+```cs
 // 備忘錄管理者類別，負責保存和恢復備忘錄
 public class MementoManager
 {
@@ -96,7 +96,7 @@ public class MementoManager
 
 ### Originator
 
-```csharp
+```cs
 // 原發器類別，負責創建和恢復備忘錄
 public class TextEditor
 {
@@ -126,7 +126,7 @@ public class TextEditor
 
 ### Client
 
-```csharp
+```cs
 // 使用範例
 TextEditor textEditor = new TextEditor();
 MementoManager mementoManager = new MementoManager();

@@ -13,8 +13,8 @@ excerpt: "狀態模式（State Pattern） - 透過改變狀態來改變行為，
 
 ```mermaid
 classDiagram
-  ConcreteStateA --|> IState
-  ConcreteStateB --|> IState
+  ConcreteStateA ..|> IState
+  ConcreteStateB ..|> IState
   IState --o Context
   Client ..> Context
   note for Client "Create context then use request"
@@ -50,7 +50,7 @@ classDiagram
 
 ### State
 
-```csharp
+```cs
 public interface State
 {
     void HandleRequest(Context context);
@@ -59,7 +59,7 @@ public interface State
 
 ### ConcreteState
 
-```csharp
+```cs
 public class ConcreteStateA : State
 {
     public void HandleRequest(Context context)
@@ -71,7 +71,7 @@ public class ConcreteStateA : State
 }
 ```
 
-```csharp
+```cs
 public class ConcreteStateB : State
 {
     public void HandleRequest(Context context)
@@ -85,7 +85,7 @@ public class ConcreteStateB : State
 
 ### Context
 
-```csharp
+```cs
 public class Context
 {
     private State currentState;
@@ -111,7 +111,7 @@ public class Context
 
 ### Client
 
-```csharp
+```cs
 // 使用範例
 Context context = new Context();
 context.Request();  // 輸出: HandleRequest in ConcreteStateA

@@ -52,7 +52,7 @@ classDiagram
 ### Product
 > 產品的抽象類別或介面，它定義了產品的共同屬性和方法
 
-```csharp
+```cs
 // 產品介面
 public interface ICake
 {
@@ -64,7 +64,7 @@ public interface ICake
 > 產品的具體實現，例如巧克力蛋糕、草莓蛋糕等<br/>
 > 每種蛋糕都實現了產品的介面，並提供了自己的製作方法和配方
 
-```csharp
+```cs
 // 具體產品：巧克力蛋糕
 public class ChocolateCake : ICake
 {
@@ -74,7 +74,7 @@ public class ChocolateCake : ICake
     }
 }
 ```
-```csharp
+```cs
 // 具體產品：草莓蛋糕
 public class StrawberryCake : ICake
 {
@@ -89,7 +89,7 @@ public class StrawberryCake : ICake
 > 工廠的抽象類別或介面，它定義了製造產品的方法<br/>
 > 這個方法可以根據需要返回不同的具體產品
 
-```csharp
+```cs
 // 工廠介面
 public interface ICakeFactory
 {
@@ -101,7 +101,7 @@ public interface ICakeFactory
 > 工廠的具體實現，它實現了製造產品的方法<br/>
 > 每個具體工廠專門負責製作一種特定的產品
 
-```csharp
+```cs
 // 具體工廠：巧克力蛋糕工廠
 public class ChocolateCakeFactory : ICakeFactory
 {
@@ -111,7 +111,7 @@ public class ChocolateCakeFactory : ICakeFactory
     }
 }
 ```
-```csharp
+```cs
 // 具體工廠：草莓蛋糕工廠
 class StrawberryCakeFactory : ICakeFactory
 {
@@ -125,7 +125,7 @@ class StrawberryCakeFactory : ICakeFactory
 ### Client
 > 創建工廠以製作蛋糕
 
-```csharp
+```cs
 // 創建巧克力蛋糕工廠
 ICakeFactory chocolateFactory = new ChocolateCakeFactory();
 // 使用巧克力蛋糕工廠製作蛋糕

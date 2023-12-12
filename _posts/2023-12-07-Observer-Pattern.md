@@ -16,9 +16,9 @@ classDiagram
   note for Client "Create and register Observers, notify all observers when you need."
   Client ..> IObserver
   Client ..> ISubject
-  IObserver <|-- ConcreteObserverA
-  IObserver <|-- ConcreteObserverB
-  ISubject <|-- ConcreteSubject
+  IObserver <|.. ConcreteObserverA
+  IObserver <|.. ConcreteObserverB
+  ISubject <|.. ConcreteSubject
   IObserver --o ISubject
   namespace Newpaper {
     class IObserver{
@@ -89,7 +89,7 @@ classDiagram
 
 ### Observer
 
-```csharp
+```cs
 // 訂閱者（讀者）
 public interface IObserver
 {
@@ -99,7 +99,7 @@ public interface IObserver
 
 ### Concrete Observer
 
-```csharp
+```cs
 // 讀者
 public class Reader : IObserver
 {
@@ -119,7 +119,7 @@ public class Reader : IObserver
 
 ### Subject
 
-```csharp
+```cs
 // 主題（報社）
 public interface ISubject
 {
@@ -134,7 +134,7 @@ public interface ISubject
 
 ### Concrete Subject
 
-```csharp
+```cs
 // 報社
 public class Newspaper : ISubject
 {
@@ -174,7 +174,7 @@ public class Newspaper : ISubject
 
 ### Client
 
-```csharp
+```cs
 Newspaper newspaper = new Newspaper();
 Reader reader1 = new Reader("John");
 Reader reader2 = new Reader("Alice");

@@ -69,7 +69,7 @@ classDiagram
 
 ### Product
 
-```csharp
+```cs
 public class Car
 {
     public string EngineType { get; set; }
@@ -81,7 +81,7 @@ public class Car
 
 ### Aabstract Builder
 
-```csharp
+```cs
 // 汽車建造者抽象類
 public abstract class CarBuilder
 {
@@ -101,7 +101,7 @@ public abstract class CarBuilder
 
 ### Concrete Builder
 
-```csharp
+```cs
 // 具體汽車建造者類
 public class ConcreteCarBuilder : CarBuilder
 {
@@ -129,7 +129,7 @@ public class ConcreteCarBuilder : CarBuilder
 
 ### Director
 
-```csharp
+```cs
 // 指揮者類
 public class Director
 {
@@ -153,7 +153,7 @@ public class Director
 
 ### Client
 
-```csharp
+```cs
 CarBuilder builder = new ConcreteCarBuilder();
 
 // 創建指揮者並傳入汽車建造者

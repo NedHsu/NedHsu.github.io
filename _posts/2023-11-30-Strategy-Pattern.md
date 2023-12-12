@@ -13,8 +13,8 @@ excerpt: "策略模式（Strategy Pattern） - 在演算法中替換一系列可
 
 ```mermaid
 classDiagram
-  IStrategy <|-- ConcreteStrategyA
-  IStrategy <|-- ConcreteStrategyB
+  IStrategy <|.. ConcreteStrategyA
+  IStrategy <|.. ConcreteStrategyB
   Context *-- IStrategy
   note for Context "Execute -> do something with strategy.Execute"
   class IStrategy{
@@ -53,7 +53,7 @@ classDiagram
 
 ### Strategy
 
-```csharp
+```cs
 public interface IAttackStrategy
 {
     void Attack();
@@ -62,7 +62,7 @@ public interface IAttackStrategy
 
 ### ConcreteStrategy
 
-```csharp
+```cs
 public class ArcherAttackStrategy : IAttackStrategy
 {
     public void Attack()
@@ -90,7 +90,7 @@ public class WarriorAttackStrategy : IAttackStrategy
 
 ### Context
 
-```csharp
+```cs
 public class Character
 {
     private IAttackStrategy attackStrategy;
@@ -114,7 +114,7 @@ public class Character
 
 ### Client
 
-```csharp
+```cs
 var warrior = new Character(new WarriorAttackStrategy());
 warrior.Attack();  // 輸出：使用劍進行近距離攻擊！
 

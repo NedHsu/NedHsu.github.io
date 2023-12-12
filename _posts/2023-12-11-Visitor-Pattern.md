@@ -15,10 +15,10 @@ excerpt: "訪問者模式（Visitor Pattern） -  將操作從元素的類別中
 
 ```mermaid
 classDiagram
-  ConcreteVisitorA --|> IVisitor
-  ConcreteVisitorB --|> IVisitor
-  ConcreteElementA --|> Element
-  ConcreteElementB --|> Element
+  ConcreteVisitorA ..|> IVisitor
+  ConcreteVisitorB ..|> IVisitor
+  ConcreteElementA ..|> Element
+  ConcreteElementB ..|> Element
   note for Client "create visitor(s) and element(s) \nelement(s) accept visitor(s)"
   Element <.. Client
   IVisitor <.. Client
@@ -70,7 +70,7 @@ classDiagram
 
 ### Element
 
-```csharp
+```cs
 // 基礎動物類別
 public abstract class Animal
 {
@@ -78,7 +78,7 @@ public abstract class Animal
 }
 ```
 
-```csharp
+```cs
 // 長頸鹿類別
 public class Giraffe : Animal
 {
@@ -89,7 +89,7 @@ public class Giraffe : Animal
 }
 ```
 
-```csharp
+```cs
 // 獅子類別
 public class Lion : Animal
 {
@@ -100,7 +100,7 @@ public class Lion : Animal
 }
 ```
 
-```csharp
+```cs
 // 老虎類別
 public class Tiger : Animal
 {
@@ -113,7 +113,7 @@ public class Tiger : Animal
 
 ### Visitor
 
-```csharp
+```cs
 // 抽象動物訪問者
 public interface IAnimalVisitor
 {
@@ -125,7 +125,7 @@ public interface IAnimalVisitor
 
 ### OperationVisitor
 
-```csharp
+```cs
 // 具體訪問者，用於實現不同的操作
 public class AnimalOperationVisitor : IAnimalVisitor
 {
@@ -148,7 +148,7 @@ public class AnimalOperationVisitor : IAnimalVisitor
 
 ### Client
 
-```csharp
+```cs
 // 使用範例
 Animal lion = new Lion();
 Animal tiger = new Tiger();
