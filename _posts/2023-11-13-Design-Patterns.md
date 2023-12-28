@@ -24,9 +24,9 @@ mermaid: true
 
 - [X] [裝飾器模式（Decorator Pattern）](/posts/Decorator-Pattern)
 - [X] [代理模式（Proxy Pattern）](/posts/Proxy-Pattern)
-- [ ] [享元模式（Flyweight Pattern）](/posts/Flyweight-Pattern)
-- [ ] [橋接模式（Bridge Pattern）](/posts/Bridge-Pattern)
-- [ ] [外觀模式（Facade Pattern）](/posts/Facade-Pattern)
+- [X] [享元模式（Flyweight Pattern）](/posts/Flyweight-Pattern)
+- [X] [橋接模式（Bridge Pattern）](/posts/Bridge-Pattern)
+- [X] [外觀模式（Facade Pattern）](/posts/Facade-Pattern)
 - [ ] [組合模式（Composite Pattern）](/posts/Composite-Pattern)
 - [ ] [微服務模式（Microservices Pattern）](/posts/Microservices-Pattern)
 
