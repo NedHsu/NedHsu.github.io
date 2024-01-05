@@ -11,33 +11,6 @@ excerpt: "組合模式（Composite Pattern） - 將對象“組合”成樹結�
 
 > 將對象"組合"成樹結構以表示部分-整體層次結構
 
-```mermaid
-classDiagram
-  Client ..> Leaf
-  Client ..> Composite
-  Leaf --|> Component
-  Composite --|> Component
-  Composite o--> Component
-  namespace CompositePattern {
-    class Component{
-      <<Abstract>>
-      +Operation()*
-    }
-    class Leaf{
-      +Operation()
-    }
-    class Composite{
-      -List<Component> members
-      +Operation()
-      +Add(Component)
-      +Remove(Component)
-      +GetChild() 
-    }
-  }
-  class Client{
-    +Operation()
-  }
-```
 
 ## 例子
 
