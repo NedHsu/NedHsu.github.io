@@ -17,7 +17,7 @@ classDiagram
   Client ..> Composite
   Leaf --|> Component
   Composite --|> Component
-  Composite "1" o--> "0..*" Component
+  Composite o--> Component
   namespace CompositePattern {
     class Component{
       <<Abstract>>
