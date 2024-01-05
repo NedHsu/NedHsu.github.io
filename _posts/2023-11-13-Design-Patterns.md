@@ -27,7 +27,7 @@ mermaid: true
 - [X] [享元模式（Flyweight Pattern）](/posts/Flyweight-Pattern)
 - [X] [橋接模式（Bridge Pattern）](/posts/Bridge-Pattern)
 - [X] [外觀模式（Facade Pattern）](/posts/Facade-Pattern)
-- [ ] [組合模式（Composite Pattern）](/posts/Composite-Pattern)
+- [X] [組合模式（Composite Pattern）](/posts/Composite-Pattern)
 - [ ] [微服務模式（Microservices Pattern）](/posts/Microservices-Pattern)
 
 ## 行為型模式（Behavioral Patterns）
@@ -35,7 +35,7 @@ mermaid: true
 - [X] [策略模式（Strategy Pattern）](/posts/Strategy-Pattern)
 - [X] [狀態模式（State Pattern）](/posts/State-Pattern)
 - [X] [觀察者模式（Observer Pattern）](/posts/Observer-Pattern)
-- [ ] [命令模式（Command Pattern）](/posts/Command-Pattern)
+- [X] [命令模式（Command Pattern）](/posts/Command-Pattern)
 - [ ] [中介者模式（Mediator Pattern）](/posts/Mediator-Pattern)
 - [ ] [解釋器模式（Interpreter Pattern）](/posts/Interpreter-Pattern)
 - [X] [訪問者模式（Visitor Pattern）](/posts/Visitor-Pattern)

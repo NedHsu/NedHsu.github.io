@@ -62,7 +62,7 @@ public abstract class Engine
 }
 ```
 
-### ConcreteImplementor
+### Concrete Implementor
 
 ```cs
 // 具體引擎類別
