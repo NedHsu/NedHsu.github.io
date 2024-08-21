@@ -89,7 +89,7 @@ public class BearToy : IToyPrototype
 ### Client
 
 ``` csharp
-﻿// 創建玩具原型
+// 創建玩具原型
 using PrototypePattern.Toy;
 
 IToyPrototype bearToyPrototype = new BearToy();

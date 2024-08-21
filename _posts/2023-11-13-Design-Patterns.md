@@ -28,7 +28,6 @@ mermaid: true
 - [X] [橋接模式（Bridge Pattern）](/posts/Bridge-Pattern)
 - [X] [外觀模式（Facade Pattern）](/posts/Facade-Pattern)
 - [X] [組合模式（Composite Pattern）](/posts/Composite-Pattern)
-- [ ] [微服務模式（Microservices Pattern）](/posts/Microservices-Pattern)
 
 ## 行為型模式（Behavioral Patterns）
 
@@ -48,7 +47,6 @@ mermaid: true
 - [X] [備忘錄模式（Memento Pattern）](/posts/Memento-Pattern)
 - [ ] [優先隊列模式（Priority Queue Pattern）](/posts/Priority-Queue-Pattern)
 - [ ] [空物件模式（Null Object Pattern）](/posts/Null-Object-Pattern)
-- [ ] [複製模式（Clone Pattern）](/posts/Clone-Pattern)
 - [ ] [資源池模式（Pool Pattern）](/posts/Pool-Pattern)
 - [ ] [雙重檢查鎖定模式（Double-CheckedLockingPattern）](/posts/Double-Checked-Locking-Pattern)
 - [ ] [限制容器模式（Constrained Container Pattern）](/posts/Constrained-Container-Pattern)
