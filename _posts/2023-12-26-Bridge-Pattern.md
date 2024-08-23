@@ -2,7 +2,7 @@
 title: 橋接模式 - Bridge Pattern
 date: 2023-12-26 19:58:00 +0800
 categories: [Software, Design Pattern]
-tags: [Design Pattern] # TAG names should always be lowercase
+tags: [Design Pattern] 
 mermaid: true
 excerpt: "橋接模式（Bridge Pattern） - 把事物對象和其具體行爲、具體特徵分離開來，使它們可以各自獨立的變化。"
 ---

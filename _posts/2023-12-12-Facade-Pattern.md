@@ -2,7 +2,7 @@
 title: 外觀模式 - Facade Pattern
 date: 2023-12-12 09:58:00 +0800
 categories: [Software, Design Pattern]
-tags: [Design Pattern]     # TAG names should always be lowercase
+tags: [Design Pattern]     
 mermaid: true
 excerpt: "外觀模式（Facade Pattern） - 提供了一個簡化的介面，用來操作複雜的子系統"
 ---

@@ -2,7 +2,7 @@
 title: 工廠方法模式 - Factory Method Pattern
 date: 2023-11-22 10:00:00 +0800
 categories: [Software, Design Pattern]
-tags: [Design Pattern]     # TAG names should always be lowercase
+tags: [Design Pattern]     
 mermaid: true
 excerpt: "工廠方法模式（Factory Method Pattern） - 處理在不指定對象具體類別的情況下建立對象的問題"
 ---

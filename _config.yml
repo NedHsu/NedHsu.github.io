@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Ned Hsu
-  email: example@domain.com # change to your email address
+  email: htsheu99@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # https://twitter.com/username # change to your twitter homepage
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/img/green.png
+avatar: assets/img/avatar.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -164,6 +164,7 @@ defaults:
 
 sass:
   style: compressed
+  sass_dir: _sass
 
 compress_html:
   clippings: all

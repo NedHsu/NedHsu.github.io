@@ -2,7 +2,7 @@
 title: 模式模板 - Sample Pattern
 date: 2023-11-11 10:10:00 +0800
 categories: [Software, Design Pattern]
-tags: [Design Pattern] # TAG names should always be lowercase
+tags: [Design Pattern] 
 mermaid: true
 excerpt: "模式模板（Sample Pattern） - 文章樣板"
 ---

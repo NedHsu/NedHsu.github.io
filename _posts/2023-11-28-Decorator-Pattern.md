@@ -2,7 +2,7 @@
 title: 裝飾器模式 - Decorator Pattern
 date: 2023-11-28 19:00:00 +0800
 categories: [Software, Design Pattern]
-tags: [Design Pattern]     # TAG names should always be lowercase
+tags: [Design Pattern]     
 mermaid: true
 excerpt: "裝飾器模式（Decorator Pattern） - 動態地往一個類別中添加新的行為"
 ---

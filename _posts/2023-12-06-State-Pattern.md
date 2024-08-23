@@ -2,7 +2,7 @@
 title: 狀態模式 - State Pattern
 date: 2023-12-06 19:58:00 +0800
 categories: [Software, Design Pattern]
-tags: [Design Pattern] # TAG names should always be lowercase
+tags: [Design Pattern] 
 mermaid: true
 excerpt: "狀態模式（State Pattern） - 透過改變狀態來改變行為，讓每個狀態行為獨立易於添加、修改"
 ---

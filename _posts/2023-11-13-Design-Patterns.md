@@ -2,7 +2,7 @@
 title: Outline Design Pattern
 date: 2023-11-13 00:25:00 +0800
 categories: [Software, Design Pattern]
-tags: [Design Pattern] # TAG names should always be lowercase
+tags: [Design Pattern] 
 pin: true
 mermaid: true
 ---

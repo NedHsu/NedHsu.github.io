@@ -2,7 +2,7 @@
 title: 訪問者模式 - Visitor Pattern
 date: 2023-12-11 19:58:00 +0800
 categories: [Software, Design Pattern]
-tags: [Design Pattern] # TAG names should always be lowercase
+tags: [Design Pattern] 
 mermaid: true
 excerpt: "訪問者模式（Visitor Pattern） -  將操作從元素的類別中分離出來，並將其封裝在訪問者類別中"
 ---
