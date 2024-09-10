@@ -1,0 +1,111 @@
+.button {
+  background-color: #3498db;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease; /* 過渡屬性、持續時間和加速度 */
+}
+
+.button:hover {
+  background-color: #2ecc71; /* 鼠標懸停時的顏色變化 */
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: #f39c12;
+  transition: width 0.5s ease, height 0.5s ease-in, background-color 1s ease-out; /* 多個屬性的過渡 */
+}
+
+.box:hover {
+  width: 200px;
+  height: 200px;
+  background-color: #8e44ad;
+}
+
+@keyframes moveAndChangeColor {
+  0% {
+      transform: translateX(0);
+      background-color: #3498db;
+  }
+  50% {
+      transform: translateX(100px);
+      background-color: #2ecc71;
+  }
+  100% {
+      transform: translateX(0);
+      background-color: #3498db;
+  }
+}
+
+.animated-box {
+  width: 100px;
+  height: 100px;
+  background-color: #3498db;
+  animation: moveAndChangeColor 3s infinite; /* 應用動畫 */
+}
+
+.animated-box {
+  animation-name: moveAndChangeColor;
+  animation-duration: 3s;
+  animation-timing-function: ease-in-out;
+  animation-delay: 1s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
+}
+
+@keyframes complexAnimation {
+  0% {
+      transform: scale(1);
+      background-color: #e74c3c;
+      opacity: 1;
+  }
+  50% {
+      transform: scale(1.5);
+      background-color: #f1c40f;
+      opacity: 0.5;
+  }
+  100% {
+      transform: scale(1);
+      background-color: #e74c3c;
+      opacity: 1;
+  }
+}
+
+.complex-box {
+  width: 100px;
+  height: 100px;
+  animation: complexAnimation 4s infinite;
+}
+
+.gradient-button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background: linear-gradient(to right, #ff7e5f, #feb47b);
+  color: white;
+  cursor: pointer;
+  transition: background 0.5s ease;
+}
+
+.gradient-button:hover {
+  background: linear-gradient(to right, #6a11cb, #2575fc);
+}
+
+@keyframes bounce {
+  0%, 100% {
+      transform: translateY(0);
+  }
+  50% {
+      transform: translateY(-20px);
+  }
+}
+
+.bouncing-box {
+  width: 100px;
+  height: 100px;
+  background-color: #1abc9c;
+  animation: bounce 2s infinite;
+}

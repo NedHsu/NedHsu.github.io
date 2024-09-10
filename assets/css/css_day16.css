@@ -1,0 +1,86 @@
+html {
+  font-size: 16px; /* 設置根元素字體大小 */
+}
+
+body {
+  font-size: 16px; /* 設置基準字體大小 */
+}
+
+.element {
+  width: 300px; /* 設置元素寬度為 300 像素 */
+  font-size: 12pt; /* 字體大小為 12 點 */
+  background-color: #ddd;
+}
+
+.element-em {
+  font-size: 1.5em; /* 1.5 倍的父元素字體大小，即 24px */
+}
+
+.parent {
+  width: 400px;
+  background-color: #666;
+  color: #fff;
+}
+.child {
+  width: 50%; /* 子元素寬度為父元素寬度的 50%，即 200px */
+  background-color: #999;
+}
+
+.full-height {
+  color: #fff;
+  height: 100vh; /* 設置高度為視口高度的 100% */
+  background-color: #999;
+}
+.half-width {
+  width: 50vw; /* 設置寬度為視口寬度的 50% */
+  background-color: #666;
+}
+
+.square {
+  width: 10vmin; /* 設置寬度為視口寬度和高度的較小值的 10% */
+  height: 10vmin; /* 設置高度為視口寬度和高度的較小值的 10% */
+  background-color: #ddd;
+}
+
+.width-ch {
+  width: 30ch; /* 設置寬度為 30 個字符的寬度 */
+  background-color: #ddd;
+}
+
+html {
+  font-size: 16px; /* 設置基準字體大小 */
+}
+
+h1 {
+  font-size: 2rem; /* 32px */
+}
+
+p {
+  font-size: 1rem; /* 16px */
+}
+
+.hero {
+  width: 100vw; /* 設置寬度為視口的寬度 */
+  height: 100vh; /* 設置高度為視口的高度 */
+  background-color: #ddd;
+  background-size: cover;
+}
+
+.container-p {
+  width: 80%; /* 容器寬度為父元素的 80% */
+  margin: 0 auto; /* 水平居中 */
+  background-color: #999;
+  color: #fff;
+}
+
+.sidebar {
+  width: 30%; /* 側邊欄寬度為容器的 30% */
+  float: left;
+  background-color: #000;
+}
+
+.main {
+  width: 70%; /* 主要內容區域寬度為容器的 70% */
+  float: right;
+  background-color: #666;
+}
