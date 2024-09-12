@@ -1,8 +1,8 @@
 ---
 title:  希臘燒烤章魚（Grilled Octopus）教學課程
 date: 2023-03-19 19:00:00 +0800
-categories: [Dishes, Western]
-tags: [Dishes] 
+categories: [食譜, 西餐]
+tags: [食譜] 
 excerpt: "希臘燒烤章魚是一道著名的地中海料理，以其鮮嫩多汁、風味獨特而深受喜愛"
 ---
 

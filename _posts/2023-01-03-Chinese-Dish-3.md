@@ -1,8 +1,8 @@
 ---
 title: 酸辣湯教學
 date: 2023-01-03 19:00:00 +0800
-categories: [Dishes, Chinese]
-tags: [Dishes] 
+categories: [食譜, 中餐]
+tags: [食譜] 
 excerpt: "酸辣湯是一道經典的中國湯品，以其獨特的酸辣口感著稱"
 ---
 

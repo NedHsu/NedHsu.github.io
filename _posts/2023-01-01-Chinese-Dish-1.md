@@ -1,8 +1,8 @@
 ---
 title: 麻婆豆腐教學
 date: 2023-01-02 19:00:00 +0800
-categories: [Dishes, Chinese]
-tags: [Dishes] 
+categories: [食譜, 中餐]
+tags: [食譜] 
 excerpt: "麻婆豆腐是一道經典的川菜，源於四川成都，因為其麻辣鮮香的獨特口味而廣受喜愛"
 ---
 

@@ -1,8 +1,8 @@
 ---
 title:  美國肋眼牛排（Ribeye Steak）教學課程
 date: 2023-03-13 19:00:00 +0800
-categories: [Dishes, Western]
-tags: [Dishes] 
+categories: [食譜, 西餐]
+tags: [食譜] 
 excerpt: "教你如何在家中烹製出完美的肋眼牛排，享受餐廳級的美味體驗"
 ---
 

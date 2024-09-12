@@ -1,8 +1,8 @@
 ---
 title: 30道經典中餐
 date: 2023-01-01 19:00:00 +0800
-categories: [Dishes, Chinese]
-tags: [Dishes] 
+categories: [食譜, 中餐]
+tags: [食譜] 
 excerpt: "30 道經典中餐教學課程"
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: 宮保雞丁教學
 date: 2023-01-02 19:00:00 +0800
-categories: [Dishes, Chinese]
-tags: [Dishes] 
+categories: [食譜, 中餐]
+tags: [食譜] 
 excerpt: "據說宮保雞丁是為紀念清朝四川總督丁寶桢而得名，因此也被稱為「丁公雞丁」"
 ---
 

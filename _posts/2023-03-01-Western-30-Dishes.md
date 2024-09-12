@@ -1,8 +1,8 @@
 ---
 title: 30道經典西餐
 date: 2023-03-01 19:00:00 +0800
-categories: [Dishes, Western]
-tags: [Dishes] 
+categories: [食譜, 西餐]
+tags: [食譜] 
 excerpt: "介紹各種經典西餐的做法，包含開胃菜、主菜—肉類、主菜—海鮮、甜點與飲品"
 ---
 

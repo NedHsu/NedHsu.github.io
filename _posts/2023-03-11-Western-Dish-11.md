@@ -1,8 +1,8 @@
 ---
 title:  西班牙海鮮飯（Paella）教學課程
 date: 2023-03-11 19:00:00 +0800
-categories: [Dishes, Western]
-tags: [Dishes] 
+categories: [食譜, 西餐]
+tags: [食譜] 
 excerpt: "西班牙海鮮飯（Paella）是西班牙的經典料理，源自於瓦倫西亞地區，融合了米飯、海鮮、蔬菜與香料的美味"
 ---
 
