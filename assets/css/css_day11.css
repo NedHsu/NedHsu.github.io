@@ -1,0 +1,50 @@
+.bg {
+  height: 100px;
+  background-color: #aaa;
+}
+
+.container2-1 {
+  display: flex;
+  flex-direction: row; /* 項目在水平方向排列 */
+}
+
+.container2-2 {
+  display: flex;
+  justify-content: center; /* 項目在主軸上居中對齊 */
+}
+
+.container2-3 {
+  display: flex;
+  align-items: center; /* 項目在交叉軸上居中對齊 */
+}
+
+.container2-4 {
+  display: flex;
+  flex-wrap: wrap; /* 允許內容換行 */
+  align-content: space-between; /* 行與行之間均勻分佈 */
+}
+
+.container2-5 {
+  display: flex;
+  flex-wrap: wrap; /* 項目超過容器寬度時換行 */
+}
+
+.flex-container {
+  display: flex; /* 設定為彈性容器 */
+  justify-content: space-between; /* 主軸上均勻分佈 */
+  align-items: center; /* 交叉軸上居中對齊 */
+  height: 100px;
+}
+
+.item {
+  flex: 1; /* 每個項目均勻分配空間 */
+  padding: 10px;
+  background-color: #ddd;
+  border: 1px solid #ccc;
+}
+
+.item2 {
+  padding: 10px;
+  background-color: #ddd;
+  border: 1px solid #ccc;
+}

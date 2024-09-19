@@ -1,0 +1,30 @@
+.grid-container {
+  display: grid; /* 定義為網格容器 */
+  grid-template-columns: 1fr 3fr; /* 兩列，第一列占 1 比例單位，第二列占 3 比例單位 */
+  grid-template-rows: auto 1fr auto; /* 三行，高度自適應 */
+  grid-template-areas:
+      "header header"
+      "sidebar main"
+      "footer footer";
+  gap: 10px; /* 行和列之間的間距 */
+}
+
+.header {
+  grid-area: header;
+  background-color: #f8f9fa;
+}
+
+.sidebar {
+  grid-area: sidebar;
+  background-color: #e9ecef;
+}
+
+.main {
+  grid-area: main;
+  background-color: #dee2e6;
+}
+
+.footer {
+  grid-area: footer;
+  background-color: #f1f3f5;
+}
