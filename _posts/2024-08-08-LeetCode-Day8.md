@@ -3,14 +3,7 @@ title: LeetCode - Day 6
 date: 2024-08-08 19:00:00 +0800
 categories: [Software, LeetCode]
 tags: [LeetCode] 
-excerpt: "
-字母異位詞分組 (Group Anagrams)、
-乘積除自身數組 (Product of Array Except Self)、
-三數之和 (3Sum)、
-找不同 (Find the Difference)、
-反轉二叉樹 (Invert Binary Tree)、
-求根到葉子節點數字之和 (Sum Root to Leaf Numbers)
-"
+excerpt: "字母異位詞分組 (Group Anagrams)、乘積除自身數組 (Product of Array Except Self)、三數之和 (3Sum)、找不同 (Find the Difference)、反轉二叉樹 (Invert Binary Tree)、求根到葉子節點數字之和 (Sum Root to Leaf Numbers)"
 ---
 
 ## 28. **字母異位詞分組 (Group Anagrams)**

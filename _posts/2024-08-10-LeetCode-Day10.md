@@ -3,14 +3,7 @@ title: LeetCode - Day 8
 date: 2024-08-10 19:00:00 +0800
 categories: [Software, LeetCode]
 tags: [LeetCode] 
-excerpt: "
-字母異位詞分組 (Group Anagrams)、
-最長回文子串 (Longest Palindromic Substring)、
-兩數相加 (Add Two Numbers)、
-搜索旋轉排序數組 (Search in Rotated Sorted Array)、
-子集 (Subsets)、
-合併區間 (Merge Intervals)
-"
+excerpt: "字母異位詞分組 (Group Anagrams)、最長回文子串 (Longest Palindromic Substring)、兩數相加 (Add Two Numbers)、搜索旋轉排序數組 (Search in Rotated Sorted Array)、子集 (Subsets)、合併區間 (Merge Intervals)"
 ---
 
 ## 40. **字母異位詞分組 (Group Anagrams)**

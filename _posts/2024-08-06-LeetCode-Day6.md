@@ -3,13 +3,7 @@ title: LeetCode - Day 4
 date: 2024-08-06 19:00:00 +0800
 categories: [Software, LeetCode]
 tags: [LeetCode] 
-excerpt: "
-K 個一組翻轉鏈表 (Reverse Nodes in k-Group)、
-最大矩形 (Maximal Rectangle)、
-搜索旋轉排序數組 (Search in Rotated Sorted Array)、
-N 皇后問題 (N-Queens)、
-分隔鏈表 (Split Linked List in Parts)
-"
+excerpt: "K 個一組翻轉鏈表 (Reverse Nodes in k-Group)、最大矩形 (Maximal Rectangle)、搜索旋轉排序數組 (Search in Rotated Sorted Array)、N 皇后問題 (N-Queens)、分隔鏈表 (Split Linked List in Parts)"
 ---
 
 ## 18. **K 個一組翻轉鏈表 (Reverse Nodes in k-Group)**
