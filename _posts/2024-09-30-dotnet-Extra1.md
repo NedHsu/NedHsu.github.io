@@ -262,9 +262,7 @@ API Gateway 是微服務架構中的重要組件，它提供一個統一的入�
 
 3. 啟用 Ocelot：
    ```csharp
-   public void Configure(IApplicationBuilder
-
- app)
+   public void Configure(IApplicationBuilder app)
    {
        app.UseOcelot().Wait();
    }
