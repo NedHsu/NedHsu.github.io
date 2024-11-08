@@ -49,7 +49,7 @@ PostgreSQL 是一個功能強大且開源的關聯式數據庫管理系統 (RDBM
 
 2. **進入 PostgreSQL 命令行介面 (psql)**：
    ```bash
-   psql -U postgres
+   psql -U postgres # psql -U yourUser postgres
    ```
    （這裡 `postgres` 是預設的超級使用者帳戶。）
 
