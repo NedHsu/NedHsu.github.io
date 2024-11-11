@@ -2,7 +2,6 @@
 title: PostgreSQL - 第 7 天 - 更新與刪除數據
 date: 2024-10-07 19:00:00 +0800
 categories: [Software, PostgreSQL]
-tags: [PostgreSQL] 
 excerpt: "`UPDATE` 語句可用於修改已存在的記錄，而 `DELETE` 語句則用於刪除指定的數據。這些操作是資料庫管理中不可或缺的技能，因此掌握如何有效且安全地更新和刪除數據非常重要。"
 ---
 

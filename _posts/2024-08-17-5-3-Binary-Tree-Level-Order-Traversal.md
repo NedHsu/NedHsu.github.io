@@ -2,7 +2,6 @@
 title: LeetCode - Binary Tree Level Order Traversal（二元樹的層次遍歷）
 date: 2024-08-17 21:00:00 +0800
 categories: [Software, LeetCode]
-tags: [LeetCode] 
 excerpt: "給定一個二元樹，返回其節點值的層次遍歷結果（即從上到下，逐層訪問每一層的節點）。"
 ---
 

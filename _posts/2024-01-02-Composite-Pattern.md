@@ -2,7 +2,6 @@
 title: 組合模式 - Composite Pattern
 date: 2024-01-02 19:58:00 +0800
 categories: [Software, Design Pattern]
-tags: [Design Pattern]     
 mermaid: true
 excerpt: "組合模式（Composite Pattern） - 將對象“組合”成樹結構以表示部分-整體層次結構"
 ---

@@ -2,17 +2,17 @@
 title: 第28天：操作 PostgreSQL 資料庫
 date: 2023-08-28 20:00:00 +0800
 categories: [Software, Python]
-tags: [Python] 
-excerpt: "操作 PostgreSQL 資料庫在 Python 中可以通過使用 `psycopg2` 模組進行。這是 Python 中最常用的 PostgreSQL 資料庫接口，支援多種操作，包括查詢、插入、更新、刪除、事務控制等。以下是如何使用 `psycopg2` 操作 PostgreSQL 的詳細介紹。"
+excerpt: "操作 PostgreSQL 資料庫在 Python 中可以通過使用 `psycopg` 模組進行。這是 Python 中最常用的 PostgreSQL 資料庫接口，支援多種操作，包括查詢、插入、更新、刪除、事務控制等。以下是如何使用 `psycopg` 操作 PostgreSQL 的詳細介紹。"
 ---
 
-操作 PostgreSQL 資料庫在 Python 中可以通過使用 `psycopg2` 模組進行。這是 Python 中最常用的 PostgreSQL 資料庫接口，支援多種操作，包括查詢、插入、更新、刪除、事務控制等。以下是如何使用 `psycopg2` 操作 PostgreSQL 的詳細介紹。
+操作 PostgreSQL 資料庫在 Python 中可以通過使用 `psycopg` 模組進行。這是 Python 中最常用的 PostgreSQL 資料庫接口，支援多種操作，包括查詢、插入、更新、刪除、事務控制等。以下是如何使用 `psycopg` 操作 PostgreSQL 的詳細介紹。
 
-## 1. 安裝 `psycopg2`
+## 1. 安裝 `psycopg`
 
-首先安裝 `psycopg2` 模組：
+首先安裝 `psycopg` 模組：
 ```bash
-pip install psycopg2
+pip install --upgrade pip               # upgrade pip to at least 20.3
+pip install "psycopg[binary,pool]"      # install binary dependencies
 ```
 
 ## 2. 連接到 PostgreSQL 資料庫
@@ -20,18 +20,17 @@ pip install psycopg2
 在連接資料庫時，需要提供一些基本資訊，如資料庫名稱、用戶名、密碼等。
 
 ```python
-import psycopg2
+import psycopg
 
-# 連接到 PostgreSQL
-conn = psycopg2.connect(
-    host="localhost",
-    database="your_database",
-    user="your_username",
-    password="your_password"
-)
-
-# 建立一個 cursor 物件，操作 SQL 語句
-cursor = conn.cursor()
+# 使用上下文管理器連接到 PostgreSQL
+with psycopg.connect(
+    "dbname=dbname user=user password=password"
+) as conn:
+    with conn.cursor() as cursor:
+        # 在此處執行操作
+        result = cursor.execute("select 'Hello world!'")
+        print(result.fetchall())
+        pass
 ```
 
 ---
@@ -150,10 +149,10 @@ conn.close()
 以下是一個完整的程式範例，演示如何連接 PostgreSQL 資料庫，並進行建立、插入、查詢、更新和刪除等操作：
 
 ```python
-import psycopg2
+import psycopg
 
 # 連接資料庫
-conn = psycopg2.connect(
+conn = psycopg.connect(
     host="localhost",
     database="your_database",
     user="your_username",

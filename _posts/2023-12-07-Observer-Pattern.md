@@ -2,7 +2,6 @@
 title: 觀察者模式 - Observer Pattern
 date: 2023-12-07 19:58:00 +0800
 categories: [Software, Design Pattern]
-tags: [Design Pattern] 
 mermaid: true
 excerpt: "觀察者模式（Observer Pattern） - 管理相依的觀察者，在被觀察對象發生變動發出通知"
 ---

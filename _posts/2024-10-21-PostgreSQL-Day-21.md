@@ -2,7 +2,6 @@
 title: PostgreSQL - 第 21 天 - 存儲過程與函數 (Stored Procedures and Functions)
 date: 2024-10-21 19:00:00 +0800
 categories: [Software, PostgreSQL]
-tags: [PostgreSQL] 
 excerpt: "存儲過程和函數可以將一組操作封裝在一起，使其成為獨立的執行單位，這樣不僅能減少重複代碼，還能提高數據庫操作的效率和安全性。存儲過程和函數適合用於實現較複雜的業務邏輯、數據檢查以及自動化處理。"
 ---
 

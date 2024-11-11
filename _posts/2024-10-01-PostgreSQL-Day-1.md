@@ -2,7 +2,6 @@
 title: PostgreSQL - 第 1 天 - 什麼是 PostgreSQL？
 date: 2024-10-01 20:00:00 +0800
 categories: [Software, PostgreSQL]
-tags: [PostgreSQL] 
 excerpt: "PostgreSQL 是一個功能強大且開源的關聯式數據庫管理系統 (RDBMS)，以高穩定性和靈活性著稱，廣泛應用於網站、應用程式和企業級數據庫的後端系統。它支援 SQL 標準的同時，還提供了許多先進功能，例如複雜查詢、事務管理、資料複寫和擴展能力。"
 ---
 

@@ -2,7 +2,6 @@
 title: LeetCode - Reverse Linked List（反轉鏈表）
 date: 2024-08-16 19:00:00 +0800
 categories: [Software, LeetCode]
-tags: [LeetCode] 
 excerpt: "給定一個單向鏈表，將鏈表進行反轉並返回反轉後的鏈表頭結點。"
 ---
 

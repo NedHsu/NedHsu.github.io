@@ -2,7 +2,6 @@
 title: PostgreSQL - 第 19 天 - 日期與時間處理
 date: 2024-10-19 19:00:00 +0800
 categories: [Software, PostgreSQL]
-tags: [PostgreSQL] 
 excerpt: "日期與時間是許多數據庫應用中不可或缺的部分，例如記錄交易時間、計算時間差等。PostgreSQL 支援多種日期與時間資料類型和強大的函數，幫助我們靈活地操作時間數據。"
 ---
 

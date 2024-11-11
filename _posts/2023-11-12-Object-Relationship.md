@@ -2,7 +2,6 @@
 title: 物件之間的關係 - Relationship between Objects
 date: 2023-11-11 10:10:00 +0800
 categories: [Software, Design Pattern]
-tags: [Design Pattern, OOP] 
 mermaid: true
 excerpt: "物件導向程式設計中描述類別之間關係的術語，以C#實際例子解釋"
 ---

@@ -2,7 +2,6 @@
 title: LeetCode - Day 7
 date: 2024-08-09 19:00:00 +0800
 categories: [Software, LeetCode]
-tags: [LeetCode] 
 excerpt: "二叉樹的最大深度 (Maximum Depth of Binary Tree)、爬樓梯 (Climbing Stairs)、合併兩個有序數組 (Merge Sorted Array)、有效的括號 (Valid Parentheses)、買賣股票的最佳時機 (Best Time to Buy and Sell Stock)、最小的 K 個數 (Kth Largest Element in an Array)"
 ---
 

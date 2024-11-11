@@ -2,7 +2,6 @@
 title: 單例模式 - Singleton Pattern
 date: 2023-11-13 11:43:00 +0800
 categories: [Software, Design Pattern]
-tags: [Design Pattern] 
 mermaid: true
 excerpt: "單例模式(Singleton Pattern)-用於確保一個類別只能創建一個實例，並提供一個全域的訪問點來獲取這個唯一的實例"
 ---

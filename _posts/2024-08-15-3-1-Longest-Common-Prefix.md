@@ -2,7 +2,6 @@
 title: LeetCode - Longest Common Prefix（最長公共前綴）
 date: 2024-08-15 19:00:00 +0800
 categories: [Software, LeetCode]
-tags: [LeetCode] 
 excerpt: "給定一個字符串數組 `strs`，找出所有字符串的 **最長公共前綴**。如果不存在公共前綴，則返回空字符串"
 ---
 

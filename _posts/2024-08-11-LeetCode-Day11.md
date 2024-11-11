@@ -2,7 +2,6 @@
 title: LeetCode - Day 9
 date: 2024-08-11 19:00:00 +0800
 categories: [Software, LeetCode]
-tags: [LeetCode] 
 excerpt: "合併兩個有序鏈表 (Merge Two Sorted Lists)、從排序數組中刪除重複項 (Remove Duplicates from Sorted Array)、搜索插入位置 (Search Insert Position)、買賣股票的最佳時機 (Best Time to Buy and Sell Stock)、最小窗口子字符串 (Minimum Window Substring)"
 ---
 

@@ -2,7 +2,6 @@
 title: 雙重檢查鎖定模式 - Double-Checked Locking Pattern
 date: 2023-11-19 19:58:00 +0800
 categories: [Software, Design Pattern]
-tags: [Design Pattern]     
 mermaid: true
 excerpt: "雙重檢查鎖定模式（Double-Checked Locking Pattern） - 一種軟體設計模式用來減少並發系統中競爭和同步的開銷"
 ---

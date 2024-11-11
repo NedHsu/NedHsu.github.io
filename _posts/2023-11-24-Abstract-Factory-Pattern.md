@@ -2,7 +2,6 @@
 title: 抽象工廠模式 - Abstract Factory Pattern
 date: 2023-11-24 15:00:00 +0800
 categories: [Software, Design Pattern]
-tags: [Design Pattern] 
 mermaid: true
 excerpt: "抽象工廠模式（Abstract Factory Pattern） - 使客戶端程式碼與具體產品的實現解耦，提高程式碼的可擴展性和可維護性"
 ---

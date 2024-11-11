@@ -2,7 +2,6 @@
 title: PostgreSQL - 第 23 天 - 視圖管理與物化視圖
 date: 2024-10-23 19:00:00 +0800
 categories: [Software, PostgreSQL]
-tags: [PostgreSQL] 
 excerpt: "視圖(View)和物化視圖(Materialized View)都是將查詢結果儲存在數據庫中的方法，讓我們能夠更方便地處理複雜查詢。視圖能夠節省查詢代碼，提高代碼可讀性，而物化視圖則能加快查詢速度，特別適合大型數據量的操作。"
 ---
 

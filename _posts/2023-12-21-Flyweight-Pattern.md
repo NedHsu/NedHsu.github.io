@@ -2,7 +2,6 @@
 title: 享元模式 - Flyweight Pattern
 date: 2023-12-21 19:58:00 +0800
 categories: [Software, Design Pattern]
-tags: [Design Pattern] 
 mermaid: true
 excerpt: "享元模式（Flyweight Pattern） - 節省記憶體和資源，並提高的效能"
 ---

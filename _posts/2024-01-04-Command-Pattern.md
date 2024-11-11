@@ -2,7 +2,6 @@
 title: 命令模式 - Command Pattern
 date: 2024-01-04 19:58:00 +0800
 categories: [Software, Design Pattern]
-tags: [Design Pattern]     
 mermaid: true
 excerpt: "命令模式（Command Pattern） - 將請求封裝成一個對象，從而使您可以用不同的請求對客戶進行參數化"
 ---

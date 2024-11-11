@@ -2,7 +2,6 @@
 title: PostgreSQL 教學課程綱要
 date: 2024-10-01 19:00:00 +0800
 categories: [Software, dotnet]
-tags: [dotnet] 
 excerpt: "以下是 30 天的 PostgreSQL 教學課程大綱，針對每一天的學習內容，會涵蓋從基本到進階的 PostgreSQL 使用技巧"
 ---
 

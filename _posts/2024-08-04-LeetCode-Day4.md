@@ -2,7 +2,6 @@
 title: LeetCode - Day 2
 date: 2024-08-04 19:00:00 +0800
 categories: [Software, LeetCode]
-tags: [LeetCode] 
 excerpt: "合併兩個有序鏈表 (Merge Two Sorted Lists)、買賣股票的最佳時機 (Best Time to Buy and Sell Stock)、羅馬數字轉整數 (Roman to Integer)、移動零 (Move Zeroes)、有效的括號 (Valid Parentheses)、跳躍遊戲 (Jump Game)"
 ---
 

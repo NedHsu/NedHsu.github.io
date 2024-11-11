@@ -2,7 +2,6 @@
 title: 建造者模式 - Builder Pattern
 date: 2023-11-14 09:58:00 +0800
 categories: [Software, Design Pattern]
-tags: [Design Pattern] 
 mermaid: true
 excerpt: "建造者模式（Builder Pattern） - 將複雜對象的建造過程抽象出來（抽象類別），使這個抽象過程的不同實現方法可以構造出不同表現（屬性）的對象。"
 ---

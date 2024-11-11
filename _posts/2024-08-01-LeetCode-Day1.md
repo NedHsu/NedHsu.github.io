@@ -2,7 +2,6 @@
 title: LeetCode 是什麼?
 date: 2024-08-01 19:00:00 +0800
 categories: [Software, LeetCode]
-tags: [LeetCode] 
 excerpt: "LeetCode 是一個受歡迎的在線平台，專門提供程式設計面試題目和算法練習"
 ---
 

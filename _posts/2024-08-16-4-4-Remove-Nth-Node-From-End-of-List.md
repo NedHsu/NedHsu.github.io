@@ -2,7 +2,6 @@
 title: LeetCode - Remove Nth Node From End of List（移除鏈表倒數第 N 個節點）
 date: 2024-08-16 22:00:00 +0800
 categories: [Software, LeetCode]
-tags: [LeetCode] 
 excerpt: "給定一個單向鏈表，刪除鏈表的倒數第 `n` 個節點，並返回鏈表的頭節點。"
 ---
 

@@ -2,7 +2,6 @@
 title: LeetCode - Number of Islands（島嶼的數量）
 date: 2024-08-22 19:00:00 +0800
 categories: [Software, LeetCode]
-tags: [LeetCode] 
 excerpt: "給定一個 `m x n` 的二維二進制網格 `grid`，其中 `1` 表示陸地，`0` 表示水。島嶼由相鄰的陸地單元格（水平或垂直相連）組成。求出網格中**島嶼的數量**"
 ---
 

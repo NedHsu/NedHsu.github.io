@@ -2,7 +2,6 @@
 title: LeetCode - Valid Sudoku（判斷有效的數獨）
 date: 2024-08-13 22:00:00 +0800
 categories: [Software, LeetCode]
-tags: [LeetCode] 
 excerpt: "給定一個 `9 x 9` 的數獨板 `board`，判斷該數獨是否有效。數獨僅需要滿足以下條件"
 ---
 

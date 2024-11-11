@@ -2,7 +2,6 @@
 title: LeetCode - Day 1
 date: 2024-08-03 19:00:00 +0800
 categories: [Software, LeetCode]
-tags: [LeetCode] 
 excerpt: "兩數之和 (Two Sum)、反轉鏈表 (Reverse Linked List)、全排列 (Permutations)、最大子序和 (Maximum Subarray)、二叉樹的最大深度 (Maximum Depth of Binary Tree)"
 ---
 

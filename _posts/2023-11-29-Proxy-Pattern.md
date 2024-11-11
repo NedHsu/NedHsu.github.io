@@ -2,7 +2,6 @@
 title: 代理模式 - Proxy Pattern
 date: 2023-11-29 19:58:00 +0800
 categories: [Software, Design Pattern]
-tags: [Design Pattern] 
 mermaid: true
 excerpt: "代理模式（Proxy Pattern） - 透過代理控制對要訪問的物件加上一些額外的操作"
 ---

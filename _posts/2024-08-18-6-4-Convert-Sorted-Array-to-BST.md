@@ -2,7 +2,6 @@
 title: LeetCode - Convert Sorted Array to BST（將排序數組轉換為平衡二元搜尋樹）
 date: 2024-08-18 22:00:00 +0800
 categories: [Software, LeetCode]
-tags: [LeetCode] 
 excerpt: "給定一個遞增排序的整數數組，將其轉換為一棵高度平衡的二元搜尋樹（BST）。高度平衡的意思是：每個節點的左右子樹高度差不超過 1。"
 ---
 

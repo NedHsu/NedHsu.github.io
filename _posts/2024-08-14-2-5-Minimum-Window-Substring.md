@@ -2,7 +2,6 @@
 title: LeetCode - Minimum Window Substring（最小覆蓋子串）
 date: 2024-08-14 23:00:00 +0800
 categories: [Software, LeetCode]
-tags: [LeetCode] 
 excerpt: "給定兩個字符串 `s` 和 `t`，在字符串 `s` 中找到包含 `t` 中所有字母的最小子串，並返回該子串。如果不存在符合條件的子串，則返回空字符串。如果 `t` 中的字母在 `s` 中多次出現，則要求匹配數量也必須相同"
 ---
 

@@ -2,7 +2,6 @@
 title: LeetCode - Find Median from Data Stream（從數據流中找到中位數）
 date: 2024-08-19 22:00:00 +0800
 categories: [Software, LeetCode]
-tags: [LeetCode] 
 excerpt: "實現一個 `MedianFinder` 類，用於從數據流中找到中位數。支持以下兩種操作：`void addNum(int num)`：從數據流中加入一個整數 `num`。`double findMedian()`：返回當前所有元素的中位數。"
 ---
 

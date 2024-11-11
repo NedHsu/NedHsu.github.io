@@ -2,7 +2,6 @@
 title: PostgreSQL - 第 2 天 - 基本數據類型
 date: 2024-10-02 19:00:00 +0800
 categories: [Software, PostgreSQL]
-tags: [PostgreSQL] 
 excerpt: "數據類型在資料庫設計中至關重要，因為它定義了資料的儲存方式和使用方法。PostgreSQL 支援多種數據類型，從基本的數字、文字到進階的 JSON 和地理空間數據類型。我們將介紹一些最常用的數據類型，並解釋如何在建立資料表時選擇適合的數據類型。"
 ---
 

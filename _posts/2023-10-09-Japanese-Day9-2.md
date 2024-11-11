@@ -2,7 +2,6 @@
 title: 學習禮貌用語（ありがとうございます。）
 date: 2023-10-09 20:00:00 +0800
 categories: [Language, Japanese]
-tags: [Japanese] 
 excerpt: "學習禮貌用語對於增進日常交流和展現良好禮儀非常重要。"
 ---
 

@@ -2,7 +2,6 @@
 title: LeetCode - Partition Labels（分隔字母區間）
 date: 2024-08-23 23:30:00 +0800
 categories: [Software, LeetCode]
-tags: [LeetCode] 
 excerpt: "給定一個字符串 `s`，請將字符串劃分成若干個片段，使得每個字母只出現在其中的一個片段中。返回一個列表，表示每個片段的長度"
 ---
 

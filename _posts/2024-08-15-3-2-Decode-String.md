@@ -2,7 +2,6 @@
 title: LeetCode - Decode String（解碼字符串）
 date: 2024-08-15 20:00:00 +0800
 categories: [Software, LeetCode]
-tags: [LeetCode] 
 excerpt: "給定一個編碼字符串 `s`，按下述規則解碼它: 1. 數字後面緊跟著的方括號表示字符串的重複次數 2. 嵌套情況下也需要處理"
 ---
 

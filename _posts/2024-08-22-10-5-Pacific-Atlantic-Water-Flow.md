@@ -2,7 +2,6 @@
 title: LeetCode - Pacific Atlantic Water Flow（太平洋和大西洋水流）
 date: 2024-08-22 23:00:00 +0800
 categories: [Software, LeetCode]
-tags: [LeetCode] 
 excerpt: "給定一個 `m x n` 的矩陣 `heights`，其中 `heights[r][c]` 表示地形在位置 `(r, c)` 的高度。矩陣的左邊界和上邊界與太平洋相鄰，右邊界和下邊界與大西洋相鄰。水可以從高地流向低地或等高的相鄰格子。找出所有可以流向**太平洋和大西洋**的坐標點"
 ---
 

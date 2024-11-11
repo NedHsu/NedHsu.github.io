@@ -2,7 +2,6 @@
 title: LeetCode - Kth Smallest Element in a BST（二元搜尋樹中的第 K 小元素）
 date: 2024-08-18 20:00:00 +0800
 categories: [Software, LeetCode]
-tags: [LeetCode] 
 excerpt: "給定一棵二元搜尋樹（BST）和一個整數 `k`，找出該樹中的第 `k` 小的元素。"
 ---
 

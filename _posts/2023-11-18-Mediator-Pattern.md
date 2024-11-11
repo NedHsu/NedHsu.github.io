@@ -2,7 +2,6 @@
 title: 中介者模式 - Mediator Pattern
 date: 2023-11-18 19:58:00 +0800
 categories: [Software, Design Pattern]
-tags: [Design Pattern]     
 mermaid: true
 excerpt: "中介者模式（Mediator Pattern） - 定義了一個中介者對象，該對象封裝了系統中對象間的交互方式"
 ---

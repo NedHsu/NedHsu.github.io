@@ -2,7 +2,6 @@
 title: LeetCode - 字母異位詞分組 (Group Anagrams)
 date: 2024-08-13 23:30:00 +0800
 categories: [Software, LeetCode]
-tags: [LeetCode] 
 excerpt: "給定一個字符串數組，將異位詞分組。異位詞是指包含相同字母但順序不同的字符串"
 ---
 

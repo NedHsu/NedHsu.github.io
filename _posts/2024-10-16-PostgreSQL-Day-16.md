@@ -2,7 +2,6 @@
 title: PostgreSQL - 第 16 天 - 高級索引
 date: 2024-10-16 19:00:00 +0800
 categories: [Software, PostgreSQL]
-tags: [PostgreSQL] 
 excerpt: "高級索引能進一步提高數據庫查詢效率，特別是在大型數據集上。今天我們將介紹不同的索引類型，包括 B-tree 索引、Hash 索引、GIN 索引和 GiST 索引等，以及如何選擇和使用合適的索引以最佳化查詢。"
 ---
 

@@ -2,7 +2,6 @@
 title: LeetCode - House Robber（偷竊）
 date: 2024-08-21 21:00:00 +0800
 categories: [Software, LeetCode]
-tags: [LeetCode] 
 excerpt: "你是一名小偷，計劃打劫一排相鄰的房子。每棟房子內都有一筆金錢，但相鄰的房子有保全系統，若你同時打劫相鄰的房子，會觸發警報。給定一個整數數組 `nums`，代表每棟房子內的金額，請你計算出你能夠打劫到的最大金額。"
 ---
 
