@@ -2,6 +2,7 @@
 title: PostgreSQL - 第 13 天 - 視圖 (VIEW)
 date: 2024-10-13 19:00:00 +0800
 categories: [Software, PostgreSQL]
+tags: [PostgreSQL] 
 excerpt: "視圖是根據 SQL 查詢結果創建的虛擬表，它並不儲存實際的數據，而是儲存查詢結果的結構。視圖能夠簡化查詢、提升安全性，以及提高數據管理的靈活性。"
 ---
 

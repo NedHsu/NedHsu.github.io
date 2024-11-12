@@ -2,6 +2,7 @@
 title: .Net 進階設定與技巧
 date: 2024-09-30 20:00:00 +0800
 categories: [Software, dotnet]
+tags: [dotnet] 
 excerpt: ".Net 高級配置檔案管理、使用 Dependency Injection (DI) 實現靈活的架構、採用分層架構、AutoMapper、高效能的資料庫操作與查詢優化、使用 SignalR 實現即時通訊功能、微服務架構"
 ---
 

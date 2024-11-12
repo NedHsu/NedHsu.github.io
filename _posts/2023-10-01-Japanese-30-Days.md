@@ -2,6 +2,7 @@
 title: 日語30天教學課程
 date: 2023-10-01 19:00:00 +0800
 categories: [Language, Japanese]
+tags: [Japanese] 
 excerpt: "幫助學習者在一個月內打下基礎，涵蓋基礎詞彙、文法和簡單的會話技巧。"
 ---
 

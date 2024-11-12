@@ -2,6 +2,7 @@
 title: LeetCode - Search a 2D Matrix（搜索 2D 矩陣）
 date: 2024-08-20 20:00:00 +0800
 categories: [Software, LeetCode]
+tags: [LeetCode] 
 excerpt: "給定一個 `m x n` 的矩陣 `matrix` 和一個整數 `target`，在矩陣中搜索該目標值。該矩陣有以下特性：1. 每行中的整數從左到右排序。2. 每行的第一個整數大於前一行的最後一個整數。要求實現時間複雜度為 O(log(m * n)) 的算法。"
 ---
 

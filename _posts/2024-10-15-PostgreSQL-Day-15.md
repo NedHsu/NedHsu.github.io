@@ -2,6 +2,7 @@
 title: PostgreSQL - 第 15 天 - 基本約束條件
 date: 2024-10-15 19:00:00 +0800
 categories: [Software, PostgreSQL]
+tags: [PostgreSQL] 
 excerpt: "約束條件（Constraints）是一組規則，用來限制表中的數據，以確保數據的完整性和正確性。通過設置約束條件，我們可以控制數據的有效性，避免無效或錯誤數據的插入。"
 ---
 

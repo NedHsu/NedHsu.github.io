@@ -2,6 +2,7 @@
 title: PostgreSQL - 第 5 天 - 查詢數據 (SELECT)
 date: 2024-10-05 19:00:00 +0800
 categories: [Software, PostgreSQL]
+tags: [PostgreSQL] 
 excerpt: "查詢操作是資料庫操作中最常見的需求之一，`SELECT` 語句讓我們可以檢索並顯示指定的數據。本課程將介紹基本查詢語法以及一些常見的查詢技巧。"
 ---
 

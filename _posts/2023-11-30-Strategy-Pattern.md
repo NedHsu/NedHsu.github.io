@@ -2,6 +2,7 @@
 title: 策略模式 - Strategy Pattern
 date: 2023-11-30 19:58:00 +0800
 categories: [Software, Design Pattern]
+tags: [Design Pattern] 
 mermaid: true
 excerpt: "策略模式（Strategy Pattern） - 在演算法中替換一系列可能變動的部分"
 ---

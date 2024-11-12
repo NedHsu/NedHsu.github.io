@@ -2,6 +2,7 @@
 title: LeetCode - Search in Rotated Sorted Array（在旋轉排序陣列中搜尋）
 date: 2024-08-20 22:00:00 +0800
 categories: [Software, LeetCode]
+tags: [LeetCode] 
 excerpt: "給定一個已按升序排列的整數數組 `nums`，它被旋轉過一次或多次。給定一個目標值 `target`，如果目標值存在於數組中，則返回其索引；否則返回 `-1`。你可以假定數組中的所有值是唯一的。"
 ---
 

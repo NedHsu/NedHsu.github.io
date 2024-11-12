@@ -2,6 +2,7 @@
 title: PostgreSQL - 第 14 天 - 交易管理 (TRANSACTION)
 date: 2024-10-14 19:00:00 +0800
 categories: [Software, PostgreSQL]
+tags: [PostgreSQL] 
 excerpt: "交易是一組 SQL 操作的集合，這些操作要么全部成功，要么全部失敗，以確保數據庫的一致性。交易特別重要，因為它可以避免數據在操作過程中的不完整或不一致狀況。"
 ---
 

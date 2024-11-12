@@ -2,6 +2,7 @@
 title: LeetCode - Lowest Common Ancestor of a BST（二元搜尋樹的最低公共祖先）
 date: 2024-08-18 21:00:00 +0800
 categories: [Software, LeetCode]
+tags: [LeetCode] 
 excerpt: "給定一個二元搜尋樹（BST）的根節點以及兩個節點 `p` 和 `q`，找到它們的最低公共祖先（LCA）。"
 ---
 

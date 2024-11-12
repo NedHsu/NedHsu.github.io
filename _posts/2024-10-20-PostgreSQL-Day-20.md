@@ -2,6 +2,7 @@
 title: PostgreSQL - 第 20 天 - CASE 與條件邏輯
 date: 2024-10-20 19:00:00 +0800
 categories: [Software, PostgreSQL]
+tags: [PostgreSQL] 
 excerpt: "CASE` 表達式可以根據條件返回不同的結果，是資料查詢中常用的條件控制工具。透過 `CASE`，可以實現條件篩選、分類、轉換等操作，使查詢結果更靈活且符合業務需求。"
 ---
 

@@ -2,6 +2,7 @@
 title: PostgreSQL - 第 8 天 - 排序與限制結果 (ORDER BY, LIMIT)
 date: 2024-10-08 19:00:00 +0800
 categories: [Software, PostgreSQL]
+tags: [PostgreSQL] 
 excerpt: "今天我們將學習如何使用 `ORDER BY` 和 `LIMIT` 子句來排序和限制 PostgreSQL 查詢的結果。這些功能能幫助我們根據需求精確地控制查詢結果的顯示順序以及結果集的大小，對於大數據量查詢尤為重要。"
 ---
 

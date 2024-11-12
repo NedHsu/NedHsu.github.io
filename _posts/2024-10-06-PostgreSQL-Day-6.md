@@ -2,6 +2,7 @@
 title: PostgreSQL - 第 6 天 - 條件查詢 (WHERE)
 date: 2024-10-06 19:00:00 +0800
 categories: [Software, PostgreSQL]
+tags: [PostgreSQL] 
 excerpt: "`WHERE` 子句使我們可以根據特定條件來過濾查詢結果，從而精確地檢索所需數據。本課程將介紹 `WHERE` 的常見運算符和應用技巧，包括邏輯操作、模式匹配和範圍查詢。"
 ---
 

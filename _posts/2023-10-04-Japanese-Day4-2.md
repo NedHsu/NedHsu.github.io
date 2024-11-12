@@ -2,6 +2,7 @@
 title: 簡單形容詞（大きい、小さい、新しい、古い）
 date: 2023-10-04 20:00:00 +0800
 categories: [Language, Japanese]
+tags: [Japanese] 
 excerpt: "學習日語中的簡單形容詞可以幫助你描述事物的特徵和狀態。"
 ---
 

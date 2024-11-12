@@ -2,6 +2,7 @@
 title: LeetCode - Invert Binary Tree（二元樹翻轉）
 date: 2024-08-17 20:00:00 +0800
 categories: [Software, LeetCode]
+tags: [LeetCode] 
 excerpt: "給定一個二元樹，翻轉該樹，即將每個節點的左右子樹交換。返回翻轉後的樹的根節點。"
 ---
 

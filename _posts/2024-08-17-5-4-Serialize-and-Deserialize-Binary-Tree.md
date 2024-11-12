@@ -2,6 +2,7 @@
 title: LeetCode - Serialize and Deserialize Binary Tree（二元樹的序列化與反序列化）
 date: 2024-08-17 22:00:00 +0800
 categories: [Software, LeetCode]
+tags: [LeetCode] 
 excerpt: "設計一種算法來將二元樹轉換為字符串（序列化）並將字符串轉換回二元樹（反序列化）。"
 ---
 

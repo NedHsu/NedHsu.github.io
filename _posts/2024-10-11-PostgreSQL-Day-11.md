@@ -2,6 +2,7 @@
 title: PostgreSQL - 第 11 天 - 子查詢
 date: 2024-10-11 19:00:00 +0800
 categories: [Software, PostgreSQL]
+tags: [PostgreSQL] 
 excerpt: "子查詢是一種在查詢語句中嵌套其他查詢的方式，可以讓我們進行更複雜的數據查詢。子查詢的結果通常用於限定主查詢的條件或返回計算結果。子查詢通常可以分為標量子查詢、行子查詢和列子查詢等類型。"
 ---
 

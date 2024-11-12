@@ -2,6 +2,7 @@
 title: LeetCode - Implement strStr()（實現字符串查找）
 date: 2024-08-15 23:00:00 +0800
 categories: [Software, LeetCode]
+tags: [LeetCode] 
 excerpt: "給定兩個字符串 `haystack` 和 `needle`，在 `haystack` 中找到 `needle` 出現的第一個位置（從 0 開始），如果 `needle` 不是 `haystack` 的一部分，則返回 `-1`。"
 ---
 

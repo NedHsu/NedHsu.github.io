@@ -2,6 +2,7 @@
 title: PostgreSQL - 第 17 天 - JSON 資料類型
 date: 2024-10-17 19:00:00 +0800
 categories: [Software, PostgreSQL]
+tags: [PostgreSQL] 
 excerpt: "JSON（JavaScript Object Notation）是一種輕量級的數據交換格式，適合儲存結構化的非結構化數據。在 PostgreSQL 中，JSON 和 JSONB（Binary JSON）資料類型提供了強大的功能來儲存和查詢 JSON 資料。今天我們將探討 JSON 與 JSONB 的差異、基本操作和查詢方式。"
 ---
 

@@ -2,6 +2,7 @@
 title: PostgreSQL - 第 3 天 - 基本資料表操作
 date: 2024-10-03 19:00:00 +0800
 categories: [Software, PostgreSQL]
+tags: [PostgreSQL] 
 excerpt: "今天我們將學習如何在 PostgreSQL 中進行基本的資料表操作，包括創建、修改、刪除資料表等。資料表是數據庫的核心結構，用於儲存和管理數據。掌握資料表的基本操作對於後續資料庫操作非常重要。"
 ---
 

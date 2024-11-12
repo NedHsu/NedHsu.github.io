@@ -2,6 +2,7 @@
 title: LeetCode - Longest Increasing Subsequence（最長遞增子序列）
 date: 2024-08-21 22:00:00 +0800
 categories: [Software, LeetCode]
+tags: [LeetCode] 
 excerpt: "給定一個整數數組 `nums`，請你找出其中的最長遞增子序列的長度。"
 ---
 

@@ -2,6 +2,7 @@
 title: LeetCode - Merge Two Sorted Lists（合併兩個排序鏈表）
 date: 2024-08-16 20:00:00 +0800
 categories: [Software, LeetCode]
+tags: [LeetCode] 
 excerpt: "給定兩個**已排序**的單向鏈表 `list1` 和 `list2`，將它們合併成一個新的**排序**鏈表並返回。新的鏈表應該由兩個鏈表的所有節點組成。"
 ---
 

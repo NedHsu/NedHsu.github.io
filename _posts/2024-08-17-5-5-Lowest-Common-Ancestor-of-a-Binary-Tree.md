@@ -2,6 +2,7 @@
 title: LeetCode - Lowest Common Ancestor of a Binary Tree（二元樹的最低公共祖先）
 date: 2024-08-17 23:00:00 +0800
 categories: [Software, LeetCode]
+tags: [LeetCode] 
 excerpt: "給定一個二元樹的根節點和兩個節點 `p` 和 `q`，找到這兩個節點的最低公共祖先（LCA）。在一棵二元樹中，節點 `p` 和 `q` 的最低公共祖先是距離 `p` 和 `q` 最近的節點，且這個節點是 `p` 和 `q` 的祖先。節點可以是它自己的祖先。"
 ---
 

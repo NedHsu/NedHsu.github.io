@@ -2,6 +2,7 @@
 title: 如何準備 LeetCode?
 date: 2024-08-02 19:00:00 +0800
 categories: [Software, LeetCode]
+tags: [LeetCode] 
 excerpt: "準備 LeetCode 的算法題目有一些策略，能幫助你高效提高解題能力，尤其是針對技術面試。以下是一些建議"
 ---
 

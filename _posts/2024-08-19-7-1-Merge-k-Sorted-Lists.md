@@ -2,6 +2,7 @@
 title: LeetCode - Merge k Sorted Lists（合併 k 個排序鏈表）
 date: 2024-08-20 19:00:00 +0800
 categories: [Software, LeetCode]
+tags: [LeetCode] 
 excerpt: "給定 `k` 個排序的鏈表，將它們合併成一個排序鏈表，並返回該排序鏈表的頭節點。"
 ---
 

@@ -2,6 +2,7 @@
 title: LeetCode - Find Minimum in Rotated Sorted Array（尋找旋轉排序陣列中的最小值）
 date: 2024-08-20 21:00:00 +0800
 categories: [Software, LeetCode]
+tags: [LeetCode] 
 excerpt: "給定一個已經按照升序排序但旋轉過的整數數組 `nums`，請找出其中的最小值。假設該數組中的元素不重複。"
 ---
 

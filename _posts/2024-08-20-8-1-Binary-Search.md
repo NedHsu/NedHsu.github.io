@@ -2,6 +2,7 @@
 title: LeetCode - Binary Search（二分查找）
 date: 2024-08-20 19:00:00 +0800
 categories: [Software, LeetCode]
+tags: [LeetCode] 
 excerpt: "給定一個按升序排序的整數數組 `nums` 和一個目標值 `target`，如果目標值存在於數組中，則返回其索引；否則返回 `-1`。請實現時間複雜度為 O(log n) 的算法。"
 ---
 

@@ -2,6 +2,7 @@
 title: LeetCode - Climbing Stairs（爬樓梯）
 date: 2024-08-21 19:00:00 +0800
 categories: [Software, LeetCode]
+tags: [LeetCode] 
 excerpt: "假設你正在爬一個樓梯。需要 `n` 步才能到達樓頂。每次你可以爬 `1` 或 `2` 步。問有多少種不同的方法可以爬到樓頂？"
 ---
 

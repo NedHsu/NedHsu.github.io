@@ -2,6 +2,7 @@
 title: LeetCode - Day 10
 date: 2024-08-12 19:00:00 +0800
 categories: [Software, LeetCode]
+tags: [LeetCode] 
 excerpt: "全排列 (Permutations)、二叉樹的最大深度 (Maximum Depth of Binary Tree)、對稱二叉樹 (Symmetric Tree)、合併K個排序鏈表 (Merge k Sorted Lists)、環形鏈表 (Linked List Cycle)、打家劫舍 (House Robber)"
 ---
 

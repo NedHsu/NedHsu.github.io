@@ -2,6 +2,7 @@
 title: 學習使用助詞「は」和「が」
 date: 2023-10-06 20:00:00 +0800
 categories: [Language, Japanese]
+tags: [Japanese] 
 excerpt: "助詞「は」和「が」是日語中最基礎且常用的助詞，學習它們的使用方法能幫助你更精確地表達自己的意思"
 ---
 

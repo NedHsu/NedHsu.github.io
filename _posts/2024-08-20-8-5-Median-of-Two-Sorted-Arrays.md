@@ -2,6 +2,7 @@
 title: LeetCode - Median of Two Sorted Arrays（兩個排序數組的中位數）
 date: 2024-08-20 23:00:00 +0800
 categories: [Software, LeetCode]
+tags: [LeetCode] 
 excerpt: "給定兩個大小分別為 `m` 和 `n` 的排序數組 `nums1` 和 `nums2`，請找出這兩個排序數組的中位數，並要求算法的時間複雜度為 O(log(min(m, n)))。"
 ---
 

@@ -2,6 +2,7 @@
 title: PostgreSQL - 第 10 天 - 聚合函數 (SUM, AVG, COUNT)
 date: 2024-10-10 19:00:00 +0800
 categories: [Software, PostgreSQL]
+tags: [PostgreSQL] 
 excerpt: "聚合函數是用來對一組數據進行計算並返回單一結果的函數。常見的聚合函數包括 `SUM`、`AVG` 和 `COUNT`，它們通常用於計算數據的總和、平均值以及記錄的數量。這些函數對於進行數據分析和報表生成非常有用。"
 ---
 

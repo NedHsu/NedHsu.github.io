@@ -2,6 +2,7 @@
 title: LeetCode - Contains Duplicate（判斷數組是否包含重複項）
 date: 2024-08-13 20:00:00 +0800
 categories: [Software, LeetCode]
+tags: [LeetCode] 
 excerpt: "給定一個整數數組 `nums`，判斷數組中是否存在重複元素。如果存在某個值在數組中出現至少兩次，返回 `True`；如果每個元素都不相同，則返回 `False`"
 ---
 

@@ -2,6 +2,7 @@
 title: 簡單工廠模式 - Simple Factory Pattern
 date: 2023-11-15 09:58:00 +0800
 categories: [Software, Design Pattern]
+tags: [Design Pattern] 
 mermaid: true
 excerpt: "簡單工廠模式(Simple Factory Pattern) - 用於封裝物件的創建邏輯"
 ---

@@ -2,6 +2,7 @@
 title: LeetCode - Longest Palindromic Substring（最長回文子串）
 date: 2024-08-15 22:00:00 +0800
 categories: [Software, LeetCode]
+tags: [LeetCode] 
 excerpt: "給定一個字符串 `s`，找到 `s` 中最長的回文子串。回文串是指正讀和反讀相同的字符串。"
 ---
 

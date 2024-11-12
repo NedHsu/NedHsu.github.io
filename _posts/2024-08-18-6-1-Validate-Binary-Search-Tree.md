@@ -2,6 +2,7 @@
 title: LeetCode - Validate Binary Search Tree（驗證二元搜尋樹）
 date: 2024-08-18 19:00:00 +0800
 categories: [Software, LeetCode]
+tags: [LeetCode] 
 excerpt: "給定一個二元樹的根節點，判斷該樹是否為有效的二元搜尋樹（BST）。"
 ---
 

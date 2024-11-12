@@ -2,6 +2,7 @@
 title: 學習簡單的購物對話（いくらですか？、それをください。）
 date: 2023-10-08 19:00:00 +0800
 categories: [Language, Japanese]
+tags: [Japanese] 
 excerpt: "一些簡單的購物對話示例和用語，幫助你在購物時與店員進行基本交流"
 ---
 

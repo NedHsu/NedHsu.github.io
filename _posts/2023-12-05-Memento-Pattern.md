@@ -2,6 +2,7 @@
 title: 備忘錄模式 - Memento Pattern
 date: 2023-12-05 19:58:00 +0800
 categories: [Software, Design Pattern]
+tags: [Design Pattern]     
 mermaid: true
 excerpt: "備忘錄模式（Memento Pattern） - 管理物件狀態的存取"
 ---

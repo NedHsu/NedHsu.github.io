@@ -2,6 +2,7 @@
 title: PostgreSQL - 第 18 天 - 字符串處理
 date: 2024-10-18 19:00:00 +0800
 categories: [Software, PostgreSQL]
+tags: [PostgreSQL] 
 excerpt: "字符串處理是數據庫操作中的常見需求，無論是查詢、格式化還是數據清理。PostgreSQL 提供了豐富的字符串函數，如 `LENGTH`、`SUBSTRING`、`UPPER`、`LOWER` 等，幫助我們靈活地操作和處理文字數據。"
 ---
 

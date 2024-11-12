@@ -2,6 +2,7 @@
 title: PostgreSQL - 第 12 天 - 關聯式查詢 (JOIN)
 date: 2024-10-12 19:00:00 +0800
 categories: [Software, PostgreSQL]
+tags: [PostgreSQL] 
 excerpt: "關聯式查詢是 SQL 的一個強大功能，允許我們根據某些共同的欄位將來自不同資料表的數據進行結合。這樣可以讓我們更靈活地進行數據分析，並且避免將所有數據放在單一資料表中。"
 ---
 

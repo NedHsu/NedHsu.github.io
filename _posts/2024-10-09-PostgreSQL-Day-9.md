@@ -2,6 +2,7 @@
 title: PostgreSQL - 第 9 天 - 基本索引
 date: 2024-10-09 19:00:00 +0800
 categories: [Software, PostgreSQL]
+tags: [PostgreSQL] 
 excerpt: "索引是一種數據結構，能夠加速查詢的處理速度，尤其是在大規模數據集上。理解和使用索引能顯著提高資料庫的性能，今天我們將介紹基本索引的概念、創建方式以及如何選擇適合的索引。"
 ---
 

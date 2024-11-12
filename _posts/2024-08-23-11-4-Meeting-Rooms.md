@@ -2,6 +2,7 @@
 title: LeetCode - Meeting Rooms（會議室）
 date: 2024-08-23 23:00:00 +0800
 categories: [Software, LeetCode]
+tags: [LeetCode] 
 excerpt: "給定一個由會議時間區間組成的數組 `intervals`，其中每個區間 `intervals[i] = [start, end]` 表示會議的開始和結束時間，請判斷一個人是否可以參加所有會議。如果任何兩個會議之間有重疊，則返回 `False`，否則返回 `True`"
 ---
 

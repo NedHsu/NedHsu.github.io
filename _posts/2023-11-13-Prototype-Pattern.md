@@ -2,6 +2,7 @@
 title: 原型模式 - Prototype Pattern
 date: 2023-11-13 13:45:00 +0800
 categories: [Software, Design Pattern]
+tags: [Design Pattern]     
 mermaid: true
 excerpt: "原型模式(Prototype Pattern)-通過複製(Clone)一個已經存在的實例來返回新的實例，而不是新建(new)實例。"
 ---

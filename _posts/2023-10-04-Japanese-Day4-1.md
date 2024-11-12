@@ -2,6 +2,7 @@
 title: 學習日常用品詞彙（桌子、椅子、筆、書等）
 date: 2023-10-04 19:00:00 +0800
 categories: [Language, Japanese]
+tags: [Japanese] 
 excerpt: "學習日常用品的詞彙能幫助你在生活中更有效地表達和理解日語。"
 ---
 
