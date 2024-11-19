@@ -39,12 +39,12 @@ excerpt: "這裡將 LeetCode 題目按不同的算法和數據結構類型進行
    - **Remove Nth Node From End of List**：刪除倒數第 `n` 個節點。
    - **Intersection of Two Linked Lists**：找出兩個鏈表的相交點。
 
-## 5. **樹與二叉樹 (Tree & Binary Tree)**
-   - **Maximum Depth of Binary Tree**：計算二叉樹的最大深度。
-   - **Invert Binary Tree**：翻轉二叉樹。
-   - **Binary Tree Level Order Traversal**：按層級順序遍歷二叉樹。
-   - **Serialize and Deserialize Binary Tree**：將二叉樹編碼為字符串，並將字符串解碼為二叉樹。
-   - **Lowest Common Ancestor of a Binary Tree**：找出二叉樹中兩個節點的最近公共祖先。
+## 5. **樹與二元樹 (Tree & Binary Tree)**
+   - **Maximum Depth of Binary Tree**：計算二元樹的最大深度。
+   - **Invert Binary Tree**：翻轉二元樹。
+   - **Binary Tree Level Order Traversal**：按層級順序遍歷二元樹。
+   - **Serialize and Deserialize Binary Tree**：將二元樹編碼為字符串，並將字符串解碼為二元樹。
+   - **Lowest Common Ancestor of a Binary Tree**：找出二元樹中兩個節點的最近公共祖先。
 
 ## 6. **二叉搜索樹 (Binary Search Tree - BST)**
    - **Validate Binary Search Tree**：檢查一棵樹是否為合法的二叉搜索樹。

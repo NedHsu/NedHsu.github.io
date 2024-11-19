@@ -3,7 +3,7 @@ title: LeetCode - Day 10
 date: 2024-08-12 19:00:00 +0800
 categories: [Software, LeetCode]
 tags: [LeetCode] 
-excerpt: "全排列 (Permutations)、二叉樹的最大深度 (Maximum Depth of Binary Tree)、對稱二叉樹 (Symmetric Tree)、合併K個排序鏈表 (Merge k Sorted Lists)、環形鏈表 (Linked List Cycle)、打家劫舍 (House Robber)"
+excerpt: "全排列 (Permutations)、二元樹的最大深度 (Maximum Depth of Binary Tree)、對稱二元樹 (Symmetric Tree)、合併K個排序鏈表 (Merge k Sorted Lists)、環形鏈表 (Linked List Cycle)、打家劫舍 (House Robber)"
 ---
 
 ### 51. **全排列 (Permutations)**
@@ -38,8 +38,8 @@ excerpt: "全排列 (Permutations)、二叉樹的最大深度 (Maximum Depth of 
 
 ---
 
-### 52. **二叉樹的最大深度 (Maximum Depth of Binary Tree)**
-   **題目描述**：給定一個二叉樹，找出其最大深度。樹的最大深度是從根節點到最遠葉子節點的最長路徑的節點數。
+### 52. **二元樹的最大深度 (Maximum Depth of Binary Tree)**
+   **題目描述**：給定一個二元樹，找出其最大深度。樹的最大深度是從根節點到最遠葉子節點的最長路徑的節點數。
 
    **範例**：
    ```
@@ -59,12 +59,12 @@ excerpt: "全排列 (Permutations)、二叉樹的最大深度 (Maximum Depth of 
        return 1 + max(maxDepth(root.left), maxDepth(root.right))
    ```
 
-   **時間複雜度**：O(n)，其中 `n` 是二叉樹的節點數。
+   **時間複雜度**：O(n)，其中 `n` 是二元樹的節點數。
 
 ---
 
-### 53. **對稱二叉樹 (Symmetric Tree)**
-   **題目描述**：檢查一棵二叉樹是否是鏡像對稱的。
+### 53. **對稱二元樹 (Symmetric Tree)**
+   **題目描述**：檢查一棵二元樹是否是鏡像對稱的。
 
    **範例**：
    ```
@@ -197,4 +197,4 @@ excerpt: "全排列 (Permutations)、二叉樹的最大深度 (Maximum Depth of 
 
 ---
 
-這些題目涵蓋了鏈表操作、二叉樹遍歷、動態規劃、以及小頂堆等常見算法技巧，希望對你的 LeetCode 練習有所幫助！需要更多題目或進一步解釋，隨時告訴我。
+這些題目涵蓋了鏈表操作、二元樹遍歷、動態規劃、以及小頂堆等常見算法技巧，希望對你的 LeetCode 練習有所幫助！需要更多題目或進一步解釋，隨時告訴我。
