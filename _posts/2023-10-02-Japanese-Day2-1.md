@@ -2,7 +2,7 @@
 title: 平假名、片假名的寫法和記憶方法
 date: 2023-10-02 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [Japanese] 
+tags: [日語] 
 excerpt: "學習平假名和片假名的寫法和記憶方法"
 ---
 

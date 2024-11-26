@@ -2,7 +2,7 @@
 title: 簡單問候語的應對方式
 date: 2023-10-05 20:00:00 +0800
 categories: [Language, Japanese]
-tags: [Japanese] 
+tags: [日語] 
 excerpt: "簡單問候語的應對方式"
 ---
 

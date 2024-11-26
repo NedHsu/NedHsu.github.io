@@ -2,7 +2,7 @@
 title: 練習書寫平假名與片假名
 date: 2023-10-01 22:00:00 +0800
 categories: [Language, Japanese]
-tags: [Japanese] 
+tags: [日語] 
 excerpt: "練習書寫平假名和片假名是學習日語的基本步驟。"
 ---
 

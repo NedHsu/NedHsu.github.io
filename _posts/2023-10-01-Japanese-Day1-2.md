@@ -2,7 +2,7 @@
 title: 學習發音規則
 date: 2023-10-01 21:00:00 +0800
 categories: [Language, Japanese]
-tags: [Japanese] 
+tags: [日語] 
 excerpt: "日語的發音規則相對簡單，且每個假名基本上對應一個固定的音節。"
 ---
 
