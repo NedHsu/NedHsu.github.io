@@ -1,6 +1,6 @@
 ---
 title: 組合模式 - Composite Pattern
-date: 2024-01-02 19:58:00 +0800
+date: 2023-12-12 19:58:00 +0800
 categories: [Software, Design Pattern]
 tags: [Design Pattern]     
 mermaid: true

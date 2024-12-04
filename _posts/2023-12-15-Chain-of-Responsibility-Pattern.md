@@ -1,6 +1,6 @@
 ---
 title: 責任鏈模式 - Chain of Responsibility Pattern
-date: 2024-01-17 19:58:00 +0800
+date: 2023-12-15 19:58:00 +0800
 categories: [Software, Design Pattern]
 tags: [Design Pattern] 
 mermaid: true

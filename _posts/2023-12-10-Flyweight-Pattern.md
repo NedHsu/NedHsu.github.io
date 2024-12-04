@@ -1,6 +1,6 @@
 ---
 title: 享元模式 - Flyweight Pattern
-date: 2023-12-21 19:58:00 +0800
+date: 2023-12-10 19:58:00 +0800
 categories: [Software, Design Pattern]
 tags: [Design Pattern] 
 mermaid: true

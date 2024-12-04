@@ -1,6 +1,6 @@
 ---
 title: 命令模式 - Command Pattern
-date: 2024-01-04 19:58:00 +0800
+date: 2023-12-13 19:58:00 +0800
 categories: [Software, Design Pattern]
 tags: [Design Pattern]     
 mermaid: true

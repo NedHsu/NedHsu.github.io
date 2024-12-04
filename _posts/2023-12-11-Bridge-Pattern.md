@@ -1,6 +1,6 @@
 ---
 title: 橋接模式 - Bridge Pattern
-date: 2023-12-26 19:58:00 +0800
+date: 2023-12-11 19:58:00 +0800
 categories: [Software, Design Pattern]
 tags: [Design Pattern] 
 mermaid: true

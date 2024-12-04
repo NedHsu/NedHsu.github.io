@@ -1,6 +1,6 @@
 ---
 title: 外觀模式 - Facade Pattern
-date: 2023-12-12 09:58:00 +0800
+date: 2023-12-09 09:58:00 +0800
 categories: [Software, Design Pattern]
 tags: [Design Pattern]     
 mermaid: true
