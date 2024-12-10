@@ -2,7 +2,7 @@
 title: 學習簡單的疑問句（これは何ですか？）
 date: 2023-10-06 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語] 
+tags: [日語, Japanese] 
 excerpt: "學習簡單的疑問句是日語入門的重要步驟，能幫助你在日常交流中詢問和理解他人的意思"
 ---
 

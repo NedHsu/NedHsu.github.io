@@ -2,7 +2,7 @@
 title: 簡單日常詞彙：家族成員稱呼、數字
 date: 2023-10-03 20:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語] 
+tags: [日語, Japanese] 
 excerpt: "學習日常詞彙能幫助你在日常交流中更加自如地表達自己。"
 ---
 

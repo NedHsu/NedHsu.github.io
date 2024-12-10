@@ -2,7 +2,7 @@
 title: 一些交通方面的情境對話，透過對話學習日常用語
 date: 2024-11-01 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語] 
+tags: [日語, Japanese] 
 ---
 
 一些交通方面的情境對話，透過對話學習日常用語

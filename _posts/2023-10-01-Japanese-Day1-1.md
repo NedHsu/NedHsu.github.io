@@ -2,7 +2,7 @@
 title: 介紹日語五十音（平假名和片假名）
 date: 2023-10-01 20:00:00 +0800
 categories: [Language, Japanese]
-tags: [Japanese]
+tags: [日語, Japanese] 
 excerpt: "日語五十音是學習日語的基礎，它包括了平假名（ひらがな）和片假名（カタカナ）兩套音節文字系統。"
 ---
 
