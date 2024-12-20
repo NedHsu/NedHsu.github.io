@@ -175,6 +175,11 @@ class PostViewSet(viewsets.ModelViewSet):
 ```bash
 pip install drf-yasg
 ```
+在 settings.py 中配置：
+
+```py
+INSTALLED_APPS += ["drf_yasg"]
+```
 
 在 `urls.py` 中配置：
 
