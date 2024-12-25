@@ -102,7 +102,7 @@ pip install virtualenv
 Nginx 可以作為反向代理來處理靜態文件和媒體文件。
 
 1. 安裝 Nginx for Windows：
-   [Nginx for Windows](http://nginx.org/en/download.html)
+   Nginx for Windows [Nginx for Windows](http://nginx.org/en/download.html)
 
 2. 配置 Nginx：
    編輯 `nginx.conf` 文件，添加如下配置：
