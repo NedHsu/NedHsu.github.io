@@ -9,7 +9,7 @@ tags: [日語, Japanese]
 
 ---
 
-### 情境 1: 在咖啡店點餐
+## 情境 1: 在咖啡店點餐
 
 <div style="text-align: left">  
 **A:** いらっしゃいませ！ご注文はお決まりですか？  
@@ -47,7 +47,7 @@ tags: [日語, Japanese]
 
 ---
 
-### 情境 2: 問路
+## 情境 2: 問路
 
 <div style="text-align: left">  
 **A:** すみません、駅はどこですか？  
@@ -85,7 +85,7 @@ tags: [日語, Japanese]
 
 ---
 
-### 情境 3: 在超市結帳
+## 情境 3: 在超市結帳
 
 <div style="text-align: left">  
 **A:** 袋はご利用ですか？  
