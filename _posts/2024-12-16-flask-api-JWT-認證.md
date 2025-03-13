@@ -10,7 +10,7 @@ excerpt: "從基本的用戶名/密碼認證升級到基於 **JSON Web Token (JW
 
 - 安裝並配置 PyJWT
 - 實現基於 JWT 的認證
-- 更新博客 API 使用 token 進行身份驗證
+- 更新Blog API 使用 token 進行身份驗證
 
 ## **步驟**
 

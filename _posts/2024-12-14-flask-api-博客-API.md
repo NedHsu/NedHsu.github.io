@@ -1,14 +1,14 @@
 ---
-title: Flask - 博客 API
+title: Flask - Blog API
 date: 2024-12-14 19:00:00 +0800
 categories: [Software, Python]
 tags: [Flask]
-excerpt: "構建一個更複雜的 **博客 API**，支持用戶和文章的 CRUD 操作。這是一個實戰項目，涵蓋數據庫、模型關係、序列化和版本控制。"
+excerpt: "構建一個更複雜的 **Blog API**，支持用戶和文章的 CRUD 操作。這是一個實戰項目，涵蓋數據庫、模型關係、序列化和版本控制。"
 ---
 
 ## **目標**
 
-- 構建一個完整的博客 API
+- 構建一個完整的Blog API
 - 應用數據庫操作、模型關係、序列化和環境配置
 - 提供 v1 和 v2 版本的端點
 
