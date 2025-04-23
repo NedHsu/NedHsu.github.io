@@ -1,0 +1,256 @@
+---
+title: 日語對話 - 銀行、郵局、美容院、電器行、計程車
+date: 2025-01-23 19:00:00 +0800
+categories: [Language, Japanese]
+tags: [日語, Japanese] 
+---
+
+## 課程預覽
+
+今天我們將學習五個實用的日常情境對話：
+1. 在銀行辦理業務 - 如何開戶、存款等銀行相關對話
+2. 在郵局寄包裹 - 如何寄送包裹、填寫地址等
+3. 在美容院預約 - 如何預約美髮、美甲服務
+4. 在電器行購買商品 - 如何詢問商品規格、價格等
+5. 搭乘計程車 - 如何叫車、告知目的地等
+
+每個情境都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，幫助您更好地理解和記憶。
+
+## 學習小提醒
+
+今天的對話情境都與日常生活密切相關，建議您：
+- 將每個情境的對話錄音下來，反覆聆聽
+- 與朋友或語言交換夥伴一起練習對話
+- 製作情境卡片，隨機抽取練習
+- 在實際生活中尋找機會使用這些句子
+- 記錄下您使用這些句子的經驗和感受
+
+記住，語言學習是一個漸進的過程，每天進步一點點，持之以恆最重要！
+
+讓我們一起開始今天的學習吧！
+
+---
+
+## 情境 1: 在銀行辦理業務
+
+![銀行業務](https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+
+<div style="text-align: left">  
+**A:** いらっしゃいませ。ご用件は何でしょうか？  <br>
+(irasshaimase. go-youken wa nan deshou ka?)  <br>
+歡迎光臨。請問有什麼可以幫您的嗎？  <br>
+**Welcome. How may I help you?**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+**B:** 口座を開設したいのですが。  <br>
+(kouza o kaisetsu shitai no desu ga.)  <br>
+我想開設帳戶。  <br>
+**I'd like to open an account.**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: left">  
+**A:** はい、承知しました。パスポートをお願いします。  <br>
+(hai, shouchi shimashita. pasupooto o onegai shimasu.)  <br>
+好的，請出示您的護照。  <br>
+**I understand. May I see your passport, please?**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+**B:** はい、どうぞ。  <br>
+(hai, douzo.)  <br>
+好的，請看。  <br>
+**Here you are.**  <br>
+</div>  
+
+### 重點句型
+- ご用件は何でしょうか？(go-youken wa nan deshou ka?) - 請問有什麼可以幫您的嗎？
+- ～を開設したいのですが。(~o kaisetsu shitai no desu ga) - 我想開設...
+- ～をお願いします。(~o onegai shimasu) - 請給我...
+
+### 相關單字
+- 口座 (kouza) - 帳戶
+- 預金 (yokin) - 存款
+- 引き出し (hikidashi) - 提款
+- 振込 (furikomi) - 轉帳
+- 残高 (zandaka) - 餘額
+
+---
+
+## 情境 2: 在郵局寄包裹
+
+![郵局寄包裹](https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+
+<div style="text-align: left">  
+**A:** いらっしゃいませ。何をお送りになりますか？  <br>
+(irasshaimase. nani o o-okuri ni narimasu ka?)  <br>
+歡迎光臨。請問您要寄什麼？  <br>
+**Welcome. What would you like to send?**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+**B:** この小包を台湾まで送りたいです。  <br>
+(kono kozutsumi o taiwan made okuritai desu.)  <br>
+我想把這個包裹寄到台灣。  <br>
+**I'd like to send this package to Taiwan.**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: left">  
+**A:** はい、承知しました。住所を確認させていただきます。  <br>
+(hai, shouchi shimashita. juusho o kakunin sasete itadakimasu.)  <br>
+好的，讓我確認一下地址。  <br>
+**I understand. Let me check the address.**  <br>
+</div>  
+
+### 重點句型
+- 何をお送りになりますか？(nani o o-okuri ni narimasu ka?) - 請問您要寄什麼？
+- ～まで送りたいです。(~made okuritai desu) - 我想寄到...
+- 住所を確認させていただきます。(juusho o kakunin sasete itadakimasu) - 讓我確認一下地址
+
+### 相關單字
+- 小包 (kozutsumi) - 包裹
+- 住所 (juusho) - 地址
+- 郵便番号 (yuubin bangou) - 郵遞區號
+- 送料 (souryou) - 運費
+- 追跡番号 (tsuiseki bangou) - 追蹤號碼
+
+---
+
+## 情境 3: 在美容院預約
+
+![美容院預約](https://images.unsplash.com/photo-1562322140-8baeececf3df?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+
+<div style="text-align: left">  
+**A:** はい、美容室「サクラ」でございます。  <br>
+(hai, biyoushitsu "sakura" de gozaimasu.)  <br>
+您好，這裡是櫻花美容院。  <br>
+**Hello, this is Sakura Beauty Salon.**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+**B:** 明日の午後2時にカットの予約をお願いしたいのですが。  <br>
+(ashita no gogo niji ni katto no yoyaku o onegai shitai no desu ga.)  <br>
+我想預約明天下午2點剪髮。  <br>
+**I'd like to make an appointment for a haircut tomorrow at 2 PM.**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: left">  
+**A:** はい、承知しました。お名前をお願いします。  <br>
+(hai, shouchi shimashita. o-namae o onegai shimasu.)  <br>
+好的，請告訴我您的姓名。  <br>
+**I understand. May I have your name, please?**  <br>
+</div>  
+
+### 重點句型
+- ～の予約をお願いしたいのですが。(~no yoyaku o onegai shitai no desu ga) - 我想預約...
+- お名前をお願いします。(o-namae o onegai shimasu) - 請告訴我您的姓名
+- ～でございます。(~de gozaimasu) - 這裡是...
+
+### 相關單字
+- カット (katto) - 剪髮
+- カラー (karaa) - 染髮
+- パーマ (paama) - 燙髮
+- トリートメント (toriitomento) - 護髮
+- スタイリスト (sutairisuto) - 髮型師
+
+---
+
+## 情境 4: 在電器行購買商品
+
+![電器行購物](https://images.unsplash.com/photo-1550009158-9ebf69173e03?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+
+<div style="text-align: left">  
+**A:** いらっしゃいませ。何かお探しですか？  <br>
+(irasshaimase. nanika o-sagashi desu ka?)  <br>
+歡迎光臨。請問您在找什麼？  <br>
+**Welcome. Are you looking for something?**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+**B:** スマートフォンを探しています。  <br>
+(sumaato fon o sagashite imasu.)  <br>
+我在找智慧型手機。  <br>
+**I'm looking for a smartphone.**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: left">  
+**A:** こちらの最新モデルはいかがでしょうか？  <br>
+(kochira no saishin moderu wa ikaga deshou ka?)  <br>
+這款最新型號您覺得如何？  <br>
+**How about this latest model?**  <br>
+</div>  
+
+### 重點句型
+- 何かお探しですか？(nanika o-sagashi desu ka?) - 請問您在找什麼？
+- ～を探しています。(~o sagashite imasu) - 我在找...
+- ～はいかがでしょうか？(~wa ikaga deshou ka?) - 您覺得...如何？
+
+### 相關單字
+- スマートフォン (sumaato fon) - 智慧型手機
+- パソコン (pasokon) - 電腦
+- テレビ (terebi) - 電視
+- カメラ (kamera) - 相機
+- 保証 (hoshou) - 保固
+
+---
+
+## 情境 5: 搭乘計程車
+
+![搭乘計程車](https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+
+<div style="text-align: left">  
+**A:** いらっしゃいませ。どちらまででしょうか？  <br>
+(irasshaimase. dochira made deshou ka?)  <br>
+歡迎搭乘。請問您要去哪裡？  <br>
+**Welcome. Where would you like to go?**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+**B:** 東京駅までお願いします。  <br>
+(toukyou eki made onegai shimasu.)  <br>
+請載我到東京車站。  <br>
+**Please take me to Tokyo Station.**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: left">  
+**A:** かしこまりました。  <br>
+(kashikomarimashita.)  <br>
+好的，我知道了。  <br>
+**I understand.**  <br>
+</div>  
+
+### 重點句型
+- どちらまででしょうか？(dochira made deshou ka?) - 請問您要去哪裡？
+- ～までお願いします。(~made onegai shimasu) - 請載我到...
+- かしこまりました。(kashikomarimashita) - 好的，我知道了
+
+### 相關單字
+- タクシー (takushii) - 計程車
+- 運賃 (unchin) - 車資
+- メーター (meetaa) - 計費表
+- 目的地 (mokutekichi) - 目的地
+- 到着 (touchaku) - 到達
+
+--- 
