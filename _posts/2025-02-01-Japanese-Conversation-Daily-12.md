@@ -66,7 +66,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 ## 情境 2: 搭乘電車
 
-![電車](https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![電車](https://images.unsplash.com/photo-1542051841857-5f90071e7989?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
 **A:** この電車は新宿に行きますか？  <br>
@@ -100,7 +100,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 ## 情境 3: 購買車票
 
-![車票](https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![車票](https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
 **A:** 新宿まで一枚お願いします。  <br>
@@ -134,7 +134,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 ## 情境 4: 轉乘與換車
 
-![轉乘](https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![轉乘](https://images.unsplash.com/photo-1542051841857-5f90071e7989?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
 **A:** 渋谷までどう行けばいいですか？  <br>
@@ -168,7 +168,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 ## 情境 5: 搭乘計程車
 
-![計程車](https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![計程車](https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
 **A:** 東京タワーまでお願いします。  <br>
