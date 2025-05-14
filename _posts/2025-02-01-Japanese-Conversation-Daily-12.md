@@ -134,7 +134,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 ## 情境 4: 轉乘與換車
 
-![轉乘](https://images.unsplash.com/photo-1542051841857-5f90071e7989?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![轉乘](https://images.unsplash.com/photo-1516916759473-600c07bc12d4?q=80&w=1200&auto=format&fit=crop)
 
 <div style="text-align: left">  
 **A:** 渋谷までどう行けばいいですか？  <br>

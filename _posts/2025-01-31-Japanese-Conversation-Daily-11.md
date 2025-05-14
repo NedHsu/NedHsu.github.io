@@ -66,7 +66,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 
 ## 情境 2: 辦理入住
 
-![入住](https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![入住](https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** チェックインをお願いします。  <br>
@@ -100,7 +100,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 
 ## 情境 3: 詢問設施與服務
 
-![設施](https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![設施](https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** 朝食は何時からですか？  <br>
@@ -134,7 +134,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 
 ## 情境 4: 要求客房服務
 
-![客房服務](https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![客房服務](https://images.unsplash.com/photo-1550345332-09e3ac987658?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** ルームサービスをお願いします。  <br>
@@ -168,7 +168,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 
 ## 情境 5: 辦理退房
 
-![退房](https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![退房](https://images.unsplash.com/photo-1542401886-65d6c61db217?q=80&w=1200&auto=format&fit=crop)
 
 <div style="text-align: left">  
 **A:** チェックアウトをお願いします。  <br>

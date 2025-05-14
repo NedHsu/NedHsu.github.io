@@ -66,7 +66,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 
 ## 情境 2: 存款與提款
 
-![存款](https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![存款](https://images.unsplash.com/photo-1550345332-09e3ac987658?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** 10万円を預け入れたいです。  <br>
@@ -100,7 +100,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 
 ## 情境 3: 匯款業務
 
-![匯款](https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![匯款](https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** 海外への送金をお願いします。  <br>
@@ -134,7 +134,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 
 ## 情境 4: 信用卡申請
 
-![信用卡](https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![信用卡](https://images.unsplash.com/photo-1471922694854-ff1b63b20054?q=80&w=1200&auto=format&fit=crop)
 
 <div style="text-align: left">  
 **A:** クレジットカードの申し込みをしたいです。  <br>
@@ -168,7 +168,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 
 ## 情境 5: 理財諮詢
 
-![理財](https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![理財](https://images.unsplash.com/photo-1588668214407-6ea9a6d8c272?q=80&w=1200&auto=format&fit=crop)
 
 <div style="text-align: left">  
 **A:** 資産運用について相談したいです。  <br>

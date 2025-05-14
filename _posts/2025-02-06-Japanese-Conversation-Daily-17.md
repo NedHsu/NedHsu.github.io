@@ -100,7 +100,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 
 ## 情境 3: 詢問功能
 
-![功能](https://images.unsplash.com/photo-1550009158-9ebf69173e03?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![功能](https://images.unsplash.com/photo-1563911302283-d2bc129e7570?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** このテレビの機能を説明していただけますか？  <br>
@@ -134,7 +134,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 
 ## 情境 4: 維修服務
 
-![維修](https://images.unsplash.com/photo-1550009158-9ebf69173e03?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![維修](https://images.unsplash.com/photo-1553451133-8083c47243d6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** このパソコンの修理をお願いします。  <br>
@@ -168,7 +168,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 
 ## 情境 5: 退換貨
 
-![退換](https://images.unsplash.com/photo-1550009158-9ebf69173e03?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![退換](https://images.unsplash.com/photo-1589758438368-0ad531db3366?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** この商品を返品したいのですが。  <br>

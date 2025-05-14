@@ -66,7 +66,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 
 ## 情境 2: 點小菜
 
-![小菜](https://images.unsplash.com/photo-1604719312566-8912e9227c6a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![小菜](https://images.unsplash.com/photo-1501959181532-7d2a3c064642?q=80&w=1200&auto=format&fit=crop)
 
 <div style="text-align: left">  
 **A:** おつまみをください。  <br>
@@ -100,7 +100,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 
 ## 情境 3: 詢問菜單
 
-![菜單](https://images.unsplash.com/photo-1604719312566-8912e9227c6a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![菜單](https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** メニューを見せていただけますか？  <br>
@@ -134,7 +134,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 
 ## 情境 4: 結帳付款
 
-![結帳](https://images.unsplash.com/photo-1604719312566-8912e9227c6a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![結帳](https://images.unsplash.com/photo-1550345332-09e3ac987658?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** お会計をお願いします。  <br>
@@ -168,7 +168,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 
 ## 情境 5: 打包
 
-![打包](https://images.unsplash.com/photo-1604719312566-8912e9227c6a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![打包](https://images.unsplash.com/photo-1611312449408-fcece27cdbb7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** 残りを包んでいただけますか？  <br>

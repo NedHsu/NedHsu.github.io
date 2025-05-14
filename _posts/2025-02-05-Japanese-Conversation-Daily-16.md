@@ -66,7 +66,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 
 ## 情境 2: 剪髮與造型
 
-![剪髮](https://images.unsplash.com/photo-1560869713-da86a9ec0686?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![剪髮](https://images.unsplash.com/photo-1588668214407-6ea9a6d8c272?q=80&w=1200&auto=format&fit=crop)
 
 <div style="text-align: left">  
 **A:** 前髪を少し短くしてください。  <br>

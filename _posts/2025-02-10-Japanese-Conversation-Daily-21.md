@@ -66,7 +66,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 
 ## 情境 2: 詢問價格
 
-![價格](https://images.unsplash.com/photo-1604719312566-8912e9227c6a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![價格](https://images.unsplash.com/photo-1551698618-1dfe5d97d256?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** このお弁当はいくらですか？  <br>
@@ -100,7 +100,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 
 ## 情境 3: 使用服務
 
-![服務](https://images.unsplash.com/photo-1604719312566-8912e9227c6a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![服務](https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** コピー機を使いたいのですが。  <br>
@@ -134,7 +134,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 
 ## 情境 4: 結帳付款
 
-![結帳](https://images.unsplash.com/photo-1604719312566-8912e9227c6a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![結帳](https://images.unsplash.com/photo-1550345332-09e3ac987658?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** お会計をお願いします。  <br>
@@ -168,7 +168,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 
 ## 情境 5: 退換貨
 
-![退換](https://images.unsplash.com/photo-1604719312566-8912e9227c6a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![退換](https://images.unsplash.com/photo-1563911302283-d2bc129e7570?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** この商品を返品したいのですが。  <br>

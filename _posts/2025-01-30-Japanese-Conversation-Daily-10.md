@@ -66,7 +66,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 
 ## 情境 2: 試穿與詢問尺寸
 
-![試穿](https://images.unsplash.com/photo-1441986300917-64674bd600d8?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![試穿](https://images.unsplash.com/photo-1519451241324-20b4ea2c4220?q=80&w=1200&auto=format&fit=crop)
 
 <div style="text-align: left">  
 **A:** 試着室はこちらです。  <br>
@@ -100,7 +100,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 
 ## 情境 3: 詢問價格與折扣
 
-![價格](https://images.unsplash.com/photo-1441986300917-64674bd600d8?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![價格](https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
 **A:** この商品はセール中で、20%オフです。  <br>
@@ -134,7 +134,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 
 ## 情境 4: 退換貨與退款
 
-![退換貨](https://images.unsplash.com/photo-1441986300917-64674bd600d8?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![退換貨](https://images.unsplash.com/photo-1589758438368-0ad531db3366?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
 **A:** この商品を返品したいのですが。  <br>
@@ -168,7 +168,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 
 ## 情境 5: 包裝與送貨
 
-![包裝](https://images.unsplash.com/photo-1441986300917-64674bd600d8?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![包裝](https://images.unsplash.com/photo-1514989940723-e8e51635b782?q=80&w=1200&auto=format&fit=crop)
 
 <div style="text-align: left">  
 **A:** プレゼント用に包装をお願いします。  <br>

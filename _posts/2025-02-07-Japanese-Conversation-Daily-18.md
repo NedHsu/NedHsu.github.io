@@ -100,7 +100,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 ## 情境 3: 告知目的地
 
-![目的地](https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![目的地](https://images.unsplash.com/photo-1600334129128-685c5582fd35?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** 東京駅までお願いします。  <br>
@@ -134,7 +134,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 ## 情境 4: 詢問價格
 
-![價格](https://images.unsplash.com/photo-1556742044-3c52d6e88c62?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![價格](https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** 料金はいくらになりますか？  <br>
@@ -168,7 +168,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 ## 情境 5: 付款下車
 
-![付款](https://images.unsplash.com/photo-1556742044-3c52d6e88c62?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![付款](https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** お釣りは結構です。  <br>

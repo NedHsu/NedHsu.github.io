@@ -66,7 +66,7 @@ excerpt: 學習在日本溫泉和澡堂時常用的日語對話，包括詢問�
 
 ## 情境 2: 使用設施
 
-![設施](https://images.unsplash.com/photo-1604719312566-8912e9227c6a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![設施](https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=1200&auto=format&fit=crop)
 
 <div style="text-align: left">  
 **A:** タオルはありますか？  <br>
@@ -100,7 +100,7 @@ excerpt: 學習在日本溫泉和澡堂時常用的日語對話，包括詢問�
 
 ## 情境 3: 購買用品
 
-![用品](https://images.unsplash.com/photo-1604719312566-8912e9227c6a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![用品](https://images.unsplash.com/photo-1542401886-65d6c61db217?q=80&w=1200&auto=format&fit=crop)
 
 <div style="text-align: left">  
 **A:** 石鹸をください。  <br>
@@ -134,7 +134,7 @@ excerpt: 學習在日本溫泉和澡堂時常用的日語對話，包括詢問�
 
 ## 情境 4: 結帳付款
 
-![結帳](https://images.unsplash.com/photo-1604719312566-8912e9227c6a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![結帳](https://images.unsplash.com/photo-1553451133-8083c47243d6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** お会計をお願いします。  <br>
@@ -168,7 +168,7 @@ excerpt: 學習在日本溫泉和澡堂時常用的日語對話，包括詢問�
 
 ## 情境 5: 注意事項
 
-![注意](https://images.unsplash.com/photo-1604719312566-8912e9227c6a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![注意](https://images.unsplash.com/photo-1563911302283-d2bc129e7570?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** 注意事項を教えていただけますか？  <br>

@@ -65,7 +65,7 @@ tags: [日語, Japanese]
 
 ## 情境 2: 點餐與詢問推薦
 
-![點餐](https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![點餐](https://images.unsplash.com/photo-1556741533-6e6a62bd8b49?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** ご注文はお決まりでしょうか？  <br>
@@ -99,7 +99,7 @@ tags: [日語, Japanese]
 
 ## 情境 3: 要求服務與加點
 
-![服務](https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![服務](https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** すみません。お水をください。  <br>
@@ -133,7 +133,7 @@ tags: [日語, Japanese]
 
 ## 情境 4: 結帳與付款
 
-![結帳](https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![結帳](https://images.unsplash.com/photo-1589758438368-0ad531db3366?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** お会計は3,500円になります。  <br>
@@ -167,7 +167,7 @@ tags: [日語, Japanese]
 
 ## 情境 5: 離開餐廳
 
-![離開](https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![離開](https://images.unsplash.com/photo-1551698618-1dfe5d97d256?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** ごちそうさまでした。  <br>

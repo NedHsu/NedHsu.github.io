@@ -100,7 +100,7 @@ excerpt: 學習在日本按摩和SPA店時常用的日語對話，包括預約�
 
 ## 情境 3: 詢問價格
 
-![價格](https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![價格](https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** 料金はいくらですか？  <br>
@@ -134,7 +134,7 @@ excerpt: 學習在日本按摩和SPA店時常用的日語對話，包括預約�
 
 ## 情境 4: 服務過程
 
-![過程](https://images.unsplash.com/photo-1562322140-8baeececf3df?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![過程](https://images.unsplash.com/photo-1600334129128-685c5582fd35?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** 痛くないですか？  <br>
@@ -168,7 +168,7 @@ excerpt: 學習在日本按摩和SPA店時常用的日語對話，包括預約�
 
 ## 情境 5: 結帳付款
 
-![結帳](https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![結帳](https://images.unsplash.com/photo-1556741533-6e6a62bd8b49?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** お会計をお願いします。  <br>

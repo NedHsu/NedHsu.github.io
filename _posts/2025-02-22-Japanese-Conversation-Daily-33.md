@@ -100,7 +100,7 @@ excerpt: 學習在日本滑雪場和雪上活動場所時常用的日語對話�
 
 ## 情境 3: 詢問課程
 
-![課程](https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![課程](https://images.unsplash.com/photo-1551698618-1dfe5d97d256?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** スキーレッスンはありますか？  <br>
@@ -134,7 +134,7 @@ excerpt: 學習在日本滑雪場和雪上活動場所時常用的日語對話�
 
 ## 情境 4: 請教教練
 
-![教練](https://images.unsplash.com/photo-1562322140-8baeececf3df?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![教練](https://images.unsplash.com/photo-1550345332-09e3ac987658?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** インストラクターに相談したいのですが。  <br>
@@ -168,7 +168,7 @@ excerpt: 學習在日本滑雪場和雪上活動場所時常用的日語對話�
 
 ## 情境 5: 結帳付款
 
-![結帳](https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![結帳](https://images.unsplash.com/photo-1611312449408-fcece27cdbb7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** お会計をお願いします。  <br>

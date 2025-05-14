@@ -66,7 +66,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 
 ## 情境 2: 看診問診
 
-![看診](https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![看診](https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** 頭が痛くて、熱があります。  <br>
@@ -100,7 +100,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 
 ## 情境 3: 檢查說明
 
-![檢查](https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![檢查](https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?q=80&w=1200&auto=format&fit=crop)
 
 <div style="text-align: left">  
 **A:** 検査が必要ですか？  <br>
@@ -134,7 +134,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 
 ## 情境 4: 領取藥品
 
-![領藥](https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![領藥](https://images.unsplash.com/photo-1553451133-8083c47243d6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** 薬の飲み方を教えていただけますか？  <br>
@@ -168,7 +168,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 
 ## 情境 5: 預約複診
 
-![複診](https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![複診](https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
 **A:** 次回の診察を予約したいです。  <br>
