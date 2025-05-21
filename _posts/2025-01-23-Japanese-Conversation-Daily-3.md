@@ -36,7 +36,7 @@ tags: [日語, Japanese]
 ![銀行業務](https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
-**A:** いらっしゃいませ。ご用件は何でしょうか？  <br>
+**銀行員:** いらっしゃいませ。ご用件は何でしょうか？  <br>
 (irasshaimase. go-youken wa nan deshou ka?)  <br>
 歡迎光臨。請問有什麼可以幫您的嗎？  <br>
 **Welcome. How may I help you?**  <br>
@@ -45,7 +45,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** 口座を開設したいのですが。  <br>
+**顧客:** 口座を開設したいのですが。  <br>
 (kouza o kaisetsu shitai no desu ga.)  <br>
 我想開設帳戶。  <br>
 **I'd like to open an account.**  <br>
@@ -54,7 +54,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: left">  
-**A:** はい、承知しました。パスポートをお願いします。  <br>
+**銀行員:** はい、承知しました。パスポートをお願いします。  <br>
 (hai, shouchi shimashita. pasupooto o onegai shimasu.)  <br>
 好的，請出示您的護照。  <br>
 **I understand. May I see your passport, please?**  <br>
@@ -63,10 +63,17 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** はい、どうぞ。  <br>
-(hai, douzo.)  <br>
-好的，請看。  <br>
-**Here you are.**  <br>
+**顧客:** はい、どうぞ。在留カードも必要ですか？  <br>
+(hai, douzo. zairyuu kaado mo hitsuyou desu ka?)  <br>
+好的，請看。需要居留卡嗎？  <br>
+**Here you are. Do you need my residence card as well?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**銀行員:** はい、在留カードもお願いします。  <br>
+(hai, zairyuu kaado mo onegai shimasu.)  <br>
+是的，請也出示居留卡。  <br>
+**Yes, please show your residence card as well.**  <br>
 </div>  
 
 ### 重點句型
@@ -88,7 +95,7 @@ tags: [日語, Japanese]
 ![郵局寄包裹](https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
-**A:** いらっしゃいませ。何をお送りになりますか？  <br>
+**郵便局員:** いらっしゃいませ。何をお送りになりますか？  <br>
 (irasshaimase. nani o o-okuri ni narimasu ka?)  <br>
 歡迎光臨。請問您要寄什麼？  <br>
 **Welcome. What would you like to send?**  <br>
@@ -97,7 +104,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** この小包を台湾まで送りたいです。  <br>
+**顧客:** この小包を台湾まで送りたいです。  <br>
 (kono kozutsumi o taiwan made okuritai desu.)  <br>
 我想把這個包裹寄到台灣。  <br>
 **I'd like to send this package to Taiwan.**  <br>
@@ -106,10 +113,24 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: left">  
-**A:** はい、承知しました。住所を確認させていただきます。  <br>
+**郵便局員:** はい、承知しました。住所を確認させていただきます。  <br>
 (hai, shouchi shimashita. juusho o kakunin sasete itadakimasu.)  <br>
 好的，讓我確認一下地址。  <br>
 **I understand. Let me check the address.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**顧客:** 航空便でお願いします。  <br>
+(koukuubin de onegai shimasu.)  <br>
+請用航空郵件。  <br>
+**Please send it by air mail.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**郵便局員:** かしこまりました。追跡番号をお知らせします。  <br>
+(kashikomarimashita. tsuiseki bangou o o-shirase shimasu.)  <br>
+好的，我會給您追蹤號碼。  <br>
+**I understand. I'll provide you with a tracking number.**  <br>
 </div>  
 
 ### 重點句型
@@ -131,7 +152,7 @@ tags: [日語, Japanese]
 ![美容院預約](https://images.unsplash.com/photo-1562322140-8baeececf3df?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
-**A:** はい、美容室「サクラ」でございます。  <br>
+**受付:** はい、美容室「サクラ」でございます。  <br>
 (hai, biyoushitsu "sakura" de gozaimasu.)  <br>
 您好，這裡是櫻花美容院。  <br>
 **Hello, this is Sakura Beauty Salon.**  <br>
@@ -140,7 +161,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** 明日の午後2時にカットの予約をお願いしたいのですが。  <br>
+**顧客:** 明日の午後2時にカットの予約をお願いしたいのですが。  <br>
 (ashita no gogo niji ni katto no yoyaku o onegai shitai no desu ga.)  <br>
 我想預約明天下午2點剪髮。  <br>
 **I'd like to make an appointment for a haircut tomorrow at 2 PM.**  <br>
@@ -149,10 +170,24 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: left">  
-**A:** はい、承知しました。お名前をお願いします。  <br>
+**受付:** はい、承知しました。お名前をお願いします。  <br>
 (hai, shouchi shimashita. o-namae o onegai shimasu.)  <br>
 好的，請告訴我您的姓名。  <br>
 **I understand. May I have your name, please?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**顧客:** 田中と申します。カラーもお願いできますか？  <br>
+(tanaka to moushimasu. karaa mo onegai dekimasu ka?)  <br>
+我姓田中。可以順便染髮嗎？  <br>
+**My name is Tanaka. Can I also get my hair colored?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**受付:** はい、可能です。カットとカラーで約2時間かかります。  <br>
+(hai, kanou desu. katto to karaa de yaku nijikan kakarimasu.)  <br>
+是的，可以。剪髮和染髮大約需要2小時。  <br>
+**Yes, that's possible. The cut and color will take about 2 hours.**  <br>
 </div>  
 
 ### 重點句型
@@ -174,7 +209,7 @@ tags: [日語, Japanese]
 ![電器行購物](https://images.unsplash.com/photo-1550009158-9ebf69173e03?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
-**A:** いらっしゃいませ。何かお探しですか？  <br>
+**店員:** いらっしゃいませ。何かお探しですか？  <br>
 (irasshaimase. nanika o-sagashi desu ka?)  <br>
 歡迎光臨。請問您在找什麼？  <br>
 **Welcome. Are you looking for something?**  <br>
@@ -183,7 +218,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** スマートフォンを探しています。  <br>
+**顧客:** スマートフォンを探しています。  <br>
 (sumaato fon o sagashite imasu.)  <br>
 我在找智慧型手機。  <br>
 **I'm looking for a smartphone.**  <br>
@@ -192,10 +227,24 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: left">  
-**A:** こちらの最新モデルはいかがでしょうか？  <br>
+**店員:** こちらの最新モデルはいかがでしょうか？  <br>
 (kochira no saishin moderu wa ikaga deshou ka?)  <br>
 這款最新型號您覺得如何？  <br>
 **How about this latest model?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**顧客:** カメラの性能はどうですか？  <br>
+(kamera no seinou wa dou desu ka?)  <br>
+相機性能如何？  <br>
+**How's the camera performance?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**店員:** このモデルは4K動画撮影が可能で、夜景も綺麗に撮れます。  <br>
+(kono moderu wa yon kei douga satsuei ga kanou de, yakei mo kirei ni toremasu.)  <br>
+這款可以拍攝4K影片，夜景也能拍得很漂亮。  <br>
+**This model can shoot 4K video and takes beautiful night photos.**  <br>
 </div>  
 
 ### 重點句型
@@ -217,7 +266,7 @@ tags: [日語, Japanese]
 ![搭乘計程車](https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
-**A:** いらっしゃいませ。どちらまででしょうか？  <br>
+**運転手:** いらっしゃいませ。どちらまででしょうか？  <br>
 (irasshaimase. dochira made deshou ka?)  <br>
 歡迎搭乘。請問您要去哪裡？  <br>
 **Welcome. Where would you like to go?**  <br>
@@ -226,7 +275,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** 東京駅までお願いします。  <br>
+**乗客:** 東京駅までお願いします。  <br>
 (toukyou eki made onegai shimasu.)  <br>
 請載我到東京車站。  <br>
 **Please take me to Tokyo Station.**  <br>
@@ -235,10 +284,24 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: left">  
-**A:** かしこまりました。  <br>
-(kashikomarimashita.)  <br>
-好的，我知道了。  <br>
-**I understand.**  <br>
+**運転手:** かしこまりました。高速道路を使いますか？  <br>
+(kashikomarimashita. kousoku douro o tsukaimasu ka?)  <br>
+好的，我知道了。要走高速公路嗎？  <br>
+**I understand. Would you like to take the expressway?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**乗客:** はい、お願いします。  <br>
+(hai, onegai shimasu.)  <br>
+好的，麻煩您了。  <br>
+**Yes, please.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**運転手:** 到着まで約30分かかります。  <br>
+(touchaku made yaku sanjuppun kakarimasu.)  <br>
+到達目的地大約需要30分鐘。  <br>
+**It will take about 30 minutes to arrive.**  <br>
 </div>  
 
 ### 重點句型

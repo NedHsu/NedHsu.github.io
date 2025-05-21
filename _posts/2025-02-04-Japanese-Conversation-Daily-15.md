@@ -35,7 +35,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 ![包裹](https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
-**A:** この荷物を送りたいのですが。  <br>
+**顧客:** この荷物を送りたいのですが。  <br>
 (kono nimotsu o okuritai no desu ga.)  <br>
 我想寄這個包裹。  <br>
 **I'd like to send this package.**  <br>
@@ -44,7 +44,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 <br>  
 
 <div style="text-align: right">  
-**B:** 送り先の住所を教えていただけますか？  <br>
+**郵局職員:** 送り先の住所を教えていただけますか？  <br>
 (okurisaki no juusho o oshiete itadakemasu ka?)  <br>
 請告訴我收件地址。  <br>
 **Could you tell me the recipient's address?**  <br>
@@ -69,7 +69,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 ![信件](https://images.unsplash.com/photo-1579412690850-bd41cd0af397?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** 手紙を送りたいです。  <br>
+**顧客:** 手紙を送りたいです。  <br>
 (tegami o okuritai desu.)  <br>
 我想寄信。  <br>
 **I'd like to send a letter.**  <br>
@@ -78,7 +78,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 <br>  
 
 <div style="text-align: right">  
-**B:** 切手は貼りましたか？  <br>
+**郵局職員:** 切手は貼りましたか？  <br>
 (kitte wa harimashita ka?)  <br>
 您貼郵票了嗎？  <br>
 **Have you put on the stamp?**  <br>
@@ -103,7 +103,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 ![郵票](https://images.unsplash.com/photo-1530866495561-507c9faab2ed?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** 切手を5枚ください。  <br>
+**顧客:** 切手を5枚ください。  <br>
 (kitte o go-mai kudasai.)  <br>
 請給我5張郵票。  <br>
 **Please give me 5 stamps.**  <br>
@@ -112,7 +112,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 <br>  
 
 <div style="text-align: right">  
-**B:** はい、全部で250円になります。  <br>
+**郵局職員:** はい、全部で250円になります。  <br>
 (hai, zenbu de nihyaku gojuu en ni narimasu.)  <br>
 好的，總共250日圓。  <br>
 **Yes, that will be 250 yen in total.**  <br>
@@ -137,7 +137,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 ![查詢](https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** 荷物の追跡番号を教えていただけますか？  <br>
+**顧客:** 荷物の追跡番号を教えていただけますか？  <br>
 (nimotsu no tsuiseki bangou o oshiete itadakemasu ka?)  <br>
 請告訴我包裹的追蹤號碼。  <br>
 **Could you tell me the tracking number for the package?**  <br>
@@ -146,7 +146,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 <br>  
 
 <div style="text-align: right">  
-**B:** はい、こちらが追跡番号です。  <br>
+**郵局職員:** はい、こちらが追跡番号です。  <br>
 (hai, kochira ga tsuiseki bangou desu.)  <br>
 好的，這是追蹤號碼。  <br>
 **Yes, here's the tracking number.**  <br>
@@ -171,7 +171,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 ![儲蓄](https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** 郵便貯金の口座を開設したいです。  <br>
+**顧客:** 郵便貯金の口座を開設したいです。  <br>
 (yuubin chokin no kouza o kaisetsu shitai desu.)  <br>
 我想開設郵政儲蓄帳戶。  <br>
 **I'd like to open a postal savings account.**  <br>
@@ -180,7 +180,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 <br>  
 
 <div style="text-align: right">  
-**B:** 身分証明書をお願いします。  <br>
+**郵局職員:** 身分証明書をお願いします。  <br>
 (mibun shoumeisho o onegai shimasu.)  <br>
 請出示身分證明文件。  <br>
 **Please show your ID.**  <br>

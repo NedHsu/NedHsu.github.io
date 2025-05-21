@@ -36,7 +36,7 @@ tags: [日語, Japanese]
 ![醫院掛號](https://images.unsplash.com/photo-1579684385127-1ef15d508118?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
-**A:** はい、山田医院でございます。  <br>
+**醫院接待員:** はい、山田医院でございます。  <br>
 (hai, yamada iin de gozaimasu.)  <br>
 您好，這裡是山田醫院。  <br>
 **Hello, this is Yamada Clinic.**  <br>
@@ -45,7 +45,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** 初診の予約をお願いしたいのですが。  <br>
+**病患:** 初診の予約をお願いしたいのですが。  <br>
 (shoshin no yoyaku o onegai shitai no desu ga.)  <br>
 我想預約初診。  <br>
 **I'd like to make an appointment for my first visit.**  <br>
@@ -54,7 +54,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: left">  
-**A:** はい、承知しました。症状を教えていただけますか？  <br>
+**醫院接待員:** はい、承知しました。症状を教えていただけますか？  <br>
 (hai, shouchi shimashita. shoujou o oshiete itadakemasu ka?)  <br>
 好的，請問您有什麼症狀？  <br>
 **I understand. Could you tell me your symptoms?**  <br>
@@ -79,7 +79,7 @@ tags: [日語, Japanese]
 ![美容院美甲](https://images.unsplash.com/photo-1562322140-8baeececf3df?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
-**A:** いらっしゃいませ。ネイルのご予約でしょうか？  <br>
+**美甲師:** いらっしゃいませ。ネイルのご予約でしょうか？  <br>
 (irasshaimase. neiru no go-yoyaku deshou ka?)  <br>
 歡迎光臨。是要預約美甲服務嗎？  <br>
 **Welcome. Are you here for a nail appointment?**  <br>
@@ -88,7 +88,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** はい、ジェルネイルをお願いしたいです。  <br>
+**顧客:** はい、ジェルネイルをお願いしたいです。  <br>
 (hai, jeru neiru o onegai shitai desu.)  <br>
 是的，我想做凝膠美甲。  <br>
 **Yes, I'd like to get gel nails.**  <br>
@@ -97,7 +97,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: left">  
-**A:** はい、承知しました。デザインのカタログをご覧ください。  <br>
+**美甲師:** はい、承知しました。デザインのカタログをご覧ください。  <br>
 (hai, shouchi shimashita. dezain no katarogu o go-ran kudasai.)  <br>
 好的，請看設計目錄。  <br>
 **I understand. Please look at the design catalog.**  <br>
@@ -122,7 +122,7 @@ tags: [日語, Japanese]
 ![電器行維修](https://images.unsplash.com/photo-1550009158-9ebf69173e03?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
-**A:** いらっしゃいませ。何かお困りでしょうか？  <br>
+**維修人員:** いらっしゃいませ。何かお困りでしょうか？  <br>
 (irasshaimase. nanika o-komari deshou ka?)  <br>
 歡迎光臨。有什麼可以幫您的嗎？  <br>
 **Welcome. How may I help you?**  <br>
@@ -131,7 +131,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** パソコンの調子が悪いので、修理をお願いしたいです。  <br>
+**顧客:** パソコンの調子が悪いので、修理をお願いしたいです。  <br>
 (pasokon no choushi ga warui node, shuuri o onegai shitai desu.)  <br>
 我的電腦狀況不好，想請您修理。  <br>
 **My computer isn't working well, I'd like to have it repaired.**  <br>
@@ -140,7 +140,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: left">  
-**A:** はい、承知しました。具体的な症状を教えていただけますか？  <br>
+**維修人員:** はい、承知しました。具体的な症状を教えていただけますか？  <br>
 (hai, shouchi shimashita. gutaiteki na shoujou o oshiete itadakemasu ka?)  <br>
 好的，請問具體是什麼問題？  <br>
 **I understand. Could you tell me the specific problem?**  <br>
@@ -165,7 +165,7 @@ tags: [日語, Japanese]
 ![計程車預約](https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
-**A:** はい、タクシー予約センターでございます。  <br>
+**預約中心人員:** はい、タクシー予約センターでございます。  <br>
 (hai, takushii yoyaku sentaa de gozaimasu.)  <br>
 您好，這裡是計程車預約中心。  <br>
 **Hello, this is the Taxi Reservation Center.**  <br>
@@ -174,7 +174,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** 明日の朝7時に空港まで送迎をお願いしたいです。  <br>
+**乘客:** 明日の朝7時に空港まで送迎をお願いしたいです。  <br>
 (ashita no asa shichiji ni kuukou made sougei o onegai shitai desu.)  <br>
 我想預約明天早上7點到機場的接送服務。  <br>
 **I'd like to book a taxi to the airport for tomorrow at 7 AM.**  <br>
@@ -183,7 +183,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: left">  
-**A:** はい、承知しました。お名前とご住所をお願いします。  <br>
+**預約中心人員:** はい、承知しました。お名前とご住所をお願いします。  <br>
 (hai, shouchi shimashita. o-namae to go-juusho o onegai shimasu.)  <br>
 好的，請告訴我您的姓名和地址。  <br>
 **I understand. May I have your name and address, please?**  <br>
@@ -208,7 +208,7 @@ tags: [日語, Japanese]
 ![天氣變化](https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
-**A:** 今日は急に寒くなりましたね。  <br>
+**同事A:** 今日は急に寒くなりましたね。  <br>
 (kyou wa kyuu ni samuku narimashita ne.)  <br>
 今天突然變冷了。  <br>
 **It suddenly got cold today.**  <br>
@@ -217,7 +217,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** はい、本当に寒いですね。コートが必要かもしれません。  <br>
+**同事B:** はい、本当に寒いですね。コートが必要かもしれません。  <br>
 (hai, hontou ni samui desu ne. kooto ga hitsuyou kamoshiremasen.)  <br>
 是啊，真的很冷。可能需要穿外套。  <br>
 **Yes, it's really cold. We might need coats.**  <br>
@@ -226,7 +226,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: left">  
-**A:** 明日はもっと寒くなるそうですよ。  <br>
+**同事A:** 明日はもっと寒くなるそうですよ。  <br>
 (ashita wa motto samuku naru sou desu yo.)  <br>
 聽說明天會更冷。  <br>
 **I heard it will get even colder tomorrow.**  <br>

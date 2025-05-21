@@ -36,7 +36,7 @@ tags: [日語, Japanese]
 ![初次見面](https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
-**A:** はじめまして。  <br>
+**田中:** はじめまして。  <br>
 (hajimemashite.)  <br>
 初次見面。  <br>
 **Nice to meet you.**  <br>
@@ -45,10 +45,24 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** はじめまして。よろしくお願いします。  <br>
+**山田:** はじめまして。よろしくお願いします。  <br>
 (hajimemashite. yoroshiku onegai shimasu.)  <br>
 初次見面。請多多指教。  <br>
 **Nice to meet you. Please be kind to me.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**田中:** お会いできて嬉しいです。  <br>
+(o-ai dekite ureshii desu.)  <br>
+很高興見到您。  <br>
+**I'm glad to meet you.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**山田:** こちらこそ。今日はよろしくお願いします。  <br>
+(kochira koso. kyou wa yoroshiku onegai shimasu.)  <br>
+哪裡哪裡。今天請多多指教。  <br>
+**Not at all. Please be kind to me today.**  <br>
 </div>  
 
 ### 重點句型
@@ -70,7 +84,7 @@ tags: [日語, Japanese]
 ![自我介紹](https://images.unsplash.com/photo-1553451133-8083c47243d6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** 私は田中と申します。  <br>
+**田中:** 私は田中と申します。  <br>
 (watashi wa tanaka to moushimasu.)  <br>
 我姓田中。  <br>
 **My name is Tanaka.**  <br>
@@ -79,10 +93,31 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** 田中さんですね。私は山田です。  <br>
+**山田:** 田中さんですね。私は山田です。  <br>
 (tanaka san desu ne. watashi wa yamada desu.)  <br>
 是田中先生/女士對吧。我姓山田。  <br>
 **Mr./Ms. Tanaka, right? I'm Yamada.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**田中:** 山田さんはどちらからいらっしゃいましたか？  <br>
+(yamada san wa dochira kara irasshaimashita ka?)  <br>
+山田先生/女士是從哪裡來的？  <br>
+**Where are you from, Mr./Ms. Yamada?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**山田:** 東京から来ました。  <br>
+(toukyou kara kimashita.)  <br>
+我從東京來的。  <br>
+**I'm from Tokyo.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**田中:** そうですか。東京は素敵な街ですね。  <br>
+(sou desu ka. toukyou wa suteki na machi desu ne.)  <br>
+是嗎。東京是個很棒的城市呢。  <br>
+**Is that so? Tokyo is a wonderful city.**  <br>
 </div>  
 
 ### 重點句型
@@ -104,7 +139,7 @@ tags: [日語, Japanese]
 ![詢問資訊](https://images.unsplash.com/photo-1556741533-6e6a62bd8b49?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** お仕事は何をされていますか？  <br>
+**田中:** お仕事は何をされていますか？  <br>
 (o-shigoto wa nani o sarete imasu ka?)  <br>
 請問您從事什麼工作？  <br>
 **What do you do for a living?**  <br>
@@ -113,10 +148,31 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** 会社員です。  <br>
-(kaishain desu.)  <br>
-我是公司職員。  <br>
-**I'm a company employee.**  <br>
+**山田:** 会社員です。IT企業で働いています。  <br>
+(kaishain desu. ai ti kigyou de hataraite imasu.)  <br>
+我是公司職員。在IT公司工作。  <br>
+**I'm a company employee. I work at an IT company.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**田中:** そうですか。どのくらいの経験がありますか？  <br>
+(sou desu ka. dono kurai no keiken ga arimasu ka?)  <br>
+是嗎。您有多少工作經驗？  <br>
+**Is that so? How much experience do you have?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**山田:** 5年目になります。  <br>
+(go nen me ni narimasu.)  <br>
+已經第五年了。  <br>
+**This is my fifth year.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**田中:** すごいですね。  <br>
+(sugoi desu ne.)  <br>
+真厲害呢。  <br>
+**That's impressive.**  <br>
 </div>  
 
 ### 重點句型
@@ -138,7 +194,7 @@ tags: [日語, Japanese]
 ![感謝與再見](https://images.unsplash.com/photo-1588668214407-6ea9a6d8c272?q=80&w=1200&auto=format&fit=crop)
 
 <div style="text-align: left">  
-**A:** 今日はありがとうございました。  <br>
+**田中:** 今日はありがとうございました。  <br>
 (kyou wa arigatou gozaimashita.)  <br>
 今天非常感謝您。  <br>
 **Thank you very much for today.**  <br>
@@ -147,10 +203,31 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** こちらこそ。またお会いしましょう。  <br>
+**山田:** こちらこそ。またお会いしましょう。  <br>
 (kochira koso. mata o-ai shimashou.)  <br>
 哪裡哪裡。下次再見。  <br>
 **Not at all. Let's meet again.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**田中:** はい、またお会いできるのを楽しみにしています。  <br>
+(hai, mata o-ai dekiru no o tanoshimi ni shite imasu.)  <br>
+好的，期待下次見面。  <br>
+**Yes, I'm looking forward to meeting you again.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**山田:** お気をつけてお帰りください。  <br>
+(o-ki o tsukete o-kaeri kudasai.)  <br>
+請小心慢走。  <br>
+**Please take care on your way home.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**田中:** 失礼します。  <br>
+(shitsurei shimasu.)  <br>
+告辭了。  <br>
+**Goodbye.**  <br>
 </div>  
 
 ### 重點句型
@@ -172,7 +249,7 @@ tags: [日語, Japanese]
 ![日常寒暄](https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** お元気ですか？  <br>
+**田中:** お元気ですか？  <br>
 (o-genki desu ka?)  <br>
 您好嗎？  <br>
 **How are you?**  <br>
@@ -181,10 +258,31 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** はい、おかげさまで。  <br>
-(hai, okagesama de.)  <br>
-是的，托您的福。  <br>
-**Yes, thanks to you.**  <br>
+**山田:** はい、おかげさまで。田中さんは？  <br>
+(hai, okagesama de. tanaka san wa?)  <br>
+是的，托您的福。田中先生/女士呢？  <br>
+**Yes, thanks to you. How about you, Mr./Ms. Tanaka?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**田中:** 私も元気です。最近は忙しいですか？  <br>
+(watashi mo genki desu. saikin wa isogashii desu ka?)  <br>
+我也很好。最近忙嗎？  <br>
+**I'm fine too. Have you been busy lately?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**山田:** はい、少し忙しいです。でも、充実しています。  <br>
+(hai, sukoshi isogashii desu. demo, juujitsu shite imasu.)  <br>
+是的，有點忙。但是很充實。  <br>
+**Yes, a bit busy. But it's fulfilling.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**田中:** それは良かったですね。  <br>
+(sore wa yokatta desu ne.)  <br>
+那真是太好了。  <br>
+**That's good to hear.**  <br>
 </div>  
 
 ### 重點句型

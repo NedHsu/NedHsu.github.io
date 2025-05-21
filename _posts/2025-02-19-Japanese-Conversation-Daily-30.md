@@ -35,7 +35,7 @@ excerpt: 學習在日本按摩和SPA店時常用的日語對話，包括預約�
 ![預約](https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** 予約をお願いしたいのですが。  <br>
+**顧客:** 予約をお願いしたいのですが。  <br>
 (yoyaku o onegai shitai no desu ga.)  <br>
 我想預約。  <br>
 **I'd like to make a reservation.**  <br>
@@ -44,10 +44,26 @@ excerpt: 學習在日本按摩和SPA店時常用的日語對話，包括預約�
 <br>  
 
 <div style="text-align: right">  
-**B:** 何時がよろしいですか？  <br>
+**接待員:** 何時がよろしいですか？  <br>
 (nanji ga yoroshii desu ka?)  <br>
 什麼時間方便？  <br>
 **What time would be convenient?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** 明日の午後2時は空いていますか？  <br>
+(ashita no gogo niji wa aite imasu ka?)  <br>
+明天下午2點有空嗎？  <br>
+**Is 2 PM tomorrow available?**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+**接待員:** はい、ご予約いただけます。  <br>
+(hai, goyoyaku itadakemasu.)  <br>
+是的，可以為您預約。  <br>
+**Yes, we can make that reservation for you.**  <br>
 </div>  
 
 ### 重點句型
@@ -69,7 +85,7 @@ excerpt: 學習在日本按摩和SPA店時常用的日語對話，包括預約�
 ![服務](https://images.unsplash.com/photo-1562322140-8baeececf3df?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** マッサージをお願いします。  <br>
+**顧客:** マッサージをお願いします。  <br>
 (massaaji o onegai shimasu.)  <br>
 請幫我按摩。  <br>
 **I'd like a massage, please.**  <br>
@@ -78,10 +94,26 @@ excerpt: 學習在日本按摩和SPA店時常用的日語對話，包括預約�
 <br>  
 
 <div style="text-align: right">  
-**B:** どのようなマッサージがよろしいですか？  <br>
+**按摩師:** どのようなマッサージがよろしいですか？  <br>
 (dono you na massaaji ga yoroshii desu ka?)  <br>
 您想要什麼樣的按摩？  <br>
 **What kind of massage would you like?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** 肩こりがひどいので、肩のマッサージをお願いします。  <br>
+(katakori ga hidoi node, kata no massaaji o onegai shimasu.)  <br>
+因為肩膀很僵硬，請幫我按摩肩膀。  <br>
+**I have severe shoulder stiffness, so I'd like a shoulder massage.**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+**按摩師:** 承知いたしました。60分のコースはいかがでしょうか？  <br>
+(shouchi itashimashita. rokujuppun no koosu wa ikaga deshou ka?)  <br>
+好的，60分鐘的課程如何？  <br>
+**I understand. How about a 60-minute course?**  <br>
 </div>  
 
 ### 重點句型
@@ -103,7 +135,7 @@ excerpt: 學習在日本按摩和SPA店時常用的日語對話，包括預約�
 ![價格](https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** 料金はいくらですか？  <br>
+**顧客:** 料金はいくらですか？  <br>
 (ryoukin wa ikura desu ka?)  <br>
 費用是多少？  <br>
 **How much is the fee?**  <br>
@@ -112,10 +144,26 @@ excerpt: 學習在日本按摩和SPA店時常用的日語對話，包括預約�
 <br>  
 
 <div style="text-align: right">  
-**B:** 基本料金は10,000円です。  <br>
+**接待員:** 基本料金は10,000円です。  <br>
 (kihon ryoukin wa ichiman en desu.)  <br>
 基本費用是10,000日圓。  <br>
 **The basic fee is 10,000 yen.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** オプションはありますか？  <br>
+(opushon wa arimasu ka?)  <br>
+有選項嗎？  <br>
+**Are there any options?**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+**接待員:** はい、アロマオイルの追加は2,000円です。  <br>
+(hai, aroma oiru no tsuika wa nisen en desu.)  <br>
+是的，芳香精油追加是2,000日圓。  <br>
+**Yes, aromatherapy oil is an additional 2,000 yen.**  <br>
 </div>  
 
 ### 重點句型
@@ -137,7 +185,7 @@ excerpt: 學習在日本按摩和SPA店時常用的日語對話，包括預約�
 ![過程](https://images.unsplash.com/photo-1600334129128-685c5582fd35?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** 痛くないですか？  <br>
+**顧客:** 痛くないですか？  <br>
 (itakunai desu ka?)  <br>
 會痛嗎？  <br>
 **Does it hurt?**  <br>
@@ -146,10 +194,26 @@ excerpt: 學習在日本按摩和SPA店時常用的日語對話，包括預約�
 <br>  
 
 <div style="text-align: right">  
-**B:** 大丈夫です。痛くありません。  <br>
+**按摩師:** 大丈夫です。痛くありません。  <br>
 (daijoubu desu. itaku arimasen.)  <br>
 沒問題，不會痛。  <br>
 **It's okay. It doesn't hurt.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** 力加減はどうすればいいですか？  <br>
+(chikara kagen wa dou sureba ii desu ka?)  <br>
+力道要如何調整？  <br>
+**How should I adjust the pressure?**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+**按摩師:** 痛いと感じたら、お申し付けください。  <br>
+(itai to kanjitara, omoushitsuke kudasai.)  <br>
+如果覺得痛的話，請告訴我。  <br>
+**Please let me know if you feel any pain.**  <br>
 </div>  
 
 ### 重點句型
@@ -171,7 +235,7 @@ excerpt: 學習在日本按摩和SPA店時常用的日語對話，包括預約�
 ![結帳](https://images.unsplash.com/photo-1556741533-6e6a62bd8b49?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** お会計をお願いします。  <br>
+**顧客:** お会計をお願いします。  <br>
 (okaikei o onegai shimasu.)  <br>
 請幫我結帳。  <br>
 **I'd like to pay, please.**  <br>
@@ -180,10 +244,26 @@ excerpt: 學習在日本按摩和SPA店時常用的日語對話，包括預約�
 <br>  
 
 <div style="text-align: right">  
-**B:** 合計で12,000円になります。  <br>
+**收銀員:** 合計で12,000円になります。  <br>
 (goukei de ichi ni sen en ni narimasu.)  <br>
 總共是12,000日圓。  <br>
 **That will be 12,000 yen in total.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** クレジットカードで支払えますか？  <br>
+(kurejitto kaado de shiharaemasu ka?)  <br>
+可以用信用卡付款嗎？  <br>
+**Can I pay by credit card?**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+**收銀員:** はい、VISAとマスターカードがご利用いただけます。  <br>
+(hai, visa to masutaa kaado ga goriyou itadakemasu.)  <br>
+是的，可以使用VISA和MasterCard。  <br>
+**Yes, we accept VISA and MasterCard.**  <br>
 </div>  
 
 ### 重點句型

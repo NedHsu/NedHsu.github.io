@@ -35,7 +35,7 @@ excerpt: 學習在日本百貨公司時常用的日語對話，包括尋找商�
 ![商品](https://images.unsplash.com/photo-1604719312566-8912e9227c6a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** 婦人服は何階にありますか？  <br>
+**顧客:** 婦人服は何階にありますか？  <br>
 (fujinfuku wa nankai ni arimasu ka?)  <br>
 女裝在幾樓？  <br>
 **Which floor is the women's clothing on?**  <br>
@@ -44,10 +44,24 @@ excerpt: 學習在日本百貨公司時常用的日語對話，包括尋找商�
 <br>  
 
 <div style="text-align: right">  
-**B:** 3階にあります。  <br>
+**店員:** 3階にあります。  <br>
 (sankai ni arimasu.)  <br>
 在3樓。  <br>
 **It's on the 3rd floor.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** エレベーターはどこにありますか？  <br>
+(erebeetaa wa doko ni arimasu ka?)  <br>
+電梯在哪裡？  <br>
+**Where is the elevator?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**店員:** 正面入口の右側にございます。  <br>
+(shoumen iriguchi no migigawa ni gozaimasu.)  <br>
+在正門入口的右側。  <br>
+**It's on the right side of the main entrance.**  <br>
 </div>  
 
 ### 重點句型
@@ -69,7 +83,7 @@ excerpt: 學習在日本百貨公司時常用的日語對話，包括尋找商�
 ![價格](https://images.unsplash.com/photo-1584473457406-6240486418e9?q=80&w=1200&auto=format&fit=crop)
 
 <div style="text-align: left">  
-**A:** このドレスはいくらですか？  <br>
+**顧客:** このドレスはいくらですか？  <br>
 (kono doresu wa ikura desu ka?)  <br>
 這件洋裝多少錢？  <br>
 **How much is this dress?**  <br>
@@ -78,10 +92,24 @@ excerpt: 學習在日本百貨公司時常用的日語對話，包括尋找商�
 <br>  
 
 <div style="text-align: right">  
-**B:** 28,000円です。  <br>
+**店員:** 28,000円です。  <br>
 (niman hachi sen en desu.)  <br>
 28,000日圓。  <br>
 **It's 28,000 yen.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** 税込みですか？  <br>
+(zeikomi desu ka?)  <br>
+含稅嗎？  <br>
+**Is that including tax?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**店員:** はい、税込みの価格です。  <br>
+(hai, zeikomi no kakaku desu.)  <br>
+是的，這是含稅價格。  <br>
+**Yes, that's the price including tax.**  <br>
 </div>  
 
 ### 重點句型
@@ -103,7 +131,7 @@ excerpt: 學習在日本百貨公司時常用的日語對話，包括尋找商�
 ![試穿](https://images.unsplash.com/photo-1589758438368-0ad531db3366?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** このドレスを試着したいのですが。  <br>
+**顧客:** このドレスを試着したいのですが。  <br>
 (kono doresu o shichaku shitai no desu ga.)  <br>
 我想試穿這件洋裝。  <br>
 **I'd like to try on this dress.**  <br>
@@ -112,10 +140,24 @@ excerpt: 學習在日本百貨公司時常用的日語對話，包括尋找商�
 <br>  
 
 <div style="text-align: right">  
-**B:** はい、試着室はこちらです。  <br>
+**店員:** はい、試着室はこちらです。  <br>
 (hai, shichakushitsu wa kochira desu.)  <br>
 好的，試衣間在這裡。  <br>
 **Yes, the fitting room is this way.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** 他のサイズも試着できますか？  <br>
+(hoka no saizu mo shichaku dekimasu ka?)  <br>
+可以試穿其他尺寸嗎？  <br>
+**Can I try other sizes?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**店員:** はい、お持ちいただければお試しいただけます。  <br>
+(hai, omochi itadakereba otameshi itadakemasu.)  <br>
+是的，如果您拿來的話可以試穿。  <br>
+**Yes, you can try them if you bring them.**  <br>
 </div>  
 
 ### 重點句型
@@ -137,7 +179,7 @@ excerpt: 學習在日本百貨公司時常用的日語對話，包括尋找商�
 ![結帳](https://images.unsplash.com/photo-1556741533-6e6a62bd8b49?q=80&w=1200&auto=format&fit=crop)
 
 <div style="text-align: left">  
-**A:** お会計をお願いします。  <br>
+**顧客:** お会計をお願いします。  <br>
 (okaikei o onegai shimasu.)  <br>
 請幫我結帳。  <br>
 **I'd like to pay, please.**  <br>
@@ -146,10 +188,24 @@ excerpt: 學習在日本百貨公司時常用的日語對話，包括尋找商�
 <br>  
 
 <div style="text-align: right">  
-**B:** 合計で28,000円になります。  <br>
+**店員:** 合計で28,000円になります。  <br>
 (goukei de niman hachi sen en ni narimasu.)  <br>
 總共是28,000日圓。  <br>
 **That will be 28,000 yen in total.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** カードで支払えますか？  <br>
+(kaado de shiharaemasu ka?)  <br>
+可以刷卡嗎？  <br>
+**Can I pay by card?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**店員:** はい、クレジットカードも電子マネーも使えます。  <br>
+(hai, kurejitto kaado mo denshi manee mo tsukaemasu.)  <br>
+是的，可以使用信用卡和電子錢包。  <br>
+**Yes, you can use credit cards and electronic money.**  <br>
 </div>  
 
 ### 重點句型
@@ -171,7 +227,7 @@ excerpt: 學習在日本百貨公司時常用的日語對話，包括尋找商�
 ![退換](https://images.unsplash.com/photo-1600334129128-685c5582fd35?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** このドレスを返品したいのですが。  <br>
+**顧客:** このドレスを返品したいのですが。  <br>
 (kono doresu o henpin shitai no desu ga.)  <br>
 我想退這件洋裝。  <br>
 **I'd like to return this dress.**  <br>
@@ -180,10 +236,24 @@ excerpt: 學習在日本百貨公司時常用的日語對話，包括尋找商�
 <br>  
 
 <div style="text-align: right">  
-**B:** レシートをお持ちですか？  <br>
+**店員:** レシートをお持ちですか？  <br>
 (reshiito o omochi desu ka?)  <br>
 您有收據嗎？  <br>
 **Do you have the receipt?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** はい、こちらです。  <br>
+(hai, kochira desu.)  <br>
+是的，在這裡。  <br>
+**Yes, here it is.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**店員:** 申し訳ありませんが、タグを外してしまった場合は返品できません。  <br>
+(moushiwake arimasen ga, tagu o hazushite shimatta baai wa henpin dekimasen.)  <br>
+抱歉，如果已經拆掉標籤的話就不能退貨。  <br>
+**I'm sorry, but we cannot accept returns if the tag has been removed.**  <br>
 </div>  
 
 ### 重點句型

@@ -35,7 +35,7 @@ excerpt: 學習在日本滑雪場和雪上活動場所時常用的日語對話�
 ![租借](https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** スキーセットをレンタルしたいのですが。  <br>
+**顧客:** スキーセットをレンタルしたいのですが。  <br>
 (sukii setto o rentaru shitai no desu ga.)  <br>
 我想租借滑雪裝備。  <br>
 **I'd like to rent a ski set.**  <br>
@@ -44,10 +44,33 @@ excerpt: 學習在日本滑雪場和雪上活動場所時常用的日語對話�
 <br>  
 
 <div style="text-align: right">  
-**B:** サイズは何センチですか？  <br>
+**店員:** サイズは何センチですか？  <br>
 (saizu wa nan senchi desu ka?)  <br>
 您的尺寸是多少公分？  <br>
 **What's your size in centimeters?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** 身長は170センチです。  <br>
+(shinchou wa hyakunanajuu senchi desu.)  <br>
+我的身高是170公分。  <br>
+**I'm 170 centimeters tall.**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+**店員:** レンタル期間はどのくらいですか？  <br>
+(rentaru kikan wa dono kurai desu ka?)  <br>
+您要租借多久？  <br>
+**How long would you like to rent for?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** 2日間お願いします。  <br>
+(futsukakan onegai shimasu.)  <br>
+請幫我租兩天。  <br>
+**Please rent for two days.**  <br>
 </div>  
 
 ### 重點句型
@@ -69,7 +92,7 @@ excerpt: 學習在日本滑雪場和雪上活動場所時常用的日語對話�
 ![設施](https://images.unsplash.com/photo-1562322140-8baeececf3df?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** リフトの使い方を教えていただけますか？  <br>
+**滑雪者:** リフトの使い方を教えていただけますか？  <br>
 (rifuto no tsukaikata o oshiete itadakemasu ka?)  <br>
 可以教我纜車的使用方法嗎？  <br>
 **Could you teach me how to use the lift?**  <br>
@@ -78,10 +101,26 @@ excerpt: 學習在日本滑雪場和雪上活動場所時常用的日語對話�
 <br>  
 
 <div style="text-align: right">  
-**B:** はい、こちらが使い方の説明です。  <br>
+**工作人員:** はい、こちらが使い方の説明です。  <br>
 (hai, kochira ga tsukaikata no setsumei desu.)  <br>
 好的，這是使用方法的說明。  <br>
 **Yes, here's the explanation of how to use it.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**滑雪者:** リフト券はどこで買えますか？  <br>
+(rifuto ken wa doko de kaemasu ka?)  <br>
+纜車票要在哪裡買？  <br>
+**Where can I buy a lift ticket?**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+**工作人員:** 受付カウンターで購入できます。  <br>
+(uketsuke kauntaa de kounyuu dekimasu.)  <br>
+可以在服務台購買。  <br>
+**You can purchase it at the reception counter.**  <br>
 </div>  
 
 ### 重點句型
@@ -103,7 +142,7 @@ excerpt: 學習在日本滑雪場和雪上活動場所時常用的日語對話�
 ![課程](https://images.unsplash.com/photo-1551698618-1dfe5d97d256?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** スキーレッスンはありますか？  <br>
+**學員:** スキーレッスンはありますか？  <br>
 (sukii ressun wa arimasu ka?)  <br>
 有滑雪課程嗎？  <br>
 **Do you have skiing lessons?**  <br>
@@ -112,10 +151,26 @@ excerpt: 學習在日本滑雪場和雪上活動場所時常用的日語對話�
 <br>  
 
 <div style="text-align: right">  
-**B:** はい、毎日開催しています。  <br>
+**課程顧問:** はい、毎日開催しています。  <br>
 (hai, mainichi kaisai shite imasu.)  <br>
 有的，每天都有舉辦。  <br>
 **Yes, we hold them every day.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**學員:** 初心者向けのレッスンはありますか？  <br>
+(shoshinsha muke no ressun wa arimasu ka?)  <br>
+有適合初學者的課程嗎？  <br>
+**Do you have lessons for beginners?**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+**課程顧問:** はい、午前と午後、それぞれ2時間のレッスンがあります。  <br>
+(hai, gozen to gogo, sorezore nijikan no ressun ga arimasu.)  <br>
+有的，上午和下午各有2小時的課程。  <br>
+**Yes, we have 2-hour lessons both in the morning and afternoon.**  <br>
 </div>  
 
 ### 重點句型
@@ -137,7 +192,7 @@ excerpt: 學習在日本滑雪場和雪上活動場所時常用的日語對話�
 ![教練](https://images.unsplash.com/photo-1550345332-09e3ac987658?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** インストラクターに相談したいのですが。  <br>
+**學員:** インストラクターに相談したいのですが。  <br>
 (insutorakutaa ni soudan shitai no desu ga.)  <br>
 我想諮詢教練。  <br>
 **I'd like to consult with an instructor.**  <br>
@@ -146,10 +201,26 @@ excerpt: 學習在日本滑雪場和雪上活動場所時常用的日語對話�
 <br>  
 
 <div style="text-align: right">  
-**B:** はい、こちらがインストラクターです。  <br>
+**教練:** はい、こちらがインストラクターです。  <br>
 (hai, kochira ga insutorakutaa desu.)  <br>
 好的，這是教練。  <br>
 **Yes, here's the instructor.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**學員:** スキーの基本姿勢を教えていただけますか？  <br>
+(sukii no kihon shisei o oshiete itadakemasu ka?)  <br>
+可以教我滑雪的基本姿勢嗎？  <br>
+**Could you teach me the basic skiing posture?**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+**教練:** はい、まずは足の位置から説明しましょう。  <br>
+(hai, mazu wa ashi no ichi kara setsumei shimashou.)  <br>
+好的，讓我們從腳的位置開始說明。  <br>
+**Yes, let's start with the foot position.**  <br>
 </div>  
 
 ### 重點句型
@@ -171,7 +242,7 @@ excerpt: 學習在日本滑雪場和雪上活動場所時常用的日語對話�
 ![結帳](https://images.unsplash.com/photo-1611312449408-fcece27cdbb7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** お会計をお願いします。  <br>
+**顧客:** お会計をお願いします。  <br>
 (okaikei o onegai shimasu.)  <br>
 請幫我結帳。  <br>
 **I'd like to pay, please.**  <br>
@@ -180,10 +251,26 @@ excerpt: 學習在日本滑雪場和雪上活動場所時常用的日語對話�
 <br>  
 
 <div style="text-align: right">  
-**B:** 合計で20,000円になります。  <br>
+**收銀員:** 合計で20,000円になります。  <br>
 (goukei de niman en ni narimasu.)  <br>
 總共是20,000日圓。  <br>
 **That will be 20,000 yen in total.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** クレジットカードで支払えますか？  <br>
+(kurejitto kaado de shiharaemasu ka?)  <br>
+可以用信用卡付款嗎？  <br>
+**Can I pay by credit card?**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+**收銀員:** はい、VISAとマスターカードがご利用いただけます。  <br>
+(hai, visa to masutaa kaado ga goriyou itadakemasu.)  <br>
+是的，可以使用VISA和MasterCard。  <br>
+**Yes, we accept VISA and MasterCard.**  <br>
 </div>  
 
 ### 重點句型

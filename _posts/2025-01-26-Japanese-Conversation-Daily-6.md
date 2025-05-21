@@ -36,7 +36,7 @@ tags: [日語, Japanese]
 ![銀行開戶](https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
-**A:** いらっしゃいませ。ご用件は何でしょうか？  <br>
+**銀行職員:** いらっしゃいませ。ご用件は何でしょうか？  <br>
 (irasshaimase. go-youken wa nan deshou ka?)  <br>
 歡迎光臨。請問有什麼可以幫您的嗎？  <br>
 **Welcome. How may I help you?**  <br>
@@ -45,7 +45,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** 普通預金口座を開設したいのですが。  <br>
+**顧客:** 普通預金口座を開設したいのですが。  <br>
 (futsuu yokin kouza o kaisetsu shitai no desu ga.)  <br>
 我想開設一般存款帳戶。  <br>
 **I'd like to open a regular savings account.**  <br>
@@ -54,7 +54,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: left">  
-**A:** はい、承知しました。パスポートと在留カードをお願いします。  <br>
+**銀行職員:** はい、承知しました。パスポートと在留カードをお願いします。  <br>
 (hai, shouchi shimashita. pasupooto to zairyuu kaado o onegai shimasu.)  <br>
 好的，請出示您的護照和居留證。  <br>
 **I understand. May I see your passport and residence card, please?**  <br>
@@ -79,7 +79,7 @@ tags: [日語, Japanese]
 ![郵局寄包裹](https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
-**A:** いらっしゃいませ。何をお送りになりますか？  <br>
+**郵局職員:** いらっしゃいませ。何をお送りになりますか？  <br>
 (irasshaimase. nani o o-okuri ni narimasu ka?)  <br>
 歡迎光臨。請問您要寄什麼？  <br>
 **Welcome. What would you like to send?**  <br>
@@ -88,7 +88,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** この小包を台湾まで送りたいです。  <br>
+**顧客:** この小包を台湾まで送りたいです。  <br>
 (kono kozutsumi o taiwan made okuritai desu.)  <br>
 我想把這個包裹寄到台灣。  <br>
 **I'd like to send this package to Taiwan.**  <br>
@@ -97,7 +97,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: left">  
-**A:** はい、承知しました。住所を確認させていただきます。  <br>
+**郵局職員:** はい、承知しました。住所を確認させていただきます。  <br>
 (hai, shouchi shimashita. juusho o kakunin sasete itadakimasu.)  <br>
 好的，讓我確認一下地址。  <br>
 **I understand. Let me check the address.**  <br>
@@ -122,7 +122,7 @@ tags: [日語, Japanese]
 ![美容院染髮](https://images.unsplash.com/photo-1562322140-8baeececf3df?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
-**A:** いらっしゃいませ。カラーのご予約でしょうか？  <br>
+**美容師:** いらっしゃいませ。カラーのご予約でしょうか？  <br>
 (irasshaimase. karaa no go-yoyaku deshou ka?)  <br>
 歡迎光臨。是要預約染髮嗎？  <br>
 **Welcome. Are you here for a hair coloring appointment?**  <br>
@@ -131,7 +131,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** はい、茶色に染めたいです。  <br>
+**顧客:** はい、茶色に染めたいです。  <br>
 (hai, chairo ni sometai desu.)  <br>
 是的，我想染成棕色。  <br>
 **Yes, I'd like to color it brown.**  <br>
@@ -140,7 +140,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: left">  
-**A:** はい、承知しました。カラーチャートをご覧ください。  <br>
+**美容師:** はい、承知しました。カラーチャートをご覧ください。  <br>
 (hai, shouchi shimashita. karaa chaato o go-ran kudasai.)  <br>
 好的，請看顏色表。  <br>
 **I understand. Please look at the color chart.**  <br>
@@ -165,7 +165,7 @@ tags: [日語, Japanese]
 ![電器行購買](https://images.unsplash.com/photo-1550009158-9ebf69173e03?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
-**A:** いらっしゃいませ。何かお探しですか？  <br>
+**店員:** いらっしゃいませ。何かお探しですか？  <br>
 (irasshaimase. nanika o-sagashi desu ka?)  <br>
 歡迎光臨。請問您在找什麼？  <br>
 **Welcome. Are you looking for something?**  <br>
@@ -174,7 +174,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** スマートフォンを探しています。  <br>
+**顧客:** スマートフォンを探しています。  <br>
 (sumaato fon o sagashite imasu.)  <br>
 我在找智慧型手機。  <br>
 **I'm looking for a smartphone.**  <br>
@@ -183,7 +183,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: left">  
-**A:** こちらの最新モデルはいかがでしょうか？  <br>
+**店員:** こちらの最新モデルはいかがでしょうか？  <br>
 (kochira no saishin moderu wa ikaga deshou ka?)  <br>
 這款最新型號您覺得如何？  <br>
 **How about this latest model?**  <br>
@@ -208,7 +208,7 @@ tags: [日語, Japanese]
 ![計程車叫車](https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
-**A:** いらっしゃいませ。どちらまででしょうか？  <br>
+**司機:** いらっしゃいませ。どちらまででしょうか？  <br>
 (irasshaimase. dochira made deshou ka?)  <br>
 歡迎搭乘。請問您要去哪裡？  <br>
 **Welcome. Where would you like to go?**  <br>
@@ -217,7 +217,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** 東京駅までお願いします。  <br>
+**乘客:** 東京駅までお願いします。  <br>
 (toukyou eki made onegai shimasu.)  <br>
 請載我到東京車站。  <br>
 **Please take me to Tokyo Station.**  <br>
@@ -226,7 +226,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: left">  
-**A:** かしこまりました。  <br>
+**司機:** かしこまりました。  <br>
 (kashikomarimashita.)  <br>
 好的，我知道了。  <br>
 **I understand.**  <br>

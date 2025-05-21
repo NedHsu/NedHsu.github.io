@@ -35,7 +35,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 ![開戶](https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
-**A:** 口座を開設したいのですが。  <br>
+**顧客:** 口座を開設したいのですが。  <br>
 (kouza o kaisetsu shitai no desu ga.)  <br>
 我想開戶。  <br>
 **I'd like to open an account.**  <br>
@@ -44,10 +44,38 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 <br>  
 
 <div style="text-align: right">  
-**B:** はい、身分証明書をお願いします。  <br>
+**銀行員:** はい、身分証明書をお願いします。  <br>
 (hai, mibun shoumeisho o onegai shimasu.)  <br>
 好的，請出示身分證明文件。  <br>
 **Yes, please show your ID.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** 在留カードで大丈夫ですか？  <br>
+(zairyuu kaado de daijoubu desu ka?)  <br>
+用居留卡可以嗎？  <br>
+**Is my residence card okay?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**銀行員:** はい、在留カードで問題ありません。印鑑もお持ちですか？  <br>
+(hai, zairyuu kaado de mondai arimasen. inkan mo omochi desu ka?)  <br>
+是的，居留卡沒問題。您有帶印章嗎？  <br>
+**Yes, the residence card is fine. Do you have your seal with you?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** はい、こちらです。  <br>
+(hai, kochira desu.)  <br>
+有，在這裡。  <br>
+**Yes, here it is.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**銀行員:** では、申込書に必要事項を記入していただきます。  <br>
+(dewa, moushikomisho ni hitsuyou jikou o kinyuu shite itadakimasu.)  <br>
+那麼，請您在申請書上填寫必要事項。  <br>
+**Then, please fill in the required information on the application form.**  <br>
 </div>  
 
 ### 重點句型
@@ -69,7 +97,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 ![存款](https://images.unsplash.com/photo-1550345332-09e3ac987658?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** 10万円を預け入れたいです。  <br>
+**顧客:** 10万円を預け入れたいです。  <br>
 (juu man en o azukeire tai desu.)  <br>
 我想存入10萬日圓。  <br>
 **I'd like to deposit 100,000 yen.**  <br>
@@ -78,10 +106,38 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 <br>  
 
 <div style="text-align: right">  
-**B:** はい、通帳と印鑑をお願いします。  <br>
+**銀行員:** はい、通帳と印鑑をお願いします。  <br>
 (hai, tsuuchou to inkan o onegai shimasu.)  <br>
 好的，請出示存摺和印章。  <br>
 **Yes, please show your passbook and seal.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** 定期預金の金利はいくらですか？  <br>
+(teiki yokin no kinri wa ikura desu ka?)  <br>
+定期存款的利率是多少？  <br>
+**What's the interest rate for time deposits?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**銀行員:** 1年定期で0.002%です。  <br>
+(ichinen teiki de rei ten zero zero ni paasento desu.)  <br>
+一年定期是0.002%。  <br>
+**It's 0.002% for one-year fixed deposits.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** では、5万円を定期預金にしたいです。  <br>
+(dewa, goman en o teiki yokin ni shitai desu.)  <br>
+那麼，我想存5萬日圓的定期存款。  <br>
+**Then, I'd like to put 50,000 yen in a time deposit.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**銀行員:** かしこまりました。手続きをさせていただきます。  <br>
+(kashikomarimashita. tetsuzuki o sasete itadakimasu.)  <br>
+好的，我來為您辦理手續。  <br>
+**I understand. I'll process that for you.**  <br>
 </div>  
 
 ### 重點句型
@@ -103,7 +159,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 ![匯款](https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** 海外への送金をお願いします。  <br>
+**顧客:** 海外への送金をお願いします。  <br>
 (kaigai e no soukin o onegai shimasu.)  <br>
 請幫我辦理海外匯款。  <br>
 **I'd like to make an international transfer.**  <br>
@@ -112,10 +168,38 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 <br>  
 
 <div style="text-align: right">  
-**B:** 送金先の情報を教えていただけますか？  <br>
+**銀行員:** 送金先の情報を教えていただけますか？  <br>
 (soukinsaki no jouhou o oshiete itadakemasu ka?)  <br>
 請告訴我匯款對象的資訊。  <br>
 **Could you tell me the recipient's information?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** アメリカの銀行に送金したいです。  <br>
+(amerika no ginkou ni soukin shitai desu.)  <br>
+我想匯款到美國的銀行。  <br>
+**I want to transfer to a bank in America.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**銀行員:** 送金手数料は3,000円になります。  <br>
+(soukin tesuuryou wa sanzen en ni narimasu.)  <br>
+匯款手續費是3,000日圓。  <br>
+**The transfer fee will be 3,000 yen.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** 為替レートはいくらですか？  <br>
+(kawase reeto wa ikura desu ka?)  <br>
+匯率是多少？  <br>
+**What's the exchange rate?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**銀行員:** 現在のレートは1ドル150円です。  <br>
+(genzai no reeto wa ichi doru hyakugojuu en desu.)  <br>
+現在的匯率是1美元兌150日圓。  <br>
+**The current rate is 150 yen per dollar.**  <br>
 </div>  
 
 ### 重點句型
@@ -137,7 +221,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 ![信用卡](https://images.unsplash.com/photo-1471922694854-ff1b63b20054?q=80&w=1200&auto=format&fit=crop)
 
 <div style="text-align: left">  
-**A:** クレジットカードの申し込みをしたいです。  <br>
+**顧客:** クレジットカードの申し込みをしたいです。  <br>
 (kurejitto kaado no moushikomi o shitai desu.)  <br>
 我想申請信用卡。  <br>
 **I'd like to apply for a credit card.**  <br>
@@ -146,10 +230,38 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 <br>  
 
 <div style="text-align: right">  
-**B:** 申込書に必要事項を記入してください。  <br>
+**銀行員:** 申込書に必要事項を記入してください。  <br>
 (moushikomisho ni hitsuyou jikou o kinyuu shite kudasai.)  <br>
 請在申請書上填寫必要事項。  <br>
 **Please fill in the required information on the application form.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** 年収の証明書は必要ですか？  <br>
+(nenshuu no shoumeisho wa hitsuyou desu ka?)  <br>
+需要年收入證明嗎？  <br>
+**Do I need proof of annual income?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**銀行員:** はい、給与明細書のコピーをお願いします。  <br>
+(hai, kyuuyo meisaisho no kopii o onegai shimasu.)  <br>
+是的，請提供薪資單的影本。  <br>
+**Yes, please provide a copy of your pay slip.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** 審査結果はいつわかりますか？  <br>
+(shinsa kekka wa itsu wakarimasu ka?)  <br>
+什麼時候知道審查結果？  <br>
+**When will I know the result of the review?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**銀行員:** 約1週間で結果をお知らせします。  <br>
+(yaku isshuukan de kekka o oshirase shimasu.)  <br>
+大約一週後會通知結果。  <br>
+**We'll notify you of the result in about a week.**  <br>
 </div>  
 
 ### 重點句型
@@ -171,7 +283,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 ![理財](https://images.unsplash.com/photo-1588668214407-6ea9a6d8c272?q=80&w=1200&auto=format&fit=crop)
 
 <div style="text-align: left">  
-**A:** 資産運用について相談したいです。  <br>
+**顧客:** 資産運用について相談したいです。  <br>
 (shisan unyou ni tsuite soudan shitai desu.)  <br>
 我想諮詢資產運用。  <br>
 **I'd like to consult about asset management.**  <br>
@@ -180,10 +292,38 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 <br>  
 
 <div style="text-align: right">  
-**B:** 担当者がご案内いたします。  <br>
+**銀行員:** 担当者がご案内いたします。  <br>
 (tantousha ga go-annai itashimasu.)  <br>
 我會請專員為您說明。  <br>
 **I'll have a specialist guide you.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** 投資信託について詳しく知りたいです。  <br>
+(toushi shintaku ni tsuite kuwashiku shiritai desu.)  <br>
+我想詳細了解投資信託。  <br>
+**I'd like to know more about investment trusts.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**銀行員:** リスクとリターンについて説明させていただきます。  <br>
+(risuku to ritaan ni tsuite setsumei sasete itadakimasu.)  <br>
+我來為您說明風險和報酬。  <br>
+**Let me explain the risks and returns.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** 最低投資額はいくらですか？  <br>
+(saitei toushi gaku wa ikura desu ka?)  <br>
+最低投資金額是多少？  <br>
+**What's the minimum investment amount?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**銀行員:** 10万円から投資可能です。  <br>
+(juu man en kara toushi kanou desu.)  <br>
+從10萬日圓開始可以投資。  <br>
+**You can invest from 100,000 yen.**  <br>
 </div>  
 
 ### 重點句型

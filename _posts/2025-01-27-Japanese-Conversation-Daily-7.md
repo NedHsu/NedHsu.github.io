@@ -36,7 +36,7 @@ tags: [日語, Japanese]
 ![餐廳預約](https://images.unsplash.com/photo-1414235077428-338989a2e8c0?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
-**A:** はい、レストラン「さくら」でございます。  <br>
+**餐廳接待員:** はい、レストラン「さくら」でございます。  <br>
 (hai, resutoran "sakura" de gozaimasu.)  <br>
 您好，這裡是櫻花餐廳。  <br>
 **Hello, this is Sakura Restaurant.**  <br>
@@ -45,7 +45,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** 今晩7時、4名様で予約をお願いしたいのですが。  <br>
+**顧客:** 今晩7時、4名様で予約をお願いしたいのですが。  <br>
 (konban shichiji, yonmeisama de yoyaku o onegai shitai no desu ga.)  <br>
 我想預約今晚7點，4位。  <br>
 **I'd like to make a reservation for 4 people at 7 PM tonight.**  <br>
@@ -54,7 +54,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: left">  
-**A:** はい、承知しました。お名前をお願いします。  <br>
+**餐廳接待員:** はい、承知しました。お名前をお願いします。  <br>
 (hai, shouchi shimashita. o-namae o onegai shimasu.)  <br>
 好的，請告訴我您的姓名。  <br>
 **I understand. May I have your name, please?**  <br>
@@ -79,7 +79,7 @@ tags: [日語, Japanese]
 ![購物退換貨](https://images.unsplash.com/photo-1483985988355-763728e1935b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
-**A:** いらっしゃいませ。何かお手伝いできることはありますか？  <br>
+**店員:** いらっしゃいませ。何かお手伝いできることはありますか？  <br>
 (irasshaimase. nanika o-tetsudai dekiru koto wa arimasu ka?)  <br>
 歡迎光臨。有什麼可以幫您的嗎？  <br>
 **Welcome. How may I help you?**  <br>
@@ -88,7 +88,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** この商品を返品したいのですが。  <br>
+**顧客:** この商品を返品したいのですが。  <br>
 (kono shouhin o henpin shitai no desu ga.)  <br>
 我想退這件商品。  <br>
 **I'd like to return this item.**  <br>
@@ -97,7 +97,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: left">  
-**A:** はい、承知しました。レシートはお持ちですか？  <br>
+**店員:** はい、承知しました。レシートはお持ちですか？  <br>
 (hai, shouchi shimashita. reshiito wa o-mochi desu ka?)  <br>
 好的，請問您有收據嗎？  <br>
 **I understand. Do you have the receipt?**  <br>
@@ -122,7 +122,7 @@ tags: [日語, Japanese]
 ![旅館入住](https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
-**A:** いらっしゃいませ。チェックインでございますか？  <br>
+**櫃檯人員:** いらっしゃいませ。チェックインでございますか？  <br>
 (irasshaimase. chekku-in de gozaimasu ka?)  <br>
 歡迎光臨。是要辦理入住嗎？  <br>
 **Welcome. Are you checking in?**  <br>
@@ -131,7 +131,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** はい、予約をしています。山田と申します。  <br>
+**房客:** はい、予約をしています。山田と申します。  <br>
 (hai, yoyaku o shite imasu. yamada to moushimasu.)  <br>
 是的，我有預約。我姓山田。  <br>
 **Yes, I have a reservation. My name is Yamada.**  <br>
@@ -140,7 +140,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: left">  
-**A:** 山田様ですね。パスポートをお願いします。  <br>
+**櫃檯人員:** 山田様ですね。パスポートをお願いします。  <br>
 (yamada sama desu ne. pasupooto o onegai shimasu.)  <br>
 是山田先生/女士對吧。請出示您的護照。  <br>
 **Mr./Ms. Yamada, right? May I see your passport, please?**  <br>
@@ -165,7 +165,7 @@ tags: [日語, Japanese]
 ![問路](https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
-**A:** すみません、この近くにコンビニはありますか？  <br>
+**路人:** すみません、この近くにコンビニはありますか？  <br>
 (sumimasen, kono chikaku ni konbini wa arimasu ka?)  <br>
 不好意思，請問這附近有便利商店嗎？  <br>
 **Excuse me, is there a convenience store nearby?**  <br>
@@ -174,7 +174,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** はい、この道をまっすぐ行って、右側にあります。  <br>
+**當地人:** はい、この道をまっすぐ行って、右側にあります。  <br>
 (hai, kono michi o massugu itte, migigawa ni arimasu.)  <br>
 有的，沿著這條路直走，在右側。  <br>
 **Yes, go straight down this road, it's on the right side.**  <br>
@@ -183,7 +183,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: left">  
-**A:** ありがとうございます。  <br>
+**路人:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 非常感謝。  <br>
 **Thank you very much.**  <br>
@@ -208,7 +208,7 @@ tags: [日語, Japanese]
 ![天氣預報](https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
-**A:** 今日の天気予報を確認しましょう。  <br>
+**氣象播報員:** 今日の天気予報を確認しましょう。  <br>
 (kyou no tenki yohou o kakunin shimashou.)  <br>
 讓我們來看看今天的天氣預報。  <br>
 **Let's check today's weather forecast.**  <br>
@@ -217,7 +217,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** はい、お願いします。  <br>
+**觀眾:** はい、お願いします。  <br>
 (hai, onegai shimasu.)  <br>
 好的，麻煩您了。  <br>
 **Yes, please.**  <br>
@@ -226,7 +226,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: left">  
-**A:** 今日は晴れのち曇り、最高気温は25度です。  <br>
+**氣象播報員:** 今日は晴れのち曇り、最高気温は25度です。  <br>
 (kyou wa hare nochi kumori, saikou kion wa nijuugo do desu.)  <br>
 今天晴轉陰，最高氣溫25度。  <br>
 **Today will be sunny then cloudy, with a high of 25 degrees.**  <br>
@@ -238,7 +238,7 @@ tags: [日語, Japanese]
 - お願いします。(onegai shimasu) - 麻煩您了
 
 ### 相關單字
-- 天気予報 (tenki yohou) - 天氣預報
+- 天氣予報 (tenki yohou) - 天氣預報
 - 晴れ (hare) - 晴天
 - 曇り (kumori) - 陰天
 - 雨 (ame) - 雨

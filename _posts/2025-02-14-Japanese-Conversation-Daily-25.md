@@ -35,7 +35,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 ![飲料](https://images.unsplash.com/photo-1604719312566-8912e9227c6a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** コーヒーをください。  <br>
+**顧客:** コーヒーをください。  <br>
 (koohii o kudasai.)  <br>
 請給我咖啡。  <br>
 **I'd like a coffee, please.**  <br>
@@ -44,10 +44,24 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
-**B:** ホットですか、アイスですか？  <br>
+**店員:** ホットですか、アイスですか？  <br>
 (hotto desu ka, aisu desu ka?)  <br>
 要熱的還是冰的？  <br>
 **Would you like it hot or iced?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** ホットでお願いします。  <br>
+(hotto de onegai shimasu.)  <br>
+請給我熱的。  <br>
+**I'd like it hot, please.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**店員:** 砂糖とミルクはお入れしますか？  <br>
+(satou to miruku wa oire shimasu ka?)  <br>
+要加糖和牛奶嗎？  <br>
+**Would you like sugar and milk?**  <br>
 </div>  
 
 ### 重點句型
@@ -69,7 +83,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 ![甜點](https://images.unsplash.com/photo-1600334129128-685c5582fd35?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** ケーキをください。  <br>
+**顧客:** ケーキをください。  <br>
 (keeki o kudasai.)  <br>
 請給我蛋糕。  <br>
 **I'd like a cake, please.**  <br>
@@ -78,10 +92,24 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
-**B:** どのケーキがよろしいですか？  <br>
+**店員:** どのケーキがよろしいですか？  <br>
 (dono keeki ga yoroshii desu ka?)  <br>
 要哪種蛋糕？  <br>
 **Which cake would you like?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** おすすめはありますか？  <br>
+(osusume wa arimasu ka?)  <br>
+有什麼推薦的嗎？  <br>
+**What do you recommend?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**店員:** はい、当店の名物はチーズケーキです。  <br>
+(hai, touten no meibutsu wa chiizu keeki desu.)  <br>
+有的，本店的招牌是起司蛋糕。  <br>
+**Yes, our specialty is cheesecake.**  <br>
 </div>  
 
 ### 重點句型
@@ -103,7 +131,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 ![菜單](https://images.unsplash.com/photo-1589758438368-0ad531db3366?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** メニューを見せていただけますか？  <br>
+**顧客:** メニューを見せていただけますか？  <br>
 (menyuu o misete itadakemasu ka?)  <br>
 可以給我看菜單嗎？  <br>
 **Could you show me the menu?**  <br>
@@ -112,10 +140,24 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
-**B:** はい、こちらです。  <br>
+**店員:** はい、こちらです。  <br>
 (hai, kochira desu.)  <br>
 好的，這是菜單。  <br>
 **Yes, here it is.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** 英語のメニューはありますか？  <br>
+(eigo no menyuu wa arimasu ka?)  <br>
+有英文菜單嗎？  <br>
+**Do you have an English menu?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**店員:** はい、こちらが英語版です。  <br>
+(hai, kochira ga eigo ban desu.)  <br>
+是的，這是英文版本。  <br>
+**Yes, here's the English version.**  <br>
 </div>  
 
 ### 重點句型
@@ -137,7 +179,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 ![結帳](https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** お会計をお願いします。  <br>
+**顧客:** お会計をお願いします。  <br>
 (okaikei o onegai shimasu.)  <br>
 請幫我結帳。  <br>
 **I'd like to pay, please.**  <br>
@@ -146,10 +188,24 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
-**B:** 合計で1,200円になります。  <br>
+**店員:** 合計で1,200円になります。  <br>
 (goukei de sen nihyaku en ni narimasu.)  <br>
 總共是1,200日圓。  <br>
 **That will be 1,200 yen in total.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** カードで支払えますか？  <br>
+(kaado de shiharaemasu ka?)  <br>
+可以刷卡嗎？  <br>
+**Can I pay by card?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**店員:** はい、クレジットカードも電子マネーも使えます。  <br>
+(hai, kurejitto kaado mo denshi manee mo tsukaemasu.)  <br>
+是的，可以使用信用卡和電子錢包。  <br>
+**Yes, you can use credit cards and electronic money.**  <br>
 </div>  
 
 ### 重點句型
@@ -171,7 +227,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 ![打包](https://images.unsplash.com/photo-1534214526114-0ea4d47b04f2?q=80&w=1200&auto=format&fit=crop)
 
 <div style="text-align: left">  
-**A:** 残りを包んでいただけますか？  <br>
+**顧客:** 残りを包んでいただけますか？  <br>
 (nokori o tsutsunde itadakemasu ka?)  <br>
 可以幫我打包剩下的嗎？  <br>
 **Could you wrap up the leftovers?**  <br>
@@ -180,10 +236,24 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
-**B:** はい、承知しました。  <br>
+**店員:** はい、承知しました。  <br>
 (hai, shouchi shimashita.)  <br>
 好的，我知道了。  <br>
 **Yes, I understand.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** お持ち帰り用の袋もお願いします。  <br>
+(omochikaeri you no fukuro mo onegai shimasu.)  <br>
+也請給我外帶用的袋子。  <br>
+**Please also give me a takeout bag.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**店員:** かしこまりました。こちらがお持ち帰り用の袋です。  <br>
+(kashikomarimashita. kochira ga omochikaeri you no fukuro desu.)  <br>
+好的，這是外帶用的袋子。  <br>
+**Here's the takeout bag.**  <br>
 </div>  
 
 ### 重點句型

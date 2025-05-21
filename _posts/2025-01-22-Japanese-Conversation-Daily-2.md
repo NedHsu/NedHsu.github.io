@@ -33,37 +33,40 @@ tags: [日語, Japanese]
 ![服飾店購物](https://images.unsplash.com/photo-1483985988355-763728e1935b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
-**A:** いらっしゃいませ！何かお探しですか？  <br>
-(irasshaimase! nanika o-sagashi desu ka?)  <br>
-歡迎光臨！請問您在找什麼呢？  <br>
-**Welcome! Are you looking for something?**  <br>
+**店員:** いらっしゃいませ。何かお探しですか？  <br>
+(irasshaimase. nanika o-sagashi desu ka?)  <br>
+歡迎光臨。請問您在找什麼？  <br>
+**Welcome. Are you looking for something?**  <br>
 </div>  
 
 <br>  
 
 <div style="text-align: right">  
-**B:** はい、冬物のコートを探しています。  <br>
-(hai, fuyumono no kooto o sagashite imasu.)  <br>
-是的，我在找冬天的外套。  <br>
-**Yes, I'm looking for a winter coat.**  <br>
+**顧客:** このシャツのサイズを確認したいです。  <br>
+(kono shatsu no saizu o kakunin shitai desu.)  <br>
+我想確認這件襯衫的尺寸。  <br>
+**I'd like to check the size of this shirt.**  <br>
 </div>  
-
-<br>  
 
 <div style="text-align: left">  
-**A:** こちらのコートはいかがでしょうか？  <br>
-(kochira no kooto wa ikaga deshou ka?)  <br>
-這件外套您覺得如何？  <br>
-**How about this coat?**  <br>
+**店員:** はい、サイズはこちらに表示されています。  <br>
+(hai, saizu wa kochira ni hyouji sarete imasu.)  <br>
+好的，尺寸標示在這裡。  <br>
+**Yes, the size is shown here.**  <br>
 </div>  
 
-<br>  
-
 <div style="text-align: right">  
-**B:** 試着してもいいですか？  <br>
-(shichaku shite mo ii desu ka?)  <br>
-可以試穿嗎？  <br>
-**May I try it on?**  <br>
+**顧客:** 試着室はどこですか？  <br>
+(shichakushitsu wa doko desu ka?)  <br>
+試衣間在哪裡？  <br>
+**Where is the fitting room?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**店員:** 奥の右側にございます。  <br>
+(oku no migigawa ni gozaimasu.)  <br>
+在裡面右側。  <br>
+**It's on the right side in the back.**  <br>
 </div>  
 
 ### 重點句型
@@ -243,7 +246,7 @@ tags: [日語, Japanese]
 ![飯店入住](https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
-**A:** いらっしゃいませ。チェックインでございますか？  <br>
+**店員:** いらっしゃいませ。チェックインでございますか？  <br>
 (irasshaimase. chekku-in de gozaimasu ka?)  <br>
 歡迎光臨。是要辦理入住嗎？  <br>
 **Welcome. Are you checking in?**  <br>
@@ -252,7 +255,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** はい、予約をしています。山田と申します。  <br>
+**顧客:** はい、予約をしています。山田と申します。  <br>
 (hai, yoyaku o shite imasu. yamada to moushimasu.)  <br>
 是的，我有預約。我姓山田。  <br>
 **Yes, I have a reservation. My name is Yamada.**  <br>
@@ -261,7 +264,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: left">  
-**A:** 山田様ですね。パスポートをお願いします。  <br>
+**店員:** 山田様ですね。パスポートをお願いします。  <br>
 (yamada sama desu ne. pasupooto o onegai shimasu.)  <br>
 是山田先生/女士對吧。請出示您的護照。  <br>
 **Mr./Ms. Yamada, right? May I see your passport, please?**  <br>
@@ -270,7 +273,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** はい、どうぞ。  <br>
+**顧客:** はい、どうぞ。  <br>
 (hai, douzo.)  <br>
 好的，請看。  <br>
 **Here you are.**  <br>
@@ -279,7 +282,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: left">  
-**A:** ありがとうございます。お部屋は1205号室です。  <br>
+**店員:** ありがとうございます。お部屋は1205号室です。  <br>
 (arigatou gozaimasu. o-heya wa sen nihyaku go gou shitsu desu.)  <br>
 謝謝。您的房間是1205號房。  <br>
 **Thank you. Your room is 1205.**  <br>
@@ -288,7 +291,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** チェックアウトは何時ですか？  <br>
+**顧客:** チェックアウトは何時ですか？  <br>
 (chekku-auto wa nanji desu ka?)  <br>
 請問退房時間是幾點？  <br>
 **What time is check-out?**  <br>
@@ -297,7 +300,7 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: left">  
-**A:** 11時まででございます。  <br>
+**店員:** 11時まででございます。  <br>
 (juuichiji made de gozaimasu.)  <br>
 是上午11點。  <br>
 **It's 11 AM.**  <br>

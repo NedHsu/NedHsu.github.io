@@ -35,7 +35,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 ![預約](https://images.unsplash.com/photo-1522337660859-02fbefca4702?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** カットの予約をお願いします。  <br>
+**顧客:** カットの予約をお願いします。  <br>
 (katto no yoyaku o onegai shimasu.)  <br>
 我想預約剪髮。  <br>
 **I'd like to make an appointment for a haircut.**  <br>
@@ -44,10 +44,38 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 <br>  
 
 <div style="text-align: right">  
-**B:** 何時がご希望ですか？  <br>
+**美容師:** 何時がご希望ですか？  <br>
 (nanji ga gokibou desu ka?)  <br>
 您希望什麼時候？  <br>
 **What time would you prefer?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** 明日の午後2時は空いていますか？  <br>
+(ashita no gogo niji wa aite imasu ka?)  <br>
+明天下午2點有空嗎？  <br>
+**Is 2 p.m. tomorrow available?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**美容師:** はい、ご予約できます。  <br>
+(hai, go yoyaku dekimasu.)  <br>
+是的，可以預約。  <br>
+**Yes, we can make that appointment.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** カットとカラーのセットでお願いします。  <br>
+(katto to karaa no setto de onegai shimasu.)  <br>
+請幫我預約剪髮和染髮的套餐。  <br>
+**I'd like to book a haircut and color set.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**美容師:** かしこまりました。お名前をお願いします。  <br>
+(kashikomarimashita. onamae o onegai shimasu.)  <br>
+好的，請告訴我您的姓名。  <br>
+**Certainly. May I have your name?**  <br>
 </div>  
 
 ### 重點句型
@@ -69,7 +97,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 ![剪髮](https://images.unsplash.com/photo-1588668214407-6ea9a6d8c272?q=80&w=1200&auto=format&fit=crop)
 
 <div style="text-align: left">  
-**A:** 前髪を少し短くしてください。  <br>
+**顧客:** 前髪を少し短くしてください。  <br>
 (maegami o sukoshi mijikaku shite kudasai.)  <br>
 請把瀏海剪短一點。  <br>
 **Please make my bangs a little shorter.**  <br>
@@ -78,10 +106,38 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 <br>  
 
 <div style="text-align: right">  
-**B:** このくらいでよろしいですか？  <br>
+**美容師:** このくらいでよろしいですか？  <br>
 (kono kurai de yoroshii desu ka?)  <br>
 這個長度可以嗎？  <br>
 **Is this length okay?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** もう少し短くお願いします。  <br>
+(mou sukoshi mijikaku onegai shimasu.)  <br>
+請再剪短一點。  <br>
+**Please make it a bit shorter.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**美容師:** はい、承知しました。  <br>
+(hai, shouchi shimashita.)  <br>
+好的，我知道了。  <br>
+**Yes, I understand.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** 横髪も少し整えてください。  <br>
+(yokogami mo sukoshi totonoete kudasai.)  <br>
+也請幫我整理一下側邊的頭髮。  <br>
+**Please also trim the sides a bit.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**美容師:** はい、自然な感じに仕上げます。  <br>
+(hai, shizen na kanji ni shiagemasu.)  <br>
+好的，我會幫您整理成自然的樣子。  <br>
+**Yes, I'll style it to look natural.**  <br>
 </div>  
 
 ### 重點句型
@@ -103,7 +159,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 ![染髮](https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** この色に染めたいです。  <br>
+**顧客:** この色に染めたいです。  <br>
 (kono iro ni sometai desu.)  <br>
 我想染這個顏色。  <br>
 **I'd like to dye my hair this color.**  <br>
@@ -112,10 +168,38 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 <br>  
 
 <div style="text-align: right">  
-**B:** トリートメントも一緒にしますか？  <br>
+**美容師:** トリートメントも一緒にしますか？  <br>
 (toriitomento mo issho ni shimasu ka?)  <br>
 要一起做護髮嗎？  <br>
 **Would you like a treatment as well?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** はい、お願いします。  <br>
+(hai, onegai shimasu.)  <br>
+好的，麻煩您了。  <br>
+**Yes, please.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**美容師:** 色持ちを良くするために、トリートメントをお勧めします。  <br>
+(iromochi o yoku suru tame ni, toriitomento o osusume shimasu.)  <br>
+為了讓顏色持久，我建議做護髮。  <br>
+**I recommend the treatment to help the color last longer.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** 染めた後はどのくらい持続しますか？  <br>
+(someta ato wa dono kurai jizoku shimasu ka?)  <br>
+染完後可以維持多久？  <br>
+**How long will the color last?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**美容師:** 約2ヶ月ほど持続します。  <br>
+(yaku nikagetsu hodo jizoku shimasu.)  <br>
+大約可以維持2個月。  <br>
+**It will last for about 2 months.**  <br>
 </div>  
 
 ### 重點句型
@@ -137,7 +221,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 ![美甲](https://images.unsplash.com/photo-1519014816548-bf5fe059798b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** ネイルのデザインを見せてください。  <br>
+**顧客:** ネイルのデザインを見せてください。  <br>
 (neiru no dezain o misete kudasai.)  <br>
 請讓我看看美甲設計。  <br>
 **Please show me the nail designs.**  <br>
@@ -146,10 +230,38 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 <br>  
 
 <div style="text-align: right">  
-**B:** こちらが人気のデザインです。  <br>
+**美容師:** こちらが人気のデザインです。  <br>
 (kochira ga ninki no dezain desu.)  <br>
 這些是熱門的設計。  <br>
 **These are our popular designs.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** このデザインはどのくらい時間がかかりますか？  <br>
+(kono dezain wa dono kurai jikan ga kakarimasu ka?)  <br>
+這個設計需要多久時間？  <br>
+**How long will this design take?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**美容師:** 約1時間半かかります。  <br>
+(yaku ichijikanhan kakarimasu.)  <br>
+大約需要1個半小時。  <br>
+**It will take about an hour and a half.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** ジェルネイルは何日くらい持ちますか？  <br>
+(jeru neiru wa nannichi kurai mochimasu ka?)  <br>
+凝膠美甲可以維持幾天？  <br>
+**How many days will the gel nails last?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**美容師:** 2週間から3週間ほど持ちます。  <br>
+(nishuukan kara sanshuukan hodo mochimasu.)  <br>
+可以維持2到3週。  <br>
+**They will last for 2 to 3 weeks.**  <br>
 </div>  
 
 ### 重點句型
@@ -171,7 +283,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 ![付款](https://images.unsplash.com/photo-1556742044-3c52d6e88c62?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** お会計をお願いします。  <br>
+**顧客:** お会計をお願いします。  <br>
 (okaikei o onegai shimasu.)  <br>
 請幫我結帳。  <br>
 **I'd like to pay, please.**  <br>
@@ -180,10 +292,38 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 <br>  
 
 <div style="text-align: right">  
-**B:** 合計で8,500円になります。  <br>
+**美容師:** 合計で8,500円になります。  <br>
 (goukei de hassen gohyaku en ni narimasu.)  <br>
 總共是8,500日圓。  <br>
 **That will be 8,500 yen in total.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** クレジットカードで支払えますか？  <br>
+(kurejitto kaado de shiharaemasu ka?)  <br>
+可以刷卡嗎？  <br>
+**Can I pay by credit card?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**美容師:** はい、ご利用いただけます。  <br>
+(hai, go riyou itadakemasu.)  <br>
+是的，可以使用。  <br>
+**Yes, you can.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** 次回の予約もお願いします。  <br>
+(jikai no yoyaku mo onegai shimasu.)  <br>
+也請幫我預約下次。  <br>
+**I'd also like to make my next appointment.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**美容師:** はい、いつがご希望ですか？  <br>
+(hai, itsu ga gokibou desu ka?)  <br>
+好的，您希望什麼時候？  <br>
+**Yes, when would you prefer?**  <br>
 </div>  
 
 ### 重點句型

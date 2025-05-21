@@ -35,7 +35,7 @@ excerpt: 學習在日本溫泉和澡堂時常用的日語對話，包括詢問�
 ![價格](https://images.unsplash.com/photo-1604719312566-8912e9227c6a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** 入浴料はいくらですか？  <br>
+**顧客:** 入浴料はいくらですか？  <br>
 (nyuuyokuryou wa ikura desu ka?)  <br>
 入浴費用是多少？  <br>
 **How much is the bathing fee?**  <br>
@@ -44,10 +44,24 @@ excerpt: 學習在日本溫泉和澡堂時常用的日語對話，包括詢問�
 <br>  
 
 <div style="text-align: right">  
-**B:** 大人は1,000円です。  <br>
+**櫃台人員:** 大人は1,000円です。  <br>
 (otona wa sen en desu.)  <br>
 大人是1,000日圓。  <br>
 **It's 1,000 yen for adults.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** 子供はいくらですか？  <br>
+(kodomo wa ikura desu ka?)  <br>
+小孩是多少錢？  <br>
+**How much for children?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**櫃台人員:** 子供は500円です。3歳以下は無料です。  <br>
+(kodomo wa gohyaku en desu. sansai ika wa muryou desu.)  <br>
+小孩是500日圓。3歲以下是免費的。  <br>
+**It's 500 yen for children. Free for children under 3 years old.**  <br>
 </div>  
 
 ### 重點句型
@@ -69,7 +83,7 @@ excerpt: 學習在日本溫泉和澡堂時常用的日語對話，包括詢問�
 ![設施](https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=1200&auto=format&fit=crop)
 
 <div style="text-align: left">  
-**A:** タオルはありますか？  <br>
+**顧客:** タオルはありますか？  <br>
 (taoru wa arimasu ka?)  <br>
 有毛巾嗎？  <br>
 **Do you have towels?**  <br>
@@ -78,10 +92,24 @@ excerpt: 學習在日本溫泉和澡堂時常用的日語對話，包括詢問�
 <br>  
 
 <div style="text-align: right">  
-**B:** はい、こちらで販売しています。  <br>
+**櫃台人員:** はい、こちらで販売しています。  <br>
 (hai, kochira de hanbai shite imasu.)  <br>
 有的，在這裡販賣。  <br>
 **Yes, we sell them here.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** 使い方は教えていただけますか？  <br>
+(tsukaikata o oshiete itadakemasu ka?)  <br>
+可以教我使用方法嗎？  <br>
+**Could you teach me how to use it?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**櫃台人員:** はい、まず体を洗ってから、湯船に入ってください。  <br>
+(hai, mazu karada o aratte kara, yubune ni haitte kudasai.)  <br>
+好的，請先沖洗身體，然後再進入浴池。  <br>
+**Yes, please wash your body first, then enter the bath.**  <br>
 </div>  
 
 ### 重點句型
@@ -103,7 +131,7 @@ excerpt: 學習在日本溫泉和澡堂時常用的日語對話，包括詢問�
 ![用品](https://images.unsplash.com/photo-1542401886-65d6c61db217?q=80&w=1200&auto=format&fit=crop)
 
 <div style="text-align: left">  
-**A:** 石鹸をください。  <br>
+**顧客:** 石鹸をください。  <br>
 (sekken o kudasai.)  <br>
 請給我肥皂。  <br>
 **I'd like some soap, please.**  <br>
@@ -112,10 +140,24 @@ excerpt: 學習在日本溫泉和澡堂時常用的日語對話，包括詢問�
 <br>  
 
 <div style="text-align: right">  
-**B:** はい、こちらです。  <br>
+**店員:** はい、こちらです。  <br>
 (hai, kochira desu.)  <br>
 好的，這是肥皂。  <br>
 **Yes, here it is.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** 他に必要なものはありますか？  <br>
+(hoka ni hitsuyou na mono wa arimasu ka?)  <br>
+還需要其他東西嗎？  <br>
+**Do I need anything else?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**店員:** シャンプーとリンスもお勧めです。  <br>
+(shanpuu to rinsu mo osusume desu.)  <br>
+我建議您也買洗髮精和潤髮乳。  <br>
+**I recommend shampoo and conditioner as well.**  <br>
 </div>  
 
 ### 重點句型
@@ -137,7 +179,7 @@ excerpt: 學習在日本溫泉和澡堂時常用的日語對話，包括詢問�
 ![結帳](https://images.unsplash.com/photo-1553451133-8083c47243d6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** お会計をお願いします。  <br>
+**顧客:** お会計をお願いします。  <br>
 (okaikei o onegai shimasu.)  <br>
 請幫我結帳。  <br>
 **I'd like to pay, please.**  <br>
@@ -146,10 +188,24 @@ excerpt: 學習在日本溫泉和澡堂時常用的日語對話，包括詢問�
 <br>  
 
 <div style="text-align: right">  
-**B:** 合計で1,500円になります。  <br>
+**櫃台人員:** 合計で1,500円になります。  <br>
 (goukei de sen gohyaku en ni narimasu.)  <br>
 總共是1,500日圓。  <br>
 **That will be 1,500 yen in total.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** カードで支払えますか？  <br>
+(kaado de shiharaemasu ka?)  <br>
+可以刷卡嗎？  <br>
+**Can I pay by card?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**櫃台人員:** はい、クレジットカードも電子マネーも使えます。  <br>
+(hai, kurejitto kaado mo denshi manee mo tsukaemasu.)  <br>
+是的，可以使用信用卡和電子錢包。  <br>
+**Yes, you can use credit cards and electronic money.**  <br>
 </div>  
 
 ### 重點句型
@@ -171,7 +227,7 @@ excerpt: 學習在日本溫泉和澡堂時常用的日語對話，包括詢問�
 ![注意](https://images.unsplash.com/photo-1563911302283-d2bc129e7570?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** 注意事項を教えていただけますか？  <br>
+**顧客:** 注意事項を教えていただけますか？  <br>
 (chuuishikou o oshiete itadakemasu ka?)  <br>
 可以告訴我注意事項嗎？  <br>
 **Could you tell me the precautions?**  <br>
@@ -180,10 +236,24 @@ excerpt: 學習在日本溫泉和澡堂時常用的日語對話，包括詢問�
 <br>  
 
 <div style="text-align: right">  
-**B:** はい、こちらに書いてあります。  <br>
+**櫃台人員:** はい、こちらに書いてあります。  <br>
 (hai, kochira ni kaite arimasu.)  <br>
 好的，寫在這裡。  <br>
 **Yes, they're written here.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** 英語の説明はありますか？  <br>
+(eigo no setsumei wa arimasu ka?)  <br>
+有英文說明嗎？  <br>
+**Is there an English explanation?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**櫃台人員:** はい、こちらが英語版です。  <br>
+(hai, kochira ga eigo ban desu.)  <br>
+是的，這是英文版本。  <br>
+**Yes, here's the English version.**  <br>
 </div>  
 
 ### 重點句型

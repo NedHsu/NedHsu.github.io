@@ -35,7 +35,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 ![掛號](https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** 初診ですが、受付をお願いします。  <br>
+**患者:** 初診ですが、受付をお願いします。  <br>
 (shoshin desu ga, uketsuke o onegai shimasu.)  <br>
 我是初診，請幫我掛號。  <br>
 **This is my first visit, I'd like to register.**  <br>
@@ -44,10 +44,24 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 <br>  
 
 <div style="text-align: right">  
-**B:** 健康保険証をお持ちですか？  <br>
+**櫃台人員:** 健康保険証をお持ちですか？  <br>
 (kenkou hokenshou o omochi desu ka?)  <br>
 您有帶健保卡嗎？  <br>
 **Do you have your health insurance card?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**患者:** はい、こちらです。  <br>
+(hai, kochira desu.)  <br>
+有，在這裡。  <br>
+**Yes, here it is.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**櫃台人員:** 問診票のご記入もお願いします。  <br>
+(monshinhyou no gokinyuu mo onegai shimasu.)  <br>
+請填寫問診表。  <br>
+**Please fill out this medical questionnaire.**  <br>
 </div>  
 
 ### 重點句型
@@ -69,7 +83,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 ![看診](https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** 頭が痛くて、熱があります。  <br>
+**患者:** 頭が痛くて、熱があります。  <br>
 (atama ga itakute, netsu ga arimasu.)  <br>
 我頭痛，而且發燒。  <br>
 **I have a headache and fever.**  <br>
@@ -78,10 +92,24 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 <br>  
 
 <div style="text-align: right">  
-**B:** いつから症状が出始めましたか？  <br>
+**醫生:** いつから症状が出始めましたか？  <br>
 (itsu kara shoujou ga dehajimemashita ka?)  <br>
 症狀是什麼時候開始的？  <br>
 **When did the symptoms start?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**患者:** 昨日の夜からです。  <br>
+(kinou no yoru kara desu.)  <br>
+從昨天晚上開始。  <br>
+**Since last night.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**醫生:** 他に症状はありますか？  <br>
+(hoka ni shoujou wa arimasu ka?)  <br>
+還有其他症狀嗎？  <br>
+**Do you have any other symptoms?**  <br>
 </div>  
 
 ### 重點句型
@@ -103,7 +131,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 ![檢查](https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?q=80&w=1200&auto=format&fit=crop)
 
 <div style="text-align: left">  
-**A:** 検査が必要ですか？  <br>
+**患者:** 検査が必要ですか？  <br>
 (kensa ga hitsuyou desu ka?)  <br>
 需要做檢查嗎？  <br>
 **Do I need any tests?**  <br>
@@ -112,10 +140,24 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 <br>  
 
 <div style="text-align: right">  
-**B:** はい、血液検査をしましょう。  <br>
+**醫生:** はい、血液検査をしましょう。  <br>
 (hai, ketsueki kensa o shimashou.)  <br>
 是的，我們來做血液檢查。  <br>
 **Yes, let's do a blood test.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**患者:** 検査の結果はいつわかりますか？  <br>
+(kensa no kekka wa itsu wakarimasu ka?)  <br>
+檢查結果什麼時候會知道？  <br>
+**When will the test results be available?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**醫生:** 本日中にご案内できます。  <br>
+(honjitsu chuu ni goannai dekimasu.)  <br>
+今天之內會通知您。  <br>
+**We can inform you within today.**  <br>
 </div>  
 
 ### 重點句型
@@ -137,7 +179,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 ![領藥](https://images.unsplash.com/photo-1553451133-8083c47243d6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** 薬の飲み方を教えていただけますか？  <br>
+**患者:** 薬の飲み方を教えていただけますか？  <br>
 (kusuri no nomikata o oshiete itadakemasu ka?)  <br>
 可以告訴我藥的服用方法嗎？  <br>
 **Could you tell me how to take the medicine?**  <br>
@@ -146,10 +188,24 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 <br>  
 
 <div style="text-align: right">  
-**B:** はい、1日3回、食後に飲んでください。  <br>
+**藥師:** はい、1日3回、食後に飲んでください。  <br>
 (hai, ichinichi sankai, shokugo ni nonde kudasai.)  <br>
 好的，一天三次，飯後服用。  <br>
 **Yes, take it three times a day after meals.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**患者:** 副作用はありますか？  <br>
+(fukusayou wa arimasu ka?)  <br>
+有副作用嗎？  <br>
+**Are there any side effects?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**藥師:** 眠気が出る場合がありますので、運転は控えてください。  <br>
+(nemuke ga deru baai ga arimasu node, unten wa hikaete kudasai.)  <br>
+可能會嗜睡，請避免開車。  <br>
+**You may feel drowsy, so please avoid driving.**  <br>
 </div>  
 
 ### 重點句型
@@ -171,7 +227,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 ![複診](https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** 次回の診察を予約したいです。  <br>
+**患者:** 次回の診察を予約したいです。  <br>
 (jikai no shinsatsu o yoyaku shitai desu.)  <br>
 我想預約下次看診。  <br>
 **I'd like to make an appointment for my next visit.**  <br>
@@ -180,10 +236,24 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 <br>  
 
 <div style="text-align: right">  
-**B:** 来週の月曜日はいかがですか？  <br>
+**櫃台人員:** 来週の月曜日はいかがですか？  <br>
 (raishuu no getsuyoubi wa ikaga desu ka?)  <br>
 下週一如何？  <br>
 **How about next Monday?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**患者:** 午前中が希望です。  <br>
+(gozenchuu ga kibou desu.)  <br>
+希望在上午。  <br>
+**I prefer the morning.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**櫃台人員:** 10時からご案内できます。  <br>
+(juuji kara goannai dekimasu.)  <br>
+可以從10點開始。  <br>
+**We can see you from 10 o'clock.**  <br>
 </div>  
 
 ### 重點句型

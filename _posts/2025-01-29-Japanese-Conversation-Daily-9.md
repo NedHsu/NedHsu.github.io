@@ -34,7 +34,7 @@ tags: [日語, Japanese]
 ![餐廳入口](https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
 
 <div style="text-align: left">  
-**A:** いらっしゃいませ。何名様ですか？  <br>
+**店員:** いらっしゃいませ。何名様ですか？  <br>
 (irasshaimase. nanmei sama desu ka?)  <br>
 歡迎光臨。請問幾位？  <br>
 **Welcome. How many people?**  <br>
@@ -43,10 +43,31 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** 2人です。  <br>
-(futari desu.)  <br>
-兩位。  <br>
-**Two people.**  <br>
+**顧客:** 2人です。禁煙席をお願いします。  <br>
+(futari desu. kin'en seki o onegai shimasu.)  <br>
+兩位。請給我禁煙區的座位。  <br>
+**Two people. Non-smoking seats, please.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**店員:** かしこまりました。こちらへどうぞ。  <br>
+(kashikomarimashita. kochira e douzo.)  <br>
+好的，請往這邊走。  <br>
+**I understand. This way, please.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**顧客:** 予約は必要ですか？  <br>
+(yoyaku wa hitsuyou desu ka?)  <br>
+需要預約嗎？  <br>
+**Do we need a reservation?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**店員:** 土日は予約をお勧めします。  <br>
+(doyoubi nichiyoubi wa yoyaku o o-susume shimasu.)  <br>
+週末建議預約。  <br>
+**We recommend reservations on weekends.**  <br>
 </div>  
 
 ### 重點句型
@@ -68,7 +89,7 @@ tags: [日語, Japanese]
 ![點餐](https://images.unsplash.com/photo-1556741533-6e6a62bd8b49?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** ご注文はお決まりでしょうか？  <br>
+**店員:** ご注文はお決まりでしょうか？  <br>
 (go-chumon wa o-kimari deshou ka?)  <br>
 請問您決定好要點什麼了嗎？  <br>
 **Have you decided what to order?**  <br>
@@ -77,10 +98,31 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** おすすめは何ですか？  <br>
+**顧客:** おすすめは何ですか？  <br>
 (o-susume wa nan desu ka?)  <br>
 有什麼推薦的嗎？  <br>
 **What do you recommend?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**店員:** 本日の特選は和牛ステーキです。  <br>
+(honjitsu no tokusen wa wagyuu suteeki desu.)  <br>
+今天的特選是和牛牛排。  <br>
+**Today's special is Wagyu steak.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**顧客:** それをお願いします。サイドディッシュは何がありますか？  <br>
+(sore o onegai shimasu. saido disshu wa nani ga arimasu ka?)  <br>
+請給我那個。有什麼配菜？  <br>
+**I'll have that. What side dishes do you have?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**店員:** サラダ、ポテト、ライスからお選びいただけます。  <br>
+(sarada, poteto, raisu kara o-erabi itadakemasu.)  <br>
+可以選擇沙拉、馬鈴薯或白飯。  <br>
+**You can choose from salad, potatoes, or rice.**  <br>
 </div>  
 
 ### 重點句型
@@ -102,7 +144,7 @@ tags: [日語, Japanese]
 ![服務](https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** すみません。お水をください。  <br>
+**顧客:** すみません。お水をください。  <br>
 (sumimasen. o-mizu o kudasai.)  <br>
 不好意思，請給我水。  <br>
 **Excuse me. Could I have some water?**  <br>
@@ -111,10 +153,31 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** かしこまりました。  <br>
+**店員:** かしこまりました。  <br>
 (kashikomarimashita.)  <br>
 好的，馬上來。  <br>
 **I'll bring it right away.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** もう一つビールをお願いします。  <br>
+(mou hitotsu biiru o onegai shimasu.)  <br>
+再給我一杯啤酒。  <br>
+**I'd like another beer, please.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**店員:** かしこまりました。お手拭きもお持ちしましょうか？  <br>
+(kashikomarimashita. o-tefuki mo o-mochi shimashou ka?)  <br>
+好的，要幫您拿濕紙巾嗎？  <br>
+**I understand. Would you like some wet towels as well?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** はい、お願いします。  <br>
+(hai, onegai shimasu.)  <br>
+好的，麻煩您了。  <br>
+**Yes, please.**  <br>
 </div>  
 
 ### 重點句型
@@ -136,7 +199,7 @@ tags: [日語, Japanese]
 ![結帳](https://images.unsplash.com/photo-1589758438368-0ad531db3366?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** お会計は3,500円になります。  <br>
+**店員:** お会計は3,500円になります。  <br>
 (o-kaikei wa sanzen gohyaku en ni narimasu.)  <br>
 總共是3,500日圓。  <br>
 **The total is 3,500 yen.**  <br>
@@ -145,10 +208,31 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** クレジットカードでお願いします。  <br>
+**顧客:** クレジットカードでお願いします。  <br>
 (kurejitto kaado de onegai shimasu.)  <br>
 請用信用卡付款。  <br>
 **I'll pay by credit card.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**店員:** かしこまりました。領収書もお持ちしましょうか？  <br>
+(kashikomarimashita. ryoushuusho mo o-mochi shimashou ka?)  <br>
+好的，要幫您拿收據嗎？  <br>
+**I understand. Would you like a receipt?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**顧客:** はい、お願いします。  <br>
+(hai, onegai shimasu.)  <br>
+好的，麻煩您了。  <br>
+**Yes, please.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**店員:** お釣りは1,500円です。  <br>
+(o-tsuri wa sen gohyaku en desu.)  <br>
+找您1,500日圓。  <br>
+**Here's your change of 1,500 yen.**  <br>
 </div>  
 
 ### 重點句型
@@ -170,7 +254,7 @@ tags: [日語, Japanese]
 ![離開](https://images.unsplash.com/photo-1551698618-1dfe5d97d256?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** ごちそうさまでした。  <br>
+**顧客:** ごちそうさまでした。  <br>
 (gochisou sama deshita.)  <br>
 謝謝招待。  <br>
 **Thank you for the meal.**  <br>
@@ -179,10 +263,31 @@ tags: [日語, Japanese]
 <br>  
 
 <div style="text-align: right">  
-**B:** ありがとうございました。またのお越しをお待ちしております。  <br>
+**店員:** ありがとうございました。またのお越しをお待ちしております。  <br>
 (arigatou gozaimashita. mata no o-koshi o o-machi shite orimasu.)  <br>
 謝謝光臨。期待您再次光臨。  <br>
 **Thank you. We look forward to seeing you again.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** とても美味しかったです。  <br>
+(totemo oishikatta desu.)  <br>
+非常好吃。  <br>
+**It was very delicious.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**店員:** ありがとうございます。お気をつけてお帰りください。  <br>
+(arigatou gozaimasu. o-ki o tsukete o-kaeri kudasai.)  <br>
+謝謝。請小心慢走。  <br>
+**Thank you. Please take care on your way home.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** 失礼します。  <br>
+(shitsurei shimasu.)  <br>
+告辭了。  <br>
+**Goodbye.**  <br>
 </div>  
 
 ### 重點句型

@@ -35,7 +35,7 @@ excerpt: 學習在日本美甲和美睫店時常用的日語對話，包括預�
 ![預約](https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** 予約をお願いしたいのですが。  <br>
+**顧客:** 予約をお願いしたいのですが。  <br>
 (yoyaku o onegai shitai no desu ga.)  <br>
 我想預約。  <br>
 **I'd like to make a reservation.**  <br>
@@ -44,10 +44,26 @@ excerpt: 學習在日本美甲和美睫店時常用的日語對話，包括預�
 <br>  
 
 <div style="text-align: right">  
-**B:** 何時がよろしいですか？  <br>
+**接待員:** 何時がよろしいですか？  <br>
 (nanji ga yoroshii desu ka?)  <br>
 什麼時間方便？  <br>
 **What time would be convenient?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** 明日の午後3時は空いていますか？  <br>
+(ashita no gogo sanji wa aite imasu ka?)  <br>
+明天下午3點有空嗎？  <br>
+**Is 3 PM tomorrow available?**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+**接待員:** はい、ご予約いただけます。ネイルとまつげ、どちらをご希望ですか？  <br>
+(hai, goyoyaku itadakemasu. neiru to matsuge, dochira o gokibou desu ka?)  <br>
+是的，可以為您預約。您想要美甲還是美睫？  <br>
+**Yes, we can make that reservation for you. Would you like nail or eyelash service?**  <br>
 </div>  
 
 ### 重點句型
@@ -69,7 +85,7 @@ excerpt: 學習在日本美甲和美睫店時常用的日語對話，包括預�
 ![款式](https://images.unsplash.com/photo-1562322140-8baeececf3df?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** デザインを見せていただけますか？  <br>
+**顧客:** デザインを見せていただけますか？  <br>
 (dezain o misete itadakemasu ka?)  <br>
 可以給我看設計圖嗎？  <br>
 **Could you show me the designs?**  <br>
@@ -78,10 +94,26 @@ excerpt: 學習在日本美甲和美睫店時常用的日語對話，包括預�
 <br>  
 
 <div style="text-align: right">  
-**B:** はい、こちらがデザイン集です。  <br>
+**美甲師:** はい、こちらがデザイン集です。  <br>
 (hai, kochira ga dezain shuu desu.)  <br>
 好的，這是設計圖集。  <br>
 **Yes, here's the design collection.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** このデザインはどうですか？  <br>
+(kono dezain wa dou desu ka?)  <br>
+這個設計如何？  <br>
+**How about this design?**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+**美甲師:** とても素敵ですね。色は何色がお好みですか？  <br>
+(totemo suteki desu ne. iro wa nani iro ga okonomi desu ka?)  <br>
+非常漂亮呢。您喜歡什麼顏色？  <br>
+**It's very nice. What color would you prefer?**  <br>
 </div>  
 
 ### 重點句型
@@ -103,7 +135,7 @@ excerpt: 學習在日本美甲和美睫店時常用的日語對話，包括預�
 ![價格](https://images.unsplash.com/photo-1584473457406-6240486418e9?q=80&w=1200&auto=format&fit=crop)
 
 <div style="text-align: left">  
-**A:** 料金はいくらですか？  <br>
+**顧客:** 料金はいくらですか？  <br>
 (ryoukin wa ikura desu ka?)  <br>
 費用是多少？  <br>
 **How much is the fee?**  <br>
@@ -112,10 +144,26 @@ excerpt: 學習在日本美甲和美睫店時常用的日語對話，包括預�
 <br>  
 
 <div style="text-align: right">  
-**B:** 基本料金は5,000円です。  <br>
+**接待員:** 基本料金は5,000円です。  <br>
 (kihon ryoukin wa gosen en desu.)  <br>
 基本費用是5,000日圓。  <br>
 **The basic fee is 5,000 yen.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** オプションはありますか？  <br>
+(opushon wa arimasu ka?)  <br>
+有選項嗎？  <br>
+**Are there any options?**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+**接待員:** はい、ジェルネイルの追加は2,000円、デコレーションは1,000円です。  <br>
+(hai, jeru neiru no tsuika wa nisen en, dekoreeshon wa sen en desu.)  <br>
+是的，凝膠美甲追加是2,000日圓，裝飾是1,000日圓。  <br>
+**Yes, gel nails are an additional 2,000 yen, and decorations are 1,000 yen.**  <br>
 </div>  
 
 ### 重點句型
@@ -137,7 +185,7 @@ excerpt: 學習在日本美甲和美睫店時常用的日語對話，包括預�
 ![服務](https://images.unsplash.com/photo-1494083306499-e22e4a457632?q=80&w=1200&auto=format&fit=crop)
 
 <div style="text-align: left">  
-**A:** 痛くないですか？  <br>
+**顧客:** 痛くないですか？  <br>
 (itakunai desu ka?)  <br>
 會痛嗎？  <br>
 **Does it hurt?**  <br>
@@ -146,10 +194,26 @@ excerpt: 學習在日本美甲和美睫店時常用的日語對話，包括預�
 <br>  
 
 <div style="text-align: right">  
-**B:** 大丈夫です。痛くありません。  <br>
+**美甲師:** 大丈夫です。痛くありません。  <br>
 (daijoubu desu. itaku arimasen.)  <br>
 沒問題，不會痛。  <br>
 **It's okay. It doesn't hurt.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** 仕上がりはどのくらいかかりますか？  <br>
+(shiagari wa dono kurai kakarimasu ka?)  <br>
+完成需要多久？  <br>
+**How long will it take to complete?**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+**美甲師:** 約1時間半かかります。  <br>
+(yaku ichijikan han kakarimasu.)  <br>
+大約需要1個半小時。  <br>
+**It will take about an hour and a half.**  <br>
 </div>  
 
 ### 重點句型
@@ -171,7 +235,7 @@ excerpt: 學習在日本美甲和美睫店時常用的日語對話，包括預�
 ![結帳](https://images.unsplash.com/photo-1556741533-6e6a62bd8b49?q=80&w=1200&auto=format&fit=crop)
 
 <div style="text-align: left">  
-**A:** お会計をお願いします。  <br>
+**顧客:** お会計をお願いします。  <br>
 (okaikei o onegai shimasu.)  <br>
 請幫我結帳。  <br>
 **I'd like to pay, please.**  <br>
@@ -180,10 +244,26 @@ excerpt: 學習在日本美甲和美睫店時常用的日語對話，包括預�
 <br>  
 
 <div style="text-align: right">  
-**B:** 合計で7,000円になります。  <br>
+**收銀員:** 合計で7,000円になります。  <br>
 (goukei de nanasen en ni narimasu.)  <br>
 總共是7,000日圓。  <br>
 **That will be 7,000 yen in total.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** クレジットカードで支払えますか？  <br>
+(kurejitto kaado de shiharaemasu ka?)  <br>
+可以用信用卡付款嗎？  <br>
+**Can I pay by credit card?**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+**收銀員:** はい、VISAとマスターカードがご利用いただけます。  <br>
+(hai, visa to masutaa kaado ga goriyou itadakemasu.)  <br>
+是的，可以使用VISA和MasterCard。  <br>
+**Yes, we accept VISA and MasterCard.**  <br>
 </div>  
 
 ### 重點句型

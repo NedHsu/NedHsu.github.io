@@ -35,7 +35,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 ![入場](https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** 入場券を買いたいのですが。  <br>
+**顧客:** 入場券を買いたいのですが。  <br>
 (nyuujouken o kaitai no desu ga.)  <br>
 我想買入場券。  <br>
 **I'd like to buy an admission ticket.**  <br>
@@ -44,10 +44,26 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 <br>  
 
 <div style="text-align: right">  
-**B:** 大人は1,000円です。  <br>
+**售票員:** 大人は1,000円です。  <br>
 (otona wa sen en desu.)  <br>
 大人是1,000日圓。  <br>
 **It's 1,000 yen for adults.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** 子供はいくらですか？  <br>
+(kodomo wa ikura desu ka?)  <br>
+小孩是多少錢？  <br>
+**How much is it for children?**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+**售票員:** 子供は500円です。  <br>
+(kodomo wa gohyaku en desu.)  <br>
+小孩是500日圓。  <br>
+**It's 500 yen for children.**  <br>
 </div>  
 
 ### 重點句型
@@ -69,7 +85,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 ![設施](https://images.unsplash.com/photo-1562322140-8baeececf3df?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** ロッカーの使い方を教えていただけますか？  <br>
+**泳客:** ロッカーの使い方を教えていただけますか？  <br>
 (rokkaa no tsukaikata o oshiete itadakemasu ka?)  <br>
 可以教我置物櫃的使用方法嗎？  <br>
 **Could you teach me how to use the lockers?**  <br>
@@ -78,10 +94,26 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 <br>  
 
 <div style="text-align: right">  
-**B:** はい、こちらが使い方の説明です。  <br>
+**工作人員:** はい、こちらが使い方の説明です。  <br>
 (hai, kochira ga tsukaikata no setsumei desu.)  <br>
 好的，這是使用方法的說明。  <br>
 **Yes, here's the explanation of how to use them.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**泳客:** シャワーはどこにありますか？  <br>
+(shawaa wa doko ni arimasu ka?)  <br>
+淋浴間在哪裡？  <br>
+**Where are the showers?**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+**工作人員:** 更衣室の隣にあります。  <br>
+(kouishitsu no tonari ni arimasu.)  <br>
+在更衣室旁邊。  <br>
+**They're next to the changing room.**  <br>
 </div>  
 
 ### 重點句型
@@ -103,7 +135,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 ![課程](https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** スイミングのクラスはありますか？  <br>
+**學員:** スイミングのクラスはありますか？  <br>
 (suimingu no kurasu wa arimasu ka?)  <br>
 有游泳課程嗎？  <br>
 **Do you have swimming classes?**  <br>
@@ -112,10 +144,26 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 <br>  
 
 <div style="text-align: right">  
-**B:** はい、毎日開催しています。  <br>
+**課程顧問:** はい、毎日開催しています。  <br>
 (hai, mainichi kaisai shite imasu.)  <br>
 有的，每天都有舉辦。  <br>
 **Yes, we hold them every day.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**學員:** 初心者向けのクラスはありますか？  <br>
+(shoshinsha muke no kurasu wa arimasu ka?)  <br>
+有適合初學者的課程嗎？  <br>
+**Do you have classes for beginners?**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+**課程顧問:** はい、午前と午後、それぞれ1時間のクラスがあります。  <br>
+(hai, gozen to gogo, sorezore ichijikan no kurasu ga arimasu.)  <br>
+有的，上午和下午各有1小時的課程。  <br>
+**Yes, we have 1-hour classes both in the morning and afternoon.**  <br>
 </div>  
 
 ### 重點句型
@@ -137,7 +185,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 ![教練](https://images.unsplash.com/photo-1553451133-8083c47243d6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** コーチに相談したいのですが。  <br>
+**學員:** コーチに相談したいのですが。  <br>
 (koochi ni soudan shitai no desu ga.)  <br>
 我想諮詢教練。  <br>
 **I'd like to consult with a coach.**  <br>
@@ -146,10 +194,26 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 <br>  
 
 <div style="text-align: right">  
-**B:** はい、こちらがコーチです。  <br>
+**教練:** はい、こちらがコーチです。  <br>
 (hai, kochira ga koochi desu.)  <br>
 好的，這是教練。  <br>
 **Yes, here's the coach.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**學員:** クロールの基本を教えていただけますか？  <br>
+(kurooru no kihon o oshiete itadakemasu ka?)  <br>
+可以教我自由式的基本動作嗎？  <br>
+**Could you teach me the basics of freestyle?**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+**教練:** はい、まずは手の動きから説明しましょう。  <br>
+(hai, mazu wa te no ugoki kara setsumei shimashou.)  <br>
+好的，讓我們從手的動作開始說明。  <br>
+**Yes, let's start with the arm movement.**  <br>
 </div>  
 
 ### 重點句型
@@ -171,7 +235,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 ![結帳](https://images.unsplash.com/photo-1551698618-1dfe5d97d256?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** お会計をお願いします。  <br>
+**顧客:** お会計をお願いします。  <br>
 (okaikei o onegai shimasu.)  <br>
 請幫我結帳。  <br>
 **I'd like to pay, please.**  <br>
@@ -180,10 +244,26 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 <br>  
 
 <div style="text-align: right">  
-**B:** 合計で3,000円になります。  <br>
+**收銀員:** 合計で3,000円になります。  <br>
 (goukei de sanzen en ni narimasu.)  <br>
 總共是3,000日圓。  <br>
 **That will be 3,000 yen in total.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** クレジットカードで支払えますか？  <br>
+(kurejitto kaado de shiharaemasu ka?)  <br>
+可以用信用卡付款嗎？  <br>
+**Can I pay by credit card?**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+**收銀員:** はい、VISAとマスターカードがご利用いただけます。  <br>
+(hai, visa to masutaa kaado ga goriyou itadakemasu.)  <br>
+是的，可以使用VISA和MasterCard。  <br>
+**Yes, we accept VISA and MasterCard.**  <br>
 </div>  
 
 ### 重點句型

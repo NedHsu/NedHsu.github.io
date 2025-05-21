@@ -35,7 +35,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 ![預約](https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** 予約をお願いしたいのですが。  <br>
+**顧客:** 予約をお願いしたいのですが。  <br>
 (yoyaku o onegai shitai no desu ga.)  <br>
 我想預約。  <br>
 **I'd like to make a reservation.**  <br>
@@ -44,7 +44,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
-**B:** 何時がよろしいですか？  <br>
+**美容師:** 何時がよろしいですか？  <br>
 (nanji ga yoroshii desu ka?)  <br>
 什麼時間方便？  <br>
 **What time would be convenient?**  <br>
@@ -69,7 +69,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 ![剪髮](https://images.unsplash.com/photo-1562322140-8baeececf3df?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** カットをお願いします。  <br>
+**顧客:** カットをお願いします。  <br>
 (katto o onegai shimasu.)  <br>
 請幫我剪髮。  <br>
 **I'd like a haircut, please.**  <br>
@@ -78,7 +78,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
-**B:** どのようなスタイルがよろしいですか？  <br>
+**美容師:** どのようなスタイルがよろしいですか？  <br>
 (dono you na sutairu ga yoroshii desu ka?)  <br>
 您想要什麼樣的髮型？  <br>
 **What style would you like?**  <br>
@@ -103,7 +103,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 ![染髮](https://images.unsplash.com/photo-1471922694854-ff1b63b20054?q=80&w=1200&auto=format&fit=crop)
 
 <div style="text-align: left">  
-**A:** カラーをお願いします。  <br>
+**顧客:** カラーをお願いします。  <br>
 (karaa o onegai shimasu.)  <br>
 請幫我染髮。  <br>
 **I'd like to color my hair, please.**  <br>
@@ -112,7 +112,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
-**B:** どのような色がよろしいですか？  <br>
+**美容師:** どのような色がよろしいですか？  <br>
 (dono you na iro ga yoroshii desu ka?)  <br>
 您想要什麼顏色？  <br>
 **What color would you like?**  <br>
@@ -137,7 +137,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 ![護髮](https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** トリートメントをお願いします。  <br>
+**顧客:** トリートメントをお願いします。  <br>
 (toriitomento o onegai shimasu.)  <br>
 請幫我護髮。  <br>
 **I'd like a hair treatment, please.**  <br>
@@ -146,7 +146,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
-**B:** どのようなトリートメントがよろしいですか？  <br>
+**美容師:** どのようなトリートメントがよろしいですか？  <br>
 (dono you na toriitomento ga yoroshii desu ka?)  <br>
 您想要什麼樣的護髮？  <br>
 **What kind of treatment would you like?**  <br>
@@ -171,7 +171,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 ![結帳](https://images.unsplash.com/photo-1589758438368-0ad531db3366?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 <div style="text-align: left">  
-**A:** お会計をお願いします。  <br>
+**顧客:** お会計をお願いします。  <br>
 (okaikei o onegai shimasu.)  <br>
 請幫我結帳。  <br>
 **I'd like to pay, please.**  <br>
@@ -180,7 +180,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
-**B:** 合計で8,000円になります。  <br>
+**美容師:** 合計で8,000円になります。  <br>
 (goukei de hassen en ni narimasu.)  <br>
 總共是8,000日圓。  <br>
 **That will be 8,000 yen in total.**  <br>
