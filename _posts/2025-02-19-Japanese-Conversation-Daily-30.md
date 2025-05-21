@@ -32,7 +32,7 @@ excerpt: 學習在日本按摩和SPA店時常用的日語對話，包括預約�
 
 ## 情境 1: 預約
 
-![預約](https://images.pexels.com/photos/3778876/pexels-photo-3778876.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![預約](https://images.pexels.com/photos/32112649/pexels-photo-32112649.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** 予約をお願いしたいのですが。  <br>
@@ -82,7 +82,7 @@ excerpt: 學習在日本按摩和SPA店時常用的日語對話，包括預約�
 
 ## 情境 2: 選擇服務
 
-![服務](https://images.pexels.com/photos/3993444/pexels-photo-3993444.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![服務](https://images.pexels.com/photos/30514777/pexels-photo-30514777.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** マッサージをお願いします。  <br>
@@ -132,7 +132,7 @@ excerpt: 學習在日本按摩和SPA店時常用的日語對話，包括預約�
 
 ## 情境 3: 詢問價格
 
-![價格](https://images.pexels.com/photos/4386366/pexels-photo-4386366.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![價格](https://images.pexels.com/photos/24032931/pexels-photo-24032931.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** 料金はいくらですか？  <br>
@@ -182,7 +182,7 @@ excerpt: 學習在日本按摩和SPA店時常用的日語對話，包括預約�
 
 ## 情境 4: 服務過程
 
-![過程](https://images.pexels.com/photos/3993443/pexels-photo-3993443.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![過程](https://images.pexels.com/photos/29967130/pexels-photo-29967130.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** 痛くないですか？  <br>
@@ -232,7 +232,7 @@ excerpt: 學習在日本按摩和SPA店時常用的日語對話，包括預約�
 
 ## 情境 5: 結帳付款
 
-![結帳](https://images.pexels.com/photos/4386366/pexels-photo-4386366.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![結帳](https://images.pexels.com/photos/7621136/pexels-photo-7621136.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** お会計をお願いします。  <br>

@@ -32,7 +32,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 
 ## 情境 1: 詢問租借
 
-![租借](https://images.pexels.com/photos/3778876/pexels-photo-3778876.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![租借](https://images.pexels.com/photos/7415122/pexels-photo-7415122.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** 自転車を借りたいのですが。  <br>
@@ -73,7 +73,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 
 ## 情境 2: 選擇車型
 
-![車型](https://images.pexels.com/photos/3993442/pexels-photo-3993442.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![車型](https://images.pexels.com/photos/30732285/pexels-photo-30732285.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** 電動自転車はありますか？  <br>
@@ -114,7 +114,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 
 ## 情境 3: 確認規則
 
-![規則](https://images.pexels.com/photos/4386366/pexels-photo-4386366.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![規則](https://images.pexels.com/photos/8850706/pexels-photo-8850706.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** 利用のルールを教えていただけますか？  <br>
@@ -155,7 +155,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 
 ## 情境 4: 使用說明
 
-![使用說明](https://images.pexels.com/photos/3993441/pexels-photo-3993441.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![使用說明](https://images.pexels.com/photos/18245895/pexels-photo-18245895.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** 電動自転車の使い方を教えていただけますか？  <br>
@@ -196,7 +196,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 
 ## 情境 5: 歸還付款
 
-![歸還](https://images.pexels.com/photos/3993440/pexels-photo-3993440.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![歸還](https://images.pexels.com/photos/6863336/pexels-photo-6863336.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** 返却時間を過ぎてしまいました。  <br>

@@ -32,7 +32,7 @@ excerpt: 學習在日本溫泉和澡堂時常用的日語對話，包括詢問�
 
 ## 情境 1: 詢問價格
 
-![價格](https://images.pexels.com/photos/1604719/pexels-photo-1604719.jpeg?auto=compress&cs=tinysrgb&h=350)
+![價格](https://images.pexels.com/photos/24032931/pexels-photo-24032931.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** 入浴料はいくらですか？  <br>
@@ -80,7 +80,7 @@ excerpt: 學習在日本溫泉和澡堂時常用的日語對話，包括詢問�
 
 ## 情境 2: 使用設施
 
-![設施](https://images.pexels.com/photos/1517248/pexels-photo-1517248.jpeg?auto=compress&cs=tinysrgb&h=350)
+![設施](https://images.pexels.com/photos/21715257/pexels-photo-21715257.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** タオルはありますか？  <br>
@@ -128,7 +128,7 @@ excerpt: 學習在日本溫泉和澡堂時常用的日語對話，包括詢問�
 
 ## 情境 3: 購買用品
 
-![用品](https://images.pexels.com/photos/1542401/pexels-photo-1542401.jpeg?auto=compress&cs=tinysrgb&h=350)
+![用品](https://images.pexels.com/photos/30329884/pexels-photo-30329884.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** 石鹸をください。  <br>
@@ -176,7 +176,7 @@ excerpt: 學習在日本溫泉和澡堂時常用的日語對話，包括詢問�
 
 ## 情境 4: 結帳付款
 
-![結帳](https://images.pexels.com/photos/1553451/pexels-photo-1553451.jpeg?auto=compress&cs=tinysrgb&h=350)
+![結帳](https://images.pexels.com/photos/7621136/pexels-photo-7621136.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** お会計をお願いします。  <br>
@@ -224,7 +224,7 @@ excerpt: 學習在日本溫泉和澡堂時常用的日語對話，包括詢問�
 
 ## 情境 5: 注意事項
 
-![注意](https://images.pexels.com/photos/1563911/pexels-photo-1563911.jpeg?auto=compress&cs=tinysrgb&h=350)
+![注意](https://images.pexels.com/photos/3970339/pexels-photo-3970339.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** 注意事項を教えていただけますか？  <br>

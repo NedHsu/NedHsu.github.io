@@ -32,7 +32,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 
 ## 情境 1: 入場
 
-![入場](https://images.pexels.com/photos/3778876/pexels-photo-3778876.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![入場](https://images.pexels.com/photos/2258339/pexels-photo-2258339.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** 入場券を買いたいのですが。  <br>
@@ -82,7 +82,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 
 ## 情境 2: 使用設施
 
-![設施](https://images.pexels.com/photos/3993439/pexels-photo-3993439.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![設施](https://images.pexels.com/photos/31413052/pexels-photo-31413052.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **泳客:** ロッカーの使い方を教えていただけますか？  <br>
@@ -132,7 +132,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 
 ## 情境 3: 詢問課程
 
-![課程](https://images.pexels.com/photos/3993438/pexels-photo-3993438.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![課程](https://images.pexels.com/photos/9159054/pexels-photo-9159054.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **學員:** スイミングのクラスはありますか？  <br>
@@ -182,7 +182,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 
 ## 情境 4: 請教教練
 
-![教練](https://images.pexels.com/photos/3993437/pexels-photo-3993437.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![教練](https://images.pexels.com/photos/5745684/pexels-photo-5745684.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **學員:** コーチに相談したいのですが。  <br>
@@ -232,7 +232,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 
 ## 情境 5: 結帳付款
 
-![結帳](https://images.pexels.com/photos/4386366/pexels-photo-4386366.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![結帳](https://images.pexels.com/photos/7621136/pexels-photo-7621136.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** お会計をお願いします。  <br>

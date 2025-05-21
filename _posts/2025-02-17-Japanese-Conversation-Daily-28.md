@@ -32,7 +32,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 
 ## 情境 1: 預約
 
-![預約](https://images.pexels.com/photos/3778876/pexels-photo-3778876.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![預約](https://images.pexels.com/photos/32112649/pexels-photo-32112649.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** 予約をお願いしたいのですが。  <br>
@@ -66,7 +66,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 
 ## 情境 2: 剪髮
 
-![剪髮](https://images.pexels.com/photos/3993449/pexels-photo-3993449.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![剪髮](https://images.pexels.com/photos/1319460/pexels-photo-1319460.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** カットをお願いします。  <br>
@@ -100,7 +100,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 
 ## 情境 3: 染髮
 
-![染髮](https://images.pexels.com/photos/3993448/pexels-photo-3993448.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![染髮](https://images.pexels.com/photos/8468139/pexels-photo-8468139.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** カラーをお願いします。  <br>
@@ -134,7 +134,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 
 ## 情境 4: 護髮
 
-![護髮](https://images.pexels.com/photos/3993447/pexels-photo-3993447.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![護髮](https://images.pexels.com/photos/973401/pexels-photo-973401.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** トリートメントをお願いします。  <br>
@@ -168,7 +168,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 
 ## 情境 5: 結帳付款
 
-![結帳](https://images.pexels.com/photos/4386366/pexels-photo-4386366.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![結帳](https://images.pexels.com/photos/7621136/pexels-photo-7621136.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** お会計をお願いします。  <br>

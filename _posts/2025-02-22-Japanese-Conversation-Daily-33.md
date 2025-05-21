@@ -32,7 +32,7 @@ excerpt: 學習在日本滑雪場和雪上活動場所時常用的日語對話�
 
 ## 情境 1: 租借裝備
 
-![租借](https://images.pexels.com/photos/3778876/pexels-photo-3778876.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![租借](https://images.pexels.com/photos/376697/pexels-photo-376697.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** スキーセットをレンタルしたいのですが。  <br>
@@ -89,7 +89,7 @@ excerpt: 學習在日本滑雪場和雪上活動場所時常用的日語對話�
 
 ## 情境 2: 使用設施
 
-![設施](https://images.pexels.com/photos/3993436/pexels-photo-3993436.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![設施](https://images.pexels.com/photos/21715257/pexels-photo-21715257.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **滑雪者:** リフトの使い方を教えていただけますか？  <br>
@@ -139,7 +139,7 @@ excerpt: 學習在日本滑雪場和雪上活動場所時常用的日語對話�
 
 ## 情境 3: 詢問課程
 
-![課程](https://images.pexels.com/photos/3993435/pexels-photo-3993435.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![課程](https://images.pexels.com/photos/9159054/pexels-photo-9159054.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **學員:** スキーレッスンはありますか？  <br>
@@ -189,7 +189,7 @@ excerpt: 學習在日本滑雪場和雪上活動場所時常用的日語對話�
 
 ## 情境 4: 請教教練
 
-![教練](https://images.pexels.com/photos/3993434/pexels-photo-3993434.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![教練](https://images.pexels.com/photos/5745684/pexels-photo-5745684.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **學員:** インストラクターに相談したいのですが。  <br>

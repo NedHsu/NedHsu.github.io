@@ -32,7 +32,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 
 ## 情境 1: 點酒
 
-![酒](https://images.pexels.com/photos/1604719/pexels-photo-1604719.jpeg?auto=compress&cs=tinysrgb&h=350)
+![酒](https://images.pexels.com/photos/4691211/pexels-photo-4691211.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** ビールをください。  <br>
@@ -80,7 +80,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 
 ## 情境 2: 點小菜
 
-![小菜](https://images.pexels.com/photos/1501959/pexels-photo-1501959.jpeg?auto=compress&cs=tinysrgb&h=350)
+![小菜](https://images.pexels.com/photos/5745018/pexels-photo-5745018.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** おつまみをください。  <br>
@@ -128,7 +128,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 
 ## 情境 3: 詢問菜單
 
-![菜單](https://images.pexels.com/photos/1556742/pexels-photo-1556742.jpeg?auto=compress&cs=tinysrgb&h=350)
+![菜單](https://images.pexels.com/photos/32132443/pexels-photo-32132443.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** メニューを見せていただけますか？  <br>
@@ -176,7 +176,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 
 ## 情境 4: 結帳付款
 
-![結帳](https://images.pexels.com/photos/1550345/pexels-photo-1550345.jpeg?auto=compress&cs=tinysrgb&h=350)
+![結帳](https://images.pexels.com/photos/7621136/pexels-photo-7621136.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** お会計をお願いします。  <br>
@@ -224,7 +224,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 
 ## 情境 5: 打包
 
-![打包](https://images.pexels.com/photos/1611312/pexels-photo-1611312.jpeg?auto=compress&cs=tinysrgb&h=350)
+![打包](https://images.pexels.com/photos/1301373/pexels-photo-1301373.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** 残りを包んでいただけますか？  <br>

@@ -32,7 +32,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 
 ## 情境 1: 預約車輛
 
-![預約](https://images.pexels.com/photos/3778876/pexels-photo-3778876.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![預約](https://images.pexels.com/photos/5269708/pexels-photo-5269708.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** レンタカーの予約をしたいのですが。  <br>
@@ -73,7 +73,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 
 ## 情境 2: 選擇車型
 
-![車型](https://images.pexels.com/photos/3993444/pexels-photo-3993444.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![車型](https://images.pexels.com/photos/18569462/pexels-photo-18569462.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** 4人乗りの車を探しています。  <br>
@@ -114,7 +114,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 
 ## 情境 3: 確認保險
 
-![保險](https://images.pexels.com/photos/4386366/pexels-photo-4386366.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![保險](https://images.pexels.com/photos/16747158/pexels-photo-16747158.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** 保険は含まれていますか？  <br>
@@ -155,7 +155,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 
 ## 情境 4: 取還車
 
-![取還車](https://images.pexels.com/photos/3993443/pexels-photo-3993443.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![取還車](https://images.pexels.com/photos/7415122/pexels-photo-7415122.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** 返却時間は何時までですか？  <br>
@@ -196,7 +196,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 
 ## 情境 5: 結帳付款
 
-![結帳](https://images.pexels.com/photos/4386366/pexels-photo-4386366.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![結帳](https://images.pexels.com/photos/6863336/pexels-photo-6863336.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** お会計をお願いします。  <br>

@@ -32,7 +32,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 
 ## 情境 1: 入會
 
-![入會](https://images.pexels.com/photos/3778876/pexels-photo-3778876.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![入會](https://images.pexels.com/photos/32133930/pexels-photo-32133930.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** 入会したいのですが。  <br>
@@ -82,7 +82,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 
 ## 情境 2: 使用設施
 
-![設施](https://images.pexels.com/photos/3993442/pexels-photo-3993442.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![設施](https://images.pexels.com/photos/21715257/pexels-photo-21715257.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **會員:** このマシンの使い方を教えていただけますか？  <br>
@@ -132,7 +132,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 
 ## 情境 3: 詢問課程
 
-![課程](https://images.pexels.com/photos/3993441/pexels-photo-3993441.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![課程](https://images.pexels.com/photos/9159054/pexels-photo-9159054.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **會員:** ヨガのクラスはありますか？  <br>
@@ -182,7 +182,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 
 ## 情境 4: 請教教練
 
-![教練](https://images.pexels.com/photos/3993440/pexels-photo-3993440.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![教練](https://images.pexels.com/photos/5745684/pexels-photo-5745684.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **會員:** トレーナーに相談したいのですが。  <br>
@@ -232,7 +232,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 
 ## 情境 5: 結帳付款
 
-![結帳](https://images.pexels.com/photos/4386366/pexels-photo-4386366.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![結帳](https://images.pexels.com/photos/7621136/pexels-photo-7621136.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** お会計をお願いします。  <br>

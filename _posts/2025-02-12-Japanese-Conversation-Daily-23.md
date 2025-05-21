@@ -32,7 +32,7 @@ excerpt: 學習在日本百貨公司時常用的日語對話，包括尋找商�
 
 ## 情境 1: 尋找商品
 
-![商品](https://images.pexels.com/photos/1604719/pexels-photo-1604719.jpeg?auto=compress&cs=tinysrgb&h=350)
+![商品](https://images.pexels.com/photos/10774311/pexels-photo-10774311.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** 婦人服は何階にありますか？  <br>
@@ -80,7 +80,7 @@ excerpt: 學習在日本百貨公司時常用的日語對話，包括尋找商�
 
 ## 情境 2: 詢問價格
 
-![價格](https://images.pexels.com/photos/1584473/pexels-photo-1584473.jpeg?auto=compress&cs=tinysrgb&h=350)
+![價格](https://images.pexels.com/photos/24032931/pexels-photo-24032931.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** このドレスはいくらですか？  <br>
@@ -128,7 +128,7 @@ excerpt: 學習在日本百貨公司時常用的日語對話，包括尋找商�
 
 ## 情境 3: 試穿衣服
 
-![試穿](https://images.pexels.com/photos/1589758/pexels-photo-1589758.jpeg?auto=compress&cs=tinysrgb&h=350)
+![試穿](https://images.pexels.com/photos/13630147/pexels-photo-13630147.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** このドレスを試着したいのですが。  <br>
@@ -176,7 +176,7 @@ excerpt: 學習在日本百貨公司時常用的日語對話，包括尋找商�
 
 ## 情境 4: 結帳付款
 
-![結帳](https://images.pexels.com/photos/1556741/pexels-photo-1556741.jpeg?auto=compress&cs=tinysrgb&h=350)
+![結帳](https://images.pexels.com/photos/7621136/pexels-photo-7621136.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** お会計をお願いします。  <br>
@@ -224,7 +224,7 @@ excerpt: 學習在日本百貨公司時常用的日語對話，包括尋找商�
 
 ## 情境 5: 退換貨
 
-![退換](https://images.pexels.com/photos/1600334/pexels-photo-1600334.jpeg?auto=compress&cs=tinysrgb&h=350)
+![退換](https://images.pexels.com/photos/7414659/pexels-photo-7414659.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** このドレスを返品したいのですが。  <br>

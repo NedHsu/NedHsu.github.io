@@ -32,7 +32,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 
 ## 情境 1: 預約服務
 
-![預約](https://images.pexels.com/photos/3778876/pexels-photo-3778876.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![預約](https://images.pexels.com/photos/19109102/pexels-photo-19109102.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** トリミングの予約をしたいのですが。  <br>
@@ -73,7 +73,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 
 ## 情境 2: 選擇服務項目
 
-![服務](https://images.pexels.com/photos/3993446/pexels-photo-3993446.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![服務](https://images.pexels.com/photos/30342381/pexels-photo-30342381.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** シャンプーとカットをお願いします。  <br>
@@ -114,7 +114,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 
 ## 情境 3: 詢問價格
 
-![價格](https://images.pexels.com/photos/4386366/pexels-photo-4386366.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![價格](https://images.pexels.com/photos/24032931/pexels-photo-24032931.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** 料金はいくらになりますか？  <br>
@@ -155,7 +155,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 
 ## 情境 4: 服務過程
 
-![服務過程](https://images.pexels.com/photos/3993445/pexels-photo-3993445.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![服務過程](https://images.pexels.com/photos/29967130/pexels-photo-29967130.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** どのくらい時間がかかりますか？  <br>
@@ -196,7 +196,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 
 ## 情境 5: 結帳付款
 
-![結帳](https://images.pexels.com/photos/4386366/pexels-photo-4386366.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![結帳](https://images.pexels.com/photos/7621136/pexels-photo-7621136.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** お会計をお願いします。  <br>

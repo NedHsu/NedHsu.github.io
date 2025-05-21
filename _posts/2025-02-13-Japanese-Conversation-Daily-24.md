@@ -32,7 +32,7 @@ excerpt: 學習在日本餐廳時常用的日語對話，包括訂位、點餐�
 
 ## 情境 1: 訂位
 
-![訂位](https://images.pexels.com/photos/1604719/pexels-photo-1604719.jpeg?auto=compress&cs=tinysrgb&h=350)
+![訂位](https://images.pexels.com/photos/1648373/pexels-photo-1648373.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **A:** 予約をお願いしたいのですが。  <br>
@@ -66,7 +66,7 @@ excerpt: 學習在日本餐廳時常用的日語對話，包括訂位、點餐�
 
 ## 情境 2: 點餐
 
-![點餐](https://images.pexels.com/photos/1584473/pexels-photo-1584473.jpeg?auto=compress&cs=tinysrgb&h=350)
+![點餐](https://images.pexels.com/photos/15532701/pexels-photo-15532701.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **A:** おすすめの料理はありますか？  <br>
@@ -100,7 +100,7 @@ excerpt: 學習在日本餐廳時常用的日語對話，包括訂位、點餐�
 
 ## 情境 3: 詢問菜單
 
-![菜單](https://images.pexels.com/photos/1589758/pexels-photo-1589758.jpeg?auto=compress&cs=tinysrgb&h=350)
+![菜單](https://images.pexels.com/photos/32132443/pexels-photo-32132443.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **A:** メニューを見せていただけますか？  <br>
@@ -134,7 +134,7 @@ excerpt: 學習在日本餐廳時常用的日語對話，包括訂位、點餐�
 
 ## 情境 4: 結帳付款
 
-![結帳](https://images.pexels.com/photos/1556741/pexels-photo-1556741.jpeg?auto=compress&cs=tinysrgb&h=350)
+![結帳](https://images.pexels.com/photos/7621136/pexels-photo-7621136.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **A:** お会計をお願いします。  <br>
@@ -168,7 +168,7 @@ excerpt: 學習在日本餐廳時常用的日語對話，包括訂位、點餐�
 
 ## 情境 5: 打包
 
-![打包](https://images.pexels.com/photos/1600334/pexels-photo-1600334.jpeg?auto=compress&cs=tinysrgb&h=350)
+![打包](https://images.pexels.com/photos/1301373/pexels-photo-1301373.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **A:** 残りを包んでいただけますか？  <br>
