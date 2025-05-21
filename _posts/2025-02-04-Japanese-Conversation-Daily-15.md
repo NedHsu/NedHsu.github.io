@@ -32,7 +32,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 
 ## 情境 1: 寄包裹
 
-![包裹](https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![包裹](https://images.pexels.com/photos/4464887/pexels-photo-4464887.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** この荷物を送りたいのですが。  <br>
@@ -66,7 +66,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 
 ## 情境 2: 寄信與明信片
 
-![信件](https://images.unsplash.com/photo-1579412690850-bd41cd0af397?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![信件](https://images.pexels.com/photos/16361644/pexels-photo-16361644.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** 手紙を送りたいです。  <br>
@@ -100,7 +100,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 
 ## 情境 3: 購買郵票
 
-![郵票](https://images.unsplash.com/photo-1530866495561-507c9faab2ed?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![郵票](https://images.pexels.com/photos/32116848/pexels-photo-32116848.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** 切手を5枚ください。  <br>
@@ -134,7 +134,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 
 ## 情境 4: 查詢郵件
 
-![查詢](https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![查詢](https://images.pexels.com/photos/4065624/pexels-photo-4065624.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** 荷物の追跡番号を教えていただけますか？  <br>
@@ -168,7 +168,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 
 ## 情境 5: 郵政儲蓄
 
-![儲蓄](https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![儲蓄](https://images.pexels.com/photos/7821726/pexels-photo-7821726.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** 郵便貯金の口座を開設したいです。  <br>

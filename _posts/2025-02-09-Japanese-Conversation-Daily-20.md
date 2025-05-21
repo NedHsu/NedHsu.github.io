@@ -32,7 +32,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 
 ## 情境 1: 購買成藥
 
-![成藥](https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![成藥](https://images.pexels.com/photos/13835498/pexels-photo-13835498.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** 風邪薬を探しています。  <br>
@@ -80,7 +80,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 
 ## 情境 2: 諮詢用藥
 
-![諮詢](https://images.unsplash.com/photo-1588668214407-6ea9a6d8c272?q=80&w=1200&auto=format&fit=crop)
+![諮詢](https://images.pexels.com/photos/4226256/pexels-photo-4226256.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** この薬の使い方を教えていただけますか？  <br>
@@ -128,7 +128,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 
 ## 情境 3: 詢問副作用
 
-![副作用](https://images.unsplash.com/photo-1542401886-65d6c61db217?q=80&w=1200&auto=format&fit=crop)
+![副作用](https://images.pexels.com/photos/8961701/pexels-photo-8961701.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** 副作用はありますか？  <br>
@@ -176,7 +176,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 
 ## 情境 4: 領取處方藥
 
-![處方藥](https://images.unsplash.com/photo-1553451133-8083c47243d6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![處方藥](https://images.pexels.com/photos/13835498/pexels-photo-13835498.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** 処方箋を持ってきました。  <br>
@@ -224,7 +224,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 
 ## 情境 5: 健康諮詢
 
-![諮詢](https://images.unsplash.com/photo-1550345332-09e3ac987658?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![諮詢](https://images.pexels.com/photos/4226256/pexels-photo-4226256.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** 健康相談をしたいのですが。  <br>

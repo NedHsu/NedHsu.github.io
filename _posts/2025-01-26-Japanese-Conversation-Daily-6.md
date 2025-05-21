@@ -33,7 +33,7 @@ tags: [日語, Japanese]
 
 ## 情境 1: 銀行開戶
 
-![銀行開戶](https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![銀行開戶](https://images.pexels.com/photos/28176070/pexels-photo-28176070.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **銀行職員:** いらっしゃいませ。ご用件は何でしょうか？  <br>
@@ -76,7 +76,7 @@ tags: [日語, Japanese]
 
 ## 情境 2: 郵局寄包裹
 
-![郵局寄包裹](https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![郵局寄包裹](https://images.pexels.com/photos/6169021/pexels-photo-6169021.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **郵局職員:** いらっしゃいませ。何をお送りになりますか？  <br>
@@ -119,7 +119,7 @@ tags: [日語, Japanese]
 
 ## 情境 3: 美容院染髮
 
-![美容院染髮](https://images.unsplash.com/photo-1562322140-8baeececf3df?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![美容院染髮](https://images.pexels.com/photos/32008401/pexels-photo-32008401.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **美容師:** いらっしゃいませ。カラーのご予約でしょうか？  <br>
@@ -162,7 +162,7 @@ tags: [日語, Japanese]
 
 ## 情境 4: 電器行購買
 
-![電器行購買](https://images.unsplash.com/photo-1550009158-9ebf69173e03?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![電器行購買](https://images.pexels.com/photos/28608383/pexels-photo-28608383.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **店員:** いらっしゃいませ。何かお探しですか？  <br>
@@ -205,7 +205,7 @@ tags: [日語, Japanese]
 
 ## 情境 5: 計程車叫車
 
-![計程車叫車](https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![計程車叫車](https://images.pexels.com/photos/18201732/pexels-photo-18201732.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **司機:** いらっしゃいませ。どちらまででしょうか？  <br>

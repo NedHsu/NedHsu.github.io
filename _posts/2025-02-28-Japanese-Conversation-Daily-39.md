@@ -32,7 +32,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 
 ## 情境 1: 購票入園
 
-![購票](https://images.unsplash.com/photo-1516280440614-37939bbacd81?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![購票](https://images.pexels.com/photos/3778876/pexels-photo-3778876.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 <div style="text-align: left">  
 **顧客:** 大人2枚、子供1枚のチケットをお願いします。  <br>
@@ -73,7 +73,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 
 ## 情境 2: 遊樂設施
 
-![設施](https://images.unsplash.com/photo-1516280440614-37939bbacd81?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![設施](https://images.pexels.com/photos/3993446/pexels-photo-3993446.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 <div style="text-align: left">  
 **顧客:** このアトラクションの待ち時間はどのくらいですか？  <br>
@@ -114,7 +114,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 
 ## 情境 3: 表演活動
 
-![表演](https://images.unsplash.com/photo-1516280440614-37939bbacd81?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![表演](https://images.pexels.com/photos/4386366/pexels-photo-4386366.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 <div style="text-align: left">  
 **顧客:** パレードは何時から始まりますか？  <br>
@@ -155,7 +155,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 
 ## 情境 4: 餐飲服務
 
-![餐飲](https://images.unsplash.com/photo-1516280440614-37939bbacd81?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![餐飲](https://images.pexels.com/photos/3993445/pexels-photo-3993445.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 <div style="text-align: left">  
 **顧客:** レストランは予約が必要ですか？  <br>
@@ -196,7 +196,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 
 ## 情境 5: 紀念品購買
 
-![紀念品](https://images.unsplash.com/photo-1516280440614-37939bbacd81?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![紀念品](https://images.pexels.com/photos/4386366/pexels-photo-4386366.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 <div style="text-align: left">  
 **顧客:** このぬいぐるみのサイズは何がありますか？  <br>

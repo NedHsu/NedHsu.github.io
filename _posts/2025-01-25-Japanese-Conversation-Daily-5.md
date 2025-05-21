@@ -33,7 +33,7 @@ tags: [日語, Japanese]
 
 ## 情境 1: 醫院掛號
 
-![醫院掛號](https://images.unsplash.com/photo-1579684385127-1ef15d508118?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![醫院掛號](https://images.pexels.com/photos/7108318/pexels-photo-7108318.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **醫院接待員:** はい、山田医院でございます。  <br>
@@ -76,7 +76,7 @@ tags: [日語, Japanese]
 
 ## 情境 2: 美容院美甲
 
-![美容院美甲](https://images.unsplash.com/photo-1562322140-8baeececf3df?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![美容院美甲](https://images.pexels.com/photos/9212718/pexels-photo-9212718.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **美甲師:** いらっしゃいませ。ネイルのご予約でしょうか？  <br>
@@ -119,7 +119,7 @@ tags: [日語, Japanese]
 
 ## 情境 3: 電器行維修
 
-![電器行維修](https://images.unsplash.com/photo-1550009158-9ebf69173e03?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![電器行維修](https://images.pexels.com/photos/5243989/pexels-photo-5243989.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **維修人員:** いらっしゃいませ。何かお困りでしょうか？  <br>
@@ -162,7 +162,7 @@ tags: [日語, Japanese]
 
 ## 情境 4: 計程車預約
 
-![計程車預約](https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![計程車預約](https://images.pexels.com/photos/29432312/pexels-photo-29432312.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **預約中心人員:** はい、タクシー予約センターでございます。  <br>
@@ -205,7 +205,7 @@ tags: [日語, Japanese]
 
 ## 情境 5: 天氣變化
 
-![天氣變化](https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![天氣變化](https://images.pexels.com/photos/32096975/pexels-photo-32096975.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **同事A:** 今日は急に寒くなりましたね。  <br>

@@ -32,7 +32,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 
 ## 情境 1: 進入商店與詢問商品
 
-![商店入口](https://images.unsplash.com/photo-1441986300917-64674bd600d8?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![商店入口](https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **店員:** いらっしゃいませ。何かお探しでしょうか？  <br>
@@ -87,7 +87,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 
 ## 情境 2: 試穿與詢問尺寸
 
-![試穿](https://images.unsplash.com/photo-1519451241324-20b4ea2c4220?q=80&w=1200&auto=format&fit=crop)
+![試穿](https://images.pexels.com/photos/934070/pexels-photo-934070.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **店員:** 試着室はこちらです。  <br>
@@ -142,7 +142,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 
 ## 情境 3: 詢問價格與折扣
 
-![價格](https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![價格](https://images.pexels.com/photos/4386366/pexels-photo-4386366.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **店員:** この商品はセール中で、20%オフです。  <br>
@@ -197,7 +197,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 
 ## 情境 4: 退換貨與退款
 
-![退換貨](https://images.unsplash.com/photo-1589758438368-0ad531db3366?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![退換貨](https://images.pexels.com/photos/4386366/pexels-photo-4386366.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** この商品を返品したいのですが。  <br>
@@ -252,7 +252,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 
 ## 情境 5: 包裝與送貨
 
-![包裝](https://images.unsplash.com/photo-1514989940723-e8e51635b782?q=80&w=1200&auto=format&fit=crop)
+![包裝](https://images.pexels.com/photos/4386366/pexels-photo-4386366.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** プレゼント用に包装をお願いします。  <br>

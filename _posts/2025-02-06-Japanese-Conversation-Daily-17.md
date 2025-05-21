@@ -32,7 +32,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 
 ## 情境 1: 詢問商品
 
-![詢問](https://images.unsplash.com/photo-1550009158-9ebf69173e03?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![詢問](https://images.pexels.com/photos/8921573/pexels-photo-8921573.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** このカメラの在庫はありますか？  <br>
@@ -94,7 +94,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 
 ## 情境 2: 比較價格
 
-![價格](https://images.unsplash.com/photo-1556742044-3c52d6e88c62?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![價格](https://images.pexels.com/photos/22021193/pexels-photo-22021193.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** このモデルとあのモデル、どちらがおすすめですか？  <br>
@@ -156,7 +156,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 
 ## 情境 3: 詢問功能
 
-![功能](https://images.unsplash.com/photo-1563911302283-d2bc129e7570?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![功能](https://images.pexels.com/photos/32156379/pexels-photo-32156379.png?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** このテレビの機能を説明していただけますか？  <br>
@@ -218,7 +218,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 
 ## 情境 4: 維修服務
 
-![維修](https://images.unsplash.com/photo-1553451133-8083c47243d6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![維修](https://images.pexels.com/photos/18483564/pexels-photo-18483564.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** このパソコンの修理をお願いします。  <br>
@@ -280,7 +280,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 
 ## 情境 5: 退換貨
 
-![退換](https://images.unsplash.com/photo-1589758438368-0ad531db3366?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![退換](https://images.pexels.com/photos/8927657/pexels-photo-8927657.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** この商品を返品したいのですが。  <br>

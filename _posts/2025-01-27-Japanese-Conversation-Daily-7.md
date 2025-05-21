@@ -33,7 +33,7 @@ tags: [日語, Japanese]
 
 ## 情境 1: 餐廳預約
 
-![餐廳預約](https://images.unsplash.com/photo-1414235077428-338989a2e8c0?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![餐廳預約](https://images.pexels.com/photos/30413176/pexels-photo-30413176.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **餐廳接待員:** はい、レストラン「さくら」でございます。  <br>
@@ -76,7 +76,7 @@ tags: [日語, Japanese]
 
 ## 情境 2: 購物退換貨
 
-![購物退換貨](https://images.unsplash.com/photo-1483985988355-763728e1935b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![購物退換貨](https://images.pexels.com/photos/6863180/pexels-photo-6863180.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **店員:** いらっしゃいませ。何かお手伝いできることはありますか？  <br>
@@ -119,7 +119,7 @@ tags: [日語, Japanese]
 
 ## 情境 3: 旅館入住
 
-![旅館入住](https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![旅館入住](https://images.pexels.com/photos/7095765/pexels-photo-7095765.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **櫃檯人員:** いらっしゃいませ。チェックインでございますか？  <br>
@@ -162,7 +162,7 @@ tags: [日語, Japanese]
 
 ## 情境 4: 問路
 
-![問路](https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![問路](https://images.pexels.com/photos/27299109/pexels-photo-27299109.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **路人:** すみません、この近くにコンビニはありますか？  <br>
@@ -205,7 +205,7 @@ tags: [日語, Japanese]
 
 ## 情境 5: 天氣預報
 
-![天氣預報](https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![天氣預報](https://images.pexels.com/photos/3091117/pexels-photo-3091117.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **氣象播報員:** 今日の天気予報を確認しましょう。  <br>
@@ -233,7 +233,7 @@ tags: [日語, Japanese]
 </div>  
 
 ### 重點句型
-- ～の天気予報を確認しましょう。(~no tenki yohou o kakunin shimashou) - 讓我們來看看...的天氣預報
+- ～の天氣予報を確認しましょう。(~no tenki yohou o kakunin shimashou) - 讓我們來看看...的天氣預報
 - ～は～のち～、最高気温は～度です。(~wa ~nochi ~, saikou kion wa ~do desu) - ...是...轉...，最高氣溫...度
 - お願いします。(onegai shimasu) - 麻煩您了
 

@@ -32,7 +32,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 
 ## 情境 1: 詢問天氣
 
-![天氣](https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![天氣](https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **友人A:** 今日の天気はどうですか？  <br>
@@ -94,7 +94,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 
 ## 情境 2: 談論季節
 
-![季節](https://images.unsplash.com/photo-1501785888041-af3ef285b470?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![季節](https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **友人A:** 日本は四季がはっきりしていますね。  <br>
@@ -156,7 +156,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 
 ## 情境 3: 溫度變化
 
-![溫度](https://images.unsplash.com/photo-1589758438368-0ad531db3366?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![溫度](https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **友人A:** 今日は何度ですか？  <br>
@@ -218,7 +218,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 
 ## 情境 4: 天氣預報
 
-![預報](https://images.unsplash.com/photo-1600334129128-685c5582fd35?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![預報](https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **友人A:** 明日の天気予報はどうですか？  <br>
@@ -280,7 +280,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 
 ## 情境 5: 天氣對生活的影響
 
-![生活](https://images.unsplash.com/photo-1550345332-09e3ac987658?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![生活](https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **友人A:** 梅雨の時期は大変ですね。  <br>

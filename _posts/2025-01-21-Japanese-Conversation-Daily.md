@@ -11,6 +11,8 @@ tags: [日語, Japanese]
 
 ## 情境 1: 在咖啡店點餐
 
+![在咖啡店點餐](https://images.pexels.com/photos/1545399/pexels-photo-1545399.jpeg?auto=compress&cs=tinysrgb&h=350)
+
 <div style="text-align: left">  
 **店員:** いらっしゃいませ！ご注文はお決まりですか？  <br>
 (irasshaimase! go-chuumon wa o-kimari desu ka?)  <br>
@@ -49,6 +51,8 @@ tags: [日語, Japanese]
 
 ## 情境 2: 問路
 
+![問路](https://images.pexels.com/photos/29786884/pexels-photo-29786884.jpeg?auto=compress&cs=tinysrgb&h=350)
+
 <div style="text-align: left">  
 **路人:** すみません、駅はどこですか？  <br>
 (sumimasen, eki wa doko desu ka?)  <br>
@@ -86,6 +90,8 @@ tags: [日語, Japanese]
 ---
 
 ## 情境 3: 在超市結帳
+
+![在超市結帳](https://images.pexels.com/photos/32150477/pexels-photo-32150477.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **收銀員:** 袋はご利用ですか？  <br>

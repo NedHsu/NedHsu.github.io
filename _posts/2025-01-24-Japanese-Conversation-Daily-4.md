@@ -33,7 +33,7 @@ tags: [日語, Japanese]
 
 ## 情境 1: 在餐廳點餐
 
-![餐廳點餐](https://images.unsplash.com/photo-1414235077428-338989a2e8c0?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![在餐廳點餐](https://images.pexels.com/photos/21832929/pexels-photo-21832929.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **店員:** いらっしゃいませ。ご注文はお決まりですか？  <br>
@@ -88,7 +88,7 @@ tags: [日語, Japanese]
 
 ## 情境 2: 購物退換貨
 
-![購物退換貨](https://images.unsplash.com/photo-1483985988355-763728e1935b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![購物退換貨](https://images.pexels.com/photos/7414659/pexels-photo-7414659.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **店員:** いらっしゃいませ。何かお手伝いできることはありますか？  <br>
@@ -143,7 +143,7 @@ tags: [日語, Japanese]
 
 ## 情境 3: 預約旅館
 
-![預約旅館](https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![預約旅館](https://images.pexels.com/photos/32137685/pexels-photo-32137685.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **受付:** はい、ホテル「さくら」でございます。  <br>
@@ -198,7 +198,7 @@ tags: [日語, Japanese]
 
 ## 情境 4: 問路
 
-![問路](https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![問路](https://images.pexels.com/photos/29786884/pexels-photo-29786884.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **通行人:** すみません、この近くにコンビニはありますか？  <br>
@@ -253,7 +253,7 @@ tags: [日語, Japanese]
 
 ## 情境 5: 天氣預報
 
-![天氣預報](https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![天氣預報](https://images.pexels.com/photos/5087597/pexels-photo-5087597.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **アナウンサー:** 今日の天気予報を確認しましょう。  <br>

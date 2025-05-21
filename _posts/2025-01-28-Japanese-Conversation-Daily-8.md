@@ -33,7 +33,7 @@ tags: [日語, Japanese]
 
 ## 情境 1: 初次見面的問候
 
-![初次見面](https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![初次見面的問候](https://images.pexels.com/photos/31416984/pexels-photo-31416984.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **田中:** はじめまして。  <br>
@@ -81,7 +81,7 @@ tags: [日語, Japanese]
 
 ## 情境 2: 自我介紹
 
-![自我介紹](https://images.unsplash.com/photo-1553451133-8083c47243d6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![自我介紹](https://images.pexels.com/photos/186976/pexels-photo-186976.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **田中:** 私は田中と申します。  <br>
@@ -136,7 +136,7 @@ tags: [日語, Japanese]
 
 ## 情境 3: 詢問基本資訊
 
-![詢問資訊](https://images.unsplash.com/photo-1556741533-6e6a62bd8b49?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![詢問基本資訊](https://images.pexels.com/photos/32151403/pexels-photo-32151403.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **田中:** お仕事は何をされていますか？  <br>
@@ -191,7 +191,7 @@ tags: [日語, Japanese]
 
 ## 情境 4: 表達感謝與再見
 
-![感謝與再見](https://images.unsplash.com/photo-1588668214407-6ea9a6d8c272?q=80&w=1200&auto=format&fit=crop)
+![表達感謝與再見](https://images.pexels.com/photos/6249257/pexels-photo-6249257.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **田中:** 今日はありがとうございました。  <br>
@@ -246,7 +246,7 @@ tags: [日語, Japanese]
 
 ## 情境 5: 日常寒暄
 
-![日常寒暄](https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![日常寒暄](https://images.pexels.com/photos/32136341/pexels-photo-32136341.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **田中:** お元気ですか？  <br>

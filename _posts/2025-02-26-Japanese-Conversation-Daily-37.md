@@ -32,7 +32,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 
 ## 情境 1: 購票
 
-![購票](https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![購票](https://images.pexels.com/photos/3778876/pexels-photo-3778876.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 <div style="text-align: left">  
 **顧客:** 映画のチケットを2枚お願いします。  <br>
@@ -73,7 +73,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 
 ## 情境 2: 選擇座位
 
-![座位](https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![座位](https://images.pexels.com/photos/3993446/pexels-photo-3993446.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 <div style="text-align: left">  
 **顧客:** 座席を選べますか？  <br>
@@ -114,7 +114,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 
 ## 情境 3: 購買零食
 
-![零食](https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![零食](https://images.pexels.com/photos/4386366/pexels-photo-4386366.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 <div style="text-align: left">  
 **顧客:** ポップコーンとドリンクをお願いします。  <br>
@@ -155,7 +155,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 
 ## 情境 4: 觀影禮儀
 
-![禮儀](https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![禮儀](https://images.pexels.com/photos/3993445/pexels-photo-3993445.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 <div style="text-align: left">  
 **顧客:** 映画館でのマナーを教えていただけますか？  <br>
@@ -196,7 +196,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 
 ## 情境 5: 退票
 
-![退票](https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![退票](https://images.pexels.com/photos/4386366/pexels-photo-4386366.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 <div style="text-align: left">  
 **顧客:** チケットの払い戻しは可能ですか？  <br>

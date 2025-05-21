@@ -30,7 +30,7 @@ tags: [日語, Japanese]
 
 ## 情境 1: 在服飾店購物
 
-![服飾店購物](https://images.unsplash.com/photo-1483985988355-763728e1935b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![在服飾店購物](https://images.pexels.com/photos/32146231/pexels-photo-32146231.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **店員:** いらっしゃいませ。何かお探しですか？  <br>
@@ -86,7 +86,7 @@ tags: [日語, Japanese]
 
 ## 情境 2: 預約餐廳
 
-![餐廳預約](https://images.unsplash.com/photo-1414235077428-338989a2e8c0?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![預約餐廳](https://images.pexels.com/photos/30604824/pexels-photo-30604824.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **A:** もしもし、レストラン「さくら」でございます。  <br>
@@ -138,7 +138,7 @@ tags: [日語, Japanese]
 
 ## 情境 3: 談論天氣
 
-![天氣對話](https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![談論天氣](https://images.pexels.com/photos/15113966/pexels-photo-15113966.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **A:** 今日はいい天氣ですね。  <br>
@@ -175,7 +175,7 @@ tags: [日語, Japanese]
 </div>  
 
 ### 重點句型
-- ～はいい天気ですね。(~wa ii tenki desu ne) - ...天氣真好啊
+- ～はいい天氣ですね。(~wa ii tenki desu ne) - ...天氣真好啊
 - ～そうですよ。(~sou desu yo) - 聽說...
 - ～した方がいいですね。(~shita hou ga ii desu ne) - 最好...
 
@@ -190,7 +190,7 @@ tags: [日語, Japanese]
 
 ## 情境 4: 在醫院看診
 
-![醫院看診](https://images.unsplash.com/photo-1579684385127-1ef15d508118?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![在醫院看診](https://images.pexels.com/photos/32160038/pexels-photo-32160038.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **A:** おはようございます。どうされましたか？  <br>
@@ -243,7 +243,7 @@ tags: [日語, Japanese]
 
 ## 情境 5: 飯店辦理入住
 
-![飯店入住](https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+![飯店辦理入住](https://images.pexels.com/photos/32118818/pexels-photo-32118818.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **店員:** いらっしゃいませ。チェックインでございますか？  <br>

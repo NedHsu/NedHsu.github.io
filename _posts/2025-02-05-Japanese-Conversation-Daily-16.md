@@ -32,7 +32,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 
 ## 情境 1: 預約美髮服務
 
-![預約](https://images.unsplash.com/photo-1522337660859-02fbefca4702?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![預約](https://images.pexels.com/photos/7928388/pexels-photo-7928388.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** カットの予約をお願いします。  <br>
@@ -94,7 +94,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 
 ## 情境 2: 剪髮與造型
 
-![剪髮](https://images.unsplash.com/photo-1588668214407-6ea9a6d8c272?q=80&w=1200&auto=format&fit=crop)
+![剪髮](https://images.pexels.com/photos/30326073/pexels-photo-30326073.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** 前髪を少し短くしてください。  <br>
@@ -156,7 +156,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 
 ## 情境 3: 染髮與護髮
 
-![染髮](https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![染髮](https://images.pexels.com/photos/8467963/pexels-photo-8467963.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** この色に染めたいです。  <br>
@@ -218,7 +218,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 
 ## 情境 4: 美甲服務
 
-![美甲](https://images.unsplash.com/photo-1519014816548-bf5fe059798b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![美甲](https://images.pexels.com/photos/29189916/pexels-photo-29189916.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** ネイルのデザインを見せてください。  <br>
@@ -280,7 +280,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 
 ## 情境 5: 結帳付款
 
-![付款](https://images.unsplash.com/photo-1556742044-3c52d6e88c62?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![結帳](https://images.pexels.com/photos/7820359/pexels-photo-7820359.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** お会計をお願いします。  <br>

@@ -32,7 +32,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 
 ## 情境 1: 預約包廂
 
-![預約](https://images.unsplash.com/photo-1516280440614-37939bbacd81?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![預約](https://images.pexels.com/photos/3778876/pexels-photo-3778876.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 <div style="text-align: left">  
 **顧客:** カラオケの予約をしたいのですが。  <br>
@@ -73,7 +73,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 
 ## 情境 2: 選擇歌曲
 
-![歌曲](https://images.unsplash.com/photo-1516280440614-37939bbacd81?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![歌曲](https://images.pexels.com/photos/3993446/pexels-photo-3993446.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 <div style="text-align: left">  
 **顧客:** 曲の検索方法を教えていただけますか？  <br>
@@ -114,7 +114,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 
 ## 情境 3: 點餐服務
 
-![點餐](https://images.unsplash.com/photo-1516280440614-37939bbacd81?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![點餐](https://images.pexels.com/photos/4386366/pexels-photo-4386366.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 <div style="text-align: left">  
 **顧客:** ドリンクバーはありますか？  <br>
@@ -155,7 +155,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 
 ## 情境 4: 設備使用
 
-![設備](https://images.unsplash.com/photo-1516280440614-37939bbacd81?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![設備](https://images.pexels.com/photos/3993445/pexels-photo-3993445.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 <div style="text-align: left">  
 **顧客:** マイクの音量を調整できますか？  <br>
@@ -196,7 +196,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 
 ## 情境 5: 結帳付款
 
-![結帳](https://images.unsplash.com/photo-1516280440614-37939bbacd81?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![結帳](https://images.pexels.com/photos/4386366/pexels-photo-4386366.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 <div style="text-align: left">  
 **顧客:** お会計をお願いします。  <br>

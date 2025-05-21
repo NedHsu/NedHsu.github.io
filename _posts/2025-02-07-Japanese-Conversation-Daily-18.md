@@ -32,7 +32,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 ## 情境 1: 路邊叫車
 
-![叫車](https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![叫車](https://images.pexels.com/photos/15204022/pexels-photo-15204022.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **乘客:** タクシーを呼びたいのですが。  <br>
@@ -80,7 +80,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 ## 情境 2: 電話預約
 
-![預約](https://images.unsplash.com/photo-1556742044-3c52d6e88c62?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![預約](https://images.pexels.com/photos/19702166/pexels-photo-19702166.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **乘客:** タクシーを予約したいです。  <br>
@@ -128,7 +128,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 ## 情境 3: 告知目的地
 
-![目的地](https://images.unsplash.com/photo-1600334129128-685c5582fd35?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![目的地](https://images.pexels.com/photos/31826531/pexels-photo-31826531.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **乘客:** 東京駅までお願いします。  <br>
@@ -176,7 +176,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 ## 情境 4: 詢問價格
 
-![價格](https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![價格](https://images.pexels.com/photos/24032931/pexels-photo-24032931.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **乘客:** 料金はいくらになりますか？  <br>
@@ -224,7 +224,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 ## 情境 5: 付款下車
 
-![付款](https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![付款](https://images.pexels.com/photos/31078811/pexels-photo-31078811.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **乘客:** お釣りは結構です。  <br>
