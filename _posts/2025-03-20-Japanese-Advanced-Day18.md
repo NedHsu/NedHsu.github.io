@@ -15,55 +15,39 @@ excerpt: "學習進階寫作技巧，掌握長文寫作方法，進行綜合寫�
 
 ### 1. 進階寫作技巧
 #### 文章構成
-- 論理構成（邏輯結構）
-  - 中文：邏輯結構
-  - English: Logical structure
+- 論理構成（邏輯結構 / Logical structure）
   - 例：主張と根拠の関係
   - 例：因果関係の整理
 
-- 段落展開（段落展開）
-  - 中文：段落展開
-  - English: Paragraph development
+- 段落展開（段落展開 / Paragraph development）
   - 例：具体例の効果的な使用
   - 例：段落間のつながり
 
 #### 表現技巧
-- 比喩表現（比喻表達）
-  - 中文：比喻表達
-  - English: Metaphorical expression
+- 比喩表現（比喻表達 / Metaphorical expression）
   - 例：直喩と隠喩の使い分け
   - 例：イメージを効果的に伝える
 
-- 感情表現（情感表達）
-  - 中文：情感表達
-  - English: Emotional expression
+- 感情表現（情感表達 / Emotional expression）
   - 例：心情を描写する
   - 例：読者の共感を呼ぶ
 
 ### 2. 長文寫作方法
 #### 文章設計
-- テーマの設定（主題設定）
-  - 中文：設定主題
-  - English: Theme setting
+- テーマの設定（主題設定 / Theme setting）
   - 例：具体的なテーマを選ぶ
   - 例：範囲を限定する
 
-- 構成の計画（結構計劃）
-  - 中文：計劃結構
-  - English: Structure planning
+- 構成の計画（結構計劃 / Structure planning）
   - 例：アウトラインを作成する
   - 例：段落の役割を決める
 
 #### 展開方法
-- 導入部の書き方（導入部寫法）
-  - 中文：導入部寫法
-  - English: Introduction writing
+- 導入部の書き方（導入部寫法 / Introduction writing）
   - 例：読者の興味を引く
   - 例：問題提起をする
 
-- 本論の展開（正文展開）
-  - 中文：正文展開
-  - English: Main body development
+- 本論の展開（正文展開 / Main body development）
   - 例：論理的に展開する
   - 例：具体例を挙げる
 

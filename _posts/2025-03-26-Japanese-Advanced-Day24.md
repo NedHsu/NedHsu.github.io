@@ -15,55 +15,39 @@ excerpt: "學習商務場合實用日語，掌握專業溝通技巧，提升職�
 
 ### 1. 商務基本表達
 #### 基本禮儀
-- 挨拶（問候）
-  - 中文：問候
-  - English: Greetings
-  - 例：お世話になっております
+- 挨拶（問候 / Greetings）
+  - 例：お世話になっております 
   - 例：いつもお世話になっております
 
-- 自己紹介（自我介紹）
-  - 中文：自我介紹
-  - English: Self-introduction
+- 自己紹介（自我介紹 / Self-introduction）
   - 例：○○と申します
   - 例：よろしくお願いいたします
 
 #### 商務用語
-- 電話対応（電話應對）
-  - 中文：電話應對
-  - English: Phone conversation
+- 電話対応（電話應對 / Phone conversation）
   - 例：お電話ありがとうございます
   - 例：少々お待ちください
 
-- メール（郵件）
-  - 中文：郵件
-  - English: Email
+- メール（郵件 / Email）
   - 例：お世話になっております
   - 例：ご連絡ありがとうございます
 
 ### 2. 商務場合表達
 #### 會議場合
-- 会議の開始（會議開始）
-  - 中文：會議開始
-  - English: Meeting start
+- 会議の開始（會議開始 / Meeting start）
   - 例：それでは会議を始めさせていただきます
   - 例：本日の議題は...
 
-- 意見の述べ方（意見表達）
-  - 中文：意見表達
-  - English: Opinion expression
+- 意見の述べ方（意見表達 / Opinion expression）
   - 例：私の考えでは...
   - 例：提案させていただきます
 
 #### 商談場合
-- 商談の進め方（商談進行）
-  - 中文：商談進行
-  - English: Business negotiation
+- 商談の進め方（商談進行 / Business negotiation）
   - 例：ご提案をいただきありがとうございます
   - 例：検討させていただきます
 
-- 条件の交渉（條件談判）
-  - 中文：條件談判
-  - English: Terms negotiation
+- 条件の交渉（條件談判 / Terms negotiation）
   - 例：価格について相談させていただきたいのですが
   - 例：納期について確認させていただきたいのですが
 

@@ -15,55 +15,39 @@ excerpt: "學習聽力技巧，提升聽力理解能力，進行綜合聽力訓�
 
 ### 1. 聽力技巧基礎
 #### 預聽準備
-- 文脈の把握（文脈把握）
-  - 中文：把握文脈
-  - English: Understanding context
+- 文脈の把握（文脈把握 / Understanding context）
   - 例：話題を予測する
   - 例：背景知識を活用する
 
-- キーワードの確認（關鍵詞確認）
-  - 中文：確認關鍵詞
-  - English: Identifying keywords
+- キーワードの確認（關鍵詞確認 / Identifying keywords）
   - 例：重要な単語に注目する
   - 例：繰り返し出てくる言葉を覚える
 
 #### 聽力策略
-- メモの取り方（筆記方法）
-  - 中文：筆記方法
-  - English: Note-taking methods
+- メモの取り方（筆記方法 / Note-taking methods）
   - 例：重要な情報を書き留める
   - 例：簡潔にメモを取る
 
-- 推測の方法（推測方法）
-  - 中文：推測方法
-  - English: Inference methods
+- 推測の方法（推測方法 / Inference methods）
   - 例：文脈から意味を推測する
   - 例：知らない単語の意味を予測する
 
 ### 2. 聽力理解方法
 #### 內容理解
-- 主旨の把握（主旨把握）
-  - 中文：把握主旨
-  - English: Understanding main points
+- 主旨の把握（主旨把握 / Understanding main points）
   - 例：話の要点を理解する
   - 例：重要な情報を抽出する
 
-- 詳細の理解（細節理解）
-  - 中文：理解細節
-  - English: Understanding details
+- 詳細の理解（細節理解 / Understanding details）
   - 例：具体的な情報を聞き取る
   - 例：数字や固有名詞に注意する
 
 #### 文脈理解
-- 話の流れ（對話流程）
-  - 中文：對話流程
-  - English: Conversation flow
+- 話の流れ（對話流程 / Conversation flow）
   - 例：会話の展開を追う
   - 例：話の流れを理解する
 
-- 話者の意図（說話者意圖）
-  - 中文：說話者意圖
-  - English: Speaker's intention
+- 話者の意図（說話者意圖 / Speaker's intention）
   - 例：話者の意図を理解する
   - 例：言外の意味を読み取る
 

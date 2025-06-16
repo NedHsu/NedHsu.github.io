@@ -15,55 +15,41 @@ excerpt: "學習基礎寫作技巧，掌握文章結構，練習短文寫作。"
 
 ### 1. 寫作基礎
 #### 文章構成
-- 起承転結（起承轉合）
-  - 中文：起承轉合
-  - English: Introduction, development, turn, conclusion
+- 起承転結（起承轉合 / Introduction, development, turn, conclusion）
   - 例：文章の流れを整理する
   - 例：段落の役割を理解する
 
-- 段落構成（段落結構）
+- 段落構成（段落結構 / Paragraph structure）
   - 中文：段落結構
-  - English: Paragraph structure
+  - English: 
   - 例：主題文と支持文の関係
   - 例：段落の展開方法
 
 #### 文章類型
-- 説明文（說明文）
-  - 中文：說明文
-  - English: Explanatory essay
+- 説明文（說明文 / Explanatory essay）
   - 特徴：事実や情報を説明する
   - 例：レポート、報告書
 
-- 意見文（意見文）
-  - 中文：意見文
-  - English: Opinion essay
+- 意見文（意見文 / Opinion essay）
   - 特徴：意見や主張を述べる
   - 例：エッセイ、コラム
 
 ### 2. 寫作技巧
 #### 文章展開
-- 導入の書き方（導入寫法）
-  - 中文：導入寫法
-  - English: Introduction writing
+- 導入の書き方（導入寫法 / Introduction writing）
   - 例：読者の興味を引く
   - 例：主題を明確に示す
 
-- 本文の展開（正文展開）
-  - 中文：正文展開
-  - English: Main body development
+- 本文の展開（正文展開 / Main body development）
   - 例：論理的に展開する
   - 例：具体例を挙げる
 
 #### 表現技巧
-- 接続詞の使い方（連接詞用法）
-  - 中文：連接詞用法
-  - English: Conjunction usage
+- 接続詞の使い方（連接詞用法 / Conjunction usage）
   - 例：そして、しかし、なぜなら
   - 例：文と文をつなぐ
 
-- 修飾語の活用（修飾語活用）
-  - 中文：修飾語活用
-  - English: Modifier usage
+- 修飾語の活用（修飾語活用 / Modifier usage）
   - 例：形容詞、副詞の効果的な使用
   - 例：文章を豊かにする
 

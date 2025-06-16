@@ -15,55 +15,39 @@ excerpt: "學習日常生活實用日語，掌握溝通技巧，提升實際應�
 
 ### 1. 日常生活表達
 #### 基本表達
-- 挨拶（問候）
-  - 中文：問候
-  - English: Greetings
+- 挨拶（問候 / Greetings）
   - 例：おはようございます
   - 例：こんにちは
 
-- 感謝（感謝）
-  - 中文：感謝
-  - English: Gratitude
+- 感謝（感謝 / Gratitude）
   - 例：ありがとうございます
   - 例：お世話になりました
 
 #### 實用表達
-- 依頼（請求）
-  - 中文：請求
-  - English: Request
+- 依頼（請求 / Request）
   - 例：お願いします
   - 例：すみませんが
 
-- 断り（拒絕）
-  - 中文：拒絕
-  - English: Refusal
+- 断り（拒絕 / Refusal）
   - 例：申し訳ありませんが
   - 例：恐れ入りますが
 
 ### 2. 場合別表達
 #### 日常場合
-- 買い物（購物）
-  - 中文：購物
-  - English: Shopping
+- 買い物（購物 / Shopping）
   - 例：これをください
   - 例：いくらですか
 
-- 食事（用餐）
-  - 中文：用餐
-  - English: Dining
+- 食事（用餐 / Dining）
   - 例：いただきます
   - 例：ごちそうさまでした
 
 #### 特殊場合
-- 病院（醫院）
-  - 中文：醫院
-  - English: Hospital
+- 病院（醫院 / Hospital）
   - 例：具合が悪いです
   - 例：薬を飲んでいます
 
-- 銀行（銀行）
-  - 中文：銀行
-  - English: Bank
+- 銀行（銀行 / Bank）
   - 例：口座を開きたいです
   - 例：両替をお願いします
 
@@ -95,49 +79,35 @@ B: ありがとうございます。合計で3,000円になります。
 
 ### 4. 文化相關表達
 #### 禮儀表達
-- お辞儀（鞠躬）
-  - 中文：鞠躬
-  - English: Bowing
+- お辞儀（鞠躬 / Bowing）
   - 方法：15度、30度、45度
   - 場合：挨拶、感謝、謝罪
 
-- 座布団（坐墊）
-  - 中文：坐墊
-  - English: Cushion
+- 座布団（坐墊 / Cushion）
   - 使い方：正座
   - 注意点：足を組まない
 
 #### 季節表達
-- 時候の挨拶（季節問候）
-  - 中文：季節問候
-  - English: Seasonal greetings
+- 時候の挨拶（季節問候 / Seasonal greetings）
   - 春：桜が咲き始めました
   - 夏：暑い日が続きます
 
 ### 5. 實用技巧
 #### 表達技巧
-- 婉曲表現（委婉表達）
-  - 中文：委婉表達
-  - English: Indirect expression
+- 婉曲表現（委婉表達 / Indirect expression）
   - 例：ちょっと考えさせてください
   - 例：検討させていただきます
 
-- 相づち（附和語）
-  - 中文：附和語
-  - English: Response expressions
+- 相づち（附和語 / Response expressions）
   - 例：はい、そうですね
   - 例：なるほど
 
 #### 溝通技巧
-- 質問の仕方（提問方法）
-  - 中文：提問方法
-  - English: Questioning techniques
+- 質問の仕方（提問方法 / Questioning techniques）
   - 方法：丁寧に質問する
   - 方法：具体的に質問する
 
-- 説明の仕方（說明方法）
-  - 中文：說明方法
-  - English: Explanation techniques
+- 説明の仕方（說明方法 / Explanation techniques）
   - 方法：順序立てて説明する
   - 方法：具体例を挙げる
 

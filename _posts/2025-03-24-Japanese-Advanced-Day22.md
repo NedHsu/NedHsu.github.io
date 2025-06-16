@@ -15,55 +15,39 @@ excerpt: "學習JLPT N3重要詞彙，掌握閱讀理解技巧，進行綜合練
 
 ### 1. 重要詞彙（一）
 #### 名詞
-- 環境（環境）
-  - 中文：環境
-  - English: Environment
+- 環境（環境 / Environment）
   - 例：環境問題
   - 例：環境保護
 
-- 経済（經濟）
-  - 中文：經濟
-  - English: Economy
+- 経済（經濟 / Economy）
   - 例：経済成長
   - 例：経済政策
 
 #### 動詞
-- 改善する（改善）
-  - 中文：改善
-  - English: Improve
+- 改善する（改善 / Improve）
   - 例：生活を改善する
   - 例：サービスを改善する
 
-- 影響する（影響）
-  - 中文：影響
-  - English: Affect
+- 影響する（影響 / Affect）
   - 例：環境に影響する
   - 例：結果に影響する
 
 ### 2. 閱讀理解技巧
 #### 基本技巧
-- スキミング（略讀）
-  - 中文：略讀
-  - English: Skimming
+- スキミング（略讀 / Skimming）
   - 方法：全体を素早く読む
   - 目的：大意を把握する
 
-- スキャニング（掃讀）
-  - 中文：掃讀
-  - English: Scanning
+- スキャニング（掃讀 / Scanning）
   - 方法：特定の情報を探す
   - 目的：必要な情報を見つける
 
 #### 理解方法
-- 文脈の理解（上下文理解）
-  - 中文：上下文理解
-  - English: Context understanding
+- 文脈の理解（上下文理解 / Context understanding）
   - ポイント：前後の文を読む
   - ポイント：関連性を考える
 
-- キーワードの把握（關鍵詞把握）
-  - 中文：關鍵詞把握
-  - English: Keyword identification
+- キーワードの把握（關鍵詞把握 / Keyword identification）
   - ポイント：重要な単語を見つける
   - ポイント：意味を推測する
 

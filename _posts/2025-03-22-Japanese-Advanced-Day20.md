@@ -15,55 +15,39 @@ excerpt: "學習口語表達技巧，提升溝通能力，進行綜合口語訓�
 
 ### 1. 口語表達基礎
 #### 基本技巧
-- 発音とイントネーション（發音和語調）
-  - 中文：發音和語調
-  - English: Pronunciation and intonation
+- 発音とイントネーション（發音和語調 / Pronunciation and intonation）
   - 例：正しい発音を練習する
   - 例：自然なイントネーションを身につける
 
-- リズムとスピード（節奏和速度）
-  - 中文：節奏和速度
-  - English: Rhythm and speed
+- リズムとスピード（節奏和速度 / Rhythm and speed）
   - 例：適切なスピードで話す
   - 例：自然なリズムを作る
 
 #### 表現技巧
-- 相づちの使い方（附和語用法）
-  - 中文：附和語用法
-  - English: Response expressions
+- 相づちの使い方（附和語用法 / Response expressions）
   - 例：うん、そうですね、へえ
   - 例：会話をスムーズに進める
 
-- 間の取り方（停頓方法）
-  - 中文：停頓方法
-  - English: Pausing techniques
+- 間の取り方（停頓方法 / Pausing techniques）
   - 例：適切な間を取る
   - 例：話の区切りを作る
 
 ### 2. 口語表達方法
 #### 會話技巧
-- 質問の仕方（提問方法）
-  - 中文：提問方法
-  - English: Questioning techniques
+- 質問の仕方（提問方法 / Questioning techniques）
   - 例：自然な質問をする
   - 例：会話を展開する
 
-- 応答の仕方（回應方法）
-  - 中文：回應方法
-  - English: Response techniques
+- 応答の仕方（回應方法 / Response techniques）
   - 例：適切に応答する
   - 例：会話を続ける
 
 #### 表現方法
-- 感情表現（情感表達）
-  - 中文：情感表達
-  - English: Emotional expression
+- 感情表現（情感表達 / Emotional expression）
   - 例：感情を伝える
   - 例：共感を示す
 
-- 意見の述べ方（意見表達）
-  - 中文：意見表達
-  - English: Opinion expression
+- 意見の述べ方（意見表達 / Opinion expression）
   - 例：自分の考えを伝える
   - 例：相手の意見を尊重する
 
@@ -99,55 +83,39 @@ A: はい、普段気づかないような美しさを発見できるように�
 
 ### 4. 口語策略應用
 #### 實際應用
-- 日常会話（日常對話）
-  - 中文：日常對話
-  - English: Daily conversation
+- 日常会話（日常對話 / Daily conversation）
   - 例：自然な会話を練習する
   - 例：様々な場面に対応する
 
-- ビジネス会話（商務對話）
-  - 中文：商務對話
-  - English: Business conversation
+- ビジネス会話（商務對話 / Business conversation）
   - 例：フォーマルな表現を練習する
   - 例：ビジネスシーンに対応する
 
 #### 特殊情況
-- プレゼンテーション（演講）
-  - 中文：演講
-  - English: Presentation
+- プレゼンテーション（演講 / Presentation）
   - 例：効果的な発表を練習する
   - 例：聞き手を意識する
 
-- ディスカッション（討論）
-  - 中文：討論
-  - English: Discussion
+- ディスカッション（討論 / Discussion）
   - 例：意見交換を練習する
   - 例：議論を展開する
 
 ### 5. 實用口語技巧
 #### 表達訓練
-- シャドーイング（跟讀）
-  - 中文：跟讀
-  - English: Shadowing
+- シャドーイング（跟讀 / Shadowing）
   - 例：音声を追いかけて発音する
   - 例：リズムとイントネーションを真似る
 
-- ロールプレイ（角色扮演）
-  - 中文：角色扮演
-  - English: Role-play
+- ロールプレイ（角色扮演 / Role-play）
   - 例：様々な役割を演じる
   - 例：実践的な会話を練習する
 
 #### 表現力向上
-- 語彙の拡充（詞彙擴充）
-  - 中文：詞彙擴充
-  - English: Vocabulary expansion
+- 語彙の拡充（詞彙擴充 / Vocabulary expansion）
   - 例：新しい表現を覚える
   - 例：表現のバリエーションを増やす
 
-- 表現の工夫（表達技巧）
-  - 中文：表達技巧
-  - English: Expression techniques
+- 表現の工夫（表達技巧 / Expression techniques）
   - 例：より良い表現を探す
   - 例：自然な表現を心がける
 

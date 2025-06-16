@@ -15,34 +15,24 @@ excerpt: "學習JLPT N3考試準備方法，掌握重要語法，進行模擬練
 
 ### 1. JLPT N3考試概述
 #### 考試結構
-- 言語知識（語言知識）
-  - 中文：語言知識
-  - English: Language Knowledge
+- 言語知識（語言知識 / Language Knowledge）
   - 内容：文法、語彙、漢字
   - 時間：30分鐘
 
-- 読解（閱讀理解）
-  - 中文：閱讀理解
-  - English: Reading Comprehension
+- 読解（閱讀理解 / Reading Comprehension）
   - 内容：文章理解、情報検索
   - 時間：70分鐘
 
-- 聴解（聽力理解）
-  - 中文：聽力理解
-  - English: Listening Comprehension
+- 聴解（聽力理解 / Listening Comprehension）
   - 内容：課題理解、ポイント理解
   - 時間：40分鐘
 
 #### 合格標準
-- 総合得点（總分）
-  - 中文：總分
-  - English: Total Score
+- 総合得点（總分 / Total Score）
   - 基準：180点満点中95点以上
   - 配点：各科目60点満点
 
-- 科目別基準（各科目標準）
-  - 中文：各科目標準
-  - English: Section Requirements
+- 科目別基準（各科目標準 / Section Requirements）
   - 基準：各科目19点以上
   - 注意：全ての科目で基準を満たす必要がある
 

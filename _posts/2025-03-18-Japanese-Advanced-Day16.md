@@ -15,55 +15,39 @@ excerpt: "學習進階閱讀技巧，掌握長文理解方法，進行綜合閱�
 
 ### 1. 進階閱讀技巧
 #### 文脈分析
-- 文脈の把握（文脈把握）
-  - 中文：把握文脈
-  - English: Understanding context
+- 文脈の把握（文脈把握 / Understanding context）
   - 例：前後の文から意味を推測する
   - 例：文章の流れを追う
 
-- 論理関係の理解（邏輯關係理解）
-  - 中文：理解邏輯關係
-  - English: Understanding logical relationships
+- 論理関係の理解（邏輯關係理解 / Understanding logical relationships）
   - 例：因果関係を理解する
   - 例：対比関係を把握する
 
 #### 推論技巧
-- 暗示の読み取り（暗示理解）
-  - 中文：理解暗示
-  - English: Understanding implications
+- 暗示の読み取り（暗示理解 / Understanding implications）
   - 例：作者の意図を推測する
   - 例：言外の意味を理解する
 
-- 要約の作成（摘要製作）
-  - 中文：製作摘要
-  - English: Creating summaries
+- 要約の作成（摘要製作 / Creating summaries）
   - 例：重要なポイントを抽出する
   - 例：文章を簡潔にまとめる
 
 ### 2. 長文理解方法
 #### 文章分析
-- 構成の把握（結構把握）
-  - 中文：把握結構
-  - English: Understanding structure
+- 構成の把握（結構把握 / Understanding structure）
   - 例：文章の展開を追う
   - 例：段落の関係を理解する
 
-- 主題の特定（主題確定）
-  - 中文：確定主題
-  - English: Identifying main theme
+- 主題の特定（主題確定 / Identifying main theme）
   - 例：中心的な考えを見つける
   - 例：作者の主張を理解する
 
 #### 細節理解
-- 重要情報の抽出（重要信息提取）
-  - 中文：提取重要信息
-  - English: Extracting key information
+- 重要情報の抽出（重要信息提取 / Extracting key information）
   - 例：具体的な事実を把握する
   - 例：データや数字に注目する
 
-- 例示の理解（例子理解）
-  - 中文：理解例子
-  - English: Understanding examples
+- 例示の理解（例子理解 / Understanding examples）
   - 例：具体例の目的を理解する
   - 例：例示の効果を分析する
 
