@@ -2,7 +2,7 @@
 title: 學習使用助詞「を」
 date: 2023-10-08 20:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese] 
+tags: [日語, Japanese, 日語基礎] 
 excerpt: "助詞「を」（o）是日語中用來表示動作的直接受詞的助詞，標示出動作的對象或目標。"
 ---
 

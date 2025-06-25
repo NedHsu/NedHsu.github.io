@@ -2,7 +2,7 @@
 title: 日語對話 - 購物、預約餐廳、天氣、醫院看診、飯店辦理入住
 date: 2025-01-22 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese] 
+tags: [日語, Japanese, 日語對話] 
 ---
 
 ## 課程預覽

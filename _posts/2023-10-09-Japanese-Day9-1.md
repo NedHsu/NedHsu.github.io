@@ -2,7 +2,7 @@
 title: 學習點餐用語（これをお願いします。）
 date: 2023-10-09 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese] 
+tags: [日語, Japanese, 日語基礎] 
 excerpt: "一些常用的點餐用語，幫助你在餐廳裡自信地點餐。"
 ---
 

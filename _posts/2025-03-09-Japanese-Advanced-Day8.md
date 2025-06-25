@@ -2,6 +2,7 @@
 title: 日語進階課程 - 第8天：授受動詞
 date: 2025-03-09 20:00:00 +0800
 categories: [Language, Japanese]
+tags: [日語, Japanese, 日語進階] 
 excerpt: "深入學習「あげる」「くれる」「もらう」的用法，掌握授受關係的複雜表達，並練習實際對話情境。"
 ---
 

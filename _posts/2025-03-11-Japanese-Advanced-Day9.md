@@ -2,6 +2,7 @@
 title: 日語進階課程 - 第9天：商務日語（一）
 date: 2025-03-11 19:00:00 +0800
 categories: [Language, Japanese]
+tags: [日語, Japanese, 日語進階] 
 excerpt: "學習基本的商務禮儀和用語，掌握電話應對技巧，並練習商務場合的自我介紹。"
 ---
 

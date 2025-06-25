@@ -2,6 +2,7 @@
 title: 日語進階課程
 date: 2025-03-02 19:00:00 +0800
 categories: [Language, Japanese]
+tags: [日語, Japanese, 日語進階] 
 excerpt: "為已完成基礎課程的學習者設計的進階日語課程，深入探討語法結構、文化背景和實用會話技巧。"
 ---
 

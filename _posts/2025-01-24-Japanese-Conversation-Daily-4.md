@@ -2,7 +2,7 @@
 title: 日語對話 - 餐廳點餐、購物退換貨、預約旅館、問路、天氣預報
 date: 2025-01-24 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese] 
+tags: [日語, Japanese, 日語對話] 
 ---
 
 ## 課程預覽

@@ -2,7 +2,7 @@
 title: 日語對話 - 點餐、問路、結帳
 date: 2025-01-21 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese] 
+tags: [日語, Japanese, 日語對話] 
 ---
 
 一些生活中的情境對話，透過對話學習日常用語

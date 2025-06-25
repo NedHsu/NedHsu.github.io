@@ -2,6 +2,7 @@
 title: 日語進階課程 - 第6天：被動形
 date: 2025-03-07 20:00:00 +0800
 categories: [Language, Japanese]
+tags: [日語, Japanese, 日語進階] 
 excerpt: "學習動詞被動形的變化規則，掌握「～られる」「～れる」的用法，並練習被動句型的實際應用。"
 ---
 

@@ -2,6 +2,7 @@
 title: 日語進階課程 - 第19天：聽力強化
 date: 2025-03-21 19:00:00 +0800
 categories: [Language, Japanese]
+tags: [日語, Japanese, 日語進階] 
 excerpt: "學習聽力技巧，提升聽力理解能力，進行綜合聽力訓練。"
 ---
 

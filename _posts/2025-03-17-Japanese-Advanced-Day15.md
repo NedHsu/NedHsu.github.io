@@ -2,6 +2,7 @@
 title: 日語進階課程 - 第15天：閱讀理解（一）
 date: 2025-03-17 19:00:00 +0800
 categories: [Language, Japanese]
+tags: [日語, Japanese, 日語進階] 
 excerpt: "學習閱讀技巧和策略，練習理解文章主旨，進行短文閱讀練習。"
 ---
 

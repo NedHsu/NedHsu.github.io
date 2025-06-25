@@ -2,7 +2,7 @@
 title: 日語對話 - 銀行開戶、郵局寄包裹、美容院染髮、電器行購買、計程車叫車
 date: 2025-01-26 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese] 
+tags: [日語, Japanese, 日語對話] 
 ---
 
 ## 課程預覽

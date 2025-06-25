@@ -2,6 +2,7 @@
 title: 日語進階課程 - 第2天：敬語系統（二）
 date: 2025-03-04 19:00:00 +0800
 categories: [Language, Japanese]
+tags: [日語, Japanese, 日語進階] 
 excerpt: "深入學習日語敬語系統中的謙讓語，掌握在正式場合中自謙的語言表達方式。"
 ---
 

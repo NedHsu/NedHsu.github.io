@@ -2,6 +2,7 @@
 title: 日語進階課程 - 第13天：日本文化專題（一）
 date: 2025-03-15 19:00:00 +0800
 categories: [Language, Japanese]
+tags: [日語, Japanese, 日語進階] 
 excerpt: "探討日本傳統文化，學習相關詞彙和表達，進行文化相關的討論。"
 ---
 

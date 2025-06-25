@@ -2,6 +2,7 @@
 title: 日語進階課程 - 第22天：JLPT N3準備（二）
 date: 2025-03-24 19:00:00 +0800
 categories: [Language, Japanese]
+tags: [日語, Japanese, 日語進階] 
 excerpt: "學習JLPT N3重要詞彙，掌握閱讀理解技巧，進行綜合練習。"
 ---
 

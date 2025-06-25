@@ -2,6 +2,7 @@
 title: 日語進階課程 - 第5天：進階語法（一）
 date: 2025-03-07 19:00:00 +0800
 categories: [Language, Japanese]
+tags: [日語, Japanese, 日語進階] 
 excerpt: "學習日語進階語法中的使役形，掌握使役句型的實際應用。"
 ---
 

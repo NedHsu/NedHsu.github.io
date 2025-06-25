@@ -2,7 +2,7 @@
 title: 日語對話 - 基礎問候與自我介紹
 date: 2025-01-28 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese] 
+tags: [日語, Japanese, 日語對話] 
 ---
 
 ## 課程預覽

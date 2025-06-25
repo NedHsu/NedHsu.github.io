@@ -2,6 +2,7 @@
 title: 日語進階課程 - 第7天：可能形
 date: 2025-03-08 20:00:00 +0800
 categories: [Language, Japanese]
+tags: [日語, Japanese, 日語進階] 
 excerpt: "學習動詞可能形的變化規則，掌握「～られる」「～れる」的用法，並練習表達能力的句型。"
 ---
 

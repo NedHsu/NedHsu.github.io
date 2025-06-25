@@ -2,6 +2,7 @@
 title: 日語進階課程 - 第12天：情感表達
 date: 2025-03-14 19:00:00 +0800
 categories: [Language, Japanese]
+tags: [日語, Japanese, 日語進階] 
 excerpt: "學習表達情感和意見的方式，掌握委婉表達的技巧，練習情感交流的對話。"
 ---
 

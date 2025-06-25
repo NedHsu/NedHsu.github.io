@@ -2,6 +2,7 @@
 title: 日語進階課程 - 第6天：進階語法（二）
 date: 2025-03-08 19:00:00 +0800
 categories: [Language, Japanese]
+tags: [日語, Japanese, 日語進階] 
 excerpt: "學習日語進階語法中的被動形，掌握被動句型的實際應用。"
 ---
 

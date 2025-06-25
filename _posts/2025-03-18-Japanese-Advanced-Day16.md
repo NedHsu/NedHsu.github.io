@@ -2,6 +2,7 @@
 title: 日語進階課程 - 第16天：閱讀理解（二）
 date: 2025-03-18 19:00:00 +0800
 categories: [Language, Japanese]
+tags: [日語, Japanese, 日語進階] 
 excerpt: "學習進階閱讀技巧，掌握長文理解方法，進行綜合閱讀訓練。"
 ---
 

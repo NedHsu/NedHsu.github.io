@@ -2,7 +2,7 @@
 title: 日語對話 - 銀行、郵局、美容院、電器行、計程車
 date: 2025-01-23 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese] 
+tags: [日語, Japanese, 日語對話] 
 ---
 
 ## 課程預覽

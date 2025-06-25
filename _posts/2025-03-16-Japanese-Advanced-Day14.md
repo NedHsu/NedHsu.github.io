@@ -2,6 +2,7 @@
 title: 日語進階課程 - 第14天：日本文化專題（二）
 date: 2025-03-16 19:00:00 +0800
 categories: [Language, Japanese]
+tags: [日語, Japanese, 日語進階] 
 excerpt: "探討現代日本社會，學習時事相關詞彙，進行社會議題討論。"
 ---
 

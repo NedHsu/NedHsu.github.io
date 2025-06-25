@@ -2,6 +2,7 @@
 title: 日語進階課程 - 第4天：條件句（二）
 date: 2025-03-06 19:00:00 +0800
 categories: [Language, Japanese]
+tags: [日語, Japanese, 日語進階] 
 excerpt: "深入學習日語條件句的進階用法，掌握更複雜的條件表達方式。"
 ---
 

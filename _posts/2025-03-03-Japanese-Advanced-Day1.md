@@ -2,6 +2,7 @@
 title: 日語進階課程 - 第1天：敬語系統（一）
 date: 2025-03-03 19:00:00 +0800
 categories: [Language, Japanese]
+tags: [日語, Japanese, 日語進階] 
 excerpt: "深入學習日語敬語系統中的尊敬語，掌握正式場合的語言表達方式。"
 ---
 

@@ -2,7 +2,7 @@
 title: 日語對話 - 按摩與SPA
 date: 2025-02-19 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese] 
+tags: [日語, Japanese, 日語對話] 
 excerpt: 學習在日本按摩和SPA店時常用的日語對話，包括預約、選擇服務、詢問價格、服務過程和結帳付款等實用情境。每個情境都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，幫助您更好地理解和記憶。
 ---
 

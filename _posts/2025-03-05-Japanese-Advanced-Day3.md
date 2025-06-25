@@ -2,6 +2,7 @@
 title: 日語進階課程 - 第3天：條件句（一）
 date: 2025-03-05 19:00:00 +0800
 categories: [Language, Japanese]
+tags: [日語, Japanese, 日語進階] 
 excerpt: "學習日語條件句的基本用法，掌握不同條件句型的使用情境。"
 ---
 

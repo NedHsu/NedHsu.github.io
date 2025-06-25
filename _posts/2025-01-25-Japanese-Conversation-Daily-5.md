@@ -2,7 +2,7 @@
 title: 日語對話 - 醫院掛號、美容院美甲、電器行維修、計程車預約、天氣變化
 date: 2025-01-25 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese] 
+tags: [日語, Japanese, 日語對話] 
 ---
 
 ## 課程預覽

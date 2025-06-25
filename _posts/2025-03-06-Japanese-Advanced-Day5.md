@@ -2,6 +2,7 @@
 title: 日語進階課程 - 第5天：使役形
 date: 2025-03-06 20:00:00 +0800
 categories: [Language, Japanese]
+tags: [日語, Japanese, 日語進階] 
 excerpt: "學習動詞使役形的變化規則，掌握「～させる」「～せる」的用法，並練習使役句型的實際應用。"
 ---
 

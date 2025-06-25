@@ -2,6 +2,7 @@
 title: 日語進階課程 - 第17天：寫作技巧（一）
 date: 2025-03-19 19:00:00 +0800
 categories: [Language, Japanese]
+tags: [日語, Japanese, 日語進階] 
 excerpt: "學習基礎寫作技巧，掌握文章結構，練習短文寫作。"
 ---
 

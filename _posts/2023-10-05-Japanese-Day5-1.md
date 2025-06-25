@@ -2,7 +2,7 @@
 title: 學習簡單的自我介紹句型（わたしは[名字]です。）
 date: 2023-10-05 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese] 
+tags: [日語, Japanese, 日語基礎] 
 excerpt: "幾個常見的自我介紹句型，幫助你用日語簡單地介紹自己"
 ---
 

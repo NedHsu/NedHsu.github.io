@@ -2,6 +2,7 @@
 title: 日語進階課程 - 第11天：日常會話深化
 date: 2025-03-13 19:00:00 +0800
 categories: [Language, Japanese]
+tags: [日語, Japanese, 日語進階] 
 excerpt: "深入學習更自然的日常對話表達，掌握口語中的省略和簡化，練習不同場合的對話技巧。"
 ---
 

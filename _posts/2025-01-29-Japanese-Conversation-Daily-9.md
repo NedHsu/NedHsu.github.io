@@ -2,7 +2,7 @@
 title: 日語對話 - 餐廳點餐與結帳
 date: 2025-01-29 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese] 
+tags: [日語, Japanese, 日語對話] 
 ---
 
 ## 課程預覽

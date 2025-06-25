@@ -2,6 +2,7 @@
 title: 日語進階課程 - 第20天：口語表達強化
 date: 2025-03-22 19:00:00 +0800
 categories: [Language, Japanese]
+tags: [日語, Japanese, 日語進階] 
 excerpt: "學習口語表達技巧，提升溝通能力，進行綜合口語訓練。"
 ---
 

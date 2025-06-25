@@ -2,6 +2,7 @@
 title: 日語進階課程 - 第10天：商務日語（二）
 date: 2025-03-12 19:00:00 +0800
 categories: [Language, Japanese]
+tags: [日語, Japanese, 日語進階] 
 excerpt: "學習商務日語中的會議用語和表達方式，掌握商務郵件的寫作技巧，並練習商務談判的基本對話。"
 ---
 
