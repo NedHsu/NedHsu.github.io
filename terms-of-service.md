@@ -4,6 +4,7 @@ date: 2025-01-27 19:00:00 +0800
 categories: [Legal]
 tags: [服務條款, Terms of Service] 
 excerpt: "本服務條款規定使用本網站的條件和限制。"
+layout: page
 ---
 
 # 服務條款

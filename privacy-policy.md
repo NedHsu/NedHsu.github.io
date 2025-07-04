@@ -4,6 +4,7 @@ date: 2025-01-27 19:00:00 +0800
 categories: [Legal]
 tags: [隱私政策, Privacy Policy] 
 excerpt: "本隱私政策說明我們如何收集、使用和保護您的個人信息。"
+layout: page
 ---
 
 # 隱私政策

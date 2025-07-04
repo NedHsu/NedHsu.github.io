@@ -4,6 +4,7 @@ date: 2025-01-27 19:00:00 +0800
 categories: [Legal]
 tags: [Cookie 政策, Cookie Policy] 
 excerpt: "本 Cookie 政策說明我們如何使用 Cookie 和類似技術。"
+layout: page
 ---
 
 # Cookie 政策
