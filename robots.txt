@@ -1,0 +1,31 @@
+User-agent: *
+Allow: /
+
+# 允許爬取主要內容
+Allow: /posts/
+Allow: /categories/
+Allow: /tags/
+Allow: /archives/
+
+# 保護隱私和法律頁面
+Disallow: /privacy-policy/
+Disallow: /terms-of-service/
+Disallow: /cookie-policy/
+Disallow: /legal/
+
+# 保護管理頁面
+Disallow: /admin/
+Disallow: /_includes/
+Disallow: /_layouts/
+Disallow: /_posts/
+Disallow: /_data/
+
+# 允許 Google AdSense 和 Analytics
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+# Sitemap
+Sitemap: https://nedhsu.github.io/sitemap.xml

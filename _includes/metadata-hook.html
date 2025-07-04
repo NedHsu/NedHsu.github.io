@@ -1,5 +1,26 @@
+<!-- Google AdSense -->
 <script
   async
   src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9872271496689821"
   crossorigin="anonymous"
 ></script>
+
+<!-- Google Analytics with GDPR Compliance -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CKGECP8S2E"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+
+  // 默認禁用分析 Cookie，等待用戶同意
+  gtag('consent', 'default', {
+    'analytics_storage': 'denied',
+    'ad_storage': 'denied'
+  });
+
+  gtag('js', new Date());
+  gtag('config', 'G-CKGECP8S2E', {
+    'anonymize_ip': true,
+    'allow_google_signals': false,
+    'allow_ad_personalization_signals': false
+  });
+</script>
