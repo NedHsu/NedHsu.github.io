@@ -4,6 +4,9 @@ date: 2023-10-01 22:00:00 +0800
 categories: [Language, Japanese]
 tags: [日語, Japanese, 日語基礎] 
 excerpt: "練習書寫平假名和片假名是學習日語的基本步驟。"
+pin: true
+image:
+  path: /assets/svg/Table_hiragana.svg
 ---
 
 練習書寫平假名和片假名是學習日語的基本步驟。以下是一些具體的練習方法和步驟，幫助你熟悉平假名和片假名的書寫。
