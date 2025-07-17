@@ -4,7 +4,7 @@ date: 2025-01-01 19:00:00 +0800
 categories: [Language, Japanese]
 tags: [日語, Japanese, 日語對話] 
 image:
-  path: /assets/img/jp/日式餐桌情景.webp
+  path: /assets/img/jp/現代東京公車站.webp
 ---
 
 一些交通方面的情境對話，透過對話學習日常用語
