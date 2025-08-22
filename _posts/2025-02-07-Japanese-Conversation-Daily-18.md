@@ -64,6 +64,34 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 **Yes, you can.**  <br>
 </div>  
 
+<div style="text-align: left">  
+**乘客:** どのくらいで到着しますか？  <br>
+(dono kurai de touchaku shimasu ka?)  <br>
+大約多久能到？  <br>
+**How long will it take to arrive?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**司機:** 交通状況によりますが、15分ほどです。  <br>
+(koutsuu joukyou ni yorimasu ga, juugofun hodo desu.)  <br>
+視交通狀況，大約15分鐘。  <br>
+**It depends on traffic, but about 15 minutes.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**乘客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝您。  <br>
+**Thank you.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**司機:** どういたしまして。  <br>
+(dou itashimashite.)  <br>
+不客氣。  <br>
+**You're welcome.**  <br>
+</div>
+
 ### 重點句型
 - タクシーを呼びたいのですが。(takushii o yobitai no desu ga) - 我想叫計程車
 - お乗りください。(onori kudasai) - 請上車
@@ -111,6 +139,34 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 好的，請提供您的姓名和聯絡方式。  <br>
 **Certainly. May I have your name and contact information?**  <br>
 </div>  
+
+<div style="text-align: left">  
+**乘客:** 田中太郎です。電話番号は090-1234-5678です。  <br>
+(tanaka tarou desu. denwa bangou wa zero kyuu zero no ichi ni san yon no go roku nana hachi desu.)  <br>
+我是田中太郎，電話號碼是090-1234-5678。  <br>
+**I'm Taro Tanaka. My phone number is 090-1234-5678.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**接線員:** ありがとうございます。タクシーは午後3時に到着予定です。  <br>
+(arigatou gozaimasu. takushii wa gogo sanji ni touchaku yotei desu.)  <br>
+謝謝您，計程車預計下午三點到達。  <br>
+**Thank you. The taxi is scheduled to arrive at 3 p.m.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**乘客:** 了解しました。  <br>
+(ryoukai shimashita.)  <br>
+了解。  <br>
+**Understood.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**接線員:** どういたしまして。  <br>
+(dou itashimashite.)  <br>
+不客氣。  <br>
+**You're welcome.**  <br>
+</div>
 
 ### 重點句型
 - タクシーを予約したいです。(takushii o yoyaku shitai desu) - 我想預約計程車
@@ -160,6 +216,34 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 **It depends on traffic, but about 30 minutes.**  <br>
 </div>  
 
+<div style="text-align: left">  
+**乘客:** 料金はどのくらいになりますか？  <br>
+(ryoukin wa dono kurai ni narimasu ka?)  <br>
+車資大概多少？  <br>
+**How much will the fare be?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**司機:** 大体2,000円くらいです。  <br>
+(daitai nisen en kurai desu.)  <br>
+大概2,000日圓左右。  <br>
+**It will be around 2,000 yen.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**乘客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝您。  <br>
+**Thank you.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**司機:** どういたしまして。  <br>
+(dou itashimashite.)  <br>
+不客氣。  <br>
+**You're welcome.**  <br>
+</div>
+
 ### 重點句型
 - ～までお願いします。(~made onegai shimasu) - 請載我到...
 - 承知しました。(shouchi shimashita) - 我知道了
@@ -207,6 +291,20 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 深夜或使用高速公路時會有額外費用。  <br>
 **There are extra charges for late night or highway use.**  <br>
 </div>  
+
+<div style="text-align: left">  
+**乘客:** 了解しました。  <br>
+(ryoukai shimashita.)  <br>
+了解。  <br>
+**Understood.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**司機:** どういたしまして。  <br>
+(dou itashimashite.)  <br>
+不客氣。  <br>
+**You're welcome.**  <br>
+</div>
 
 ### 重點句型
 - 料金はいくらになりますか？(ryoukin wa ikura ni narimasu ka?) - 車資大概多少？
@@ -256,6 +354,20 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 **Certainly.**  <br>
 </div>  
 
+<div style="text-align: left">  
+**乘客:** 今日はありがとうございました。  <br>
+(kyou wa arigatou gozaimashita.)  <br>
+今天謝謝您。  <br>
+**Thank you for today.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**司機:** こちらこそ、ありがとうございました。またのご利用をお待ちしております。  <br>
+(kochira koso, arigatou gozaimashita. mata no go riyou o omachi shite orimasu.)  <br>
+不客氣，期待您再次光臨。  <br>
+**Thank you as well. We look forward to serving you again.**  <br>
+</div>
+
 ### 重點句型
 - お釣りは結構です。(otsuri wa kekkou desu) - 不用找零了
 - ありがとうございます。(arigatou gozaimasu) - 謝謝您
@@ -272,36 +384,57 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 ## 文化小知識
 
-在日本搭乘計程車時，有一些重要的禮儀和習慣需要注意：
+### 小故事：田中さんのタクシー体験
 
-1. 叫車禮儀
-   - 要遵守交通規則
-   - 要在指定地點等車
-   - 要確認空車標誌
-   - 要使用正確的敬語
+田中太郎さんは、初めて日本でタクシーを利用しました。少し緊張していましたが、運転手の親切な対応で安心しました。
 
-2. 乘車禮儀
-   - 要繫好安全帶
-   - 要保持車內整潔
-   - 要尊重司機
-   - 要遵守車內規則
+**タクシーの呼び方：**
+田中さんは路上でタクシーを呼び、「タクシーを呼びたいのですが」と伝えました。運転手は「はい、お乗りください」と答えました。
 
-3. 目的地告知
-   - 要清楚說明地址
-   - 要確認路線
-   - 要了解大概時間
-   - 要確認價格
+**目的地の告知：**
+田中さんは「東京駅までお願いします」と伝え、運転手は「承知しました」と答えました。
 
-4. 付款禮儀
-   - 要準備零錢
-   - 要確認金額
-   - 要保管收據
-   - 要說謝謝
+**料金の確認：**
+田中さんは「料金はいくらになりますか？」と尋ね、運転手は「大体2,000円くらいです」と答えました。
 
-5. 安全注意
-   - 要記住車牌號碼
-   - 要確認司機身份
-   - 要保管好隨身物品
-   - 要遵守交通規則
+**支払いの流れ：**
+田中さんは「お釣りは結構です」と伝え、運転手は「ありがとうございます」と感謝しました。
 
---- 
+**タクシーの降り方：**
+田中さんは「今日はありがとうございました」と伝え、運転手は「またのご利用をお待ちしております」と笑顔で送り出しました。
+
+### 小故事：山田さんのタクシー文化体験
+
+山田花子さんは、日本のタクシー文化に興味がある外国人留学生です。今日は日本のタクシーを利用し、その文化を学びました。
+
+**日本のタクシー文化の特徴：**
+山田さんは運転手に「日本のタクシー文化の特徴は何ですか？」と尋ねました。運転手は「日本では、事前に目的地を告げ、料金を確認することができます」と説明してくれました。
+
+**タクシーの選択について：**
+山田さんは「おすすめのタクシー会社はありますか？」と伝えると、運転手が丁寧に説明してくれました。山田さんは日本のサービスの細やかさに感心しました。
+
+**料金システムについて：**
+山田さんは「お会計をお願いします」と尋ねると、運転手は「合計で2,000円になります」と教えてもらいました。山田さんは日本の料金システムの明確さに感心しました。
+
+**サービスの過程と連絡：**
+山田さんは「このタクシーをキャンセルしたいのですが」と尋ねると、運転手は快く対応してくれました。また、サービス中にリラックスできることに感心しました。
+
+**支払いシステム：**
+山田さんは「クレジットカードで支払えますか？」と尋ねると、「はい、クレジットカードも電子マネーも使えます」と教えてもらいました。山田さんは日本の便利な支払いシステムに感心しました。
+
+### 文化のポイント
+
+**1. 事前確認の重要性**
+日本のタクシーでは、事前に目的地を告げることで、スムーズにサービスを受けることができます。特に人気のあるタクシーでは、事前確認が推奨されます。
+
+**2. タクシーの選択肢**
+日本のタクシーでは、さまざまなタクシー会社を選ぶことができます。利用目的に応じて、最適なタクシーを選ぶことが大切です。
+
+**3. 料金システムの明確さ**
+日本では、サービスごとに明確な料金が設定されており、事前に確認することができます。安心してサービスを受けるために、料金を確認することが重要です。
+
+**4. サービスの過程と連絡**
+日本では、サービスの過程や時間について事前に説明があり、終了後には連絡をもらうことができます。安心してサービスを受けることができます。
+
+**5. 支払い方法の多様性**
+日本のタクシーでは、現金やクレジットカードなど、さまざまな支払い方法が利用できます。便利な支払い方法を選ぶことで、スムーズに手続きを進めることができます。 

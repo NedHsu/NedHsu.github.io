@@ -125,12 +125,27 @@ image:
 **Mr. Tanaka, I've reserved a non-smoking table for 4 people at 7 o'clock.**  <br>
 </div>  
 
+<div style="text-align: left">  
+**顧客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝您。  <br>
+**Thank you.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**店員:** どういたしまして。お待ちしております。  <br>
+(dou itashimashite. omachi shite orimasu.)  <br>
+不客氣。期待您的光臨。  <br>
+**You're welcome. We look forward to your visit.**  <br>
+</div>
+
 ### 重點句型
 - 予約をお願いしたいのですが。(yoyaku o onegai shitai no desu ga) - 我想訂位
 - 何名様ですか？(nanmeisama desu ka?) - 幾位？
 - 何時からですか？(nanji kara desu ka?) - 從幾點開始？
 - 禁煙席でよろしいでしょうか？(kinenseki de yoroshii deshou ka?) - 禁煙席可以嗎？
 - お名前をお聞かせください。(onamae o okikase kudasai) - 請告訴我您的姓名
+- どういたしまして。(dou itashimashite) - 不客氣
 
 ### 相關單字
 - 予約 (yoyaku) - 訂位
@@ -141,6 +156,7 @@ image:
 - 禁煙席 (kinenseki) - 禁煙席
 - お名前 (onamae) - 姓名
 - 承知 (shouchi) - 知道
+- どういたしまして (dou itashimashite) - 不客氣
 
 ---
 
@@ -236,12 +252,27 @@ image:
 **I understand. Please wait a moment.**  <br>
 </div>  
 
+<div style="text-align: left">  
+**顧客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝您。  <br>
+**Thank you.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**店員:** どういたしまして。  <br>
+(dou itashimashite.)  <br>
+不客氣。  <br>
+**You're welcome.**  <br>
+</div>
+
 ### 重點句型
 - おすすめの料理はありますか？(osusume no ryouri wa arimasu ka?) - 有什麼推薦的料理嗎？
 - 当店の名物は寿司です。(touten no meibutsu wa sushi desu) - 本店的招牌是壽司
 - どんな種類がありますか？(donna shurui ga arimasu ka?) - 有什麼種類呢？
 - ～を～貫ください。(~o ~kan kudasai) - 請給我...貫...
 - 他に何かご注文はございますか？(hoka ni nanika gochuumon wa gozaimasu ka?) - 還有其他要點的嗎？
+- どういたしまして。(dou itashimashite) - 不客氣
 
 ### 相關單字
 - おすすめ (osusume) - 推薦
@@ -253,6 +284,7 @@ image:
 - 貫 (kan) - 貫（壽司的計數單位）
 - 味噌汁 (misoshiru) - 味噌湯
 - 緑茶 (ryokucha) - 綠茶
+- どういたしまして (dou itashimashite) - 不客氣
 
 ---
 
@@ -346,12 +378,27 @@ image:
 **No, it's not spicy.**  <br>
 </div>  
 
+<div style="text-align: left">  
+**顧客:** では、それをお願いします。  <br>
+(dewa, sore o onegai shimasu.)  <br>
+那麼，請給我這個。  <br>
+**Then, I'll have that, please.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**店員:** かしこまりました。少々お待ちください。  <br>
+(kashikomarimashita. shoushou omachi kudasai.)  <br>
+我知道了。請稍等一下。  <br>
+**I understand. Please wait a moment.**  <br>
+</div>
+
 ### 重點句型
 - メニューを見せていただけますか？(menyuu o misete itadakemasu ka?) - 可以給我看菜單嗎？
 - こちらです。(kochira desu) - 這是菜單
 - 英語のメニューはありますか？(eigo no menyuu wa arimasu ka?) - 有英文菜單嗎？
 - 写真付きのメニューはありますか？(shashin tsuki no menyuu wa arimasu ka?) - 有附照片的菜單嗎？
 - この料理は何ですか？(kono ryouri wa nan desu ka?) - 這道料理是什麼？
+- どういたしまして。(dou itashimashite) - 不客氣
 
 ### 相關單字
 - メニュー (menyuu) - 菜單
@@ -363,6 +410,7 @@ image:
 - 辛い (karai) - 辣
 - エビ (ebi) - 蝦子
 - 野菜 (yasai) - 蔬菜
+- どういたしまして (dou itashimashite) - 不客氣
 
 ---
 
@@ -458,12 +506,27 @@ image:
 **Thank you very much. Please come again.**  <br>
 </div>  
 
+<div style="text-align: left">  
+**顧客:** また来ます。  <br>
+(mata kimasu.)  <br>
+我會再來。  <br>
+**I'll come again.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**店員:** お待ちしております。  <br>
+(omachi shite orimasu.)  <br>
+期待您的光臨。  <br>
+**We look forward to your visit.**  <br>
+</div>
+
 ### 重點句型
 - お会計をお願いします。(okaikei o onegai shimasu) - 請幫我結帳
 - 合計で～円になります。(goukei de ~en ni narimasu) - 總共是...日圓
 - カードで支払えますか？(kaado de shiharaemasu ka?) - 可以刷卡嗎？
 - サービス料は含まれていますか？(saabisu ryou wa fukumarete imasu ka?) - 服務費包含在內嗎？
 - 領収書をいただけますか？(ryoushuusho o itadakemasu ka?) - 可以給我收據嗎？
+- どういたしまして。(dou itashimashite) - 不客氣
 
 ### 相關單字
 - 会計 (kaikei) - 結帳
@@ -474,6 +537,7 @@ image:
 - サービス料 (saabisu ryou) - 服務費
 - 領収書 (ryoushuusho) - 收據
 - お越し (okoshi) - 光臨
+- どういたしまして (dou itashimashite) - 不客氣
 
 ---
 
@@ -567,12 +631,27 @@ image:
 **You're welcome. Please be careful on your way home.**  <br>
 </div>  
 
+<div style="text-align: left">  
+**顧客:** また来ます。  <br>
+(mata kimasu.)  <br>
+我會再來。  <br>
+**I'll come again.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**店員:** お待ちしております。  <br>
+(omachi shite orimasu.)  <br>
+期待您的光臨。  <br>
+**We look forward to your visit.**  <br>
+</div>
+
 ### 重點句型
 - 残りを包んでいただけますか？(nokori o tsutsunde itadakemasu ka?) - 可以幫我打包剩下的嗎？
 - 承知しました。(shouchi shimashita) - 我知道了
-- お持ち帰りですか？(omochikaeri desu ka?) - 是要外帶嗎？
+- お持ち帰り用の容器はありますか？(omochikaeri you no youki wa arimasu ka?) - 有外帶用的容器嗎？
 - 温かいものと冷たいものを分けてください。(atatakai mono to tsumetai mono o wakete kudasai) - 請把熱的和冷的東西分開
 - 袋もいただけますか？(fukuro mo itadakemasu ka?) - 也可以給我袋子嗎？
+- どういたしまして。(dou itashimashite) - 不客氣
 
 ### 相關單字
 - 残り (nokori) - 剩下的
@@ -583,43 +662,64 @@ image:
 - プラスチック (purasuchikku) - 塑膠
 - 温かい (atatakai) - 熱的
 - 冷たい (tsumetai) - 冷的
-- 分ける (wakeru) - 分開 
-
+- 分ける (wakeru) - 分開
+- どういたしまして (dou itashimashite) - 不客氣
 
 ---
 
 ## 文化小知識
 
-在日本餐廳用餐時，有一些重要的禮儀和習慣需要注意：
+### 小故事：田中さんのレストラン体験
 
-1. 訂位禮儀
-   - 要提前訂位
-   - 要準時到達
-   - 要告知人數
-   - 要告知時間
+田中太郎さんは、友人と一緒に日本のレストランを訪れました。初めてのレストラン体験に少し緊張していましたが、スタッフの親切な対応で安心しました。
 
-2. 點餐禮儀
-   - 要尊重服務生
-   - 要使用正確的敬語
-   - 要確認價格
-   - 要確認份量
+**予約の準備：**
+田中さんは予約をするために、スタッフに「予約をお願いしたいのですが」と伝えました。スタッフは「何名様ですか？」と尋ね、田中さんは4名で7時からの予約をしました。
 
-3. 用餐禮儀
-   - 要說いただきます
-   - 要說ごちそうさま
-   - 要遵守用餐規則
-   - 要尊重其他客人
+**料理の選択：**
+田中さんは料理を選ぶために、スタッフに「おすすめの料理はありますか？」と尋ねました。スタッフは寿司を勧め、田中さんはマグロの握り寿司を注文しました。
 
-4. 付款禮儀
-   - 要準備零錢
-   - 要確認金額
-   - 要保管收據
-   - 要說謝謝
+**メニューの確認：**
+田中さんは「メニューを見せていただけますか？」と尋ね、スタッフは写真付きのメニューを提供しました。田中さんは日本のメニューの多様性に感心しました。
 
-5. 打包禮儀
-   - 要確認容器
-   - 要確認袋子
-   - 要確認溫度
-   - 要確認保存方法
+**お会計：**
+楽しい一日が終わり、田中さんは「お会計をお願いします」と伝え、カードで支払いを済ませました。スタッフは「またのお越しをお待ちしております」と笑顔で送り出しました。
 
---- 
+**打包の確認：**
+田中さんは「残りを包んでいただけますか？」と尋ね、スタッフは快く対応しました。田中さんは日本のサービスの細やかさに感心しました。
+
+### 小故事：山田さんのレストラン文化体験
+
+山田花子さんは、日本のレストラン文化に興味がある外国人留学生です。今日は日本のレストランを訪れ、その文化を学びました。
+
+**日本のレストラン文化の特徴：**
+山田さんはスタッフに「日本のレストラン文化の特徴は何ですか？」と尋ねました。スタッフは「日本では、事前にメニューを確認し、料理や飲み物の選択ができます」と説明してくれました。
+
+**料理の選択について：**
+山田さんは「おすすめはありますか？」と伝えると、スタッフが丁寧に説明してくれました。山田さんは日本のサービスの細やかさに感心しました。
+
+**料金システムについて：**
+山田さんは「お会計をお願いします」と尋ねると、スタッフは「合計で5,800円になります」と教えてもらいました。山田さんは日本の料金システムの明確さに感心しました。
+
+**サービスの過程と連絡：**
+山田さんは「残りを包んでいただけますか？」と尋ねると、スタッフは快く対応してくれました。また、サービス中にリラックスできることに感心しました。
+
+**支払いシステム：**
+山田さんは「クレジットカードで支払えますか？」と尋ねると、「はい、クレジットカードも電子マネーも使えます」と教えてもらいました。山田さんは日本の便利な支払いシステムに感心しました。
+
+### 文化のポイント
+
+**1. 事前確認の重要性**
+日本のレストランでは、事前にメニューや料金を確認することで、スムーズにサービスを受けることができます。特に人気のあるレストランでは、事前確認が推奨されます。
+
+**2. 料理の選択肢**
+日本のレストランでは、さまざまな料理を選ぶことができます。利用目的に応じて、最適な料理を選ぶことが大切です。
+
+**3. 料金システムの明確さ**
+日本では、サービスごとに明確な料金が設定されており、事前に確認することができます。安心してサービスを受けるために、料金を確認することが重要です。
+
+**4. サービスの過程と連絡**
+日本では、サービスの過程や時間について事前に説明があり、終了後には連絡をもらうことができます。安心してサービスを受けることができます。
+
+**5. 支払い方法の多様性**
+日本のレストランでは、現金やクレジットカードなど、さまざまな支払い方法が利用できます。便利な支払い方法を選ぶことで、スムーズに手続きを進めることができます。 

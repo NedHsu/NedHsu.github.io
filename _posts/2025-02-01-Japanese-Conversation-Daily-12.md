@@ -78,6 +78,29 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 **Yes, there's a large convenience store. It's right next to it.**  <br>
 </div>  
 
+// Adding more details to the conversation
+
+<div style="text-align: left">  
+**観光客:** 便利商店的名字是什麼？  <br>
+(benri shou ten no namae wa nan desu ka?)  <br>
+那家便利商店的名字是什麼？  <br>
+**What is the name of the convenience store?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**地元の人:** セブンイレブンです。  <br>
+(sebun irebun desu.)  <br>
+是7-11。  <br>
+**It's a 7-11.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**観光客:** 太好了，謝謝！  <br>
+(taihen arigatou gozaimasu!)  <br>
+太好了，謝謝！  <br>
+**Great, thank you!**  <br>
+</div>  
+
 ### 重點句型
 - すみません、～はどちらですか？(sumimasen, ~wa dochira desu ka?) - 不好意思，請問...在哪裡？
 - まっすぐ行ってください。(massugu itte kudasai) - 請直走
@@ -138,6 +161,29 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 (san eki me desu.)  <br>
 是第三站。  <br>
 **It's the third stop.**  <br>
+</div>  
+
+// Adding more details to the conversation
+
+<div style="text-align: left">  
+**観光客:** 這班電車有空調嗎？  <br>
+(kono densha wa kuuchou ga arimasu ka?)  <br>
+這班電車有空調嗎？  <br>
+**Does this train have air conditioning?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**地元の人:** はい、あります。  <br>
+(hai, arimasu.)  <br>
+是的，有空調。  <br>
+**Yes, it does.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**観光客:** 太好了，謝謝！  <br>
+(taihen arigatou gozaimasu!)  <br>
+太好了，謝謝！  <br>
+**Great, thank you!**  <br>
 </div>  
 
 ### 重點句型
@@ -202,6 +248,29 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 **I'm sorry, but cash only.**  <br>
 </div>  
 
+// Adding more details to the conversation
+
+<div style="text-align: left">  
+**観光客:** 那麼，附近有ATM嗎？  <br>
+(nanoni, chikaku ni ATM wa arimasu ka?)  <br>
+那麼，附近有ATM嗎？  <br>
+**Then, is there an ATM nearby?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**地元の人:** はい、あちらにあります。  <br>
+(hai, achira ni arimasu.)  <br>
+是的，在那邊。  <br>
+**Yes, over there.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**観光客:** 太好了，謝謝！  <br>
+(taihen arigatou gozaimasu!)  <br>
+太好了，謝謝！  <br>
+**Great, thank you!**  <br>
+</div>  
+
 ### 重點句型
 - ～まで一枚お願いします。(~made ichimai onegai shimasu) - 請給我一張到...的車票
 - ～円になります。(~en ni narimasu) - 總共...日圓
@@ -262,6 +331,29 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 (shinjuku kara shibuya made yaku nana fun desu.)  <br>
 從新宿到澀谷大約7分鐘。  <br>
 **About 7 minutes from Shinjuku to Shibuya.**  <br>
+</div>  
+
+// Adding more details to the conversation
+
+<div style="text-align: left">  
+**観光客:** 這條路線擁擠嗎？  <br>
+(kono rosen wa kondeimasu ka?)  <br>
+這條路線擁擠嗎？  <br>
+**Is this line crowded?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**地元の人:** 通常在高峰期會很擁擠。  <br>
+(tsuujou wa kouhouki ni wa totemo kondeimasu.)  <br>
+通常在高峰期會很擁擠。  <br>
+**Usually, it's very crowded during peak hours.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**観光客:** 太好了，謝謝！  <br>
+(taihen arigatou gozaimasu!)  <br>
+太好了，謝謝！  <br>
+**Great, thank you!**  <br>
 </div>  
 
 ### 重點句型
@@ -326,6 +418,29 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 **Yes, that's fine.**  <br>
 </div>  
 
+// Adding more details to the conversation
+
+<div style="text-align: left">  
+**観光客:** 這條路線擁擠嗎？  <br>
+(kono rosen wa kondeimasu ka?)  <br>
+這條路線擁擠嗎？  <br>
+**Is this line crowded?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**地元の人:** 通常在高峰期會很擁擠。  <br>
+(tsuujou wa kouhouki ni wa totemo kondeimasu.)  <br>
+通常在高峰期會很擁擠。  <br>
+**Usually, it's very crowded during peak hours.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**観光客:** 太好了，謝謝！  <br>
+(taihen arigatou gozaimasu!)  <br>
+太好了，謝謝！  <br>
+**Great, thank you!**  <br>
+</div>  
+
 ### 重點句型
 - ～までお願いします。(~made onegai shimasu) - 請載我到...
 - 料金はいくらですか？(ryoukin wa ikura desu ka?) - 車資是多少？
@@ -342,36 +457,12 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 ## 文化小知識
 
-在日本使用交通工具時，有一些重要的禮儀和習慣需要注意：
+在日本，交通工具的使用不僅僅是日常生活的一部分，更是一種文化體驗。乘坐電車時，您會發現人們自覺地排隊等候，這是一種尊重他人的表現。在擁擠的車廂裡，讓座給老人和孕婦是常見的禮儀，這種關懷讓人感受到社會的溫暖。車廂內的安靜氛圍讓人得以放鬆，這是因為大家都遵守不在車上講電話的規則，這樣的細節讓日本的交通體驗更加舒適。
 
-1. 電車禮儀
-   - 要排隊等候
-   - 要讓座給老人和孕婦
-   - 不要在車上講電話
-   - 不要大聲喧嘩
+在車站，您會注意到每個人都遵守著站內的規則，這不僅僅是為了安全，也是對公共空間的尊重。保管好車票是每個乘客的責任，這樣才能順利通過檢票口。乘車時間的準時性讓人驚嘆，這是因為每個人都遵守時間表，這樣的效率讓人感受到日本的精確。
 
-2. 車站使用
-   - 要遵守站內規則
-   - 要保管好車票
-   - 要遵守乘車時間
-   - 要遵守站內禁煙
+搭乘計程車時，從後門上車是基本的禮儀，這樣的設計是為了司機的安全考量。繫好安全帶是對自己和他人負責的表現。在日本，給小費並不是習慣，這讓人感受到服務的純粹。當您說出目的地時，司機會專注地將您送達，這種專業讓人安心。
 
-3. 計程車使用
-   - 要從後門上車
-   - 要繫好安全帶
-   - 不要給小費
-   - 要說目的地
+遵守交通規則是每個行人的責任，這不僅僅是為了自己的安全，也是對他人的尊重。走在人行道上，您會感受到秩序的美好。單行道的設置讓交通更加流暢，這樣的規劃讓人感受到城市的智慧。
 
-4. 交通規則
-   - 要遵守交通號誌
-   - 要走人行道
-   - 要遵守單行道
-   - 要遵守停車規則
-
-5. 問路禮儀
-   - 要先說「すみません」
-   - 要說清楚目的地
-   - 要聽清楚指示
-   - 要說「ありがとうございました」
-
---- 
+當您在日本問路時，先說「すみません」是一種禮貌的表現，這樣的開場讓人感受到您的友善。說清楚目的地是對他人的尊重，這樣才能得到準確的指引。聽清楚指示後，說「ありがとうございました」是對幫助者的感謝，這樣的互動讓人感受到人情的溫暖。 

@@ -78,6 +78,34 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 **It comes with a one-year warranty.**  <br>
 </div>  
 
+<div style="text-align: left">  
+**顧客:** 他におすすめの商品はありますか？  <br>
+(hoka ni osusume no shouhin wa arimasu ka?)  <br>
+還有其他推薦的商品嗎？  <br>
+**Are there any other recommended products?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**店員:** はい、こちらのモデルも人気です。  <br>
+(hai, kochira no moderu mo ninki desu.)  <br>
+有的，這款型號也很受歡迎。  <br>
+**Yes, this model is also popular.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝您。  <br>
+**Thank you.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**店員:** どういたしまして。  <br>
+(dou itashimashite.)  <br>
+不客氣。  <br>
+**You're welcome.**  <br>
+</div>
+
 ### 重點句型
 - このカメラの在庫はありますか？(kono kamera no zaiko wa arimasu ka?) - 這台相機有庫存嗎？
 - 在庫があります。(zaiko ga arimasu) - 有庫存
@@ -139,6 +167,20 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 差15,000日圓。  <br>
 **There's a 15,000 yen difference.**  <br>
 </div>  
+
+<div style="text-align: left">  
+**顧客:** もう少し考えさせてください。  <br>
+(mou sukoshi kangaesasete kudasai.)  <br>
+讓我再考慮一下。  <br>
+**Let me think about it a little more.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**店員:** もちろんです。  <br>
+(mochiron desu.)  <br>
+當然可以。  <br>
+**Of course.**  <br>
+</div>
 
 ### 重點句型
 - どちらがおすすめですか？(dochira ga osusume desu ka?) - 您推薦哪一個？
@@ -202,6 +244,20 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 **Yes, you can use voice control with the remote.**  <br>
 </div>  
 
+<div style="text-align: left">  
+**顧客:** 使い方は簡単ですか？  <br>
+(tsukaikata wa kantan desu ka?)  <br>
+使用方法簡單嗎？  <br>
+**Is it easy to use?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**店員:** はい、とても簡単です。  <br>
+(hai, totemo kantan desu.)  <br>
+是的，非常簡單。  <br>
+**Yes, it's very easy.**  <br>
+</div>
+
 ### 重點句型
 - 機能を説明していただけますか？(kinou o setsumei shite itadakemasu ka?) - 可以為我說明功能嗎？
 - ～対応で、～も付いています。(~taiou de, ~mo tsuite imasu) - 支援...，還有...功能
@@ -263,6 +319,20 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 修理需要約一週時間。  <br>
 **The repair will take about a week.**  <br>
 </div>  
+
+<div style="text-align: left">  
+**顧客:** 修理費用はいくらですか？  <br>
+(shuuri hiyou wa ikura desu ka?)  <br>
+修理費用是多少？  <br>
+**How much will the repair cost?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**店員:** 保証期間内ですので、無料で修理いたします。  <br>
+(hoshou kikan nai desu node, muryou de shuuri itashimasu.)  <br>
+因為在保固期內，所以免費維修。  <br>
+**Since it's within the warranty period, the repair is free.**  <br>
+</div>
 
 ### 重點句型
 - 修理をお願いします。(shuuri o onegai shimasu) - 請幫我修理
@@ -326,6 +396,20 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 **I apologize. We can also exchange it.**  <br>
 </div>  
 
+<div style="text-align: left">  
+**顧客:** 交換をお願いします。  <br>
+(koukan o onegai shimasu.)  <br>
+請幫我換貨。  <br>
+**I'd like to exchange it, please.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**店員:** かしこまりました。すぐに手配いたします。  <br>
+(kashikomarimashita. sugu ni tehai itashimasu.)  <br>
+好的，馬上為您安排。  <br>
+**Certainly, I'll arrange it right away.**  <br>
+</div>
+
 ### 重點句型
 - 返品したいのですが。(henpin shitai no desu ga) - 我想退貨
 - レシートをお持ちですか？(reshiito o omochi desu ka?) - 您有收據嗎？
@@ -342,36 +426,57 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 
 ## 文化小知識
 
-在日本電器行購物時，有一些重要的禮儀和習慣需要注意：
+### 小故事：田中さんの電器行体験
 
-1. 購物禮儀
-   - 要遵守營業時間
-   - 要尊重店員
-   - 要使用正確的敬語
-   - 要遵守店內規則
+田中太郎さんは、初めて日本の電器行を訪れました。少し緊張していましたが、店員の親切な対応で安心しました。
 
-2. 商品選擇
-   - 要確認規格
-   - 要比較價格
-   - 要了解功能
-   - 要確認保固
+**商品の選び方：**
+田中さんはカメラを探しており、「このカメラの在庫はありますか？」と尋ねました。店員は「はい、在庫があります」と答えました。
 
-3. 維修服務
-   - 要說明故障情況
-   - 要準備保固書
-   - 要確認維修費用
-   - 要確認維修時間
+**価格の確認：**
+田中さんは「価格はいくらですか？」と尋ね、店員は「税込みで45,000円になります」と答えました。
 
-4. 退換貨
-   - 要保留收據
-   - 要確認退換期限
-   - 要確認退換條件
-   - 要包裝完整
+**機能の説明：**
+田中さんは「このテレビの機能を説明していただけますか？」と尋ね、店員は「4K対応で、スマートテレビ機能も付いています」と説明しました。
 
-5. 售後服務
-   - 要確認保固內容
-   - 要了解使用說明
-   - 要保存購買證明
-   - 要記錄維修歷史
+**修理の依頼：**
+田中さんは「このパソコンの修理をお願いします」と伝え、店員は「修理期間は1週間ほどかかります」と答えました。
 
---- 
+**返品の手続き：**
+田中さんは「この商品を返品したいのですが」と伝え、店員は「申し訳ありません。交換も可能です」と対応しました。
+
+### 小故事：山田さんの電器行文化体験
+
+山田花子さんは、日本の電器行文化に興味がある外国人留学生です。今日は日本の電器行を訪れ、その文化を学びました。
+
+**日本の電器行文化の特徴：**
+山田さんは店員に「日本の電器行文化の特徴は何ですか？」と尋ねました。店員は「日本では、事前に商品の機能や価格を確認し、適切な商品を選ぶことができます」と説明してくれました。
+
+**商品の選択について：**
+山田さんは「おすすめの商品はありますか？」と伝えると、店員が丁寧に説明してくれました。山田さんは日本のサービスの細やかさに感心しました。
+
+**料金システムについて：**
+山田さんは「お会計をお願いします」と尋ねると、店員は「合計で45,000円になります」と教えてもらいました。山田さんは日本の料金システムの明確さに感心しました。
+
+**サービスの過程と連絡：**
+山田さんは「この商品をキャンセルしたいのですが」と尋ねると、店員は快く対応してくれました。また、サービス中にリラックスできることに感心しました。
+
+**支払いシステム：**
+山田さんは「クレジットカードで支払えますか？」と尋ねると、「はい、クレジットカードも電子マネーも使えます」と教えてもらいました。山田さんは日本の便利な支払いシステムに感心しました。
+
+### 文化のポイント
+
+**1. 事前確認の重要性**
+日本の電器行では、事前に商品の機能や価格を確認することで、スムーズにサービスを受けることができます。特に人気のある電器行では、事前確認が推奨されます。
+
+**2. 商品の選択肢**
+日本の電器行では、さまざまな商品を選ぶことができます。利用目的に応じて、最適な商品を選ぶことが大切です。
+
+**3. 料金システムの明確さ**
+日本では、サービスごとに明確な料金が設定されており、事前に確認することができます。安心してサービスを受けるために、料金を確認することが重要です。
+
+**4. サービスの過程と連絡**
+日本では、サービスの過程や時間について事前に説明があり、終了後には連絡をもらうことができます。安心してサービスを受けることができます。
+
+**5. 支払い方法の多様性**
+日本の電器行では、現金やクレジットカードなど、さまざまな支払い方法が利用できます。便利な支払い方法を選ぶことで、スムーズに手続きを進めることができます。 
