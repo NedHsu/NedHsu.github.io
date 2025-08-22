@@ -71,6 +71,28 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 **We have white, black, and blue.**  <br>
 </div>  
 
+
+<div style="text-align: right">  
+**顧客:** 這件襯衫有其他材質嗎？  <br>
+(kono shatsu wa hoka no sozai ga arimasu ka?)  <br>
+這件襯衫有其他材質嗎？  <br>
+**Does this shirt come in other materials?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**店員:** はい、綿とポリエステルの混紡もあります。  <br>
+(hai, men to poriesuteru no konbou mo arimasu.)  <br>
+是的，也有棉和聚酯纖維混紡的。  <br>
+**Yes, we also have a cotton and polyester blend.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**顧客:** 太好了，謝謝！  <br>
+(taihen arigatou gozaimasu!)  <br>
+太好了，謝謝！  <br>
+**Great, thank you!**  <br>
+</div>  
+
 ### 重點句型
 - いらっしゃいませ。(irasshaimase) - 歡迎光臨
 - 何かお探しでしょうか？(nanika o-sagashi deshou ka?) - 請問您在找什麼商品嗎？
@@ -124,6 +146,28 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 (sozai wa men hyaku paasento de, kigokochi ga yoi desu yo.)  <br>
 材質是100%純棉，穿起來很舒服。  <br>
 **It's 100% cotton and very comfortable to wear.**  <br>
+</div>  
+
+
+<div style="text-align: right">  
+**顧客:** 這個顏色會褪色嗎？  <br>
+(kono iro wa taishoku shimasu ka?)  <br>
+這個顏色會褪色嗎？  <br>
+**Will this color fade?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**店員:** いいえ、色落ちしにくいです。  <br>
+(iie, irochishinikui desu.)  <br>
+不，這個顏色不容易褪色。  <br>
+**No, it doesn't fade easily.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**顧客:** 太好了，謝謝！  <br>
+(taihen arigatou gozaimasu!)  <br>
+太好了，謝謝！  <br>
+**Great, thank you!**  <br>
 </div>  
 
 ### 重點句型
@@ -181,6 +225,28 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 **Yes, we accept VISA, MasterCard, and JCB.**  <br>
 </div>  
 
+
+<div style="text-align: right">  
+**顧客:** 有會員折扣嗎？  <br>
+(kaiin waribiki wa arimasu ka?)  <br>
+有會員折扣嗎？  <br>
+**Is there a membership discount?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**店員:** はい、会員様はさらに5%オフです。  <br>
+(hai, kaiin-sama wa sara ni go paasento ofu desu.)  <br>
+是的，會員再打95折。  <br>
+**Yes, members get an additional 5% off.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**顧客:** 太好了，謝謝！  <br>
+(taihen arigatou gozaimasu!)  <br>
+太好了，謝謝！  <br>
+**Great, thank you!**  <br>
+</div>  
+
 ### 重點句型
 - セール中です。(seeru-chuu desu) - 正在特價
 - 税込みの価格はいくらですか？(zeikomi no kakaku wa ikura desu ka?) - 含稅價格是多少？
@@ -234,6 +300,35 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 (mishiyou no joutai desu.)  <br>
 是未使用過的狀態。  <br>
 **It's unused.**  <br>
+</div>  
+
+
+<div style="text-align: right">  
+**店員:** 返品は可能です。返金をご希望ですか？  <br>
+(henpin wa kanou desu. henkin o go-kibou desu ka?)  <br>
+可以退貨。您希望退款嗎？  <br>
+**A return is possible. Would you like a refund?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** はい、お願いします。  <br>
+(hai, onegai shimasu.)  <br>
+是的，麻煩您了。  <br>
+**Yes, please.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**店員:** かしこまりました。手続きいたします。  <br>
+(kashikomarimashita. tetsuzuki itashimasu.)  <br>
+好的，我會為您辦理。  <br>
+**Understood, I'll process it for you.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
 </div>  
 
 ### 重點句型
@@ -291,6 +386,35 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 **Yes, please.**  <br>
 </div>  
 
+
+<div style="text-align: right">  
+**店員:** 配送も承りますか？  <br>
+(haisou mo uketamawarimasu ka?)  <br>
+需要配送服務嗎？  <br>
+**Would you like delivery service as well?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** いいえ、持ち帰ります。  <br>
+(iie, mochikaerimasu.)  <br>
+不，我會帶走。  <br>
+**No, I'll take it with me.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**店員:** かしこまりました。  <br>
+(kashikomarimashita.)  <br>
+好的。  <br>
+**Understood.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
+</div>  
+
 ### 重點句型
 - 包装をお願いします。(housou o onegai shimasu) - 請幫我包裝
 - 配送も承ります。(haisou mo uketamawarimasu) - 我們也提供配送服務
@@ -307,36 +431,12 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 
 ## 文化小知識
 
-在日本購物時，有一些重要的禮儀和習慣需要注意：
+在日本，購物不僅僅是購買商品的過程，更是一種文化的體驗。當您走進商店時，說「失礼します」是一種禮貌的表現，這樣的開場讓人感受到您的友善。結帳時，說「お願いします」是對店員的尊重，這樣的互動讓人感受到日本的禮貌。離開時，說「ありがとうございました」是對服務的感謝，這樣的習慣讓人感受到日本的人情味。
 
-1. 購物禮儀
-   - 進入商店要說「失礼します」
-   - 結帳時要說「お願いします」
-   - 離開時要說「ありがとうございました」
-   - 不要大聲喧嘩
+在退換貨方面，日本的商店通常提供7天的退換貨政策，這樣的安排讓人感受到日本的誠信。出示收據是必要的，這不僅僅是為了確認購買，也是一種信任的表現。有些商品不能退換，這樣的規定讓人感受到日本的嚴謹。特價商品可能不能退換，這樣的細節讓人感受到日本的細膩。
 
-2. 退換貨政策
-   - 一般7天內可以退換
-   - 需要出示收據
-   - 有些商品不能退換
-   - 特價商品可能不能退換
+付款方式的多樣性讓購物更加便利，現金和信用卡的通用讓人感受到日本的現代化。有些商店只收現金，這樣的安排讓人感受到日本的傳統。電子支付的普及讓人感受到日本的科技進步。分開結帳的選擇讓人感受到日本的靈活性。
 
-3. 付款方式
-   - 現金和信用卡都通用
-   - 有些商店只收現金
-   - 可以使用電子支付
-   - 可以要求分開結帳
+包裝服務的細緻讓人感受到日本的用心，禮物包裝的選擇讓人感受到日本的美學。選擇包裝紙的過程讓人感受到日本的創意。寫卡片的服務讓人感受到日本的溫暖。配送服務的提供讓人感受到日本的便利。
 
-4. 包裝服務
-   - 可以要求禮物包裝
-   - 可以選擇包裝紙
-   - 可以要求寫卡片
-   - 可以要求配送
-
-5. 購物時間
-   - 一般商店10:00-20:00
-   - 便利商店24小時
-   - 百貨公司較晚關門
-   - 可以慢慢挑選
-
---- 
+購物時間的安排讓人感受到日本的效率，商店的營業時間讓人感受到日本的活力。便利商店的24小時營業讓人感受到日本的便利。百貨公司的晚間營業讓人感受到日本的繁華。慢慢挑選的自由讓人感受到日本的悠閒。 

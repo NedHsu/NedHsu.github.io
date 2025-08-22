@@ -60,6 +60,28 @@ tags: [日語, Japanese, 日語對話]
 **I understand. Could you tell me your symptoms?**  <br>
 </div>  
 
+
+<div style="text-align: right">  
+**病患:** 最近感到頭痛和疲倦。  <br>
+(saikin atama ga itakute, tsukareteimasu.)  <br>
+最近感到頭痛和疲倦。  <br>
+**I've been experiencing headaches and fatigue lately.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**醫院接待員:** かしこまりました。明日の午後に空きがあります。  <br>
+(kashikomarimashita. ashita no gogo ni aki ga arimasu.)  <br>
+好的，明天下午有空位。  <br>
+**Understood. We have an opening tomorrow afternoon.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**病患:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
+</div>  
+
 ### 重點句型
 - 初診の予約をお願いしたいのですが。(shoshin no yoyaku o onegai shitai no desu ga) - 我想預約初診
 - 症状を教えていただけますか？(shoujou o oshiete itadakemasu ka?) - 請問您有什麼症狀？
@@ -101,6 +123,28 @@ tags: [日語, Japanese, 日語對話]
 (hai, shouchi shimashita. dezain no katarogu o go-ran kudasai.)  <br>
 好的，請看設計目錄。  <br>
 **I understand. Please look at the design catalog.**  <br>
+</div>  
+
+
+<div style="text-align: right">  
+**顧客:** 這個設計看起來很漂亮。需要多長時間？  <br>
+(kono dezain wa kirei desu. jikan wa dono kurai kakarimasu ka?)  <br>
+這個設計看起來很漂亮。需要多長時間？  <br>
+**This design looks beautiful. How long will it take?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**美甲師:** 約1時間半です。  <br>
+(yaku ichijikan han desu.)  <br>
+大約1個半小時。  <br>
+**About an hour and a half.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**顧客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
 </div>  
 
 ### 重點句型
@@ -146,6 +190,28 @@ tags: [日語, Japanese, 日語對話]
 **I understand. Could you tell me the specific problem?**  <br>
 </div>  
 
+
+<div style="text-align: right">  
+**顧客:** 電腦開機後無法正常運行。  <br>
+(pasokon wa kaiki go ni seijou ni unkou shimasen.)  <br>
+電腦開機後無法正常運行。  <br>
+**The computer doesn't run properly after booting up.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**維修人員:** かしこまりました。診斷には約1時間かかります。  <br>
+(kashikomarimashita. shindan ni wa yaku ichijikan kakarimasu.)  <br>
+好的，診斷需要大約1小時。  <br>
+**Understood. The diagnosis will take about an hour.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**顧客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
+</div>  
+
 ### 重點句型
 - 何かお困りでしょうか？(nanika o-komari deshou ka?) - 有什麼可以幫您的嗎？
 - ～の調子が悪いので、修理をお願いしたいです。(~no choushi ga warui node, shuuri o onegai shitai desu) - ...狀況不好，想請您修理
@@ -187,6 +253,28 @@ tags: [日語, Japanese, 日語對話]
 (hai, shouchi shimashita. o-namae to go-juusho o onegai shimasu.)  <br>
 好的，請告訴我您的姓名和地址。  <br>
 **I understand. May I have your name and address, please?**  <br>
+</div>  
+
+
+<div style="text-align: right">  
+**乘客:** 我姓田中，地址是東京都新宿區。  <br>
+(watashi wa tanaka desu, juusho wa toukyou-to shinjuku-ku desu.)  <br>
+我姓田中，地址是東京都新宿區。  <br>
+**My name is Tanaka, and my address is Shinjuku, Tokyo.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**預約中心人員:** かしこまりました。タクシーは6:45に到着します。  <br>
+(kashikomarimashita. takushii wa rokuji yonjuugo fun ni touchaku shimasu.)  <br>
+好的，計程車將在6:45到達。  <br>
+**Understood. The taxi will arrive at 6:45.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**乘客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
 </div>  
 
 ### 重點句型
@@ -232,6 +320,28 @@ tags: [日語, Japanese, 日語對話]
 **I heard it will get even colder tomorrow.**  <br>
 </div>  
 
+
+<div style="text-align: right">  
+**同事B:** 我們應該準備好暖和的衣服。  <br>
+(atatakai fuku o junbi shite okimashou.)  <br>
+我們應該準備好暖和的衣服。  <br>
+**We should prepare warm clothes.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**同事A:** 是的，這樣我們就不會感冒了。  <br>
+(hai, sou sureba kaze o hikimasen.)  <br>
+是的，這樣我們就不會感冒了。  <br>
+**Yes, that way we won't catch a cold.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**同事B:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
+</div>  
+
 ### 重點句型
 - ～は急に～くなりましたね。(~wa kyuu ni ~ku narimashita ne) - ...突然變...了
 - ～が必要かもしれません。(~ga hitsuyou kamoshiremasen) - 可能需要...
@@ -245,3 +355,15 @@ tags: [日語, Japanese, 日語對話]
 - 風 (kaze) - 風
 
 --- 
+
+## 文化小知識
+
+在日本，醫院掛號是一個需要耐心的過程。預約初診時，清楚地描述症狀是非常重要的，這樣的細節讓人感受到日本的專業。醫院通常會根據您的症狀安排合適的時間，這樣的安排讓人感受到日本的周到。
+
+在美容院美甲時，選擇設計是一個充滿樂趣的過程。設計目錄的提供讓人感受到日本的創意。美甲的過程通常需要1個半小時，這樣的安排讓人感受到日本的細膩。
+
+在電器行維修時，清楚地描述故障情況是非常重要的，這樣的互動讓人感受到日本的貼心。維修時間的估算讓人感受到日本的效率。保固期的提供讓人感受到日本的誠信。
+
+在計程車預約時，告知目的地和時間是非常重要的，這樣的開場讓人感受到您的友善。對於司機的服務表示感謝是對他人的尊重，這樣的互動讓人感受到日本的人情味。
+
+在討論天氣變化時，準備應對措施是非常重要的，這樣的習慣讓人感受到日本的周到。了解天氣變化能讓人更好地安排日常活動，這樣的習慣讓人感受到日本的細膩。 

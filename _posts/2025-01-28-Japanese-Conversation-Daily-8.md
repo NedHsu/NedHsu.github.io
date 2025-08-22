@@ -65,6 +65,28 @@ tags: [日語, Japanese, 日語對話]
 **Not at all. Please be kind to me today.**  <br>
 </div>  
 
+
+<div style="text-align: left">  
+**田中:** 今日はどんな活動がありますか？  <br>
+(kyou wa donna katsudou ga arimasu ka?)  <br>
+今天有什麼活動嗎？  <br>
+**What activities are planned for today?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**山田:** 午後に交流會があります。  <br>
+(gogo ni kouryuu kai ga arimasu.)  <br>
+下午有一個交流會。  <br>
+**There's a networking event in the afternoon.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**田中:** 太好了，我很期待。  <br>
+(taihen arigatou gozaimasu, tanoshimi ni shiteimasu.)  <br>
+太好了，我很期待。  <br>
+**Great, I'm looking forward to it.**  <br>
+</div>  
+
 ### 重點句型
 - はじめまして。(hajimemashite) - 初次見面
 - よろしくお願いします。(yoroshiku onegai shimasu) - 請多多指教
@@ -118,6 +140,21 @@ tags: [日語, Japanese, 日語對話]
 (sou desu ka. toukyou wa suteki na machi desu ne.)  <br>
 是嗎。東京是個很棒的城市呢。  <br>
 **Is that so? Tokyo is a wonderful city.**  <br>
+</div>  
+
+
+<div style="text-align: right">  
+**山田:** 是的，東京有很多有趣的地方。  <br>
+(hai, toukyou wa omoshiroi tokoro ga takusan arimasu.)  <br>
+是的，東京有很多有趣的地方。  <br>
+**Yes, Tokyo has many interesting places.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**田中:** 我希望有機會去看看。  <br>
+(kibou ga areba, itsuka ikitai desu.)  <br>
+我希望有機會去看看。  <br>
+**I hope to visit someday.**  <br>
 </div>  
 
 ### 重點句型
@@ -175,6 +212,21 @@ tags: [日語, Japanese, 日語對話]
 **That's impressive.**  <br>
 </div>  
 
+
+<div style="text-align: right">  
+**山田:** 謝謝，我很喜歡我的工作。  <br>
+(arigatou, shigoto ga daisuki desu.)  <br>
+謝謝，我很喜歡我的工作。  <br>
+**Thank you, I love my job.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**田中:** 那真是太好了。  <br>
+(sore wa yokatta desu ne.)  <br>
+那真是太好了。  <br>
+**That's good to hear.**  <br>
+</div>  
+
 ### 重點句型
 - お仕事は何をされていますか？(o-shigoto wa nani o sarete imasu ka?) - 請問您從事什麼工作？
 - ～をされていますか？(~o sarete imasu ka?) - 您從事...嗎？
@@ -228,6 +280,28 @@ tags: [日語, Japanese, 日語對話]
 (shitsurei shimasu.)  <br>
 告辭了。  <br>
 **Goodbye.**  <br>
+</div>  
+
+
+<div style="text-align: right">  
+**田中:** 下次我會帶朋友來。  <br>
+(jikai wa tomodachi o tsurete kimasu.)  <br>
+下次我會帶朋友來。  <br>
+**Next time, I'll bring my friends.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**山田:** ありがとうございます。お待ちしております。  <br>
+(arigatou gozaimasu. omachi shite orimasu.)  <br>
+謝謝。我們會期待您的光臨。  <br>
+**Thank you. We look forward to it.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**田中:** 再見！  <br>
+(saiken!)  <br>
+再見！  <br>
+**Goodbye!**  <br>
 </div>  
 
 ### 重點句型
@@ -285,6 +359,21 @@ tags: [日語, Japanese, 日語對話]
 **That's good to hear.**  <br>
 </div>  
 
+
+<div style="text-align: right">  
+**山田:** 是的，工作和生活都很平衡。  <br>
+(hai, shigoto to seikatsu ga totemo baransu ga toreteimasu.)  <br>
+是的，工作和生活都很平衡。  <br>
+**Yes, work and life are well balanced.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**田中:** 那真是太好了。  <br>
+(sore wa yokatta desu ne.)  <br>
+那真是太好了。  <br>
+**That's good to hear.**  <br>
+</div>  
+
 ### 重點句型
 - お元気ですか？(o-genki desu ka?) - 您好嗎？
 - おかげさまで。(okagesama de) - 托您的福
@@ -301,31 +390,10 @@ tags: [日語, Japanese, 日語對話]
 
 ## 文化小知識
 
-在日本，初次見面時的問候和自我介紹非常重要，這反映了日本文化中對禮儀的重視。以下是一些重要的禮儀要點：
+在日本，初次見面的問候和自我介紹是非常重要的，這不僅僅是禮貌的表現，更是建立良好關係的基礎。當您第一次見到某人時，說「はじめまして」是一種尊重，這樣的開場讓人感受到您的誠意。隨後的「よろしくお願いします」則是對未來關係的期待，這樣的表達讓人感受到日本的溫暖。
 
-1. 鞠躬禮儀
-   - 初次見面時要行禮
-   - 根據場合和對象調整鞠躬的角度
-   - 一般場合15度，正式場合30度
+自我介紹時，使用「私は～と申します」來介紹自己的名字，這不僅僅是告知對方您的名字，也是對對方的尊重。詢問對方的來歷或背景是建立關係的開始，這樣的互動讓人感受到日本的友好。對於對方的回答，表示讚美或興趣是對對方的肯定，這樣的交流讓人感受到日本的細膩。
 
-2. 稱呼方式
-   - 對長輩或上司要使用敬語
-   - 在名字後加上「さん」表示尊重
-   - 避免直接稱呼對方的名字
+在日常寒暄中，問候語如「お元気ですか？」是關心對方的表現，這樣的問候讓人感受到日本的關懷。對於對方的回答，表示理解或祝福是對對方的支持，這樣的互動讓人感受到日本的溫馨。即使是簡單的對話，也能讓人感受到日本的文化深度。
 
-3. 交換名片
-   - 初次見面時要交換名片
-   - 用雙手遞接名片
-   - 收到名片後要認真看過再收起來
-
-4. 問候用語
-   - 早上見面說「おはようございます」
-   - 白天見面說「こんにちは」
-   - 晚上見面說「こんばんは」
-
-5. 感謝用語
-   - 經常使用「ありがとうございます」
-   - 對長輩要使用更禮貌的說法
-   - 表達感謝時要配合適當的鞠躬
-
---- 
+在日本，感謝和告別的用語如「ありがとうございました」和「失礼します」是日常生活中不可或缺的一部分，這不僅僅是禮貌的表現，更是對他人的尊重。這樣的習慣讓人感受到日本的禮儀之邦。 

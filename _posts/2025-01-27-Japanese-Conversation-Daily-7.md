@@ -60,6 +60,28 @@ tags: [日語, Japanese, 日語對話]
 **I understand. May I have your name, please?**  <br>
 </div>  
 
+
+<div style="text-align: right">  
+**顧客:** 私は田中です。窓際の席があればお願いします。  <br>
+(watashi wa tanaka desu. madogiwa no seki ga areba onegai shimasu.)  <br>
+我姓田中。如果有靠窗的座位，請安排。  <br>
+**My name is Tanaka. If there's a window seat available, please arrange it.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**餐廳接待員:** かしこまりました。窓際の席を確保いたします。  <br>
+(kashikomarimashita. madogiwa no seki o kakuho itashimasu.)  <br>
+好的，我們會為您保留靠窗的座位。  <br>
+**Understood. We'll reserve a window seat for you.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**顧客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
+</div>  
+
 ### 重點句型
 - ～でございます。(~de gozaimasu) - 這裡是...
 - ～で予約をお願いしたいのですが。(~de yoyaku o onegai shitai no desu ga) - 我想預約...
@@ -101,6 +123,28 @@ tags: [日語, Japanese, 日語對話]
 (hai, shouchi shimashita. reshiito wa o-mochi desu ka?)  <br>
 好的，請問您有收據嗎？  <br>
 **I understand. Do you have the receipt?**  <br>
+</div>  
+
+
+<div style="text-align: right">  
+**顧客:** はい、こちらです。商品に不具合があります。  <br>
+(hai, kochira desu. shouhin ni fuguai ga arimasu.)  <br>
+是的，這是收據。商品有問題。  <br>
+**Yes, here it is. There's an issue with the item.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**店員:** 申し訳ありません。すぐに確認いたします。  <br>
+(moushiwake arimasen. sugu ni kakunin itashimasu.)  <br>
+非常抱歉，我會立即確認。  <br>
+**I'm sorry. I'll check it right away.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**顧客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
 </div>  
 
 ### 重點句型
@@ -146,6 +190,28 @@ tags: [日語, Japanese, 日語對話]
 **Mr./Ms. Yamada, right? May I see your passport, please?**  <br>
 </div>  
 
+
+<div style="text-align: right">  
+**房客:** こちらです。部屋は禁煙でお願いします。  <br>
+(kochira desu. heya wa kin'en de onegai shimasu.)  <br>
+這是我的護照。請給我禁煙房。  <br>
+**Here it is. I'd like a non-smoking room, please.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**櫃檯人員:** かしこまりました。禁煙の部屋を用意いたします。  <br>
+(kashikomarimashita. kin'en no heya o youi itashimasu.)  <br>
+好的，我們會為您準備禁煙房。  <br>
+**Understood. We'll prepare a non-smoking room for you.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**房客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
+</div>  
+
 ### 重點句型
 - チェックインでございますか？(chekku-in de gozaimasu ka?) - 是要辦理入住嗎？
 - 予約をしています。(yoyaku o shite imasu) - 我有預約
@@ -187,6 +253,28 @@ tags: [日語, Japanese, 日語對話]
 (arigatou gozaimasu.)  <br>
 非常感謝。  <br>
 **Thank you very much.**  <br>
+</div>  
+
+
+<div style="text-align: right">  
+**路人:** 這條路上有其他商店嗎？  <br>
+(kono michi ni wa hoka no mise ga arimasu ka?)  <br>
+這條路上有其他商店嗎？  <br>
+**Are there other shops on this road?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**當地人:** はい、カフェと書店があります。  <br>
+(hai, kafe to shoten ga arimasu.)  <br>
+是的，有咖啡店和書店。  <br>
+**Yes, there's a café and a bookstore.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**路人:** 太好了，謝謝！  <br>
+(taihen arigatou gozaimasu!)  <br>
+太好了，謝謝！  <br>
+**Great, thank you!**  <br>
 </div>  
 
 ### 重點句型
@@ -232,8 +320,30 @@ tags: [日語, Japanese, 日語對話]
 **Today will be sunny then cloudy, with a high of 25 degrees.**  <br>
 </div>  
 
+
+<div style="text-align: right">  
+**觀眾:** 明天的天氣如何？  <br>
+(ashita no tenki wa dou desu ka?)  <br>
+明天的天氣如何？  <br>
+**How about tomorrow's weather?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**氣象播報員:** 明日は雨が降る可能性があります。  <br>
+(ashita wa ame ga furu kanousei ga arimasu.)  <br>
+明天可能會下雨。  <br>
+**There's a chance of rain tomorrow.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**觀眾:** 謝謝您的資訊。  <br>
+(arigatou gozaimasu, jouhou o arigatou.)  <br>
+謝謝您的資訊。  <br>
+**Thank you for the information.**  <br>
+</div>  
+
 ### 重點句型
-- ～の天氣予報を確認しましょう。(~no tenki yohou o kakunin shimashou) - 讓我們來看看...的天氣預報
+- ～の天気予報を確認しましょう。(~no tenki yohou o kakunin shimashou) - 讓我們來看看...的天氣預報
 - ～は～のち～、最高気温は～度です。(~wa ~nochi ~, saikou kion wa ~do desu) - ...是...轉...，最高氣溫...度
 - お願いします。(onegai shimasu) - 麻煩您了
 
@@ -245,3 +355,15 @@ tags: [日語, Japanese, 日語對話]
 - 気温 (kion) - 氣溫
 
 --- 
+
+## 文化小知識
+
+在日本，餐廳預約是一種常見的禮儀，尤其是在繁忙的時段。提前預約不僅能確保有座位，還能讓餐廳更好地為您準備。當您打電話預約時，清晰地告知人數和時間是非常重要的，這樣的細節讓人感受到日本的精確。
+
+購物時，退換貨的政策通常是7天內有效，這樣的安排讓人感受到日本的誠信。出示收據是必要的，這不僅僅是為了確認購買，也是一種信任的表現。有些商品不能退換，這樣的規定讓人感受到日本的嚴謹。
+
+在旅館入住時，出示護照是必要的，這不僅僅是為了安全，也是對旅館的信任。入住時間的準時性讓人驚嘆，這是因為每個人都遵守時間表，這樣的效率讓人感受到日本的精確。
+
+問路時，禮貌地詢問是非常重要的，這樣的開場讓人感受到您的友善。對於指引的感謝是對幫助者的尊重，這樣的互動讓人感受到日本的人情味。
+
+天氣預報在日本是非常準確的，這不僅僅是因為科技的進步，也是因為對細節的重視。了解天氣變化能讓人更好地安排日常活動，這樣的習慣讓人感受到日本的周到。 

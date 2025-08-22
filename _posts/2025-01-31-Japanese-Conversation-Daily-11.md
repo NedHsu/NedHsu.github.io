@@ -71,6 +71,21 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 **I'd like a Japanese-style room with a hot spring bath.**  <br>
 </div>  
 
+
+<div style="text-align: right">  
+**旅館スタッフ:** 温泉付きの部屋は人気がありますので、空きがあるか確認いたします。  <br>
+(onsen tsuki no heya wa ninki ga arimasu node, aki ga aru ka kakunin itashimasu.)  <br>
+溫泉房間很受歡迎，我會確認是否有空房。  <br>
+**Rooms with hot springs are popular, so I'll check availability.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
+</div>  
+
 ### 重點句型
 - 予約をお願いしたいのですが。(yoyaku o onegai shitai no desu ga) - 我想預約
 - いつからいつまでご利用でしょうか？(itsu kara itsu made go-riyou deshou ka?) - 請問您要住幾天？
@@ -117,6 +132,28 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 (arigatou gozaimasu. o-heya wa ni zero ichi goushitsu desu.)  <br>
 謝謝。您的房間是201號房。  <br>
 **Thank you. Your room is 201.**  <br>
+</div>  
+
+
+<div style="text-align: left">  
+**顧客:** 部屋の鍵はどこで受け取れますか？  <br>
+(heya no kagi wa doko de uketoremasu ka?)  <br>
+房間鑰匙在哪裡領取？  <br>
+**Where can I pick up the room key?**  <br>
+</div>  
+
+<div style="text-align: right">  
+**旅館スタッフ:** フロントでお渡しします。  <br>
+(furonto de o-watashi shimasu.)  <br>
+在櫃檯領取。  <br>
+**We'll give it to you at the front desk.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
 </div>  
 
 ### 重點句型
@@ -174,6 +211,21 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 **Is the hot spring available 24 hours?**  <br>
 </div>  
 
+
+<div style="text-align: right">  
+**旅館スタッフ:** 申し訳ありませんが、温泉は夜11時に閉まります。  <br>
+(moushiwake arimasen ga, onsen wa yoru juuichi ji ni shimarimasu.)  <br>
+抱歉，溫泉在晚上11點關閉。  <br>
+**I'm sorry, but the hot spring closes at 11 PM.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** 了解です。ありがとうございます。  <br>
+(ryoukai desu. arigatou gozaimasu.)  <br>
+了解，謝謝。  <br>
+**Understood, thank you.**  <br>
+</div>  
+
 ### 重點句型
 - 朝食は何時からですか？(choushoku wa nanji kara desu ka?) - 早餐從幾點開始？
 - ～はどこですか？(~wa doko desu ka?) - ...在哪裡？
@@ -229,6 +281,21 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 **I'd also like extra towels, please.**  <br>
 </div>  
 
+
+<div style="text-align: right">  
+**旅館スタッフ:** もちろんです。すぐにお持ちします。  <br>
+(mochiron desu. sugu ni o-mochi shimasu.)  <br>
+當然，馬上送來。  <br>
+**Of course, I'll bring them right away.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
+</div>  
+
 ### 重點句型
 - ルームサービスをお願いします。(ruumu saabisu o onegai shimasu) - 請幫我送客房服務
 - 何をお持ちしましょうか？(nani o o-mochi shimashou ka?) - 請問您需要什麼？
@@ -277,11 +344,26 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 **No, there are no additional charges.**  <br>
 </div>  
 
+
 <div style="text-align: left">  
 **顧客:** お世話になりました。とても快適でした。  <br>
 (o-sewa ni narimashita. totemo kaiteki deshita.)  <br>
 謝謝照顧。住得很舒服。  <br>
 **Thank you for your hospitality. It was very comfortable.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**旅館スタッフ:** またのお越しをお待ちしております。  <br>
+(mata no o-koshi o omachi shite orimasu.)  <br>
+期待您的再次光臨。  <br>
+**We look forward to your next visit.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**顧客:** ありがとうございます。また来ます。  <br>
+(arigatou gozaimasu. mata kimasu.)  <br>
+謝謝，我會再來。  <br>
+**Thank you, I'll come again.**  <br>
 </div>  
 
 ### 重點句型
@@ -300,36 +382,12 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 
 ## 文化小知識
 
-在日本旅館住宿時，有一些重要的禮儀和習慣需要注意：
+在日本，旅館的住宿體驗不僅僅是休息的地方，更是一種文化的體驗。當您走進旅館時，說「失礼します」是一種禮貌的表現，這樣的開場讓人感受到您的友善。辦理入住時，出示護照是必要的，這不僅僅是為了安全，也是對旅館的信任。入住時間的準時性讓人驚嘆，這是因為每個人都遵守時間表，這樣的效率讓人感受到日本的精確。
 
-1. 入住禮儀
-   - 進入旅館要說「失礼します」
-   - 辦理入住要出示護照
-   - 要遵守入住時間
-   - 要保管好房間鑰匙
+在房間裡，脫鞋進入是基本的禮儀，這樣的習慣讓人感受到家的溫暖。使用室內拖鞋是對房間清潔的尊重，這樣的細節讓人感受到日本的細膩。安靜時間的遵守讓人得以放鬆，這是因為大家都遵守不打擾他人的規則，這樣的氛圍讓日本的住宿體驗更加舒適。
 
-2. 房間使用
-   - 要脫鞋進入房間
-   - 要使用室內拖鞋
-   - 要遵守安靜時間
-   - 要節約用水用電
+溫泉的使用是一種享受，但也有一些規則需要遵守。先沖洗身體是對他人的尊重，這樣的習慣讓人感受到日本的潔淨。不穿泳衣是對傳統的尊重，這樣的細節讓人感受到日本的文化深度。使用時間的遵守讓人得以享受，這是因為每個人都遵守時間表，這樣的安排讓人感受到日本的秩序。
 
-3. 溫泉使用
-   - 要先沖洗身體
-   - 不要穿泳衣
-   - 不要大聲喧嘩
-   - 要遵守使用時間
+用餐時，準時是對廚師的尊重，這樣的習慣讓人感受到日本的敬業。用餐時間的遵守讓人得以享受，這是因為每個人都遵守時間表，這樣的安排讓人感受到日本的效率。不浪費食物是對資源的尊重，這樣的習慣讓人感受到日本的節約。說「いただきます」是對食物的感謝，這樣的習慣讓人感受到日本的感恩。
 
-4. 用餐禮儀
-   - 要準時用餐
-   - 要遵守用餐時間
-   - 不要浪費食物
-   - 要說「いただきます」
-
-5. 退房禮儀
-   - 要準時退房
-   - 要歸還房間鑰匙
-   - 要結清所有費用
-   - 要說「お世話になりました」
-
---- 
+退房時，準時是對旅館的尊重，這樣的習慣讓人感受到日本的效率。歸還房間鑰匙是對旅館的信任，這樣的細節讓人感受到日本的誠信。結清所有費用是對旅館的尊重，這樣的習慣讓人感受到日本的誠實。說「お世話になりました」是對旅館的感謝，這樣的習慣讓人感受到日本的人情味。 

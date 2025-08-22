@@ -72,6 +72,28 @@ tags: [日語, Japanese, 日語對話]
 **We have beer, sake, and soft drinks.**  <br>
 </div>  
 
+
+<div style="text-align: right">  
+**顧客:** 我會選擇日本酒。  <br>
+(nihonshu o erabimasu.)  <br>
+我會選擇日本酒。  <br>
+**I'll choose sake.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**店員:** かしこまりました。  <br>
+(kashikomarimashita.)  <br>
+好的。  <br>
+**Understood.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**顧客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
+</div>  
+
 ### 重點句型
 - ご注文はお決まりですか？(go-chuumon wa o-kimari desu ka?) - 請問您決定好要點什麼了嗎？
 - おすすめの～はありますか？(o-susume no ~wa arimasu ka?) - 請問有什麼推薦的...嗎？
@@ -125,6 +147,28 @@ tags: [日語, Japanese, 日語對話]
 (kashikomarimashita. henkin no tetsuzuki o sasete itadakimasu.)  <br>
 好的，我來為您辦理退款手續。  <br>
 **I understand. I'll process the refund for you.**  <br>
+</div>  
+
+
+<div style="text-align: right">  
+**顧客:** 謝謝您的幫助。  <br>
+(goen o arigatou gozaimasu.)  <br>
+謝謝您的幫助。  <br>
+**Thank you for your help.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**店員:** どういたしまして。  <br>
+(dou itashimashite.)  <br>
+不客氣。  <br>
+**You're welcome.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**顧客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
 </div>  
 
 ### 重點句型
@@ -182,6 +226,28 @@ tags: [日語, Japanese, 日語對話]
 **Yes, we have a large public bath. Breakfast is served from 7 to 9 AM.**  <br>
 </div>  
 
+
+<div style="text-align: right">  
+**顧客:** 太好了，謝謝！  <br>
+(taihen arigatou gozaimasu!)  <br>
+太好了，謝謝！  <br>
+**Great, thank you!**  <br>
+</div>  
+
+<div style="text-align: left">  
+**受付:** どういたしまして。  <br>
+(dou itashimashite.)  <br>
+不客氣。  <br>
+**You're welcome.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**顧客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
+</div>  
+
 ### 重點句型
 - ～から～で予約をお願いしたいのですが。(~kara ~de yoyaku o onegai shitai no desu ga) - 我想預約從...開始，住...
 - お部屋のタイプはどうされますか？(o-heya no taipu wa dou saremasu ka?) - 請問您需要什麼類型的房間？
@@ -235,6 +301,28 @@ tags: [日語, Japanese, 日語對話]
 (arigatou gozaimasu.)  <br>
 非常感謝。  <br>
 **Thank you very much.**  <br>
+</div>  
+
+
+<div style="text-align: right">  
+**通行人:** 這條路上有其他商店嗎？  <br>
+(kono michi ni wa hoka no mise ga arimasu ka?)  <br>
+這條路上有其他商店嗎？  <br>
+**Are there other shops on this road?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**地元の人:** はい、カフェと書店があります。  <br>
+(hai, kafe to shoten ga arimasu.)  <br>
+是的，有咖啡店和書店。  <br>
+**Yes, there's a café and a bookstore.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**通行人:** 太好了，謝謝！  <br>
+(taihen arigatou gozaimasu!)  <br>
+太好了，謝謝！  <br>
+**Great, thank you!**  <br>
 </div>  
 
 ### 重點句型
@@ -292,9 +380,31 @@ tags: [日語, Japanese, 日語對話]
 **Tomorrow's forecast is rain. Please bring an umbrella.**  <br>
 </div>  
 
+
+<div style="text-align: right">  
+**視聴者:** 謝謝您的提醒。  <br>
+(kansha o arigatou gozaimasu.)  <br>
+謝謝您的提醒。  <br>
+**Thank you for the reminder.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**アナウンサー:** どういたしまして。  <br>
+(dou itashimashite.)  <br>
+不客氣。  <br>
+**You're welcome.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**視聴者:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
+</div>  
+
 ### 重點句型
-- ～の天氣予報を確認しましょう。(~no tenki yohou o kakunin shimashou) - 讓我們來看看...的天氣預報
-- ～は～のち～、最高気温は～度です。(~wa ~nochi ~, saikou kion wa ~do desu) - ...是...轉...，最高氣溫...度
+- ～の天気予報を確認しましょう。(~no tenki yohou o kakunin shimashou) - 讓我們來看看...的天氣預報
+- ～は～のち～、最高気温は～度です。(~wa ~nochi ~, saikou kion wa ~do desu) - ...是...轉...，最高気溫...度
 - お願いします。(onegai shimasu) - 麻煩您了
 
 ### 相關單字
@@ -305,3 +415,15 @@ tags: [日語, Japanese, 日語對話]
 - 気温 (kion) - 氣溫
 
 --- 
+
+## 文化小知識
+
+在日本，餐廳點餐是一個充滿禮儀的過程。當您進入餐廳時，服務生會熱情地迎接您，這樣的開場讓人感受到日本的友善。點餐時，詢問推薦菜是對廚師的尊重，這樣的互動讓人感受到日本的細膩。結帳時，對服務生的感謝是對他人的尊重，這樣的習慣讓人感受到日本的人情味。
+
+在購物時，退換貨的政策通常是7天內有效，這樣的安排讓人感受到日本的誠信。出示收據是必要的，這不僅僅是為了確認購買，也是一種信任的表現。有些商品不能退換，這樣的規定讓人感受到日本的嚴謹。
+
+在預約旅館時，清楚地告知入住時間和房間類型是非常重要的，這樣的細節讓人感受到日本的精確。旅館通常會根據您的需求安排合適的房間，這樣的安排讓人感受到日本的周到。對於旅館的服務表示感謝是對他人的尊重，這樣的互動讓人感受到日本的人情味。
+
+在問路時，禮貌地詢問是非常重要的，這樣的開場讓人感受到您的友善。對於指引的感謝是對幫助者的尊重，這樣的互動讓人感受到日本的人情味。
+
+天氣預報在日本是非常準確的，這不僅僅是因為科技的進步，也是因為對細節的重視。了解天氣變化能讓人更好地安排日常活動，這樣的習慣讓人感受到日本的周到。 

@@ -60,6 +60,28 @@ tags: [日語, Japanese, 日語對話]
 **I understand. May I see your passport and residence card, please?**  <br>
 </div>  
 
+
+<div style="text-align: right">  
+**顧客:** こちらです。手続きにはどのくらい時間がかかりますか？  <br>
+(kochira desu. tetsuzuki ni wa dono kurai jikan ga kakarimasu ka?)  <br>
+這是我的護照和居留證。手續需要多長時間？  <br>
+**Here they are. How long will the process take?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**銀行職員:** 約30分ほどです。  <br>
+(yaku sanjuppun hodo desu.)  <br>
+大約30分鐘。  <br>
+**About 30 minutes.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**顧客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
+</div>  
+
 ### 重點句型
 - ご用件は何でしょうか？(go-youken wa nan deshou ka?) - 請問有什麼可以幫您的嗎？
 - ～を開設したいのですが。(~o kaisetsu shitai no desu ga) - 我想開設...
@@ -101,6 +123,28 @@ tags: [日語, Japanese, 日語對話]
 (hai, shouchi shimashita. juusho o kakunin sasete itadakimasu.)  <br>
 好的，讓我確認一下地址。  <br>
 **I understand. Let me check the address.**  <br>
+</div>  
+
+
+<div style="text-align: right">  
+**顧客:** こちらです。運費はどのくらいですか？  <br>
+(kochira desu. souryou wa dono kurai desu ka?)  <br>
+這是地址。運費是多少？  <br>
+**Here it is. How much is the shipping cost?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**郵局職員:** 重さによりますが、約1,500円です。  <br>
+(omosa ni yorimasu ga, yaku sen gohyaku en desu.)  <br>
+根據重量，大約1,500日圓。  <br>
+**It depends on the weight, but it's about 1,500 yen.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**顧客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
 </div>  
 
 ### 重點句型
@@ -146,6 +190,28 @@ tags: [日語, Japanese, 日語對話]
 **I understand. Please look at the color chart.**  <br>
 </div>  
 
+
+<div style="text-align: right">  
+**顧客:** 這個顏色看起來不錯。需要多長時間？  <br>
+(kono iro wa yokatta desu. jikan wa dono kurai kakarimasu ka?)  <br>
+這個顏色看起來不錯。需要多長時間？  <br>
+**This color looks good. How long will it take?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**美容師:** 約2時間です。  <br>
+(yaku ni jikan desu.)  <br>
+大約2小時。  <br>
+**About 2 hours.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**顧客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
+</div>  
+
 ### 重點句型
 - カラーのご予約でしょうか？(karaa no go-yoyaku deshou ka?) - 是要預約染髮嗎？
 - ～に染めたいです。(~ni sometai desu) - 我想染成...
@@ -187,6 +253,28 @@ tags: [日語, Japanese, 日語對話]
 (kochira no saishin moderu wa ikaga deshou ka?)  <br>
 這款最新型號您覺得如何？  <br>
 **How about this latest model?**  <br>
+</div>  
+
+
+<div style="text-align: right">  
+**顧客:** 這款有什麼特別功能嗎？  <br>
+(kono moderu wa nani ka tokubetsu na kinou ga arimasu ka?)  <br>
+這款有什麼特別功能嗎？  <br>
+**Does this model have any special features?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**店員:** はい、高解像度カメラと長時間電池があります。  <br>
+(hai, koukaizoudo kamera to choujikan denchi ga arimasu.)  <br>
+是的，有高解析度相機和長效電池。  <br>
+**Yes, it has a high-resolution camera and long-lasting battery.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**顧客:** 太好了，謝謝！  <br>
+(taihen arigatou gozaimasu!)  <br>
+太好了，謝謝！  <br>
+**Great, thank you!**  <br>
 </div>  
 
 ### 重點句型
@@ -232,6 +320,28 @@ tags: [日語, Japanese, 日語對話]
 **I understand.**  <br>
 </div>  
 
+
+<div style="text-align: right">  
+**乘客:** 大約需要多長時間？  <br>
+(dono kurai jikan ga kakarimasu ka?)  <br>
+大約需要多長時間？  <br>
+**How long will it take?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**司機:** 約30分です。  <br>
+(yaku sanjuppun desu.)  <br>
+大約30分鐘。  <br>
+**About 30 minutes.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**乘客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
+</div>  
+
 ### 重點句型
 - どちらまででしょうか？(dochira made deshou ka?) - 請問您要去哪裡？
 - ～までお願いします。(~made onegai shimasu) - 請載我到...
@@ -245,3 +355,15 @@ tags: [日語, Japanese, 日語對話]
 - 到着 (touchaku) - 到達
 
 --- 
+
+## 文化小知識
+
+在日本，銀行開戶是一個需要準備充分的過程。您需要攜帶護照和居留證，這不僅僅是為了身份確認，也是對銀行的信任。開戶的過程通常需要30分鐘，這樣的效率讓人感受到日本的精確。
+
+在郵局寄包裹時，準確填寫地址和郵遞區號是非常重要的，這樣的細節讓人感受到日本的嚴謹。運費根據重量計算，這樣的安排讓人感受到日本的公平。追蹤號碼的提供讓人感受到日本的周到。
+
+在美容院染髮時，選擇顏色是一個有趣的過程。顏色表的提供讓人感受到日本的專業。染髮的過程通常需要2小時，這樣的安排讓人感受到日本的細膩。
+
+在電器行購買時，詢問商品的特點是非常重要的，這樣的互動讓人感受到日本的貼心。比較價格和功能是購買的關鍵，這樣的選擇讓人感受到日本的理性。保固的提供讓人感受到日本的誠信。
+
+在計程車叫車時，告知目的地是非常重要的，這樣的開場讓人感受到您的友善。對於司機的服務表示感謝是對他人的尊重，這樣的互動讓人感受到日本的人情味。 

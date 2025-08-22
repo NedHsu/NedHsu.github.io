@@ -69,6 +69,29 @@ tags: [日語, Japanese, 日語對話]
 **It's on the right side in the back.**  <br>
 </div>  
 
+// Adding more details to the conversation
+
+<div style="text-align: right">  
+**顧客:** 謝謝，我會去試穿。  <br>
+(arigatou, shichaku shimasu.)  <br>
+謝謝，我會去試穿。  <br>
+**Thank you, I'll try it on.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**店員:** どうぞごゆっくり。  <br>
+(douzo go-yukkuri.)  <br>
+請慢慢來。  <br>
+**Please take your time.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**顧客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
+</div>  
+
 ### 重點句型
 - 何かお探しですか？(nanika o-sagashi desu ka?) - 請問您在找什麼？
 - ～を探しています。(~o sagashite imasu) - 我在找...
@@ -120,6 +143,22 @@ tags: [日語, Japanese, 日語對話]
 (tanaka to moushimasu.)  <br>
 我姓田中。  <br>
 **My name is Tanaka.**  <br>
+</div>  
+
+// Adding more details to the conversation
+
+<div style="text-align: left">  
+**A:** ありがとうございます。ご予約をお待ちしております。  <br>
+(arigatou gozaimasu. go-yoyaku o omachi shite orimasu.)  <br>
+謝謝。我們期待您的光臨。  <br>
+**Thank you. We look forward to your reservation.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**B:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
 </div>  
 
 ### 重點句型
@@ -174,6 +213,22 @@ tags: [日語, Japanese, 日語對話]
 **Is that so? We'd better bring an umbrella then.**  <br>
 </div>  
 
+// Adding more details to the conversation
+
+<div style="text-align: left">  
+**A:** そうですね。雨の日は気をつけてください。  <br>
+(sou desu ne. ame no hi wa ki o tsukete kudasai.)  <br>
+是啊。下雨天請小心。  <br>
+**Yes, please be careful on rainy days.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**B:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
+</div>  
+
 ### 重點句型
 - ～はいい天氣ですね。(~wa ii tenki desu ne) - ...天氣真好啊
 - ～そうですよ。(~sou desu yo) - 聽說...
@@ -224,6 +279,22 @@ tags: [日語, Japanese, 日語對話]
 (hai, onegai shimasu.)  <br>
 好的，麻煩您了。  <br>
 **Yes, please.**  <br>
+</div>  
+
+// Adding more details to the conversation
+
+<div style="text-align: left">  
+**A:** 体温は37.5度です。薬を処方しますね。  <br>
+(taion wa sanjuu-nana ten go do desu. kusuri o shohou shimasu ne.)  <br>
+體溫是37.5度。我會開藥給您。  <br>
+**Your temperature is 37.5 degrees. I'll prescribe some medicine.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**B:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
 </div>  
 
 ### 重點句型
@@ -288,7 +359,7 @@ tags: [日語, Japanese, 日語對話]
 **Thank you. Your room is 1205.**  <br>
 </div>  
 
-<br>  
+// Adding more details to the conversation
 
 <div style="text-align: right">  
 **顧客:** チェックアウトは何時ですか？  <br>
@@ -297,13 +368,18 @@ tags: [日語, Japanese, 日語對話]
 **What time is check-out?**  <br>
 </div>  
 
-<br>  
-
 <div style="text-align: left">  
 **店員:** 11時まででございます。  <br>
 (juuichiji made de gozaimasu.)  <br>
 是上午11點。  <br>
 **It's 11 AM.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**顧客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
 </div>  
 
 ### 重點句型
@@ -320,3 +396,15 @@ tags: [日語, Japanese, 日語對話]
 - 予約 (yoyaku) - 預約
 
 --- 
+
+## 文化小知識
+
+在日本，購物時，店員通常會熱情地迎接您，這樣的服務讓人感受到日本的友善。試穿衣物時，店員會耐心地指導您，這樣的互動讓人感受到日本的細緻和周到。
+
+預約餐廳時，清楚地告知人數和時間是非常重要的，這樣的溝通讓人感受到日本的精確。餐廳通常會根據您的需求安排合適的座位，這樣的安排讓人感受到日本的周到。
+
+談論天氣是日本人日常生活中常見的話題，這不僅僅是因為天氣的多變，也是因為這樣的話題能拉近人與人之間的距離。了解天氣變化能讓人更好地安排日常活動，這樣的習慣讓人感受到日本的周到。
+
+在醫院看診時，醫生會詳細詢問您的症狀，這樣的服務讓人感受到日本的專業。描述症狀時，清楚地表達是非常重要的，這樣的溝通讓人感受到日本的精確。
+
+在飯店辦理入住時，出示護照是必要的，這不僅僅是為了安全，也是對客戶身份的確認。飯店通常會根據您的需求安排合適的房間，這樣的安排讓人感受到日本的周到。 

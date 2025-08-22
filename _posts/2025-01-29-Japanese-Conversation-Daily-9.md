@@ -70,6 +70,28 @@ tags: [日語, Japanese, 日語對話]
 **We recommend reservations on weekends.**  <br>
 </div>  
 
+
+<div style="text-align: right">  
+**顧客:** 這家餐廳有什麼特色菜嗎？  <br>
+(kono resutoran wa nani ka tokusetsu na ryouri ga arimasu ka?)  <br>
+這家餐廳有什麼特色菜嗎？  <br>
+**Does this restaurant have any signature dishes?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**店員:** はい、当店の特製ラーメンが人気です。  <br>
+(hai, touten no tokusei raamen ga ninki desu.)  <br>
+是的，我們的特製拉麵很受歡迎。  <br>
+**Yes, our special ramen is very popular.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**顧客:** 太好了，我們會考慮的。  <br>
+(taihen arigatou gozaimasu, kangaemasu.)  <br>
+太好了，我們會考慮的。  <br>
+**Great, we'll consider it.**  <br>
+</div>  
+
 ### 重點句型
 - いらっしゃいませ。(irasshaimase) - 歡迎光臨
 - 何名様ですか？(nanmei sama desu ka?) - 請問幾位？
@@ -123,6 +145,28 @@ tags: [日語, Japanese, 日語對話]
 (sarada, poteto, raisu kara o-erabi itadakemasu.)  <br>
 可以選擇沙拉、馬鈴薯或白飯。  <br>
 **You can choose from salad, potatoes, or rice.**  <br>
+</div>  
+
+
+<div style="text-align: right">  
+**顧客:** 這些配菜有什麼特別之處嗎？  <br>
+(kono saido disshu wa nani ka tokubetsu na tokoro ga arimasu ka?)  <br>
+這些配菜有什麼特別之處嗎？  <br>
+**Is there anything special about these side dishes?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**店員:** サラダは自家製ドレッシングを使用しています。  <br>
+(sarada wa jikasei doresshingu o shiyou shiteimasu.)  <br>
+沙拉使用的是自家製的醬料。  <br>
+**The salad uses homemade dressing.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**顧客:** 太好了，我會選擇沙拉。  <br>
+(taihen arigatou gozaimasu, sarada o erabimasu.)  <br>
+太好了，我會選擇沙拉。  <br>
+**Great, I'll choose the salad.**  <br>
 </div>  
 
 ### 重點句型
@@ -180,6 +224,28 @@ tags: [日語, Japanese, 日語對話]
 **Yes, please.**  <br>
 </div>  
 
+
+<div style="text-align: right">  
+**顧客:** 這裡的啤酒是什麼品牌的？  <br>
+(koko no biiru wa nani no burando desu ka?)  <br>
+這裡的啤酒是什麼品牌的？  <br>
+**What brand of beer do you serve here?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**店員:** キリンビールを提供しています。  <br>
+(kirin biiru o teikyou shiteimasu.)  <br>
+我們提供麒麟啤酒。  <br>
+**We serve Kirin beer.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**顧客:** 太好了，我很喜歡這個品牌。  <br>
+(taihen arigatou gozaimasu, kono burando ga daisuki desu.)  <br>
+太好了，我很喜歡這個品牌。  <br>
+**Great, I love this brand.**  <br>
+</div>  
+
 ### 重點句型
 - すみません。(sumimasen) - 不好意思
 - ～をください。(~o kudasai) - 請給我...
@@ -233,6 +299,28 @@ tags: [日語, Japanese, 日語對話]
 (o-tsuri wa sen gohyaku en desu.)  <br>
 找您1,500日圓。  <br>
 **Here's your change of 1,500 yen.**  <br>
+</div>  
+
+
+<div style="text-align: right">  
+**顧客:** 這裡可以使用電子支付嗎？  <br>
+(koko de wa denshi shiharai ga tsukaemasu ka?)  <br>
+這裡可以使用電子支付嗎？  <br>
+**Can I use electronic payment here?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**店員:** はい、PayPayとLINE Payが使えます。  <br>
+(hai, peipei to lain pei ga tsukaemasu.)  <br>
+是的，可以使用PayPay和LINE Pay。  <br>
+**Yes, we accept PayPay and LINE Pay.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**顧客:** 太好了，謝謝！  <br>
+(taihen arigatou gozaimasu!)  <br>
+太好了，謝謝！  <br>
+**Great, thank you!**  <br>
 </div>  
 
 ### 重點句型
@@ -290,6 +378,28 @@ tags: [日語, Japanese, 日語對話]
 **Goodbye.**  <br>
 </div>  
 
+
+<div style="text-align: right">  
+**顧客:** 下次我會帶朋友來。  <br>
+(jikai wa tomodachi o tsurete kimasu.)  <br>
+下次我會帶朋友來。  <br>
+**Next time, I'll bring my friends.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**店員:** ありがとうございます。お待ちしております。  <br>
+(arigatou gozaimasu. omachi shite orimasu.)  <br>
+謝謝。我們會期待您的光臨。  <br>
+**Thank you. We look forward to it.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**顧客:** 再見！  <br>
+(saiken!)  <br>
+再見！  <br>
+**Goodbye!**  <br>
+</div>  
+
 ### 重點句型
 - ごちそうさまでした。(gochisou sama deshita) - 謝謝招待
 - またのお越しをお待ちしております。(mata no o-koshi o o-machi shite orimasu) - 期待您再次光臨
@@ -306,36 +416,12 @@ tags: [日語, Japanese, 日語對話]
 
 ## 文化小知識
 
-在日本餐廳用餐時，有一些重要的禮儀和習慣需要注意：
+在日本的餐廳用餐，不僅僅是享受美食，更是一種文化的體驗。當您走進餐廳時，說「いただきます」是一種對食物的感謝，這樣的開場讓人感受到您的敬意。離開時，說「ごちそうさまでした」是對廚師的感謝，這樣的習慣讓人感受到日本的禮貌。
 
-1. 用餐禮儀
-   - 進餐廳前要說「いただきます」
-   - 離開時要說「ごちそうさまでした」
-   - 不要大聲喧嘩
-   - 不要浪費食物
+點餐時，您可以請服務生推薦，這不僅僅是為了選擇美味的食物，也是對服務生專業的信任。詢問食材和做法是對食物的尊重，這樣的互動讓人感受到日本的細膩。要求調整口味是對個人喜好的表達，這樣的選擇讓人感受到日本的靈活性。
 
-2. 點餐習慣
-   - 可以請服務生推薦
-   - 可以詢問食材和做法
-   - 可以要求調整口味
-   - 可以要求分食
+在付款方面，現金和信用卡的通用讓人感受到日本的現代化。有些餐廳只收現金，這樣的安排讓人感受到日本的傳統。小費文化的缺乏讓人感受到日本的純粹。分開結帳的選擇讓人感受到日本的便利。
 
-3. 付款方式
-   - 現金和信用卡都通用
-   - 有些餐廳只收現金
-   - 小費文化不存在
-   - 可以要求分開結帳
+服務態度的親切讓人感受到日本的溫暖，服務生的客氣讓人感受到日本的禮貌。隨時呼叫服務生是對服務的信任，這樣的互動讓人感受到日本的貼心。要求更換座位是對個人舒適的追求，這樣的選擇讓人感受到日本的靈活性。
 
-4. 服務態度
-   - 服務生會很客氣
-   - 可以隨時呼叫服務生
-   - 可以要求更換座位
-   - 可以要求打包剩菜
-
-5. 用餐時間
-   - 午餐時間較短
-   - 晚餐時間較長
-   - 可以慢慢享用
-   - 可以聊天談話
-
---- 
+用餐時間的安排讓人感受到日本的效率，午餐時間的短暫讓人感受到日本的忙碌。晚餐時間的悠長讓人感受到日本的悠閒。慢慢享用的自由讓人感受到日本的放鬆。聊天談話的氛圍讓人感受到日本的溫馨。 

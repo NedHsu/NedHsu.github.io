@@ -78,7 +78,6 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 **Yes, there's a large convenience store. It's right next to it.**  <br>
 </div>  
 
-// Adding more details to the conversation
 
 <div style="text-align: left">  
 **観光客:** 便利商店的名字是什麼？  <br>
@@ -163,7 +162,6 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 **It's the third stop.**  <br>
 </div>  
 
-// Adding more details to the conversation
 
 <div style="text-align: left">  
 **観光客:** 這班電車有空調嗎？  <br>
@@ -248,7 +246,6 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 **I'm sorry, but cash only.**  <br>
 </div>  
 
-// Adding more details to the conversation
 
 <div style="text-align: left">  
 **観光客:** 那麼，附近有ATM嗎？  <br>
@@ -333,7 +330,6 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 **About 7 minutes from Shinjuku to Shibuya.**  <br>
 </div>  
 
-// Adding more details to the conversation
 
 <div style="text-align: left">  
 **観光客:** 這條路線擁擠嗎？  <br>
@@ -418,7 +414,6 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 **Yes, that's fine.**  <br>
 </div>  
 
-// Adding more details to the conversation
 
 <div style="text-align: left">  
 **観光客:** 這條路線擁擠嗎？  <br>

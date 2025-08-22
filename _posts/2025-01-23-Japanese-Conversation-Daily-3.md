@@ -76,6 +76,28 @@ tags: [日語, Japanese, 日語對話]
 **Yes, please show your residence card as well.**  <br>
 </div>  
 
+
+<div style="text-align: right">  
+**顧客:** この小包を台湾まで送りたいです。  <br>
+(kono kozutsumi o taiwan made okuritai desu.)  <br>
+我想把這個包裹寄到台灣。  <br>
+**I'd like to send this package to Taiwan.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**銀行員:** はい、少々お待ちください。  <br>
+(hai, shoushou omachi kudasai.)  <br>
+好的，請稍等。  <br>
+**Yes, please wait a moment.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**顧客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
+</div>  
+
 ### 重點句型
 - ご用件は何でしょうか？(go-youken wa nan deshou ka?) - 請問有什麼可以幫您的嗎？
 - ～を開設したいのですが。(~o kaisetsu shitai no desu ga) - 我想開設...
@@ -131,6 +153,28 @@ tags: [日語, Japanese, 日語對話]
 (kashikomarimashita. tsuiseki bangou o o-shirase shimasu.)  <br>
 好的，我會給您追蹤號碼。  <br>
 **I understand. I'll provide you with a tracking number.**  <br>
+</div>  
+
+
+<div style="text-align: right">  
+**顧客:** 需要多久才能到達？  <br>
+(dono kurai de todokimasu ka?)  <br>
+需要多久才能到達？  <br>
+**How long will it take to arrive?**  <br>
+</div>  
+
+<div style="text-align: left">  
+**郵便局員:** 約3日間です。  <br>
+(yaku mikka kan desu.)  <br>
+大約3天。  <br>
+**About 3 days.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**顧客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
 </div>  
 
 ### 重點句型
@@ -190,6 +234,28 @@ tags: [日語, Japanese, 日語對話]
 **Yes, that's possible. The cut and color will take about 2 hours.**  <br>
 </div>  
 
+
+<div style="text-align: right">  
+**顧客:** 太好了，謝謝！  <br>
+(taihen arigatou gozaimasu!)  <br>
+太好了，謝謝！  <br>
+**Great, thank you!**  <br>
+</div>  
+
+<div style="text-align: left">  
+**受付:** どういたしまして。  <br>
+(dou itashimashite.)  <br>
+不客氣。  <br>
+**You're welcome.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**顧客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
+</div>  
+
 ### 重點句型
 - ～の予約をお願いしたいのですが。(~no yoyaku o onegai shitai no desu ga) - 我想預約...
 - お名前をお願いします。(o-namae o onegai shimasu) - 請告訴我您的姓名
@@ -245,6 +311,28 @@ tags: [日語, Japanese, 日語對話]
 (kono moderu wa yon kei douga satsuei ga kanou de, yakei mo kirei ni toremasu.)  <br>
 這款可以拍攝4K影片，夜景也能拍得很漂亮。  <br>
 **This model can shoot 4K video and takes beautiful night photos.**  <br>
+</div>  
+
+
+<div style="text-align: right">  
+**顧客:** 聽起來不錯，我會考慮的。  <br>
+(kangaete mimasu.)  <br>
+聽起來不錯，我會考慮的。  <br>
+**Sounds good, I'll think about it.**  <br>
+</div>  
+
+<div style="text-align: left">  
+**店員:** どうぞごゆっくりご覧ください。  <br>
+(douzo go-yukkuri goran kudasai.)  <br>
+請慢慢看。  <br>
+**Please take your time.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**顧客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
 </div>  
 
 ### 重點句型
@@ -304,6 +392,28 @@ tags: [日語, Japanese, 日語對話]
 **It will take about 30 minutes to arrive.**  <br>
 </div>  
 
+
+<div style="text-align: right">  
+**乗客:** 太好了，謝謝！  <br>
+(taihen arigatou gozaimasu!)  <br>
+太好了，謝謝！  <br>
+**Great, thank you!**  <br>
+</div>  
+
+<div style="text-align: left">  
+**運転手:** どういたしまして。  <br>
+(dou itashimashite.)  <br>
+不客氣。  <br>
+**You're welcome.**  <br>
+</div>  
+
+<div style="text-align: right">  
+**乗客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
+</div>  
+
 ### 重點句型
 - どちらまででしょうか？(dochira made deshou ka?) - 請問您要去哪裡？
 - ～までお願いします。(~made onegai shimasu) - 請載我到...
@@ -317,3 +427,15 @@ tags: [日語, Japanese, 日語對話]
 - 到着 (touchaku) - 到達
 
 --- 
+
+## 文化小知識
+
+在日本，銀行業務通常需要出示護照和居留卡，這不僅是為了安全，也是對客戶身份的確認。開戶過程中，銀行員會耐心地指導您填寫表格，這樣的服務讓人感受到日本的細緻和周到。
+
+在郵局寄包裹時，您會發現郵便局員總是面帶微笑，這樣的服務讓人感受到日本的友善。選擇航空郵件可以更快地將包裹送達目的地，這樣的選擇讓人感受到日本的效率。
+
+在美容院預約時，清楚地告知您的需求是非常重要的，這樣的溝通讓人感受到日本的專業。美容院通常會根據您的需求安排合適的服務，這樣的安排讓人感受到日本的周到。
+
+在電器行購買商品時，店員會詳細介紹產品的功能和特點，這樣的服務讓人感受到日本的專業。購買前，了解產品的保固政策是非常重要的，這樣的細節讓人感受到日本的嚴謹。
+
+搭乘計程車時，司機會禮貌地詢問您的目的地，這樣的開場讓人感受到日本的友善。選擇高速公路可以更快地到達目的地，這樣的選擇讓人感受到日本的效率。 
