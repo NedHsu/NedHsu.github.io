@@ -32,7 +32,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 
 ## 情境 1: 購票入場
 
-![購票](https://images.pexels.com/photos/8261829/pexels-photo-8261829.jpeg?auto=compress&cs=tinysrgb&h=350)
+![購票](/assets/img/jp/購票入場.webp)
 
 <div style="text-align: left">  
 **顧客:** 常設展と特別展のチケットをお願いします。  <br>
@@ -116,7 +116,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 
 ## 情境 2: 展覽導覽
 
-![導覽](https://images.pexels.com/photos/7648028/pexels-photo-7648028.jpeg?auto=compress&cs=tinysrgb&h=350)
+![導覽](/assets/img/jp/展覽導覽.webp)
 
 <div style="text-align: left">  
 **顧客:** 音声ガイドはありますか？  <br>
@@ -201,7 +201,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 
 ## 情境 3: 拍照規定
 
-![拍照](https://images.pexels.com/photos/31553791/pexels-photo-31553791.jpeg?auto=compress&cs=tinysrgb&h=350)
+![拍照](/assets/img/jp/博物館拍照規定.webp)
 
 <div style="text-align: left">  
 **顧客:** 写真撮影は可能ですか？  <br>
@@ -287,7 +287,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 
 ## 情境 4: 紀念品購買
 
-![紀念品](https://images.pexels.com/photos/20498957/pexels-photo-20498957.jpeg?auto=compress&cs=tinysrgb&h=350)
+![紀念品](/assets/img/jp/紀念品購買.webp)
 
 <div style="text-align: left">  
 **顧客:** この作品のポストカードはありますか？  <br>
@@ -373,8 +373,6 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 ---
 
 ## 情境 5: 設施使用
-
-![設施](https://images.pexels.com/photos/21620915/pexels-photo-21620915.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
 **顧客:** コインロッカーはどこにありますか？  <br>

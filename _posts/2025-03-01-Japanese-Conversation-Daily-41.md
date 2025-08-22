@@ -32,7 +32,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 
 ## 情境 1: 借書還書
 
-![借書](https://images.pexels.com/photos/18620050/pexels-photo-18620050.jpeg?auto=compress&cs=tinysrgb&h=350)
+![借書](/assets/img/jp/借書還書.webp)
 
 <div style="text-align: left">  
 **顧客:** この本を借りたいのですが。  <br>
@@ -115,7 +115,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 
 ## 情境 2: 查詢書籍
 
-![查詢](https://images.pexels.com/photos/4855351/pexels-photo-4855351.jpeg?auto=compress&cs=tinysrgb&h=350)
+![查詢](/assets/img/jp/查詢書籍.webp)
 
 <div style="text-align: left">  
 **顧客:** この本はありますか？  <br>
@@ -198,7 +198,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 
 ## 情境 3: 購買書籍
 
-![購買](https://images.pexels.com/photos/4498118/pexels-photo-4498118.jpeg?auto=compress&cs=tinysrgb&h=350)
+![購買](/assets/img/jp/購買書籍.webp)
 
 <div style="text-align: left">  
 **顧客:** この本を買いたいのですが。  <br>
@@ -281,7 +281,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 
 ## 情境 4: 會員服務
 
-![會員](https://images.pexels.com/photos/29700670/pexels-photo-29700670.jpeg?auto=compress&cs=tinysrgb&h=350)
+![會員](/assets/img/jp/會員服務.webp)
 
 <div style="text-align: left">  
 **顧客:** 会員カードを作りたいのですが。  <br>
@@ -365,7 +365,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 
 ## 情境 5: 設施使用
 
-![設施](https://images.pexels.com/photos/5352536/pexels-photo-5352536.jpeg?auto=compress&cs=tinysrgb&h=350)
+![設施](/assets/img/jp/圖書館設施使用.webp)
 
 <div style="text-align: left">  
 **顧客:** 閲覧室はどこにありますか？  <br>
