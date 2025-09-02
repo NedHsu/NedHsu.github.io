@@ -359,7 +359,7 @@ tags: [日語, Japanese, 日語對話]
 **Thank you. Your room is 1205.**  <br>
 </div>  
 
-// Adding more details to the conversation
+<br>  
 
 <div style="text-align: right">  
 **顧客:** チェックアウトは何時ですか？  <br>
@@ -367,6 +367,8 @@ tags: [日語, Japanese, 日語對話]
 請問退房時間是幾點？  <br>
 **What time is check-out?**  <br>
 </div>  
+
+<br>  
 
 <div style="text-align: left">  
 **店員:** 11時まででございます。  <br>
