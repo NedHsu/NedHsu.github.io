@@ -1,0 +1,326 @@
+---
+title: 日語學校與教育 - 學校生活、學習用語
+date: 2025-04-13 19:00:00 +0800
+categories: [Language, Japanese]
+tags: [日語, Japanese, 學校, School, 教育, Education]
+excerpt: 學習日語中學校與教育相關的表達方式，包括學校設施、課堂活動、學習用語、課外活動與校園對話。每個表達都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
+---
+
+## 課程預覽
+
+今天我們將學習日語中學校與教育相關的表達方式：
+1. 學校設施
+2. 課堂活動
+3. 學習用語
+4. 課外活動
+5. 校園對話
+
+每個表達都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
+
+## 學習小提醒
+
+今天的學校與教育表達與留學、校園生活密切相關，建議您：
+- 熟悉常見校園設施與職稱
+- 掌握課堂常用請求與回應句型
+- 練習作業、考試、成績相關表達
+- 了解日本社團文化與校規
+- 使用實戰對話加強應用
+
+---
+
+## 情境 1: 學校設施
+
+![學校設施](https://images.unsplash.com/photo-1529148482759-b35b25c5f217?w=800&h=400&fit=crop&crop=center)
+<!-- Image Prompt: Japanese school campus with classrooms, library, gym, staff office, clean corridors, neat desks, and signage in Japanese, bright daylight -->
+
+### 校園空間
+
+<div style="text-align: left">
+**学校** (gakkou) - 學校  <br>
+**School**  <br>
+例：学校へ行きます。(gakkou e ikimasu) - 去學校。  <br>
+</div>
+
+<div style="text-align: left">
+**教室** (kyoushitsu) - 教室  <br>
+**Classroom**  <br>
+例：教室で勉強します。(kyoushitsu de benkyou shimasu) - 在教室學習。  <br>
+</div>
+
+<div style="text-align: left">
+**図書室/図書館** (toshoshitsu/toshokan) - 圖書室/圖書館  <br>
+**Library**  <br>
+例：図書館で本を借ります。(toshokan de hon wo karimasu) - 在圖書館借書。  <br>
+</div>
+
+<div style="text-align: left">
+**職員室** (shokuinshitsu) - 教職員辦公室  <br>
+**Staff room**  <br>
+例：職員室に行きます。(shokuinshitsu ni ikimasu) - 去職員室。  <br>
+</div>
+
+<div style="text-align: left">
+**体育館** (taiikukan) - 體育館  <br>
+**Gym**  <br>
+例：体育館で運動します。(taiikukan de undou shimasu) - 在體育館運動。  <br>
+</div>
+
+<div style="text-align: left">
+**校長室** (kouchoushitsu) - 校長室  <br>
+**Principal's office**  <br>
+例：校長室に呼ばれました。(kouchoushitsu ni yobaremashita) - 被叫到校長室。  <br>
+</div>
+
+### 校園人員
+
+<div style="text-align: left">
+**先生** (sensei) - 老師  <br>
+**Teacher**  <br>
+例：先生に質問します。(sensei ni shitsumon shimasu) - 向老師提問。  <br>
+</div>
+
+<div style="text-align: left">
+**生徒/学生** (seito/gakusei) - 學生  <br>
+**Student**  <br>
+例：学生です。(gakusei desu) - 我是學生。  <br>
+</div>
+
+<div style="text-align: left">
+**先輩/後輩** (senpai/kouhai) - 學長姐/學弟妹  <br>
+**Senior/Junior**  <br>
+例：先輩に相談します。(senpai ni soudan shimasu) - 向學長姐請教。  <br>
+</div>
+
+### 重點句型
+- ～に行きます。- 去...
+- ～で勉強します。- 在...學習。
+- ～に質問します。- 向...提問。
+
+### 相關單字
+- 校則 (kousoku) - 校規
+- 出席 (shusseki) - 出席
+- 欠席 (kesseki) - 缺席
+- 時間割 (jikanwari) - 課表
+
+---
+
+## 情境 2: 課堂活動
+
+![課堂活動](https://images.unsplash.com/photo-1509062522246-3755977927d7?w=800&h=400&fit=crop&crop=center)
+<!-- Image Prompt: Classroom scenes with teacher explaining, students raising hands, taking notes, group work, clean Japanese classroom environment -->
+
+### 課堂常用
+
+<div style="text-align: left">
+**授業** (jugyou) - 上課  <br>
+**Class/Lesson**  <br>
+例：授業を始めます。(jugyou wo hajimemasu) - 要上課了。  <br>
+</div>
+
+<div style="text-align: left">
+**発表** (happyou) - 發表  <br>
+**Presentation**  <br>
+例：明日、発表します。(ashita, happyou shimasu) - 明天要發表。  <br>
+</div>
+
+<div style="text-align: left">
+**宿題** (shukudai) - 作業  <br>
+**Homework**  <br>
+例：宿題を提出します。(shukudai wo teishutsu shimasu) - 繳交作業。  <br>
+</div>
+
+<div style="text-align: left">
+**試験/テスト** (shiken/tesuto) - 考試  <br>
+**Exam/Test**  <br>
+例：来週、試験があります。(raishuu, shiken ga arimasu) - 下週有考試。  <br>
+</div>
+
+### 請求與回應
+
+<div style="text-align: left">
+**もう一度お願いします。** (mou ichido onegai shimasu) - 請再說一次。  <br>
+**One more time, please.**  <br>
+</div>
+
+<div style="text-align: left">
+**ゆっくり話してください。** (yukkuri hanashite kudasai) - 請慢慢說。  <br>
+**Please speak slowly.**  <br>
+</div>
+
+<div style="text-align: left">
+**質問があります。** (shitsumon ga arimasu) - 我有問題。  <br>
+**I have a question.**  <br>
+</div>
+
+### 重點句型
+- ～を提出します。- 繳交...
+- ～があります。- 有...
+- ～してください。- 請...
+
+### 相關單字
+- 参考書 (sankousho) - 參考書
+- ノート (nooto) - 筆記本
+- 黒板 (kokuban) - 黑板
+- 出席番号 (shusseki bangou) - 座號
+
+---
+
+## 情境 3: 學習用語
+
+![學習用語](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&h=400&fit=crop&crop=center)
+<!-- Image Prompt: Study materials and tools — textbooks, notebooks, pens, laptop, dictionary, kanji practice sheets, quiet study space -->
+
+### 學習動作
+
+<div style="text-align: left">
+**勉強する** (benkyou suru) - 學習  <br>
+**Study**  <br>
+例：毎日勉強します。(mainichi benkyou shimasu) - 我每天學習。  <br>
+</div>
+
+<div style="text-align: left">
+**覚える** (oboeru) - 記住  <br>
+**Memorize**  <br>
+例：単語を覚えます。(tango wo oboemasu) - 記住單字。  <br>
+</div>
+
+<div style="text-align: left">
+**練習する** (renshuu suru) - 練習  <br>
+**Practice**  <br>
+例：文法を練習します。(bunpou wo renshuu shimasu) - 練習文法。  <br>
+</div>
+
+<div style="text-align: left">
+**復習する** (fukushuu suru) - 複習  <br>
+**Review**  <br>
+例：復習をしています。(fukushuu wo shite imasu) - 正在複習。  <br>
+</div>
+
+### 成績評量
+
+<div style="text-align: left">
+**点数/成績** (tensuu/seiseki) - 分數/成績  <br>
+**Score/Grade**  <br>
+例：成績が上がりました。(seiseki ga agarimashita) - 成績變好了。  <br>
+</div>
+
+<div style="text-align: left">
+**合格/不合格** (goukaku/fugoukaku) - 合格/不合格  <br>
+**Pass/Fail**  <br>
+例：試験に合格しました。(shiken ni goukaku shimashita) - 通過考試。  <br>
+</div>
+
+<div style="text-align: left">
+**評価** (hyouka) - 評價  <br>
+**Evaluation**  <br>
+例：先生の評価です。(sensei no hyouka desu) - 老師的評價。  <br>
+</div>
+
+### 重點句型
+- ～を練習します。- 練習...
+- ～に合格しました。- 通過...
+- ～が上がりました。- 變好/上升了。
+
+### 相關單字
+- 課題 (kadai) - 課題/作業
+- 単語帳 (tango chou) - 單字本
+- 問題集 (mondai shuu) - 題庫
+- 模擬試験 (mogi shiken) - 模擬考
+
+---
+
+## 情境 4: 課外活動
+
+![課外活動](https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800&h=400&fit=crop&crop=center)
+<!-- Image Prompt: Japanese school club activities — sports clubs, culture clubs (tea ceremony, calligraphy, music), after-school practice, club rooms -->
+
+### 社團類型
+
+<div style="text-align: left">
+**部活/クラブ** (bukatsu/kurabu) - 社團  <br>
+**Club activity**  <br>
+例：クラブに入ります。(kurabu ni hairimasu) - 加入社團。  <br>
+</div>
+
+<div style="text-align: left">
+**運動部** (undoubu) - 體育性社團  <br>
+**Sports club**  <br>
+例：運動部で練習します。(undoubu de renshuu shimasu) - 在運動社練習。  <br>
+</div>
+
+<div style="text-align: left">
+**文化部** (bunkabu) - 文化性社團  <br>
+**Cultural club**  <br>
+例：文化部の活動です。(bunkabu no katsudou desu) - 文化性社團活動。  <br>
+</div>
+
+### 活動與賽事
+
+<div style="text-align: left">
+**大会** (taikai) - 大會  <br>
+**Tournament**  <br>
+例：大会に出ます。(taikai ni demasu) - 參加大會。  <br>
+</div>
+
+<div style="text-align: left">
+**練習試合** (renshuu jiai) - 練習賽  <br>
+**Practice match**  <br>
+例：練習試合をします。(renshuu jiai wo shimasu) - 打練習賽。  <br>
+</div>
+
+<div style="text-align: left">
+**文化祭** (bunkasai) - 文化祭  <br>
+**School festival**  <br>
+例：文化祭を楽しみます。(bunkasai wo tanoshimimasu) - 享受文化祭。  <br>
+</div>
+
+### 重點句型
+- ～に入ります。- 加入...
+- ～で練習します。- 在...練習。
+- ～に出ます。- 參加...
+
+### 相關單字
+- 顧問 (komon) - 指導老師
+- 会費 (kaihi) - 會費
+- 名簿 (meibo) - 名冊
+- 募集 (boshuu) - 招募
+
+---
+
+## 情境 5: 校園對話
+
+![校園對話](https://images.unsplash.com/photo-1519452575417-564c1401ecc0?w=800&h=400&fit=crop&crop=center)
+<!-- Image Prompt: Students and teachers talking politely in school corridors, asking questions, giving instructions, friendly atmosphere -->
+
+### 常用對話
+
+<div style="text-align: left">
+遅れてすみません。(okurete sumimasen) - 抱歉我遲到了。  <br>
+出席を取ります。(shusseki wo torimasu) - 現在點名。  <br>
+配布資料を見てください。(haifu shiryou wo mite kudasai) - 請看講義。  <br>
+</div>
+
+<div style="text-align: left">
+課題はいつまでですか？(kadai wa itsu made desu ka?) - 作業截止到什麼時候？  <br>
+手伝ってもらえますか？(tetsudatte moraemasu ka?) - 可以幫我嗎？  <br>
+お先に失礼します。(osaki ni shitsurei shimasu) - 我先告辭了。  <br>
+</div>
+
+### 重點句型
+- ～を取ります。- 進行...
+- ～を見てください。- 請看...
+- ～てもいいですか？- 可以...嗎？
+
+### 相關單字
+- 連絡 (renraku) - 聯絡
+- 提出 (teishutsu) - 提交
+- 指示 (shiji) - 指示
+- 注意 (chuui) - 注意
+
+---
+
+## 文化小知識
+
+日本校園文化重視禮儀與團隊協作。上課開始前起立問好、打掃值日、尊敬先輩文化、社團活動扎實，是學校生活的日常。課堂中講求傾聽與秩序，提問與請求多用禮貌表達。理解這些文化細節，有助於更快融入校園環境並建立良好的人際互動。
+
+
