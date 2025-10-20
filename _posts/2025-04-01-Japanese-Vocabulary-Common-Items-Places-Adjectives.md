@@ -32,8 +32,7 @@ excerpt: 學習日常生活中常見的日語詞彙，包括物品、地點和�
 
 ## 情境 1: 常見物品
 
-![日常物品](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Modern Japanese home interior with various household items like TV, refrigerator, washing machine, air conditioner, smartphone, computer, camera, books, pens, and notebooks arranged neatly on clean surfaces, soft natural lighting, minimalist style -->
+![日常物品](/assets/img/jp/日常物品.webp)
 
 ### 家庭用品
 
@@ -116,8 +115,7 @@ excerpt: 學習日常生活中常見的日語詞彙，包括物品、地點和�
 
 ## 情境 2: 重要地點
 
-![重要地點](https://images.unsplash.com/photo-1541746972996-4e0b0f93e586?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese cityscape showing various important locations like school, hospital, bank, post office, department store, supermarket, convenience store, restaurant, movie theater, park, and library, urban architecture with Japanese elements, clear signage, bustling but organized street scene -->
+![重要地點](/assets/img/jp/重要地點.webp)
 
 ### 公共場所
 
@@ -206,10 +204,9 @@ excerpt: 學習日常生活中常見的日語詞彙，包括物品、地點和�
 
 ## 情境 3: 基本形容詞
 
-![形容詞](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Visual representation of Japanese adjectives showing size comparisons (big/small objects), temperature indicators (hot/cold items), and quality descriptors (beautiful/clean vs dirty/new items), colorful and clear illustrations with Japanese text labels, educational style -->
-
 ### 大小形容詞
+
+![大小形容詞](/assets/img/jp/基本形容詞-大小.webp)
 
 <div style="text-align: left">  
 **大きい** (ookii) - 大的  <br>
@@ -237,6 +234,8 @@ excerpt: 學習日常生活中常見的日語詞彙，包括物品、地點和�
 
 ### 溫度形容詞
 
+![大小形容詞](/assets/img/jp/基本形容詞-溫度.webp)
+
 <div style="text-align: left">  
 **熱い** (atsui) - 熱的  <br>
 **Hot**  <br>
@@ -262,6 +261,8 @@ excerpt: 學習日常生活中常見的日語詞彙，包括物品、地點和�
 </div>  
 
 ### 感覺形容詞
+
+![大小形容詞](/assets/img/jp/基本形容詞-感覺.webp)
 
 <div style="text-align: left">  
 **美味しい** (oishii) - 美味的  <br>
@@ -302,8 +303,7 @@ excerpt: 學習日常生活中常見的日語詞彙，包括物品、地點和�
 
 ## 情境 4: 顏色與形狀
 
-![顏色形狀](https://images.unsplash.com/photo-1557683316-973673baf926?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Colorful geometric shapes and objects demonstrating Japanese color vocabulary (red, blue, yellow, green, black, white) and basic shapes (round, square, triangular, thin), clean background, educational chart style with Japanese text labels -->
+![顏色形狀](/assets/img/jp/顏色與形狀.webp)
 
 ### 基本顏色
 
@@ -384,8 +384,7 @@ excerpt: 學習日常生活中常見的日語詞彙，包括物品、地點和�
 
 ## 情境 5: 大小與數量
 
-![大小數量](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Visual representation of Japanese counting and quantity concepts showing groups of objects (one, two, three, many), size comparisons, and degree indicators (very, a little, completely, quite), clean minimalist design with Japanese numerals and text -->
+![大小數量](/assets/img/jp/大小與數量.webp)
 
 ### 數量詞
 
