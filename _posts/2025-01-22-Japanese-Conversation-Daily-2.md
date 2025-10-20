@@ -33,6 +33,7 @@ tags: [日語, Japanese, 日語對話]
 ![在服飾店購物](https://images.pexels.com/photos/32146231/pexels-photo-32146231.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **店員:** いらっしゃいませ。何かお探しですか？  <br>
 (irasshaimase. nanika o-sagashi desu ka?)  <br>
 歡迎光臨。請問您在找什麼？  <br>
@@ -42,6 +43,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **顧客:** このシャツのサイズを確認したいです。  <br>
 (kono shatsu no saizu o kakunin shitai desu.)  <br>
 我想確認這件襯衫的尺寸。  <br>
@@ -49,6 +51,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **店員:** はい、サイズはこちらに表示されています。  <br>
 (hai, saizu wa kochira ni hyouji sarete imasu.)  <br>
 好的，尺寸標示在這裡。  <br>
@@ -56,6 +59,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** 試着室はどこですか？  <br>
 (shichakushitsu wa doko desu ka?)  <br>
 試衣間在哪裡？  <br>
@@ -63,6 +67,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **店員:** 奥の右側にございます。  <br>
 (oku no migigawa ni gozaimasu.)  <br>
 在裡面右側。  <br>
@@ -72,6 +77,7 @@ tags: [日語, Japanese, 日語對話]
 // Adding more details to the conversation
 
 <div style="text-align: right">  
+
 **顧客:** 謝謝，我會去試穿。  <br>
 (arigatou, shichaku shimasu.)  <br>
 謝謝，我會去試穿。  <br>
@@ -79,6 +85,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **店員:** どうぞごゆっくり。  <br>
 (douzo go-yukkuri.)  <br>
 請慢慢來。  <br>
@@ -86,6 +93,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝。  <br>
@@ -112,6 +120,7 @@ tags: [日語, Japanese, 日語對話]
 ![預約餐廳](https://images.pexels.com/photos/30604824/pexels-photo-30604824.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **A:** もしもし、レストラン「さくら」でございます。  <br>
 (moshimoshi, resutoran "sakura" de gozaimasu.)  <br>
 您好，這裡是櫻花餐廳。  <br>
@@ -121,6 +130,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **B:** 今晩7時、4名様で予約をお願いしたいのですが。  <br>
 (konban shichiji, yonmeisama de yoyaku o onegai shitai no desu ga.)  <br>
 我想預約今晚7點，4位。  <br>
@@ -130,6 +140,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: left">  
+
 **A:** かしこまりました。お名前をお願いします。  <br>
 (kashikomarimashita. o-namae o onegai shimasu.)  <br>
 好的，請告訴我您的姓名。  <br>
@@ -139,6 +150,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **B:** 田中と申します。  <br>
 (tanaka to moushimasu.)  <br>
 我姓田中。  <br>
@@ -148,6 +160,7 @@ tags: [日語, Japanese, 日語對話]
 // Adding more details to the conversation
 
 <div style="text-align: left">  
+
 **A:** ありがとうございます。ご予約をお待ちしております。  <br>
 (arigatou gozaimasu. go-yoyaku o omachi shite orimasu.)  <br>
 謝謝。我們期待您的光臨。  <br>
@@ -155,6 +168,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **B:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝。  <br>
@@ -180,6 +194,7 @@ tags: [日語, Japanese, 日語對話]
 ![談論天氣](https://images.pexels.com/photos/15113966/pexels-photo-15113966.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **A:** 今日はいい天氣ですね。  <br>
 (kyou wa ii tenki desu ne.)  <br>
 今天天氣真好啊。  <br>
@@ -189,6 +204,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **B:** はい、本当に気持ちがいいですね。  <br>
 (hai, hontou ni kimochi ga ii desu ne.)  <br>
 是啊，真的很舒服呢。  <br>
@@ -198,6 +214,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: left">  
+
 **A:** 週末は雨が降るそうですよ。  <br>
 (shuumatsu wa ame ga furu sou desu yo.)  <br>
 聽說週末會下雨呢。  <br>
@@ -207,6 +224,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **B:** そうですか。傘を持っていった方がいいですね。  <br>
 (sou desu ka. kasa o motte itta hou ga ii desu ne.)  <br>
 是嗎？那最好帶把傘呢。  <br>
@@ -216,6 +234,7 @@ tags: [日語, Japanese, 日語對話]
 // Adding more details to the conversation
 
 <div style="text-align: left">  
+
 **A:** そうですね。雨の日は気をつけてください。  <br>
 (sou desu ne. ame no hi wa ki o tsukete kudasai.)  <br>
 是啊。下雨天請小心。  <br>
@@ -223,6 +242,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **B:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝。  <br>
@@ -248,6 +268,7 @@ tags: [日語, Japanese, 日語對話]
 ![在醫院看診](https://images.pexels.com/photos/32160038/pexels-photo-32160038.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **A:** おはようございます。どうされましたか？  <br>
 (ohayou gozaimasu. dou saremasu ka?)  <br>
 早安。請問您怎麼了？  <br>
@@ -257,6 +278,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **B:** 昨日から熱があって、のどが痛いです。  <br>
 (kinou kara netsu ga atte, nodo ga itai desu.)  <br>
 從昨天開始發燒，喉嚨很痛。  <br>
@@ -266,6 +288,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: left">  
+
 **A:** はい、承知しました。体温を測りましょう。  <br>
 (hai, shouchi shimashita. taion o hakari mashou.)  <br>
 好的，我明白了。讓我們來量體溫。  <br>
@@ -275,6 +298,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **B:** はい、お願いします。  <br>
 (hai, onegai shimasu.)  <br>
 好的，麻煩您了。  <br>
@@ -284,6 +308,7 @@ tags: [日語, Japanese, 日語對話]
 // Adding more details to the conversation
 
 <div style="text-align: left">  
+
 **A:** 体温は37.5度です。薬を処方しますね。  <br>
 (taion wa sanjuu-nana ten go do desu. kusuri o shohou shimasu ne.)  <br>
 體溫是37.5度。我會開藥給您。  <br>
@@ -291,6 +316,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **B:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝。  <br>
@@ -317,6 +343,7 @@ tags: [日語, Japanese, 日語對話]
 ![飯店辦理入住](https://images.pexels.com/photos/32118818/pexels-photo-32118818.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **店員:** いらっしゃいませ。チェックインでございますか？  <br>
 (irasshaimase. chekku-in de gozaimasu ka?)  <br>
 歡迎光臨。是要辦理入住嗎？  <br>
@@ -326,6 +353,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **顧客:** はい、予約をしています。山田と申します。  <br>
 (hai, yoyaku o shite imasu. yamada to moushimasu.)  <br>
 是的，我有預約。我姓山田。  <br>
@@ -335,6 +363,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: left">  
+
 **店員:** 山田様ですね。パスポートをお願いします。  <br>
 (yamada sama desu ne. pasupooto o onegai shimasu.)  <br>
 是山田先生/女士對吧。請出示您的護照。  <br>
@@ -344,6 +373,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **顧客:** はい、どうぞ。  <br>
 (hai, douzo.)  <br>
 好的，請看。  <br>
@@ -353,6 +383,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: left">  
+
 **店員:** ありがとうございます。お部屋は1205号室です。  <br>
 (arigatou gozaimasu. o-heya wa sen nihyaku go gou shitsu desu.)  <br>
 謝謝。您的房間是1205號房。  <br>
@@ -362,6 +393,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **顧客:** チェックアウトは何時ですか？  <br>
 (chekku-auto wa nanji desu ka?)  <br>
 請問退房時間是幾點？  <br>
@@ -371,6 +403,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: left">  
+
 **店員:** 11時まででございます。  <br>
 (juuichiji made de gozaimasu.)  <br>
 是上午11點。  <br>
@@ -378,6 +411,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝。  <br>

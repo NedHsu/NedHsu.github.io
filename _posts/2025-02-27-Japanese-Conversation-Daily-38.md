@@ -35,6 +35,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 ![預約](https://images.pexels.com/photos/32112649/pexels-photo-32112649.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** カラオケの予約をしたいのですが。  <br>
 (karaoke no yoyaku o shitai no desu ga.)  <br>
 我想預約卡拉OK。  <br>
@@ -44,6 +45,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** はい、何名様ですか？  <br>
 (hai, nanmei sama desu ka?)  <br>
 好的，請問幾位？  <br>
@@ -51,6 +53,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 4人で、2時間お願いします。  <br>
 (yonin de, nijikan onegai shimasu.)  <br>
 4個人，請給我們2小時。  <br>
@@ -58,6 +61,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、承知いたしました。何時からご利用になりますか？  <br>
 (hai, shouchi itashimashita. nanji kara goriyou ni narimasu ka?)  <br>
 好的，知道了。您要從幾點開始使用？  <br>
@@ -65,6 +69,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 19時からお願いします。料金はどのくらいですか？  <br>
 (juu ku ji kara onegai shimasu. ryoukin wa dono kurai desu ka?)  <br>
 從19點開始。費用大概是多少？  <br>
@@ -72,6 +77,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 4名様で2時間の場合、1人2,000円になります。ドリンクバーは無料でご利用いただけます。  <br>
 (yonmei sama de nijikan no baai, hitori nisen en ni narimasu. dorinku baa wa muryou de goriyou itadakemasu.)  <br>
 4位客人2小時的話，每人2,000日圓。飲料吧可以免費使用。  <br>
@@ -79,6 +85,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。予約は確定しましたか？  <br>
 (arigatou gozaimasu. yoyaku wa kakutei shimashita ka?)  <br>
 謝謝您。預約確定了嗎？  <br>
@@ -86,6 +93,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、19時から21時まで、4名様で確定いたしました。お名前と連絡先をお教えください。  <br>
 (hai, juu ku ji kara nijuu ichi ji made, yonmei sama de kakutei itashimashita. onamae to renrakusaki o ooshie kudasai.)  <br>
 是的，19點到21點，4位客人已經確定了。請告訴我您的姓名和聯絡方式。  <br>
@@ -121,6 +129,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 ![歌曲](https://images.pexels.com/photos/5077069/pexels-photo-5077069.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 曲の検索方法を教えていただけますか？  <br>
 (kyoku no kensaku houhou o oshiete itadakemasu ka?)  <br>
 可以教我如何搜尋歌曲嗎？  <br>
@@ -130,6 +139,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** はい、アーティスト名か曲名で検索できます。  <br>
 (hai, aatisuto mei ka kyokumei de kensaku dekimasu.)  <br>
 好的，可以用歌手名或歌曲名搜尋。  <br>
@@ -137,6 +147,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 人気曲ランキングはありますか？  <br>
 (ninki kyoku rankingu wa arimasu ka?)  <br>
 有熱門歌曲排行榜嗎？  <br>
@@ -144,6 +155,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、人気曲ランキングは画面の右上に表示されています。週間ランキングと月間ランキングがあります。  <br>
 (hai, ninki kyoku rankingu wa gamen no migiue ni hyouji sarete imasu. shuukan rankingu to gekkan rankingu ga arimasu.)  <br>
 是的，熱門歌曲排行榜顯示在畫面的右上角。有週排行榜和月排行榜。  <br>
@@ -151,6 +163,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 英語の曲も検索できますか？  <br>
 (eigo no kyoku mo kensaku dekimasu ka?)  <br>
 也可以搜尋英文歌曲嗎？  <br>
@@ -158,6 +171,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、英語の曲も豊富にございます。洋楽ランキングもありますので、そちらもご利用ください。  <br>
 (hai, eigo no kyoku mo houfu ni gozaimasu. yougaku rankingu mo arimasu node, sochira mo goriyou kudasai.)  <br>
 是的，英文歌曲也很豐富。也有西洋音樂排行榜，請也利用那個。  <br>
@@ -165,6 +179,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 曲をリクエストする方法は？  <br>
 (kyoku o rikuesuto suru houhou wa?)  <br>
 如何點歌？  <br>
@@ -172,6 +187,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 曲を選んだら、リクエストボタンを押してください。順番に再生されます。マイクは2本ご用意しております。  <br>
 (kyoku o eranda ra, rikuesuto botan o oshite kudasai. junban ni saisei saremasu. maiku wa nihon goyoui shite orimasu.)  <br>
 選擇歌曲後，請按點歌按鈕。會按順序播放。我們準備了2支麥克風。  <br>
@@ -211,6 +227,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 ![點餐](https://images.pexels.com/photos/14040414/pexels-photo-14040414.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** ドリンクバーはありますか？  <br>
 (dorinku baa wa arimasu ka?)  <br>
 有飲料吧嗎？  <br>
@@ -220,6 +237,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** はい、無料でご利用いただけます。  <br>
 (hai, muryou de goriyou itadakemasu.)  <br>
 是的，可以免費使用。  <br>
@@ -227,6 +245,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 食べ物も注文できますか？  <br>
 (tabemono mo chuumon dekimasu ka?)  <br>
 也可以點餐嗎？  <br>
@@ -234,6 +253,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、軽食やスナックをご注文いただけます。メニューはこちらにございます。  <br>
 (hai, keishoku ya sunakku o gochuumon itadakemasu. menyuu wa kochira ni gozaimasu.)  <br>
 是的，可以點輕食和零食。菜單在這裡。  <br>
@@ -241,6 +261,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** アルコールはありますか？  <br>
 (arukooru wa arimasu ka?)  <br>
 有酒精飲料嗎？  <br>
@@ -248,6 +269,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、ビールやチューハイ、カクテルなどがございます。ただし、20歳未満の方にはお出しできません。  <br>
 (hai, biiru ya chuuhai, kakuteru nado ga gozaimasu. tadashi, nijussai miman no kata ni wa odashi dekimasen.)  <br>
 是的，有啤酒、罐裝雞尾酒、雞尾酒等。不過，20歲以下的客人不能提供。  <br>
@@ -255,6 +277,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** では、ビール2本とポテトチップスをお願いします。  <br>
 (dewa, biiru nihon to poteto chippusu o onegai shimasu.)  <br>
 那麼，請給我2瓶啤酒和薯片。  <br>
@@ -262,6 +285,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 承知いたしました。ビール2本で800円、ポテトチップスで300円、合計で1,100円になります。  <br>
 (shouchi itashimashita. biiru nihon de happyaku en, poteto chippusu de sanbyaku en, goukei de sen hyaku en ni narimasu.)  <br>
 好的。啤酒2瓶800日圓，薯片300日圓，總共1,100日圓。  <br>
@@ -301,6 +325,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 ![設備](https://images.pexels.com/photos/21620915/pexels-photo-21620915.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** マイクの音量を調整できますか？  <br>
 (maiku no onryou o chousei dekimasu ka?)  <br>
 可以調整麥克風音量嗎？  <br>
@@ -310,6 +335,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** はい、リモコンで調整できます。  <br>
 (hai, rimokon de chousei dekimasu.)  <br>
 是的，可以用遙控器調整。  <br>
@@ -317,6 +343,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** エコーは強めに設定できますか？  <br>
 (ekoo wa tsuyome ni settei dekimasu ka?)  <br>
 可以把回音調強一點嗎？  <br>
@@ -324,6 +351,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、エコーは1から10まで調整可能です。5が標準設定になっております。  <br>
 (hai, ekoo wa ichi kara juu made chousei kanou desu. go ga hyoujun settei ni natte orimasu.)  <br>
 是的，回音可以從1到10調整。5是標準設定。  <br>
@@ -331,6 +359,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** キーを変更することはできますか？  <br>
 (kii o henkou suru koto wa dekimasu ka?)  <br>
 可以改變音調嗎？  <br>
@@ -338,6 +367,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、キーは-6から+6まで変更できます。歌いやすいキーに調整してください。  <br>
 (hai, kii wa mainasu roku kara purasu roku made henkou dekimasu. utaiyasui kii ni chousei shite kudasai.)  <br>
 是的，音調可以從-6到+6改變。請調整到容易唱的音調。  <br>
@@ -345,6 +375,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** テンポも調整できますか？  <br>
 (tenpo mo chousei dekimasu ka?)  <br>
 節奏也可以調整嗎？  <br>
@@ -352,6 +383,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、テンポは0.5倍から2.0倍まで調整可能です。ゆっくり歌いたい場合は0.8倍、速く歌いたい場合は1.2倍をお勧めします。  <br>
 (hai, tenpo wa zero ten go bai kara ni ten zero bai made chousei kanou desu. yukkuri utaitai baai wa zero ten hachi bai, hayaku utaitai baai wa ichi ten ni bai o osusume shimasu.)  <br>
 是的，節奏可以從0.5倍到2.0倍調整。想慢慢唱的話建議0.8倍，想快點唱的話建議1.2倍。  <br>
@@ -392,6 +424,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 ![結帳](https://images.pexels.com/photos/7621136/pexels-photo-7621136.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** お会計をお願いします。  <br>
 (okaikei o onegai shimasu.)  <br>
 請幫我結帳。  <br>
@@ -401,6 +434,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** 2時間で合計8,000円になります。  <br>
 (nijikan de goukei hassen en ni narimasu.)  <br>
 2小時總共是8,000日圓。  <br>
@@ -408,6 +442,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** クレジットカードで支払えますか？  <br>
 (kurejitto kaado de shiharaemasu ka?)  <br>
 可以用信用卡付款嗎？  <br>
@@ -415,6 +450,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、クレジットカード、デビットカード、電子マネーでのお支払いが可能です。現金でのお支払いも承っております。  <br>
 (hai, kurejitto kaado, debitto kaado, denshi manee de no oshiharai ga kanou desu. genkin de no oshiharai mo uketotte orimasu.)  <br>
 是的，可以用信用卡、金融卡、電子錢包付款。也接受現金付款。  <br>
@@ -422,6 +458,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** では、クレジットカードでお願いします。領収書もお願いします。  <br>
 (dewa, kurejitto kaado de onegai shimasu. ryoushuusho mo onegai shimasu.)  <br>
 那麼，請用信用卡付款。也請給我收據。  <br>
@@ -429,6 +466,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 承知いたしました。クレジットカードでのお支払いを承ります。領収書もお渡しします。  <br>
 (shouchi itashimashita. kurejitto kaado de no oshiharai o uketotte orimasu. ryoushuusho mo otodashi shimasu.)  <br>
 好的。我來處理信用卡付款。也會給您收據。  <br>
@@ -436,6 +474,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございました。また利用したいと思います。  <br>
 (arigatou gozaimashita. mata riyou shitai to omoimasu.)  <br>
 謝謝您。我想還會再來使用。  <br>
@@ -443,6 +482,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** ありがとうございました。またのお越しをお待ちしております。  <br>
 (arigatou gozaimashita. mata no okoshi o omachi shite orimasu.)  <br>
 謝謝您。期待您再次光臨。  <br>

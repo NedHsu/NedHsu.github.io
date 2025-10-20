@@ -35,6 +35,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 ![問路](https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **観光客:** すみません、東京駅はどちらですか？  <br>
 (sumimasen, toukyou eki wa dochira desu ka?)  <br>
 不好意思，請問東京車站在哪裡？  <br>
@@ -44,6 +45,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 <br>  
 
 <div style="text-align: right">  
+
 **地元の人:** まっすぐ行って、右に曲がってください。  <br>
 (massugu itte, migi ni magatte kudasai.)  <br>
 直走，然後右轉。  <br>
@@ -51,6 +53,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 <div style="text-align: left">  
+
 **観光客:** どのくらいかかりますか？  <br>
 (dono kurai kakarimasu ka?)  <br>
 大概要多久？  <br>
@@ -58,6 +61,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 <div style="text-align: right">  
+
 **地元の人:** 歩いて5分くらいです。  <br>
 (aruite go fun kurai desu.)  <br>
 走路大概5分鐘。  <br>
@@ -65,6 +69,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 <div style="text-align: left">  
+
 **観光客:** 目印はありますか？  <br>
 (mejirushi wa arimasu ka?)  <br>
 有什麼地標嗎？  <br>
@@ -72,6 +77,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 <div style="text-align: right">  
+
 **地元の人:** はい、大きなコンビニがあります。その隣です。  <br>
 (hai, ookina konbini ga arimasu. sono tonari desu.)  <br>
 有的，有一家很大的便利商店。就在它旁邊。  <br>
@@ -80,6 +86,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 
 <div style="text-align: left">  
+
 **観光客:** 便利商店的名字是什麼？  <br>
 (benri shou ten no namae wa nan desu ka?)  <br>
 那家便利商店的名字是什麼？  <br>
@@ -87,6 +94,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 <div style="text-align: right">  
+
 **地元の人:** セブンイレブンです。  <br>
 (sebun irebun desu.)  <br>
 是7-11。  <br>
@@ -94,6 +102,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 <div style="text-align: left">  
+
 **観光客:** 太好了，謝謝！  <br>
 (taihen arigatou gozaimasu!)  <br>
 太好了，謝謝！  <br>
@@ -119,6 +128,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 ![電車](https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **観光客:** この電車は新宿に行きますか？  <br>
 (kono densha wa shinjuku ni ikimasu ka?)  <br>
 這班電車會到新宿嗎？  <br>
@@ -128,6 +138,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 <br>  
 
 <div style="text-align: right">  
+
 **地元の人:** はい、新宿行きです。  <br>
 (hai, shinjuku yuki desu.)  <br>
 是的，這是往新宿的電車。  <br>
@@ -135,6 +146,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 <div style="text-align: left">  
+
 **観光客:** 何分くらいかかりますか？  <br>
 (nan pun kurai kakarimasu ka?)  <br>
 大概要多久？  <br>
@@ -142,6 +154,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 <div style="text-align: right">  
+
 **地元の人:** 約15分です。  <br>
 (yaku juu go fun desu.)  <br>
 大約15分鐘。  <br>
@@ -149,6 +162,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 <div style="text-align: left">  
+
 **観光客:** 何駅目ですか？  <br>
 (nan eki me desu ka?)  <br>
 是第幾站？  <br>
@@ -156,6 +170,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 <div style="text-align: right">  
+
 **地元の人:** 3駅目です。  <br>
 (san eki me desu.)  <br>
 是第三站。  <br>
@@ -164,6 +179,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 
 <div style="text-align: left">  
+
 **観光客:** 這班電車有空調嗎？  <br>
 (kono densha wa kuuchou ga arimasu ka?)  <br>
 這班電車有空調嗎？  <br>
@@ -171,6 +187,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 <div style="text-align: right">  
+
 **地元の人:** はい、あります。  <br>
 (hai, arimasu.)  <br>
 是的，有空調。  <br>
@@ -178,6 +195,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 <div style="text-align: left">  
+
 **観光客:** 太好了，謝謝！  <br>
 (taihen arigatou gozaimasu!)  <br>
 太好了，謝謝！  <br>
@@ -203,6 +221,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 ![車票](https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **観光客:** 新宿まで一枚お願いします。  <br>
 (shinjuku made ichimai onegai shimasu.)  <br>
 請給我一張到新宿的車票。  <br>
@@ -212,6 +231,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 <br>  
 
 <div style="text-align: right">  
+
 **地元の人:** はい、320円になります。  <br>
 (hai, sanbyaku nijuu en ni narimasu.)  <br>
 好的，總共320日圓。  <br>
@@ -219,6 +239,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 <div style="text-align: left">  
+
 **観光客:** 往復でお願いします。  <br>
 (oufuku de onegai shimasu.)  <br>
 請給我來回票。  <br>
@@ -226,6 +247,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 <div style="text-align: right">  
+
 **地元の人:** 往復は640円です。  <br>
 (oufuku wa roppyaku yonjuu en desu.)  <br>
 來回票是640日圓。  <br>
@@ -233,6 +255,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 <div style="text-align: left">  
+
 **観光客:** クレジットカードで払えますか？  <br>
 (kurejitto kaado de haraemasu ka?)  <br>
 可以用信用卡付款嗎？  <br>
@@ -240,6 +263,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 <div style="text-align: right">  
+
 **地元の人:** 申し訳ありませんが、現金のみです。  <br>
 (moushiwake arimasen ga, genkin nomi desu.)  <br>
 抱歉，只能付現金。  <br>
@@ -248,6 +272,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 
 <div style="text-align: left">  
+
 **観光客:** 那麼，附近有ATM嗎？  <br>
 (nanoni, chikaku ni ATM wa arimasu ka?)  <br>
 那麼，附近有ATM嗎？  <br>
@@ -255,6 +280,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 <div style="text-align: right">  
+
 **地元の人:** はい、あちらにあります。  <br>
 (hai, achira ni arimasu.)  <br>
 是的，在那邊。  <br>
@@ -262,6 +288,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 <div style="text-align: left">  
+
 **観光客:** 太好了，謝謝！  <br>
 (taihen arigatou gozaimasu!)  <br>
 太好了，謝謝！  <br>
@@ -287,6 +314,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 ![轉乘](https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **観光客:** 渋谷までどう行けばいいですか？  <br>
 (shibuya made dou ikeba ii desu ka?)  <br>
 請問要怎麼到澀谷？  <br>
@@ -296,6 +324,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 <br>  
 
 <div style="text-align: right">  
+
 **地元の人:** 新宿で山手線に乗り換えてください。  <br>
 (shinjuku de yamanote-sen ni norikaete kudasai.)  <br>
 請在新宿換乘山手線。  <br>
@@ -303,6 +332,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 <div style="text-align: left">  
+
 **観光客:** 乗り換えは簡単ですか？  <br>
 (norikae wa kantan desu ka?)  <br>
 換乘容易嗎？  <br>
@@ -310,6 +340,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 <div style="text-align: right">  
+
 **地元の人:** はい、同じホームで乗り換えられます。  <br>
 (hai, onaji hoomu de norikaeraremasu.)  <br>
 是的，可以在同一個月台換乘。  <br>
@@ -317,6 +348,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 <div style="text-align: left">  
+
 **観光客:** 何分くらいかかりますか？  <br>
 (nan pun kurai kakarimasu ka?)  <br>
 大概要多久？  <br>
@@ -324,6 +356,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 <div style="text-align: right">  
+
 **地元の人:** 新宿から渋谷まで約7分です。  <br>
 (shinjuku kara shibuya made yaku nana fun desu.)  <br>
 從新宿到澀谷大約7分鐘。  <br>
@@ -332,6 +365,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 
 <div style="text-align: left">  
+
 **観光客:** 這條路線擁擠嗎？  <br>
 (kono rosen wa kondeimasu ka?)  <br>
 這條路線擁擠嗎？  <br>
@@ -339,6 +373,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 <div style="text-align: right">  
+
 **地元の人:** 通常在高峰期會很擁擠。  <br>
 (tsuujou wa kouhouki ni wa totemo kondeimasu.)  <br>
 通常在高峰期會很擁擠。  <br>
@@ -346,6 +381,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 <div style="text-align: left">  
+
 **観光客:** 太好了，謝謝！  <br>
 (taihen arigatou gozaimasu!)  <br>
 太好了，謝謝！  <br>
@@ -371,6 +407,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 ![計程車](https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **観光客:** 東京タワーまでお願いします。  <br>
 (toukyou tawaa made onegai shimasu.)  <br>
 請載我到東京鐵塔。  <br>
@@ -380,6 +417,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 <br>  
 
 <div style="text-align: right">  
+
 **地元の人:** かしこまりました。  <br>
 (kashikomarimashita.)  <br>
 好的。  <br>
@@ -387,6 +425,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 <div style="text-align: left">  
+
 **観光客:** 料金はいくらくらいですか？  <br>
 (ryoukin wa ikura kurai desu ka?)  <br>
 車資大概多少？  <br>
@@ -394,6 +433,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 <div style="text-align: right">  
+
 **地元の人:** 約2,000円です。  <br>
 (yaku nisen en desu.)  <br>
 大約2,000日圓。  <br>
@@ -401,6 +441,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 <div style="text-align: left">  
+
 **観光客:** クレジットカードで払えますか？  <br>
 (kurejitto kaado de haraemasu ka?)  <br>
 可以用信用卡付款嗎？  <br>
@@ -408,6 +449,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 <div style="text-align: right">  
+
 **地元の人:** はい、大丈夫です。  <br>
 (hai, daijoubu desu.)  <br>
 是的，可以。  <br>
@@ -416,6 +458,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 
 <div style="text-align: left">  
+
 **観光客:** 這條路線擁擠嗎？  <br>
 (kono rosen wa kondeimasu ka?)  <br>
 這條路線擁擠嗎？  <br>
@@ -423,6 +466,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 <div style="text-align: right">  
+
 **地元の人:** 通常在高峰期會很擁擠。  <br>
 (tsuujou wa kouhouki ni wa totemo kondeimasu.)  <br>
 通常在高峰期會很擁擠。  <br>
@@ -430,6 +474,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 <div style="text-align: left">  
+
 **観光客:** 太好了，謝謝！  <br>
 (taihen arigatou gozaimasu!)  <br>
 太好了，謝謝！  <br>

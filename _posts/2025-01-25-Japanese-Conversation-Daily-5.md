@@ -36,6 +36,7 @@ tags: [日語, Japanese, 日語對話]
 ![醫院掛號](https://images.pexels.com/photos/7108318/pexels-photo-7108318.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **醫院接待員:** はい、山田医院でございます。  <br>
 (hai, yamada iin de gozaimasu.)  <br>
 您好，這裡是山田醫院。  <br>
@@ -45,6 +46,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **病患:** 初診の予約をお願いしたいのですが。  <br>
 (shoshin no yoyaku o onegai shitai no desu ga.)  <br>
 我想預約初診。  <br>
@@ -54,6 +56,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: left">  
+
 **醫院接待員:** はい、承知しました。症状を教えていただけますか？  <br>
 (hai, shouchi shimashita. shoujou o oshiete itadakemasu ka?)  <br>
 好的，請問您有什麼症狀？  <br>
@@ -62,6 +65,7 @@ tags: [日語, Japanese, 日語對話]
 
 
 <div style="text-align: right">  
+
 **病患:** 最近感到頭痛和疲倦。  <br>
 (saikin atama ga itakute, tsukareteimasu.)  <br>
 最近感到頭痛和疲倦。  <br>
@@ -69,6 +73,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **醫院接待員:** かしこまりました。明日の午後に空きがあります。  <br>
 (kashikomarimashita. ashita no gogo ni aki ga arimasu.)  <br>
 好的，明天下午有空位。  <br>
@@ -76,6 +81,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **病患:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝。  <br>
@@ -101,6 +107,7 @@ tags: [日語, Japanese, 日語對話]
 ![美容院美甲](https://images.pexels.com/photos/9212718/pexels-photo-9212718.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **美甲師:** いらっしゃいませ。ネイルのご予約でしょうか？  <br>
 (irasshaimase. neiru no go-yoyaku deshou ka?)  <br>
 歡迎光臨。是要預約美甲服務嗎？  <br>
@@ -110,6 +117,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **顧客:** はい、ジェルネイルをお願いしたいです。  <br>
 (hai, jeru neiru o onegai shitai desu.)  <br>
 是的，我想做凝膠美甲。  <br>
@@ -119,6 +127,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: left">  
+
 **美甲師:** はい、承知しました。デザインのカタログをご覧ください。  <br>
 (hai, shouchi shimashita. dezain no katarogu o go-ran kudasai.)  <br>
 好的，請看設計目錄。  <br>
@@ -127,6 +136,7 @@ tags: [日語, Japanese, 日語對話]
 
 
 <div style="text-align: right">  
+
 **顧客:** 這個設計看起來很漂亮。需要多長時間？  <br>
 (kono dezain wa kirei desu. jikan wa dono kurai kakarimasu ka?)  <br>
 這個設計看起來很漂亮。需要多長時間？  <br>
@@ -134,6 +144,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **美甲師:** 約1時間半です。  <br>
 (yaku ichijikan han desu.)  <br>
 大約1個半小時。  <br>
@@ -141,6 +152,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝。  <br>
@@ -166,6 +178,7 @@ tags: [日語, Japanese, 日語對話]
 ![電器行維修](https://images.pexels.com/photos/5243989/pexels-photo-5243989.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **維修人員:** いらっしゃいませ。何かお困りでしょうか？  <br>
 (irasshaimase. nanika o-komari deshou ka?)  <br>
 歡迎光臨。有什麼可以幫您的嗎？  <br>
@@ -175,6 +188,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **顧客:** パソコンの調子が悪いので、修理をお願いしたいです。  <br>
 (pasokon no choushi ga warui node, shuuri o onegai shitai desu.)  <br>
 我的電腦狀況不好，想請您修理。  <br>
@@ -184,6 +198,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: left">  
+
 **維修人員:** はい、承知しました。具体的な症状を教えていただけますか？  <br>
 (hai, shouchi shimashita. gutaiteki na shoujou o oshiete itadakemasu ka?)  <br>
 好的，請問具體是什麼問題？  <br>
@@ -192,6 +207,7 @@ tags: [日語, Japanese, 日語對話]
 
 
 <div style="text-align: right">  
+
 **顧客:** 電腦開機後無法正常運行。  <br>
 (pasokon wa kaiki go ni seijou ni unkou shimasen.)  <br>
 電腦開機後無法正常運行。  <br>
@@ -199,6 +215,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **維修人員:** かしこまりました。診斷には約1時間かかります。  <br>
 (kashikomarimashita. shindan ni wa yaku ichijikan kakarimasu.)  <br>
 好的，診斷需要大約1小時。  <br>
@@ -206,6 +223,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝。  <br>
@@ -231,6 +249,7 @@ tags: [日語, Japanese, 日語對話]
 ![計程車預約](https://images.pexels.com/photos/29432312/pexels-photo-29432312.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **預約中心人員:** はい、タクシー予約センターでございます。  <br>
 (hai, takushii yoyaku sentaa de gozaimasu.)  <br>
 您好，這裡是計程車預約中心。  <br>
@@ -240,6 +259,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **乘客:** 明日の朝7時に空港まで送迎をお願いしたいです。  <br>
 (ashita no asa shichiji ni kuukou made sougei o onegai shitai desu.)  <br>
 我想預約明天早上7點到機場的接送服務。  <br>
@@ -249,6 +269,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: left">  
+
 **預約中心人員:** はい、承知しました。お名前とご住所をお願いします。  <br>
 (hai, shouchi shimashita. o-namae to go-juusho o onegai shimasu.)  <br>
 好的，請告訴我您的姓名和地址。  <br>
@@ -257,6 +278,7 @@ tags: [日語, Japanese, 日語對話]
 
 
 <div style="text-align: right">  
+
 **乘客:** 我姓田中，地址是東京都新宿區。  <br>
 (watashi wa tanaka desu, juusho wa toukyou-to shinjuku-ku desu.)  <br>
 我姓田中，地址是東京都新宿區。  <br>
@@ -264,6 +286,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **預約中心人員:** かしこまりました。タクシーは6:45に到着します。  <br>
 (kashikomarimashita. takushii wa rokuji yonjuugo fun ni touchaku shimasu.)  <br>
 好的，計程車將在6:45到達。  <br>
@@ -271,6 +294,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **乘客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝。  <br>
@@ -296,6 +320,7 @@ tags: [日語, Japanese, 日語對話]
 ![天氣變化](https://images.pexels.com/photos/32096975/pexels-photo-32096975.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **同事A:** 今日は急に寒くなりましたね。  <br>
 (kyou wa kyuu ni samuku narimashita ne.)  <br>
 今天突然變冷了。  <br>
@@ -305,6 +330,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **同事B:** はい、本当に寒いですね。コートが必要かもしれません。  <br>
 (hai, hontou ni samui desu ne. kooto ga hitsuyou kamoshiremasen.)  <br>
 是啊，真的很冷。可能需要穿外套。  <br>
@@ -314,6 +340,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: left">  
+
 **同事A:** 明日はもっと寒くなるそうですよ。  <br>
 (ashita wa motto samuku naru sou desu yo.)  <br>
 聽說明天會更冷。  <br>
@@ -322,6 +349,7 @@ tags: [日語, Japanese, 日語對話]
 
 
 <div style="text-align: right">  
+
 **同事B:** 我們應該準備好暖和的衣服。  <br>
 (atatakai fuku o junbi shite okimashou.)  <br>
 我們應該準備好暖和的衣服。  <br>
@@ -329,6 +357,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **同事A:** 是的，這樣我們就不會感冒了。  <br>
 (hai, sou sureba kaze o hikimasen.)  <br>
 是的，這樣我們就不會感冒了。  <br>
@@ -336,6 +365,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **同事B:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝。  <br>

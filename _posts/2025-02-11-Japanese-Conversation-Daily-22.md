@@ -35,6 +35,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 ![商品](https://images.pexels.com/photos/10774311/pexels-photo-10774311.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 牛乳はどこにありますか？  <br>
 (gyuunyuu wa doko ni arimasu ka?)  <br>
 牛奶在哪裡？  <br>
@@ -44,6 +45,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** 冷蔵コーナーの奥にあります。  <br>
 (reizou koonaa no oku ni arimasu.)  <br>
 在冷藏區的裡面。  <br>
@@ -51,6 +53,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 賞味期限はいつまでですか？  <br>
 (shoumi kigen wa itsu made desu ka?)  <br>
 保存期限到什麼時候？  <br>
@@ -58,6 +61,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** こちらは3日後までです。  <br>
 (kochira wa mikkago made desu.)  <br>
 這個是到3天後。  <br>
@@ -65,6 +69,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 他におすすめの商品はありますか？  <br>
 (hoka ni osusume no shouhin wa arimasu ka?)  <br>
 還有其他推薦的商品嗎？  <br>
@@ -72,6 +77,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、こちらのヨーグルトも人気です。  <br>
 (hai, kochira no yooguruto mo ninki desu.)  <br>
 有的，這款優格也很受歡迎。  <br>
@@ -79,6 +85,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
@@ -86,6 +93,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>
@@ -116,6 +124,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 ![價格](https://images.pexels.com/photos/24032931/pexels-photo-24032931.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** このお肉はいくらですか？  <br>
 (kono oniku wa ikura desu ka?)  <br>
 這個肉多少錢？  <br>
@@ -125,6 +134,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** 1,280円です。  <br>
 (sen nihyaku hachijuu en desu.)  <br>
 1,280日圓。  <br>
@@ -132,6 +142,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 100グラムあたりいくらですか？  <br>
 (hyaku guramu atari ikura desu ka?)  <br>
 每100公克多少錢？  <br>
@@ -139,6 +150,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 100グラムあたり320円です。  <br>
 (hyaku guramu atari sanbyaku nijuu en desu.)  <br>
 每100公克320日圓。  <br>
@@ -146,6 +158,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 割引はありますか？  <br>
 (waribiki wa arimasu ka?)  <br>
 有折扣嗎？  <br>
@@ -153,6 +166,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 申し訳ありませんが、現在は割引はございません。  <br>
 (moushiwake arimasen ga, genzai wa waribiki wa gozaimasen.)  <br>
 很抱歉，目前沒有折扣。  <br>
@@ -160,6 +174,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
@@ -167,6 +182,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>
@@ -196,6 +212,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 ![購物車](https://images.pexels.com/photos/32088561/pexels-photo-32088561.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** カートはどこにありますか？  <br>
 (kaato wa doko ni arimasu ka?)  <br>
 購物車在哪裡？  <br>
@@ -205,6 +222,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** 入口の右側にあります。  <br>
 (iriguchi no migigawa ni arimasu.)  <br>
 在入口的右側。  <br>
@@ -212,6 +230,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** カートの使用料金はかかりますか？  <br>
 (kaato no shiyou ryoukin wa kakarimasu ka?)  <br>
 使用購物車要收費嗎？  <br>
@@ -219,6 +238,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** いいえ、無料です。  <br>
 (iie, muryou desu.)  <br>
 不用，是免費的。  <br>
@@ -226,6 +246,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 使い方を教えていただけますか？  <br>
 (tsukaikata o oshiete itadakemasu ka?)  <br>
 可以教我使用方法嗎？  <br>
@@ -233,6 +254,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、こちらのレバーを押すと動きます。  <br>
 (hai, kochira no rebaa o osu to ugokimasu.)  <br>
 好的，按下這個把手就可以移動。  <br>
@@ -240,6 +262,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
@@ -247,6 +270,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>
@@ -276,6 +300,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 ![結帳](https://images.pexels.com/photos/7621136/pexels-photo-7621136.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** お会計をお願いします。  <br>
 (okaikei o onegai shimasu.)  <br>
 請幫我結帳。  <br>
@@ -285,6 +310,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** 合計で3,280円になります。  <br>
 (goukei de sanzen nihyaku hachijuu en ni narimasu.)  <br>
 總共是3,280日圓。  <br>
@@ -292,6 +318,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ポイントカードは使えますか？  <br>
 (pointo kaado wa tsukaemasu ka?)  <br>
 可以使用點數卡嗎？  <br>
@@ -299,6 +326,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、お持ちでしたらお使いいただけます。  <br>
 (hai, omochi deshitara otsukai itadakemasu.)  <br>
 是的，如果您有帶的話可以使用。  <br>
@@ -306,6 +334,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** カードで支払えますか？  <br>
 (kaado de shiharaemasu ka?)  <br>
 可以刷卡嗎？  <br>
@@ -313,6 +342,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、クレジットカードも電子マネーも使えます。  <br>
 (hai, kurejitto kaado mo denshi manee mo tsukaemasu.)  <br>
 是的，可以使用信用卡和電子錢包。  <br>
@@ -320,6 +350,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございました。また来ます。  <br>
 (arigatou gozaimashita. mata kimasu.)  <br>
 謝謝您。我會再來。  <br>
@@ -327,6 +358,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** ありがとうございました。またのお越しをお待ちしております。  <br>
 (arigatou gozaimashita. mata no okoshi o omachi shite orimasu.)  <br>
 謝謝您。期待您再次光臨。  <br>
@@ -357,6 +389,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 ![退換](https://images.pexels.com/photos/7414659/pexels-photo-7414659.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** この商品を返品したいのですが。  <br>
 (kono shouhin o henpin shitai no desu ga.)  <br>
 我想退這件商品。  <br>
@@ -366,6 +399,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** レシートをお持ちですか？  <br>
 (reshiito o omochi desu ka?)  <br>
 您有收據嗎？  <br>
@@ -373,6 +407,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** はい、こちらです。  <br>
 (hai, kochira desu.)  <br>
 是的，在這裡。  <br>
@@ -380,6 +415,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 申し訳ありませんが、生鮮食品は返品できません。  <br>
 (moushiwake arimasen ga, sensei shokuhin wa henpin dekimasen.)  <br>
 抱歉，生鮮食品不能退貨。  <br>
@@ -387,6 +423,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 交換は可能ですか？  <br>
 (koukan wa kanou desu ka?)  <br>
 可以換貨嗎？  <br>
@@ -394,6 +431,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、未開封であれば交換可能です。  <br>
 (hai, mikaifuu de areba koukan kanou desu.)  <br>
 是的，如果未開封的話可以換貨。  <br>
@@ -401,6 +439,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
@@ -408,6 +447,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>

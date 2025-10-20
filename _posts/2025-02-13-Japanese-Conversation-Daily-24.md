@@ -38,6 +38,7 @@ image:
 ![訂位](/assets/img/jp/日式餐廳交流.webp)
 
 <div style="text-align: left">  
+
 **顧客:** 予約をお願いしたいのですが。  <br>
 (yoyaku o onegai shitai no desu ga.)  <br>
 我想訂位。  <br>
@@ -47,6 +48,7 @@ image:
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** はい、何名様ですか？  <br>
 (hai, nanmeisama desu ka?)  <br>
 好的，幾位？  <br>
@@ -56,6 +58,7 @@ image:
 <br>
 
 <div style="text-align: left">  
+
 **顧客:** 4名でお願いします。  <br>
 (yonmei de onegai shimasu.)  <br>
 4位，麻煩您了。  <br>
@@ -65,6 +68,7 @@ image:
 <br>
 
 <div style="text-align: right">  
+
 **店員:** 何時からでしょうか？  <br>
 (nanji kara deshou ka?)  <br>
 幾點開始呢？  <br>
@@ -74,6 +78,7 @@ image:
 <br>
 
 <div style="text-align: left">  
+
 **顧客:** 7時からお願いします。  <br>
 (shichiji kara onegai shimasu.)  <br>
 7點開始，麻煩您了。  <br>
@@ -83,6 +88,7 @@ image:
 <br>
 
 <div style="text-align: right">  
+
 **店員:** 禁煙席でよろしいでしょうか？  <br>
 (kinenseki de yoroshii deshou ka?)  <br>
 禁煙席可以嗎？  <br>
@@ -92,6 +98,7 @@ image:
 <br>
 
 <div style="text-align: left">  
+
 **顧客:** はい、禁煙席でお願いします。  <br>
 (hai, kinenseki de onegai shimasu.)  <br>
 好的，禁煙席麻煩您了。  <br>
@@ -101,6 +108,7 @@ image:
 <br>
 
 <div style="text-align: right">  
+
 **店員:** 承知いたしました。お名前をお聞かせください。  <br>
 (shouchi itashimashita. onamae o okikase kudasai.)  <br>
 我知道了。請告訴我您的姓名。  <br>
@@ -110,6 +118,7 @@ image:
 <br>
 
 <div style="text-align: left">  
+
 **顧客:** 田中と申します。  <br>
 (tanaka to moushimasu.)  <br>
 我叫田中。  <br>
@@ -119,6 +128,7 @@ image:
 <br>
 
 <div style="text-align: right">  
+
 **店員:** 田中様、4名様で7時から禁煙席で承りました。  <br>
 (tanaka sama, yonmeisama de shichiji kara kinenseki de uketamawarimashita.)  <br>
 田中先生，4位7點開始禁煙席，我已經為您預約了。  <br>
@@ -126,6 +136,7 @@ image:
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
@@ -133,6 +144,7 @@ image:
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** どういたしまして。お待ちしております。  <br>
 (dou itashimashite. omachi shite orimasu.)  <br>
 不客氣。期待您的光臨。  <br>
@@ -165,6 +177,7 @@ image:
 ![點餐](/assets/img/jp/日式餐桌情景.webp)
 
 <div style="text-align: left">  
+
 **顧客:** おすすめの料理はありますか？  <br>
 (osusume no ryouri wa arimasu ka?)  <br>
 有什麼推薦的料理嗎？  <br>
@@ -174,6 +187,7 @@ image:
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** はい、当店の名物は寿司です。  <br>
 (hai, touten no meibutsu wa sushi desu.)  <br>
 有的，本店的招牌是壽司。  <br>
@@ -183,6 +197,7 @@ image:
 <br>
 
 <div style="text-align: left">  
+
 **顧客:** 寿司はどんな種類がありますか？  <br>
 (sushi wa donna shurui ga arimasu ka?)  <br>
 壽司有什麼種類呢？  <br>
@@ -192,6 +207,7 @@ image:
 <br>
 
 <div style="text-align: right">  
+
 **店員:** マグロ、サーモン、エビ、ウニなどがあります。  <br>
 (maguro, saamon, ebi, uni nado ga arimasu.)  <br>
 有鮪魚、鮭魚、蝦子、海膽等等。  <br>
@@ -201,6 +217,7 @@ image:
 <br>
 
 <div style="text-align: left">  
+
 **顧客:** マグロの握り寿司を2貫ください。  <br>
 (maguro no nigiri sushi o nikkan kudasai.)  <br>
 請給我2貫鮪魚握壽司。  <br>
@@ -210,6 +227,7 @@ image:
 <br>
 
 <div style="text-align: right">  
+
 **店員:** かしこまりました。他に何かご注文はございますか？  <br>
 (kashikomarimashita. hoka ni nanika gochuumon wa gozaimasu ka?)  <br>
 我知道了。還有其他要點的嗎？  <br>
@@ -219,6 +237,7 @@ image:
 <br>
 
 <div style="text-align: left">  
+
 **顧客:** 味噌汁もお願いします。  <br>
 (misoshiru mo onegai shimasu.)  <br>
 味噌湯也麻煩您了。  <br>
@@ -228,6 +247,7 @@ image:
 <br>
 
 <div style="text-align: right">  
+
 **店員:** かしこまりました。お飲み物は何かご注文されますか？  <br>
 (kashikomarimashita. onomimono wa nanika gochuumon saremasu ka?)  <br>
 我知道了。要點什麼飲料嗎？  <br>
@@ -237,6 +257,7 @@ image:
 <br>
 
 <div style="text-align: left">  
+
 **顧客:** 緑茶をください。  <br>
 (ryokucha o kudasai.)  <br>
 請給我綠茶。  <br>
@@ -246,6 +267,7 @@ image:
 <br>
 
 <div style="text-align: right">  
+
 **店員:** かしこまりました。少々お待ちください。  <br>
 (kashikomarimashita. shoushou omachi kudasai.)  <br>
 我知道了。請稍等一下。  <br>
@@ -253,6 +275,7 @@ image:
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
@@ -260,6 +283,7 @@ image:
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>
@@ -291,6 +315,7 @@ image:
 ## 情境 3: 詢問菜單
 
 <div style="text-align: left">  
+
 **顧客:** メニューを見せていただけますか？  <br>
 (menyuu o misete itadakemasu ka?)  <br>
 可以給我看菜單嗎？  <br>
@@ -300,6 +325,7 @@ image:
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** はい、こちらです。  <br>
 (hai, kochira desu.)  <br>
 好的，這是菜單。  <br>
@@ -309,6 +335,7 @@ image:
 <br>
 
 <div style="text-align: left">  
+
 **顧客:** 英語のメニューはありますか？  <br>
 (eigo no menyuu wa arimasu ka?)  <br>
 有英文菜單嗎？  <br>
@@ -318,6 +345,7 @@ image:
 <br>
 
 <div style="text-align: right">  
+
 **店員:** 申し訳ございませんが、英語のメニューはございません。  <br>
 (moushiwake gozaimasen ga, eigo no menyuu wa gozaimasen.)  <br>
 很抱歉，沒有英文菜單。  <br>
@@ -327,6 +355,7 @@ image:
 <br>
 
 <div style="text-align: left">  
+
 **顧客:** 写真付きのメニューはありますか？  <br>
 (shashin tsuki no menyuu wa arimasu ka?)  <br>
 有附照片的菜單嗎？  <br>
@@ -336,6 +365,7 @@ image:
 <br>
 
 <div style="text-align: right">  
+
 **店員:** はい、こちらが写真付きのメニューです。  <br>
 (hai, kochira ga shashin tsuki no menyuu desu.)  <br>
 有的，這是附照片的菜單。  <br>
@@ -345,6 +375,7 @@ image:
 <br>
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。この料理は何ですか？  <br>
 (arigatou gozaimasu. kono ryouri wa nan desu ka?)  <br>
 謝謝您。這道料理是什麼？  <br>
@@ -354,6 +385,7 @@ image:
 <br>
 
 <div style="text-align: right">  
+
 **店員:** これは天ぷらです。エビと野菜の天ぷらです。  <br>
 (kore wa tenpura desu. ebi to yasai no tenpura desu.)  <br>
 這是天婦羅。蝦子和蔬菜的天婦羅。  <br>
@@ -363,6 +395,7 @@ image:
 <br>
 
 <div style="text-align: left">  
+
 **顧客:** 辛いですか？  <br>
 (karai desu ka?)  <br>
 會辣嗎？  <br>
@@ -372,6 +405,7 @@ image:
 <br>
 
 <div style="text-align: right">  
+
 **店員:** いいえ、辛くありません。  <br>
 (iie, karaku arimasen.)  <br>
 不會，不辣。  <br>
@@ -379,6 +413,7 @@ image:
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** では、それをお願いします。  <br>
 (dewa, sore o onegai shimasu.)  <br>
 那麼，請給我這個。  <br>
@@ -386,6 +421,7 @@ image:
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** かしこまりました。少々お待ちください。  <br>
 (kashikomarimashita. shoushou omachi kudasai.)  <br>
 我知道了。請稍等一下。  <br>
@@ -419,6 +455,7 @@ image:
 ![結帳](/assets/img/jp/專業結帳場景.webp)
 
 <div style="text-align: left">  
+
 **顧客:** お会計をお願いします。  <br>
 (okaikei o onegai shimasu.)  <br>
 請幫我結帳。  <br>
@@ -428,6 +465,7 @@ image:
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** 合計で5,800円になります。  <br>
 (goukei de gosen happyaku en ni narimasu.)  <br>
 總共是5,800日圓。  <br>
@@ -437,6 +475,7 @@ image:
 <br>
 
 <div style="text-align: left">  
+
 **顧客:** カードで支払えますか？  <br>
 (kaado de shiharaemasu ka?)  <br>
 可以刷卡嗎？  <br>
@@ -446,6 +485,7 @@ image:
 <br>
 
 <div style="text-align: right">  
+
 **店員:** はい、カードでお支払いいただけます。  <br>
 (hai, kaado de oshiharai itadakemasu.)  <br>
 是的，可以刷卡付款。  <br>
@@ -455,6 +495,7 @@ image:
 <br>
 
 <div style="text-align: left">  
+
 **顧客:** サービス料は含まれていますか？  <br>
 (saabisu ryou wa fukumarete imasu ka?)  <br>
 服務費包含在內嗎？  <br>
@@ -464,6 +505,7 @@ image:
 <br>
 
 <div style="text-align: right">  
+
 **店員:** はい、サービス料は含まれています。  <br>
 (hai, saabisu ryou wa fukumarete imasu.)  <br>
 是的，服務費包含在內。  <br>
@@ -473,6 +515,7 @@ image:
 <br>
 
 <div style="text-align: left">  
+
 **顧客:** 領収書をいただけますか？  <br>
 (ryoushuusho o itadakemasu ka?)  <br>
 可以給我收據嗎？  <br>
@@ -482,6 +525,7 @@ image:
 <br>
 
 <div style="text-align: right">  
+
 **店員:** はい、こちらが領収書です。  <br>
 (hai, kochira ga ryoushuusho desu.)  <br>
 好的，這是收據。  <br>
@@ -491,6 +535,7 @@ image:
 <br>
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございました。  <br>
 (arigatou gozaimashita.)  <br>
 謝謝您。  <br>
@@ -500,6 +545,7 @@ image:
 <br>
 
 <div style="text-align: right">  
+
 **店員:** ありがとうございました。またお越しください。  <br>
 (arigatou gozaimashita. mata okoshi kudasai.)  <br>
 謝謝您。歡迎再次光臨。  <br>
@@ -507,6 +553,7 @@ image:
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** また来ます。  <br>
 (mata kimasu.)  <br>
 我會再來。  <br>
@@ -514,6 +561,7 @@ image:
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** お待ちしております。  <br>
 (omachi shite orimasu.)  <br>
 期待您的光臨。  <br>
@@ -544,6 +592,7 @@ image:
 ## 情境 5: 打包
 
 <div style="text-align: left">  
+
 **顧客:** 残りを包んでいただけますか？  <br>
 (nokori o tsutsunde itadakemasu ka?)  <br>
 可以幫我打包剩下的嗎？  <br>
@@ -553,6 +602,7 @@ image:
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** はい、承知しました。  <br>
 (hai, shouchi shimashita.)  <br>
 好的，我知道了。  <br>
@@ -562,6 +612,7 @@ image:
 <br>
 
 <div style="text-align: left">  
+
 **顧客:** お持ち帰り用の容器はありますか？  <br>
 (omochikaeri you no youki wa arimasu ka?)  <br>
 有外帶用的容器嗎？  <br>
@@ -571,6 +622,7 @@ image:
 <br>
 
 <div style="text-align: right">  
+
 **店員:** はい、プラスチックの容器をご用意いたします。  <br>
 (hai, purasuchikku no youki o goyoui itashimasu.)  <br>
 有的，我為您準備塑膠容器。  <br>
@@ -580,6 +632,7 @@ image:
 <br>
 
 <div style="text-align: left">  
+
 **顧客:** 温かいものと冷たいものを分けてください。  <br>
 (atatakai mono to tsumetai mono o wakete kudasai.)  <br>
 請把熱的和冷的東西分開。  <br>
@@ -589,6 +642,7 @@ image:
 <br>
 
 <div style="text-align: right">  
+
 **店員:** かしこまりました。温かいものと冷たいものを分けてお包みいたします。  <br>
 (kashikomarimashita. atatakai mono to tsumetai mono o wakete otsutsumi itashimasu.)  <br>
 我知道了。我會把熱的和冷的東西分開包裝。  <br>
@@ -598,6 +652,7 @@ image:
 <br>
 
 <div style="text-align: left">  
+
 **顧客:** 袋もいただけますか？  <br>
 (fukuro mo itadakemasu ka?)  <br>
 也可以給我袋子嗎？  <br>
@@ -607,6 +662,7 @@ image:
 <br>
 
 <div style="text-align: right">  
+
 **店員:** はい、こちらが袋です。  <br>
 (hai, kochira ga fukuro desu.)  <br>
 好的，這是袋子。  <br>
@@ -616,6 +672,7 @@ image:
 <br>
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
@@ -625,6 +682,7 @@ image:
 <br>
 
 <div style="text-align: right">  
+
 **店員:** どういたしまして。お気をつけてお帰りください。  <br>
 (dou itashimashite. oki wo tsukete okaeri kudasai.)  <br>
 不客氣。請小心回家。  <br>
@@ -632,6 +690,7 @@ image:
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** また来ます。  <br>
 (mata kimasu.)  <br>
 我會再來。  <br>
@@ -639,6 +698,7 @@ image:
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** お待ちしております。  <br>
 (omachi shite orimasu.)  <br>
 期待您的光臨。  <br>

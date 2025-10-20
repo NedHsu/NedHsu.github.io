@@ -35,6 +35,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 ![預約](https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 予約をお願いしたいのですが。  <br>
 (yoyaku o onegai shitai no desu ga.)  <br>
 我想預約房間。  <br>
@@ -44,6 +45,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
+
 **旅館スタッフ:** はい、いつからいつまでご利用でしょうか？  <br>
 (hai, itsu kara itsu made go-riyou deshou ka?)  <br>
 好的，請問您要住幾天？  <br>
@@ -51,6 +53,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 来週の月曜日から3泊でお願いします。  <br>
 (raishuu no getsuyoubi kara sanpaku de onegai shimasu.)  <br>
 請幫我預約下週一住三晚。  <br>
@@ -58,6 +61,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **旅館スタッフ:** お部屋のタイプはご希望がありますか？  <br>
 (o-heya no taipu wa go-kibou ga arimasu ka?)  <br>
 您對房間類型有特別的要求嗎？  <br>
@@ -65,6 +69,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 和室で、温泉付きの部屋をお願いします。  <br>
 (washitsu de, onsen tsuki no heya o onegai shimasu.)  <br>
 請給我日式房間，要有溫泉的。  <br>
@@ -73,6 +78,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 
 
 <div style="text-align: right">  
+
 **旅館スタッフ:** 温泉付きの部屋は人気がありますので、空きがあるか確認いたします。  <br>
 (onsen tsuki no heya wa ninki ga arimasu node, aki ga aru ka kakunin itashimasu.)  <br>
 溫泉房間很受歡迎，我會確認是否有空房。  <br>
@@ -80,6 +86,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝。  <br>
@@ -105,6 +112,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 ![入住](https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** チェックインをお願いします。  <br>
 (chekku-in o onegai shimasu.)  <br>
 我要辦理入住。  <br>
@@ -114,6 +122,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
+
 **旅館スタッフ:** パスポートをお願いします。  <br>
 (pasupooto o onegai shimasu.)  <br>
 請出示護照。  <br>
@@ -121,6 +130,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** こちらです。予約番号は1234です。  <br>
 (kochira desu. yoyaku bangou wa ichi ni san yon desu.)  <br>
 這是我的護照。預約號碼是1234。  <br>
@@ -128,6 +138,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **旅館スタッフ:** ありがとうございます。お部屋は201号室です。  <br>
 (arigatou gozaimasu. o-heya wa ni zero ichi goushitsu desu.)  <br>
 謝謝。您的房間是201號房。  <br>
@@ -136,6 +147,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 
 
 <div style="text-align: left">  
+
 **顧客:** 部屋の鍵はどこで受け取れますか？  <br>
 (heya no kagi wa doko de uketoremasu ka?)  <br>
 房間鑰匙在哪裡領取？  <br>
@@ -143,6 +155,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **旅館スタッフ:** フロントでお渡しします。  <br>
 (furonto de o-watashi shimasu.)  <br>
 在櫃檯領取。  <br>
@@ -150,6 +163,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝。  <br>
@@ -175,6 +189,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 ![設施](https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 朝食の時間は何時からですか？  <br>
 (choushoku no jikan wa nanji kara desu ka?)  <br>
 早餐從幾點開始？  <br>
@@ -184,6 +199,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
+
 **旅館スタッフ:** 朝食は7時から9時までです。  <br>
 (choushoku wa shichiji kara kuji made desu.)  <br>
 早餐從7點到9點。  <br>
@@ -191,6 +207,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 夕食は予約が必要ですか？  <br>
 (yuushoku wa yoyaku ga hitsuyou desu ka?)  <br>
 晚餐需要預約嗎？  <br>
@@ -198,6 +215,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **旅館スタッフ:** はい、夕食は18時から20時までで、予約が必要です。  <br>
 (hai, yuushoku wa juuhachiji kara nijiji made de, yoyaku ga hitsuyou desu.)  <br>
 是的，晚餐從6點到8點，需要預約。  <br>
@@ -205,6 +223,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 温泉は24時間利用できますか？  <br>
 (onsen wa nijuuyoji riyou dekimasu ka?)  <br>
 溫泉可以24小時使用嗎？  <br>
@@ -213,6 +232,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 
 
 <div style="text-align: right">  
+
 **旅館スタッフ:** 申し訳ありませんが、温泉は夜11時に閉まります。  <br>
 (moushiwake arimasen ga, onsen wa yoru juuichi ji ni shimarimasu.)  <br>
 抱歉，溫泉在晚上11點關閉。  <br>
@@ -220,6 +240,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 了解です。ありがとうございます。  <br>
 (ryoukai desu. arigatou gozaimasu.)  <br>
 了解，謝謝。  <br>
@@ -245,6 +266,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 ![客房服務](https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** ルームサービスをお願いします。  <br>
 (ruumu saabisu o onegai shimasu.)  <br>
 請幫我送客房服務。  <br>
@@ -254,6 +276,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
+
 **旅館スタッフ:** かしこまりました。何をお持ちしましょうか？  <br>
 (kashikomarimashita. nani o o-mochi shimashou ka?)  <br>
 好的，請問您需要什麼？  <br>
@@ -261,6 +284,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** お茶とお菓子をお願いします。  <br>
 (o-cha to o-kashi o onegai shimasu.)  <br>
 請給我茶和點心。  <br>
@@ -268,6 +292,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **旅館スタッフ:** かしこまりました。15分ほどでお持ちします。  <br>
 (kashikomarimashita. juu go fun hodo de o-mochi shimasu.)  <br>
 好的，大約15分鐘後送到。  <br>
@@ -275,6 +300,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 追加のタオルもお願いします。  <br>
 (tsuika no taoru mo onegai shimasu.)  <br>
 也請給我額外的毛巾。  <br>
@@ -283,6 +309,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 
 
 <div style="text-align: right">  
+
 **旅館スタッフ:** もちろんです。すぐにお持ちします。  <br>
 (mochiron desu. sugu ni o-mochi shimasu.)  <br>
 當然，馬上送來。  <br>
@@ -290,6 +317,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝。  <br>
@@ -315,6 +343,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 ![退房](https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** チェックアウトをお願いします。  <br>
 (chekku-auto o onegai shimasu.)  <br>
 我要辦理退房。  <br>
@@ -324,6 +353,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
+
 **旅館スタッフ:** はい、お部屋の鍵をお返しください。  <br>
 (hai, o-heya no kagi o o-kaeshi kudasai.)  <br>
 好的，請歸還房間鑰匙。  <br>
@@ -331,6 +361,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** こちらです。追加のサービスはありますか？  <br>
 (kochira desu. tsuika no saabisu wa arimasu ka?)  <br>
 這是鑰匙。有額外的服務費用嗎？  <br>
@@ -338,6 +369,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **旅館スタッフ:** いいえ、追加の料金はありません。  <br>
 (iie, tsuika no ryoukin wa arimasen.)  <br>
 沒有，沒有額外的費用。  <br>
@@ -346,6 +378,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 
 
 <div style="text-align: left">  
+
 **顧客:** お世話になりました。とても快適でした。  <br>
 (o-sewa ni narimashita. totemo kaiteki deshita.)  <br>
 謝謝照顧。住得很舒服。  <br>
@@ -353,6 +386,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **旅館スタッフ:** またのお越しをお待ちしております。  <br>
 (mata no o-koshi o omachi shite orimasu.)  <br>
 期待您的再次光臨。  <br>
@@ -360,6 +394,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。また来ます。  <br>
 (arigatou gozaimasu. mata kimasu.)  <br>
 謝謝，我會再來。  <br>

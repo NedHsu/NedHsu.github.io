@@ -35,6 +35,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 ![預約](https://images.pexels.com/photos/5269708/pexels-photo-5269708.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** レンタカーの予約をしたいのですが。  <br>
 (rentakaa no yoyaku o shitai no desu ga.)  <br>
 我想預約租車。  <br>
@@ -44,6 +45,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** はい、いつからご利用ですか？  <br>
 (hai, itsu kara goriyou desu ka?)  <br>
 好的，您要從什麼時候開始使用？  <br>
@@ -51,6 +53,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 来週の月曜日から3日間お願いします。  <br>
 (raishuu no getsuyoubi kara mikkakan onegai shimasu.)  <br>
 從下週一開始租三天。  <br>
@@ -58,6 +61,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** かしこまりました。来週月曜日から3日間ですね。何名様でご利用になりますか？  <br>
 (kashikomarimashita. raishuu getsuyoubi kara mikkakan desu ne. nanmei sama de goriyou ni narimasu ka?)  <br>
 明白了。下週一到三天。請問幾位使用？  <br>
@@ -65,6 +69,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 4人で利用します。  <br>
 (yonin de riyou shimasu.)  <br>
 4個人使用。  <br>
@@ -72,6 +77,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 4名様ですね。料金は1日8,000円で、3日間で24,000円になります。  <br>
 (yonmei sama desu ne. ryoukin wa ichinichi hassen en de, mikkakan de niman yonsen en ni narimasu.)  <br>
 4位客人。費用是1天8,000日圓，3天總共24,000日圓。  <br>
@@ -79,6 +85,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 国際免許証は必要ですか？  <br>
 (kokusai menshoushou wa hitsuyou desu ka?)  <br>
 需要國際駕照嗎？  <br>
@@ -86,6 +93,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、国際免許証とパスポートの提示が必要です。  <br>
 (hai, kokusai menshoushou to pasupooto no teiji ga hitsuyou desu.)  <br>
 是的，需要出示國際駕照和護照。  <br>
@@ -119,6 +127,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 ![車型](https://images.pexels.com/photos/18569462/pexels-photo-18569462.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 4人乗りの車を探しています。  <br>
 (yonin nori no kuruma o sagashite imasu.)  <br>
 我在找四人座的車。  <br>
@@ -128,6 +137,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** こちらのコンパクトカーはいかがですか？  <br>
 (kochira no konpakutokaa wa ikaga desu ka?)  <br>
 這台小型車如何？  <br>
@@ -135,6 +145,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** トランクの大きさはどのくらいですか？  <br>
 (toranku no ookisa wa dono kurai desu ka?)  <br>
 後車廂有多大？  <br>
@@ -142,6 +153,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** トランクはスーツケース2個が入る大きさです。  <br>
 (toranku wa suutsu keesu niko ga hairu ookisa desu.)  <br>
 後車廂可以放2個行李箱。  <br>
@@ -149,6 +161,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 燃費はどのくらいですか？  <br>
 (nenpi wa dono kurai desu ka?)  <br>
 油耗大概是多少？  <br>
@@ -156,6 +169,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 燃費は1リットルで約15キロメートル走行可能です。  <br>
 (nenpi wa ichi rittoru de yaku juu go kiromeetoru soukou kanou desu.)  <br>
 油耗是1公升可以行駛約15公里。  <br>
@@ -163,6 +177,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** では、この車をお願いします。  <br>
 (dewa, kono kuruma o onegai shimasu.)  <br>
 那麼，請給我這台車。  <br>
@@ -170,6 +185,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** かしこまりました。こちらの車で確定いたしました。  <br>
 (kashikomarimashita. kochira no kuruma de kakutei itashimashita.)  <br>
 明白了。這台車已確定。  <br>
@@ -203,6 +219,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 ![保險](https://images.pexels.com/photos/16747158/pexels-photo-16747158.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 保険は含まれていますか？  <br>
 (hoken wa fukumarete imasu ka?)  <br>
 包含保險嗎？  <br>
@@ -212,6 +229,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** 基本の保険は含まれていますが、追加の保険もございます。  <br>
 (kihon no hoken wa fukumarete imasu ga, tsuika no hoken mo gozaimasu.)  <br>
 基本保險已包含，但還有額外的保險可選。  <br>
@@ -219,6 +237,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 追加の保険の内容を教えていただけますか？  <br>
 (tsuika no hoken no naiyou o oshiete itadakemasu ka?)  <br>
 可以告訴我額外保險的內容嗎？  <br>
@@ -226,6 +245,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、追加の保険には車両保険と人身傷害保険があります。  <br>
 (hai, tsuika no hoken ni wa sharyou hoken to jinshin shougai hoken ga arimasu.)  <br>
 好的，額外保險包括車損險和人身傷害險。  <br>
@@ -233,6 +253,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 料金はどのくらいですか？  <br>
 (ryoukin wa dono kurai desu ka?)  <br>
 費用大概是多少？  <br>
@@ -240,6 +261,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 車両保険は1日1,000円、人身傷害保険は1日500円です。  <br>
 (sharyou hoken wa ichinichi sen en, jinshin shougai hoken wa ichinichi gohyaku en desu.)  <br>
 車損險1天1,000日圓，人身傷害險1天500日圓。  <br>
@@ -247,6 +269,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** では、両方ともお願いします。  <br>
 (dewa, ryouhou tomo onegai shimasu.)  <br>
 那麼，兩種都要。  <br>
@@ -254,6 +277,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** かしこまりました。追加保険料金は1日1,500円で、3日間で4,500円になります。  <br>
 (kashikomarimashita. tsuika hoken ryoukin wa ichinichi sen gohyaku en de, mikkakan de yonsen gohyaku en ni narimasu.)  <br>
 明白了。額外保險費用是1天1,500日圓，3天總共4,500日圓。  <br>
@@ -287,6 +311,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 ![取還車](https://images.pexels.com/photos/7415122/pexels-photo-7415122.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 返却時間は何時までですか？  <br>
 (henkyaku jikan wa nanji made desu ka?)  <br>
 最晚幾點還車？  <br>
@@ -296,6 +321,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** 午後6時までです。  <br>
 (gogo rokuji made desu.)  <br>
 下午6點前。  <br>
@@ -303,6 +329,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ガソリンは満タンで返却する必要がありますか？  <br>
 (gasorin wa mantan de henkyaku suru hitsuyou ga arimasu ka?)  <br>
 需要加滿油再還車嗎？  <br>
@@ -310,6 +337,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、満タンで返却していただく必要があります。  <br>
 (hai, mantan de henkyaku shite itadaku hitsuyou ga arimasu.)  <br>
 是的，需要加滿油再還車。  <br>
@@ -317,6 +345,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 車内の清掃は必要ですか？  <br>
 (shanai no seisou wa hitsuyou desu ka?)  <br>
 需要清潔車內嗎？  <br>
@@ -324,6 +353,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 基本的な清掃はお願いします。ゴミの持ち帰りと車内の整理をお願いします。  <br>
 (kihonteki na seisou wa onegai shimasu. gomi no mochikaeri to shanai no seiri o onegai shimasu.)  <br>
 請做基本的清潔。請帶走垃圾並整理車內。  <br>
@@ -331,6 +361,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** わかりました。気をつけます。  <br>
 (wakarimashita. ki o tsukemasu.)  <br>
 明白了。我會注意的。  <br>
@@ -338,6 +369,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** ありがとうございます。安全運転でお気をつけてください。  <br>
 (arigatou gozaimasu. anzen unten de oki o tsukete kudasai.)  <br>
 謝謝您。請注意安全駕駛。  <br>
@@ -375,6 +407,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 ![結帳](https://images.pexels.com/photos/6863336/pexels-photo-6863336.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** お会計をお願いします。  <br>
 (okaikei o onegai shimasu.)  <br>
 請幫我結帳。  <br>
@@ -384,6 +417,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** 3日間で合計24,000円になります。  <br>
 (mikkakan de goukei niman yonsen en ni narimasu.)  <br>
 三天總共是24,000日圓。  <br>
@@ -391,6 +425,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** クレジットカードで支払えますか？  <br>
 (kurejitto kaado de shiharaemasu ka?)  <br>
 可以用信用卡付款嗎？  <br>
@@ -398,6 +433,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、クレジットカード、デビットカード、電子マネーでのお支払いが可能です。  <br>
 (hai, kurejitto kaado, debitto kaado, denshi manee de no oshiharai ga kanou desu.)  <br>
 是的，可以使用信用卡、金融卡、電子錢包付款。  <br>
@@ -405,6 +441,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** では、クレジットカードでお願いします。領収書もお願いします。  <br>
 (dewa, kurejitto kaado de onegai shimasu. ryoushuusho mo onegai shimasu.)  <br>
 那麼，請用信用卡付款。也請給我收據。  <br>
@@ -412,6 +449,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 承知いたしました。クレジットカードでのお支払いを承ります。領収書もお渡しします。  <br>
 (shouchi itashimashita. kurejitto kaado de no oshiharai o uketotte orimasu. ryoushuusho mo otodashi shimasu.)  <br>
 好的。我來處理信用卡付款。也會給您收據。  <br>
@@ -419,6 +457,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございました。また利用したいと思います。  <br>
 (arigatou gozaimashita. mata riyou shitai to omoimasu.)  <br>
 謝謝您。我想還會再來使用。  <br>
@@ -426,6 +465,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** ありがとうございました。またのお越しをお待ちしております。  <br>
 (arigatou gozaimashita. mata no okoshi o omachi shite orimasu.)  <br>
 謝謝您。期待您再次光臨。  <br>

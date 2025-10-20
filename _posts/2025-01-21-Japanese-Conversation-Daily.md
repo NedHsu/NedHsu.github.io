@@ -14,6 +14,7 @@ tags: [日語, Japanese, 日語對話]
 ![在咖啡店點餐](https://images.pexels.com/photos/1545399/pexels-photo-1545399.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **店員:** いらっしゃいませ！ご注文はお決まりですか？  <br>
 (irasshaimase! go-chuumon wa o-kimari desu ka?)  <br>
 歡迎光臨！請問您決定好要點什麼了嗎？  <br>
@@ -23,6 +24,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **顧客:** はい、アイスコーヒーをお願いします。  <br>
 (hai, aisu koohii o onegai shimasu.)  <br>
 好的，請給我冰咖啡。  <br>
@@ -32,6 +34,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: left">  
+
 **店員:** サイズはどうされますか？  <br>
 (saizu wa dou saremasu ka?)  <br>
 請問您需要什麼大小？  <br>
@@ -41,6 +44,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **顧客:** Mサイズでお願いします。  <br>
 (emu saizu de onegai shimasu.)  <br>
 請給我中杯。  <br>
@@ -50,6 +54,7 @@ tags: [日語, Japanese, 日語對話]
 // Adding more details to the conversation
 
 <div style="text-align: left">  
+
 **店員:** かしこまりました。お砂糖とミルクはお入れしますか？  <br>
 (kashikomarimashita. o-satou to miruku wa o-ire shimasu ka?)  <br>
 好的，請問需要加糖和牛奶嗎？  <br>
@@ -57,6 +62,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** 砂糖だけお願いします。  <br>
 (satou dake onegai shimasu.)  <br>
 只要糖就好。  <br>
@@ -64,6 +70,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **店員:** かしこまりました。少々お待ちください。  <br>
 (kashikomarimashita. shoushou omachi kudasai.)  <br>
 好的，請稍等。  <br>
@@ -71,6 +78,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝。  <br>
@@ -84,6 +92,7 @@ tags: [日語, Japanese, 日語對話]
 ![問路](https://images.pexels.com/photos/29786884/pexels-photo-29786884.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **路人:** すみません、駅はどこですか？  <br>
 (sumimasen, eki wa doko desu ka?)  <br>
 不好意思，請問車站在哪裡？  <br>
@@ -93,6 +102,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **當地人:** この道をまっすぐ行って、二つ目の信号を右に曲がってください。  <br>
 (kono michi o massugu itte, futatsume no shingou o migi ni magatte kudasai.)  <br>
 沿著這條路直走，第二個紅綠燈右轉即可。  <br>
@@ -102,6 +112,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: left">  
+
 **路人:** ありがとうございます！  <br>
 (arigatou gozaimasu!)  <br>
 非常感謝！  <br>
@@ -111,6 +122,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **當地人:** どういたしまして。気をつけて。  <br>
 (dou itashimashite. ki o tsukete.)  <br>
 不客氣，請小心。  <br>
@@ -120,6 +132,7 @@ tags: [日語, Japanese, 日語對話]
 // Adding more details to the conversation
 
 <div style="text-align: left">  
+
 **路人:** 駅までどのくらいかかりますか？  <br>
 (eki made dono kurai kakarimasu ka?)  <br>
 到車站大概要多久？  <br>
@@ -127,6 +140,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **當地人:** 歩いて10分くらいです。  <br>
 (aruite juppun kurai desu.)  <br>
 走路大概10分鐘。  <br>
@@ -134,6 +148,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **路人:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝。  <br>
@@ -147,6 +162,7 @@ tags: [日語, Japanese, 日語對話]
 ![在超市結帳](https://images.pexels.com/photos/32150477/pexels-photo-32150477.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **收銀員:** 袋はご利用ですか？  <br>
 (fukuro wa go-riyou desu ka?)  <br>
 請問需要購物袋嗎？  <br>
@@ -156,6 +172,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **顧客:** はい、お願いします。  <br>
 (hai, onegai shimasu.)  <br>
 好的，麻煩給我一個。  <br>
@@ -165,6 +182,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: left">  
+
 **收銀員:** かしこまりました。お会計は500円です。  <br>
 (kashikomarimashita. o-kaikei wa gohyaku en desu.)  <br>
 好的，總共是500日圓。  <br>
@@ -174,6 +192,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **顧客:** はい、どうぞ。  <br>
 (hai, douzo.)  <br>
 好的，這是錢。  <br>
@@ -183,6 +202,7 @@ tags: [日語, Japanese, 日語對話]
 // Adding more details to the conversation
 
 <div style="text-align: left">  
+
 **收銀員:** ありがとうございます。ポイントカードはお持ちですか？  <br>
 (arigatou gozaimasu. pointo kaado wa o-mochi desu ka?)  <br>
 謝謝。請問有會員卡嗎？  <br>
@@ -190,6 +210,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** いいえ、持っていません。  <br>
 (iie, motteimasen.)  <br>
 沒有，我沒有。  <br>
@@ -197,6 +218,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **收銀員:** かしこまりました。またお越しくださいませ！  <br>
 (kashikomarimashita. mata o-koshi kudasaimase!)  <br>
 好的，歡迎再來！  <br>
@@ -204,6 +226,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝。  <br>

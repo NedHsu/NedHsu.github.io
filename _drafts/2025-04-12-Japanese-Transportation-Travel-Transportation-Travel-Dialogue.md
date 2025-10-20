@@ -38,49 +38,49 @@ excerpt: 學習日語中交通與旅行相關的表達方式，包括交通工�
 <div style="text-align: left">
 **電車** (densha) - 電車  <br>
 **Train**  <br>
-例：電車で行きます。(densha de ikimasu) - 我坐電車去。  <br>
+*例句：電車で行きます。(densha de ikimasu) - 我坐電車去。*  <br>
 </div>
 
 <div style="text-align: left">
 **地下鉄** (chikatetsu) - 地下鐵  <br>
 **Subway**  <br>
-例：地下鉄に乗ります。(chikatetsu ni norimasu) - 我搭地下鐵。  <br>
+*例句：地下鉄に乗ります。(chikatetsu ni norimasu) - 我搭地下鐵。*  <br>
 </div>
 
 <div style="text-align: left">
 **バス** (basu) - 公車  <br>
 **Bus**  <br>
-例：バスで駅まで行きます。(basu de eki made ikimasu) - 我搭公車到車站。  <br>
+*例句：バスで駅まで行きます。(basu de eki made ikimasu) - 我搭公車到車站。*  <br>
 </div>
 
 <div style="text-align: left">
 **タクシー** (takushii) - 計程車  <br>
 **Taxi**  <br>
-例：タクシーを呼びます。(takushii wo yobimasu) - 我叫計程車。  <br>
+*例句：タクシーを呼びます。(takushii wo yobimasu) - 我叫計程車。*  <br>
 </div>
 
 <div style="text-align: left">
 **新幹線** (shinkansen) - 新幹線  <br>
 **Bullet train**  <br>
-例：新幹線で東京へ行きます。(shinkansen de toukyou e ikimasu) - 我搭新幹線去東京。  <br>
+*例句：新幹線で東京へ行きます。(shinkansen de toukyou e ikimasu) - 我搭新幹線去東京。*  <br>
 </div>
 
 <div style="text-align: left">
 **飛行機** (hikouki) - 飛機  <br>
 **Airplane**  <br>
-例：飛行機で大阪へ行きます。(hikouki de oosaka e ikimasu) - 我坐飛機去大阪。  <br>
+*例句：飛行機で大阪へ行きます。(hikouki de oosaka e ikimasu) - 我坐飛機去大阪。*  <br>
 </div>
 
 <div style="text-align: left">
 **船** (fune) - 船  <br>
 **Ship/Boat**  <br>
-例：船の旅をします。(fune no tabi wo shimasu) - 我搭船旅行。  <br>
+*例句：船の旅をします。(fune no tabi wo shimasu) - 我搭船旅行。*  <br>
 </div>
 
 <div style="text-align: left">
 **自転車** (jitensha) - 自行車  <br>
 **Bicycle**  <br>
-例：自転車で通勤します。(jitensha de tsuukin shimasu) - 我騎腳踏車通勤。  <br>
+*例句：自転車で通勤します。(jitensha de tsuukin shimasu) - 我騎腳踏車通勤。*  <br>
 </div>
 
 ### 重點句型
@@ -106,31 +106,31 @@ excerpt: 學習日語中交通與旅行相關的表達方式，包括交通工�
 <div style="text-align: left">
 **切符** (kippu) - 票  <br>
 **Ticket**  <br>
-例：切符を買います。(kippu wo kaimasu) - 我買票。  <br>
+*例句：切符を買います。(kippu wo kaimasu) - 我買票。*  <br>
 </div>
 
 <div style="text-align: left">
 **ICカード** (ai shii kaado) - IC卡  <br>
 **IC card**  <br>
-例：ICカードで乗ります。(ai shii kaado de norimasu) - 我用IC卡搭乘。  <br>
+*例句：ICカードで乗ります。(ai shii kaado de norimasu) - 我用IC卡搭乘。*  <br>
 </div>
 
 <div style="text-align: left">
 **改札口** (kaisatsuguchi) - 驗票閘門  <br>
 **Ticket gate**  <br>
-例：改札口を通ります。(kaisatsuguchi wo toorimasu) - 通過驗票口。  <br>
+*例句：改札口を通ります。(kaisatsuguchi wo toorimasu) - 通過驗票口。*  <br>
 </div>
 
 <div style="text-align: left">
 **ホーム** (hoomu) - 月台  <br>
 **Platform**  <br>
-例：三番ホームです。(sanban hoomu desu) - 第三月台。  <br>
+*例句：三番ホームです。(sanban hoomu desu) - 第三月台。*  <br>
 </div>
 
 <div style="text-align: left">
 **乗り換え** (norikae) - 轉乘  <br>
 **Transfer**  <br>
-例：ここで乗り換えます。(koko de norikaemasu) - 在這裡轉乘。  <br>
+*例句：ここで乗り換えます。(koko de norikaemasu) - 在這裡轉乘。*  <br>
 </div>
 
 ### 時刻與座位
@@ -138,19 +138,19 @@ excerpt: 學習日語中交通與旅行相關的表達方式，包括交通工�
 <div style="text-align: left">
 **時刻表** (jikokuhyou) - 時刻表  <br>
 **Timetable**  <br>
-例：時刻表を見ます。(jikokuhyou wo mimasu) - 我看時刻表。  <br>
+*例句：時刻表を見ます。(jikokuhyou wo mimasu) - 我看時刻表。*  <br>
 </div>
 
 <div style="text-align: left">
 **指定席** (shiteiseki) - 指定席  <br>
 **Reserved seat**  <br>
-例：指定席を予約します。(shiteiseki wo yoyaku shimasu) - 我預約指定席。  <br>
+*例句：指定席を予約します。(shiteiseki wo yoyaku shimasu) - 我預約指定席。*  <br>
 </div>
 
 <div style="text-align: left">
 **自由席** (jiyuuseki) - 自由席  <br>
 **Non-reserved seat**  <br>
-例：自由席に座ります。(jiyuuseki ni suwarimasu) - 坐自由席。  <br>
+*例句：自由席に座ります。(jiyuuseki ni suwarimasu) - 坐自由席。*  <br>
 </div>
 
 ### 重點句型
@@ -176,19 +176,19 @@ excerpt: 學習日語中交通與旅行相關的表達方式，包括交通工�
 <div style="text-align: left">
 **駅はどこですか？** (eki wa doko desu ka?) - 車站在哪裡？  <br>
 **Where is the station?**  <br>
-例：駅はどこですか？- 車站在哪裡？  <br>
+*例句：駅はどこですか？- 車站在哪裡？*  <br>
 </div>
 
 <div style="text-align: left">
 **～へはどう行きますか？** (~ e wa dou ikimasu ka?) - 去～怎麼走？  <br>
 **How do I get to ~?**  <br>
-例：空港へはどう行きますか？- 去機場怎麼走？  <br>
+*例句：空港へはどう行きますか？- 去機場怎麼走？*  <br>
 </div>
 
 <div style="text-align: left">
 **この地図で教えてください。** (kono chizu de oshiete kudasai) - 請用這張地圖告訴我。  <br>
 **Please show me on this map.**  <br>
-例：この地図でお願いします。- 請用這張地圖。  <br>
+*例句：この地図でお願いします。- 請用這張地圖。*  <br>
 </div>
 
 ### 指路常用句
@@ -231,25 +231,25 @@ excerpt: 學習日語中交通與旅行相關的表達方式，包括交通工�
 <div style="text-align: left">
 **予約** (yoyaku) - 預約  <br>
 **Reservation**  <br>
-例：予約をお願いします。(yoyaku wo onegai shimasu) - 請幫我預約。  <br>
+*例句：予約をお願いします。(yoyaku wo onegai shimasu) - 請幫我預約。*  <br>
 </div>
 
 <div style="text-align: left">
 **チェックイン** (chekku in) - 辦理入住  <br>
 **Check-in**  <br>
-例：チェックインをお願いします。(chekku in wo onegai shimasu) - 我要辦理入住。  <br>
+*例句：チェックインをお願いします。(chekku in wo onegai shimasu) - 我要辦理入住。*  <br>
 </div>
 
 <div style="text-align: left">
 **部屋** (heya) - 房間  <br>
 **Room**  <br>
-例：部屋は何階ですか？(heya wa nankai desu ka?) - 房間在幾樓？  <br>
+*例句：部屋は何階ですか？(heya wa nankai desu ka?) - 房間在幾樓？*  <br>
 </div>
 
 <div style="text-align: left">
 **鍵** (kagi) - 鑰匙  <br>
 **Key**  <br>
-例：鍵をお願いします。(kagi wo onegai shimasu) - 請給我鑰匙。  <br>
+*例句：鍵をお願いします。(kagi wo onegai shimasu) - 請給我鑰匙。*  <br>
 </div>
 
 ### 觀光安排
@@ -257,19 +257,19 @@ excerpt: 學習日語中交通與旅行相關的表達方式，包括交通工�
 <div style="text-align: left">
 **観光** (kankou) - 觀光  <br>
 **Sightseeing**  <br>
-例：観光案内はありますか？(kankou annai wa arimasu ka?) - 有觀光指南嗎？  <br>
+*例句：観光案内はありますか？(kankou annai wa arimasu ka?) - 有觀光指南嗎？*  <br>
 </div>
 
 <div style="text-align: left">
 **行程** (koutei/itinerary) - 行程  <br>
 **Itinerary**  <br>
-例：行程を立てます。(koutei wo tatemasu) - 我安排行程。  <br>
+*例句：行程を立てます。(koutei wo tatemasu) - 我安排行程。*  <br>
 </div>
 
 <div style="text-align: left">
 **土産** (omiyage) - 伴手禮  <br>
 **Souvenir**  <br>
-例：土産を買います。(omiyage wo kaimasu) - 我買伴手禮。  <br>
+*例句：土産を買います。(omiyage wo kaimasu) - 我買伴手禮。*  <br>
 </div>
 
 ### 重點句型

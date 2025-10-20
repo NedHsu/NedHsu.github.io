@@ -35,6 +35,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 ![租借](https://images.pexels.com/photos/7415122/pexels-photo-7415122.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 自転車を借りたいのですが。  <br>
 (jitensha o karitai no desu ga.)  <br>
 我想租自行車。  <br>
@@ -44,6 +45,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** はい、何時間ご利用ですか？  <br>
 (hai, nanjikan goriyou desu ka?)  <br>
 好的，您要使用幾個小時？  <br>
@@ -51,6 +53,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 3時間くらいお願いします。  <br>
 (sanjikan kurai onegai shimasu.)  <br>
 請租3小時左右。  <br>
@@ -58,6 +61,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** かしこまりました。3時間のレンタル料金は1,500円です。  <br>
 (kashikomarimashita. sanjikan no rentaru ryoukin wa sen gohyaku en desu.)  <br>
 明白了。3小時的租金是1,500日圓。  <br>
@@ -65,6 +69,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 支払いは現金ですか？クレジットカードは使えますか？  <br>
 (shiharai wa genkin desu ka? kurejitto kaado wa tsukaemasu ka?)  <br>
 付款是現金嗎？可以用信用卡嗎？  <br>
@@ -72,6 +77,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、現金とクレジットカードの両方がご利用いただけます。  <br>
 (hai, genkin to kurejitto kaado no ryouhou ga goriyou itadakemasu.)  <br>
 是的，可以使用現金和信用卡。  <br>
@@ -79,6 +85,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** では、クレジットカードでお願いします。  <br>
 (dewa, kurejitto kaado de onegai shimasu.)  <br>
 那麼，請用信用卡付款。  <br>
@@ -86,6 +93,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 承知いたしました。こちらの端末にカードを挿入してください。  <br>
 (shouchi itashimashita. kochira no tansumatsu ni kaado o sounyuu shite kudasai.)  <br>
 好的。請將卡插入這個終端機。  <br>
@@ -119,6 +127,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 ![車型](https://images.pexels.com/photos/30732285/pexels-photo-30732285.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 電動自転車はありますか？  <br>
 (dendou jitensha wa arimasu ka?)  <br>
 有電動自行車嗎？  <br>
@@ -128,6 +137,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** はい、こちらが電動自転車です。  <br>
 (hai, kochira ga dendou jitensha desu.)  <br>
 是的，這是電動自行車。  <br>
@@ -135,6 +145,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 普通の自転車と電動自転車、どちらがおすすめですか？  <br>
 (futsuu no jitensha to dendou jitensha, dochira ga osusume desu ka?)  <br>
 普通自行車和電動自行車，您推薦哪一種？  <br>
@@ -142,6 +153,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 電動自転車は坂道でも楽に走れますので、長距離を移動する場合におすすめです。  <br>
 (dendou jitensha wa sakamichi demo raku ni hashiremasu node, choukyori o idou suru baai ni osusume desu.)  <br>
 電動自行車在坡道上也能輕鬆行駛，適合長距離移動。  <br>
@@ -149,6 +161,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** では、電動自転車をお願いします。バッテリーの持ちはどのくらいですか？  <br>
 (dewa, dendou jitensha o onegai shimasu. batterii no mochi wa dono kurai desu ka?)  <br>
 那麼，請給我電動自行車。電池可以撐多久？  <br>
@@ -156,6 +169,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** バッテリーはフル充電で約50キロメートル走行可能です。  <br>
 (batterii wa furu juuden de yaku gojuu kiromeetoru soukou kanou desu.)  <br>
 電池充滿電的話，可以行駛約50公里。  <br>
@@ -163,6 +177,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。それでは、これを借ります。  <br>
 (arigatou gozaimasu. soredewa, kore o karimasu.)  <br>
 謝謝您。那麼，我就租這個。  <br>
@@ -170,6 +185,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** かしこまりました。こちらの書類にご記入ください。  <br>
 (kashikomarimashita. kochira no shorui ni gokinyuu kudasai.)  <br>
 明白了。請填寫這份文件。  <br>
@@ -203,6 +219,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 ![規則](https://images.pexels.com/photos/8850706/pexels-photo-8850706.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 利用のルールを教えていただけますか？  <br>
 (riyou no ruuru o oshiete itadakemasu ka?)  <br>
 可以告訴我使用規則嗎？  <br>
@@ -212,6 +229,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** はい、ヘルメットの着用は必須です。  <br>
 (hai, herumetto no chakuyou wa hissu desu.)  <br>
 好的，必須戴安全帽。  <br>
@@ -219,6 +237,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 駐輪場はどこにありますか？  <br>
 (chuurinjou wa doko ni arimasu ka?)  <br>
 停車場在哪裡？  <br>
@@ -226,6 +245,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 駐輪場は駅の隣にあります。地図をお渡ししますので、ご確認ください。  <br>
 (chuurinjou wa eki no tonari ni arimasu. chizu o owatashi shimasu node, gokakunin kudasai.)  <br>
 停車場在車站旁邊。我會給您地圖，請確認。  <br>
@@ -233,6 +253,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。他に注意点はありますか？  <br>
 (arigatou gozaimasu. hoka ni chuuiten wa arimasu ka?)  <br>
 謝謝您。還有其他注意事項嗎？  <br>
@@ -240,6 +261,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、交通ルールを守り、歩行者に注意してください。また、夜間はライトを点灯してください。  <br>
 (hai, koutsuu ruuru o mamori, hokousha ni chuui shite kudasai. mata, yakan wa raito o tentou shite kudasai.)  <br>
 是的，請遵守交通規則，注意行人。另外，夜間請開燈。  <br>
@@ -247,6 +269,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** わかりました。気をつけます。  <br>
 (wakarimashita. ki o tsukemasu.)  <br>
 明白了。我會注意的。  <br>
@@ -285,6 +308,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 ![使用說明](https://images.pexels.com/photos/18245895/pexels-photo-18245895.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 電動自転車の使い方を教えていただけますか？  <br>
 (dendou jitensha no tsukaikata o oshiete itadakemasu ka?)  <br>
 可以教我如何使用電動自行車嗎？  <br>
@@ -294,6 +318,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** はい、このボタンで電源を入れてください。  <br>
 (hai, kono botan de dengen o irete kudasai.)  <br>
 好的，請按這個按鈕開機。  <br>
@@ -301,6 +326,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** バッテリーはどのくらい持ちますか？  <br>
 (batterii wa dono kurai mochimasu ka?)  <br>
 電池可以撐多久？  <br>
@@ -308,6 +334,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** フル充電で約50キロメートル走行可能です。  <br>
 (furu juuden de yaku gojuu kiromeetoru soukou kanou desu.)  <br>
 充滿電的話，可以行駛約50公里。  <br>
@@ -315,6 +342,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 充電はどこでできますか？  <br>
 (juuden wa doko de dekimasu ka?)  <br>
 可以在哪裡充電？  <br>
@@ -322,6 +350,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 充電は駅前の駐輪場で可能です。充電器は無料でご利用いただけます。  <br>
 (juuden wa ekimae no chuurinjou de kanou desu. juudenki wa muryou de goriyou itadakemasu.)  <br>
 可以在車站前的停車場充電。充電器可以免費使用。  <br>
@@ -329,6 +358,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。安全運転に気をつけます。  <br>
 (arigatou gozaimasu. anzen unten ni ki o tsukemasu.)  <br>
 謝謝您。我會注意安全駕駛。  <br>
@@ -362,6 +392,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 ![歸還](https://images.pexels.com/photos/6863336/pexels-photo-6863336.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 返却時間を過ぎてしまいました。  <br>
 (henkyaku jikan o sugite shimaimashita.)  <br>
 我超過歸還時間了。  <br>
@@ -371,6 +402,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** 30分の延長料金がかかります。  <br>
 (sanjuu pun no enchou ryoukin ga kakarimasu.)  <br>
 需要支付30分鐘的延長費用。  <br>
@@ -378,6 +410,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 合計でいくらになりますか？  <br>
 (goukei de ikura ni narimasu ka?)  <br>
 總共要多少錢？  <br>
@@ -385,6 +418,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 延長料金を含めて、合計で1,800円になります。  <br>
 (enchou ryoukin o fukumete, goukei de sen happyaku en ni narimasu.)  <br>
 包括延長費用，總共是1,800日圓。  <br>
@@ -392,6 +426,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 支払いはクレジットカードでお願いします。  <br>
 (shiharai wa kurejitto kaado de onegai shimasu.)  <br>
 請用信用卡付款。  <br>
@@ -399,6 +434,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** かしこまりました。こちらの端末にカードを挿入してください。  <br>
 (kashikomarimashita. kochira no tansumatsu ni kaado o sounyuu shite kudasai.)  <br>
 明白了。請將卡插入這個終端機。  <br>
@@ -406,6 +442,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。また利用したいと思います。  <br>
 (arigatou gozaimasu. mata riyou shitai to omoimasu.)  <br>
 謝謝您。我想還會再來使用。  <br>
@@ -413,6 +450,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** ありがとうございました。またのお越しをお待ちしております。  <br>
 (arigatou gozaimashita. mata no okoshi o omachi shite orimasu.)  <br>
 謝謝您。期待您再次光臨。  <br>

@@ -35,6 +35,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 ![預約](https://images.pexels.com/photos/32112649/pexels-photo-32112649.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 予約をお願いしたいのですが。  <br>
 (yoyaku o onegai shitai no desu ga.)  <br>
 我想預約。  <br>
@@ -44,6 +45,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
+
 **美容師:** 何時がよろしいですか？  <br>
 (nanji ga yoroshii desu ka?)  <br>
 什麼時間方便？  <br>
@@ -51,6 +53,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 明日の午後2時は空いていますか？  <br>
 (ashita no gogo niji wa aite imasu ka?)  <br>
 明天下午2點有空嗎？  <br>
@@ -58,6 +61,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **美容師:** はい、ご予約いただけます。カットとカラー、どちらをご希望ですか？  <br>
 (hai, goyoyaku itadakemasu. katto to karaa, dochira o gokibou desu ka?)  <br>
 是的，可以為您預約。您想要剪髮還是染髮？  <br>
@@ -65,6 +69,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** カットをお願いします。  <br>
 (katto o onegai shimasu.)  <br>
 請幫我剪髮。  <br>
@@ -72,6 +77,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **美容師:** かしこまりました。ご予約を承りました。  <br>
 (kashikomarimashita. goyoyaku o uketamawarimashita.)  <br>
 明白了。已為您預約。  <br>
@@ -101,6 +107,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 ![剪髮](https://images.pexels.com/photos/1319460/pexels-photo-1319460.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** カットをお願いします。  <br>
 (katto o onegai shimasu.)  <br>
 請幫我剪髮。  <br>
@@ -110,6 +117,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
+
 **美容師:** どのようなスタイルがよろしいですか？  <br>
 (dono you na sutairu ga yoroshii desu ka?)  <br>
 您想要什麼樣的髮型？  <br>
@@ -117,6 +125,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ショートカットにしたいです。  <br>
 (shootokatto ni shitai desu.)  <br>
 我想剪短髮。  <br>
@@ -124,6 +133,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **美容師:** かしこまりました。長さはどのくらいにしますか？  <br>
 (kashikomarimashita. nagasa wa dono kurai ni shimasu ka?)  <br>
 明白了。長度要剪多短？  <br>
@@ -131,6 +141,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 耳の上くらいまでお願いします。  <br>
 (mimi no ue kurai made onegai shimasu.)  <br>
 請剪到耳朵上方。  <br>
@@ -138,6 +149,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **美容師:** かしこまりました。  <br>
 (kashikomarimashita.)  <br>
 明白了。  <br>
@@ -167,6 +179,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 ![染髮](https://images.pexels.com/photos/8468139/pexels-photo-8468139.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** カラーをお願いします。  <br>
 (karaa o onegai shimasu.)  <br>
 請幫我染髮。  <br>
@@ -176,6 +189,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
+
 **美容師:** どのような色がよろしいですか？  <br>
 (dono you na iro ga yoroshii desu ka?)  <br>
 您想要什麼顏色？  <br>
@@ -183,6 +197,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 明るい茶色にしたいです。  <br>
 (akarui chairo ni shitai desu.)  <br>
 我想要亮棕色。  <br>
@@ -190,6 +205,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **美容師:** かしこまりました。この色でよろしいですか？  <br>
 (kashikomarimashita. kono iro de yoroshii desu ka?)  <br>
 明白了。這個顏色可以嗎？  <br>
@@ -197,6 +213,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** はい、それでお願いします。  <br>
 (hai, sore de onegai shimasu.)  <br>
 好的，就這樣吧。  <br>
@@ -204,6 +221,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **美容師:** かしこまりました。  <br>
 (kashikomarimashita.)  <br>
 明白了。  <br>
@@ -233,6 +251,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 ![護髮](https://images.pexels.com/photos/973401/pexels-photo-973401.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** トリートメントをお願いします。  <br>
 (toriitomento o onegai shimasu.)  <br>
 請幫我護髮。  <br>
@@ -242,6 +261,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
+
 **美容師:** どのようなトリートメントがよろしいですか？  <br>
 (dono you na toriitomento ga yoroshii desu ka?)  <br>
 您想要什麼樣的護髮？  <br>
@@ -249,6 +269,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 保湿効果のあるものをお願いします。  <br>
 (hoshitsu kouka no aru mono o onegai shimasu.)  <br>
 請幫我做有保濕效果的。  <br>
@@ -256,6 +277,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **美容師:** かしこまりました。こちらのトリートメントはいかがですか？  <br>
 (kashikomarimashita. kochira no toriitomento wa ikaga desu ka?)  <br>
 明白了。這款護髮如何？  <br>
@@ -263,6 +285,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** それでお願いします。  <br>
 (sore de onegai shimasu.)  <br>
 就這樣吧。  <br>
@@ -270,6 +293,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **美容師:** かしこまりました。  <br>
 (kashikomarimashita.)  <br>
 明白了。  <br>
@@ -299,6 +323,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 ![結帳](https://images.pexels.com/photos/7621136/pexels-photo-7621136.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** お会計をお願いします。  <br>
 (okaikei o onegai shimasu.)  <br>
 請幫我結帳。  <br>
@@ -308,6 +333,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
+
 **美容師:** 合計で8,000円になります。  <br>
 (goukei de hassen en ni narimasu.)  <br>
 總共是8,000日圓。  <br>
@@ -315,6 +341,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** クレジットカードで支払えますか？  <br>
 (kurejitto kaado de shiharaemasu ka?)  <br>
 可以用信用卡付款嗎？  <br>
@@ -322,6 +349,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **美容師:** はい、VISAとマスターカードがご利用いただけます。  <br>
 (hai, visa to masutaa kaado ga goriyou itadakemasu.)  <br>
 是的，可以使用VISA和MasterCard。  <br>
@@ -329,6 +357,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** では、VISAでお願いします。  <br>
 (dewa, visa de onegai shimasu.)  <br>
 那麼，請用VISA付款。  <br>
@@ -336,6 +365,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **美容師:** 承知いたしました。こちらが領収書です。  <br>
 (shouchi itashimashita. kochira ga ryoushuusho desu.)  <br>
 好的。這是您的收據。  <br>
@@ -343,6 +373,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございました。また来ます。  <br>
 (arigatou gozaimashita. mata kimasu.)  <br>
 謝謝您。我會再來。  <br>
@@ -350,6 +381,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **美容師:** ありがとうございました。またのお越しをお待ちしております。  <br>
 (arigatou gozaimashita. mata no okoshi o omachi shite orimasu.)  <br>
 謝謝您。期待您再次光臨。  <br>

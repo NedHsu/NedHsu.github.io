@@ -35,6 +35,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 ![入場](https://images.pexels.com/photos/2258339/pexels-photo-2258339.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 入場券を買いたいのですが。  <br>
 (nyuujouken o kaitai no desu ga.)  <br>
 我想買入場券。  <br>
@@ -44,6 +45,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 <br>  
 
 <div style="text-align: right">  
+
 **售票員:** 大人は1,000円です。  <br>
 (otona wa sen en desu.)  <br>
 大人是1,000日圓。  <br>
@@ -51,6 +53,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 子供はいくらですか？  <br>
 (kodomo wa ikura desu ka?)  <br>
 小孩是多少錢？  <br>
@@ -58,6 +61,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 </div>  
 
 <div style="text-align: right">  
+
 **售票員:** 子供は500円です。  <br>
 (kodomo wa gohyaku en desu.)  <br>
 小孩是500日圓。  <br>
@@ -65,6 +69,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 団体割引はありますか？  <br>
 (dantai waribiki wa arimasu ka?)  <br>
 有團體折扣嗎？  <br>
@@ -72,6 +77,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 </div>  
 
 <div style="text-align: right">  
+
 **售票員:** はい、10名以上で20%の割引があります。  <br>
 (hai, juu mei ijou de nijuu paasento no waribiki ga arimasu.)  <br>
 是的，10人以上有20%的折扣。  <br>
@@ -79,6 +85,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。大人2枚と子供3枚をお願いします。  <br>
 (arigatou gozaimasu. otona ni mai to kodomo san mai o onegai shimasu.)  <br>
 謝謝您。請給我兩張大人票和三張小孩票。  <br>
@@ -86,6 +93,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 </div>  
 
 <div style="text-align: right">  
+
 **售票員:** かしこまりました。合計で3,500円になります。  <br>
 (kashikomarimashita. goukei de sanzen gohyaku en ni narimasu.)  <br>
 明白了。總共是3,500日圓。  <br>
@@ -115,6 +123,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 ![設施](https://images.pexels.com/photos/31413052/pexels-photo-31413052.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **泳客:** ロッカーの使い方を教えていただけますか？  <br>
 (rokkaa no tsukaikata o oshiete itadakemasu ka?)  <br>
 可以教我置物櫃的使用方法嗎？  <br>
@@ -124,6 +133,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 <br>  
 
 <div style="text-align: right">  
+
 **工作人員:** はい、こちらが使い方の説明です。  <br>
 (hai, kochira ga tsukaikata no setsumei desu.)  <br>
 好的，這是使用方法的說明。  <br>
@@ -131,6 +141,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 </div>  
 
 <div style="text-align: left">  
+
 **泳客:** シャワーはどこにありますか？  <br>
 (shawaa wa doko ni arimasu ka?)  <br>
 淋浴間在哪裡？  <br>
@@ -138,6 +149,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 </div>  
 
 <div style="text-align: right">  
+
 **工作人員:** 更衣室の隣にあります。  <br>
 (kouishitsu no tonari ni arimasu.)  <br>
 在更衣室旁邊。  <br>
@@ -145,6 +157,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 </div>  
 
 <div style="text-align: left">  
+
 **泳客:** プールの利用時間は何時から何時までですか？  <br>
 (puuru no riyou jikan wa nanji kara nanji made desu ka?)  <br>
 游泳池的使用時間是從幾點到幾點？  <br>
@@ -152,6 +165,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 </div>  
 
 <div style="text-align: right">  
+
 **工作人員:** 午前9時から午後8時までです。  <br>
 (gozen kuji kara gogo hachiji made desu.)  <br>
 從上午9點到晚上8點。  <br>
@@ -159,6 +173,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 </div>  
 
 <div style="text-align: left">  
+
 **泳客:** ありがとうございます。安全に気をつけて楽しみます。  <br>
 (arigatou gozaimasu. anzen ni ki o tsukete tanoshimimasu.)  <br>
 謝謝您。我會注意安全並享受游泳。  <br>
@@ -166,6 +181,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 </div>  
 
 <div style="text-align: right">  
+
 **工作人員:** どういたしまして。楽しんでください。  <br>
 (dou itashimashite. tanoshinde kudasai.)  <br>
 不客氣。請享受游泳。  <br>
@@ -195,6 +211,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 ![課程](https://images.pexels.com/photos/9159054/pexels-photo-9159054.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **學員:** スイミングのクラスはありますか？  <br>
 (suimingu no kurasu wa arimasu ka?)  <br>
 有游泳課程嗎？  <br>
@@ -204,6 +221,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 <br>  
 
 <div style="text-align: right">  
+
 **課程顧問:** はい、毎日開催しています。  <br>
 (hai, mainichi kaisai shite imasu.)  <br>
 有的，每天都有舉辦。  <br>
@@ -211,6 +229,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 </div>  
 
 <div style="text-align: left">  
+
 **學員:** 初心者向けのクラスはありますか？  <br>
 (shoshinsha muke no kurasu wa arimasu ka?)  <br>
 有適合初學者的課程嗎？  <br>
@@ -218,6 +237,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 </div>  
 
 <div style="text-align: right">  
+
 **課程顧問:** はい、午前と午後、それぞれ1時間のクラスがあります。  <br>
 (hai, gozen to gogo, sorezore ichijikan no kurasu ga arimasu.)  <br>
 有的，上午和下午各有1小時的課程。  <br>
@@ -225,6 +245,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 </div>  
 
 <div style="text-align: left">  
+
 **學員:** クラスの料金はいくらですか？  <br>
 (kurasu no ryoukin wa ikura desu ka?)  <br>
 課程的費用是多少？  <br>
@@ -232,6 +253,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 </div>  
 
 <div style="text-align: right">  
+
 **課程顧問:** 1回のクラスは2,000円です。  <br>
 (ikkai no kurasu wa nisen en desu.)  <br>
 每次課程是2,000日圓。  <br>
@@ -239,6 +261,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 </div>  
 
 <div style="text-align: left">  
+
 **學員:** ありがとうございます。午前のクラスを予約したいです。  <br>
 (arigatou gozaimasu. gozen no kurasu o yoyaku shitai desu.)  <br>
 謝謝您。我想預約上午的課程。  <br>
@@ -246,6 +269,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 </div>  
 
 <div style="text-align: right">  
+
 **課程顧問:** かしこまりました。予約を承りました。  <br>
 (kashikomarimashita. yoyaku o uketamawarimashita.)  <br>
 明白了。已為您預約。  <br>
@@ -275,6 +299,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 ![教練](https://images.pexels.com/photos/5745684/pexels-photo-5745684.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **學員:** コーチに相談したいのですが。  <br>
 (koochi ni soudan shitai no desu ga.)  <br>
 我想諮詢教練。  <br>
@@ -284,6 +309,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 <br>  
 
 <div style="text-align: right">  
+
 **教練:** はい、こちらがコーチです。  <br>
 (hai, kochira ga koochi desu.)  <br>
 好的，這是教練。  <br>
@@ -291,6 +317,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 </div>  
 
 <div style="text-align: left">  
+
 **學員:** クロールの基本を教えていただけますか？  <br>
 (kurooru no kihon o oshiete itadakemasu ka?)  <br>
 可以教我自由式的基本動作嗎？  <br>
@@ -298,6 +325,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 </div>  
 
 <div style="text-align: right">  
+
 **教練:** はい、まずは手の動きから説明しましょう。  <br>
 (hai, mazu wa te no ugoki kara setsumei shimashou.)  <br>
 好的，讓我們從手的動作開始說明。  <br>
@@ -305,6 +333,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 </div>  
 
 <div style="text-align: left">  
+
 **學員:** ありがとうございます。次に何をすればいいですか？  <br>
 (arigatou gozaimasu. tsugi ni nani o sureba ii desu ka?)  <br>
 謝謝您。接下來我該怎麼做？  <br>
@@ -312,6 +341,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 </div>  
 
 <div style="text-align: right">  
+
 **教練:** 次は足のキックを練習しましょう。  <br>
 (tsugi wa ashi no kikku o renshuu shimashou.)  <br>
 接下來練習腿部的踢水動作。  <br>
@@ -319,6 +349,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 </div>  
 
 <div style="text-align: left">  
+
 **學員:** わかりました。練習してみます。  <br>
 (wakarimashita. renshuu shite mimasu.)  <br>
 明白了。我會練習看看。  <br>
@@ -326,6 +357,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 </div>  
 
 <div style="text-align: right">  
+
 **教練:** いいですね。頑張ってください。  <br>
 (ii desu ne. ganbatte kudasai.)  <br>
 很好。加油。  <br>
@@ -355,6 +387,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 ![結帳](https://images.pexels.com/photos/7621136/pexels-photo-7621136.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** お会計をお願いします。  <br>
 (okaikei o onegai shimasu.)  <br>
 請幫我結帳。  <br>
@@ -364,6 +397,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 <br>  
 
 <div style="text-align: right">  
+
 **收銀員:** 合計で3,000円になります。  <br>
 (goukei de sanzen en ni narimasu.)  <br>
 總共是3,000日圓。  <br>
@@ -371,6 +405,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** クレジットカードで支払えますか？  <br>
 (kurejitto kaado de shiharaemasu ka?)  <br>
 可以用信用卡付款嗎？  <br>
@@ -378,6 +413,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 </div>  
 
 <div style="text-align: right">  
+
 **收銀員:** はい、VISAとマスターカードがご利用いただけます。  <br>
 (hai, visa to masutaa kaado ga goriyou itadakemasu.)  <br>
 是的，可以使用VISA和MasterCard。  <br>
@@ -385,6 +421,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** では、VISAでお願いします。  <br>
 (dewa, visa de onegai shimasu.)  <br>
 那麼，請用VISA付款。  <br>
@@ -392,6 +429,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 </div>  
 
 <div style="text-align: right">  
+
 **收銀員:** 承知いたしました。こちらが領収書です。  <br>
 (shouchi itashimashita. kochira ga ryoushuusho desu.)  <br>
 好的。這是您的收據。  <br>
@@ -399,6 +437,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございました。また来ます。  <br>
 (arigatou gozaimashita. mata kimasu.)  <br>
 謝謝您。我會再來。  <br>
@@ -406,6 +445,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 </div>  
 
 <div style="text-align: right">  
+
 **收銀員:** ありがとうございました。またのお越しをお待ちしております。  <br>
 (arigatou gozaimashita. mata no okoshi o omachi shite orimasu.)  <br>
 謝謝您。期待您再次光臨。  <br>

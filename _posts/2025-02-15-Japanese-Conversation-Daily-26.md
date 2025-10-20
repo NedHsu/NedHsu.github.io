@@ -35,6 +35,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 ![酒](https://images.pexels.com/photos/4691211/pexels-photo-4691211.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** ビールをください。  <br>
 (biiru o kudasai.)  <br>
 請給我啤酒。  <br>
@@ -44,6 +45,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** 生ビールですか、瓶ビールですか？  <br>
 (nama biiru desu ka, bin biiru desu ka?)  <br>
 要生啤酒還是瓶裝啤酒？  <br>
@@ -51,6 +53,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 生ビールをお願いします。  <br>
 (nama biiru o onegai shimasu.)  <br>
 請給我生啤酒。  <br>
@@ -58,6 +61,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** かしこまりました。おつまみもご注文されますか？  <br>
 (kashikomarimashita. otsumami mo gochuumon saremasu ka?)  <br>
 好的，您要點下酒菜嗎？  <br>
@@ -65,6 +69,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** はい、枝豆をお願いします。  <br>
 (hai, edamame o onegai shimasu.)  <br>
 好的，請給我毛豆。  <br>
@@ -72,6 +77,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** かしこまりました。少々お待ちください。  <br>
 (kashikomarimashita. shoushou omachi kudasai.)  <br>
 明白了。請稍等。  <br>
@@ -101,6 +107,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 ![小菜](https://images.pexels.com/photos/5745018/pexels-photo-5745018.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** おつまみをください。  <br>
 (otsumami o kudasai.)  <br>
 請給我下酒菜。  <br>
@@ -110,6 +117,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** どのおつまみがよろしいですか？  <br>
 (dono otsumami ga yoroshii desu ka?)  <br>
 要哪種下酒菜？  <br>
@@ -117,6 +125,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** おすすめはありますか？  <br>
 (osusume wa arimasu ka?)  <br>
 有什麼推薦的嗎？  <br>
@@ -124,6 +133,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、当店の名物は枝豆と焼き鳥です。  <br>
 (hai, touten no meibutsu wa edamame to yakitori desu.)  <br>
 有的，本店的招牌是毛豆和烤雞串。  <br>
@@ -131,6 +141,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** では、焼き鳥もお願いします。  <br>
 (dewa, yakitori mo onegai shimasu.)  <br>
 那麼，也請給我烤雞串。  <br>
@@ -138,6 +149,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** かしこまりました。少々お待ちください。  <br>
 (kashikomarimashita. shoushou omachi kudasai.)  <br>
 明白了。請稍等。  <br>
@@ -167,6 +179,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 ![菜單](https://images.pexels.com/photos/32132443/pexels-photo-32132443.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** メニューを見せていただけますか？  <br>
 (menyuu o misete itadakemasu ka?)  <br>
 可以給我看菜單嗎？  <br>
@@ -176,6 +189,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** はい、こちらです。  <br>
 (hai, kochira desu.)  <br>
 好的，這是菜單。  <br>
@@ -183,6 +197,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 英語のメニューはありますか？  <br>
 (eigo no menyuu wa arimasu ka?)  <br>
 有英文菜單嗎？  <br>
@@ -190,6 +205,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、こちらが英語版です。  <br>
 (hai, kochira ga eigo ban desu.)  <br>
 是的，這是英文版本。  <br>
@@ -197,6 +213,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
@@ -204,6 +221,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>
@@ -233,6 +251,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 ![結帳](https://images.pexels.com/photos/7621136/pexels-photo-7621136.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** お会計をお願いします。  <br>
 (okaikei o onegai shimasu.)  <br>
 請幫我結帳。  <br>
@@ -242,6 +261,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** 合計で3,800円になります。  <br>
 (goukei de sanzen happyaku en ni narimasu.)  <br>
 總共是3,800日圓。  <br>
@@ -249,6 +269,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** カードで支払えますか？  <br>
 (kaado de shiharaemasu ka?)  <br>
 可以刷卡嗎？  <br>
@@ -256,6 +277,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、クレジットカードも電子マネーも使えます。  <br>
 (hai, kurejitto kaado mo denshi manee mo tsukaemasu.)  <br>
 是的，可以使用信用卡和電子錢包。  <br>
@@ -263,6 +285,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** では、カードでお願いします。  <br>
 (dewa, kaado de onegai shimasu.)  <br>
 那麼，請用卡付款。  <br>
@@ -270,6 +293,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 承知いたしました。こちらが領収書です。  <br>
 (shouchi itashimashita. kochira ga ryoushuusho desu.)  <br>
 好的。這是您的收據。  <br>
@@ -277,6 +301,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございました。また来ます。  <br>
 (arigatou gozaimashita. mata kimasu.)  <br>
 謝謝您。我會再來。  <br>
@@ -284,6 +309,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** ありがとうございました。またのお越しをお待ちしております。  <br>
 (arigatou gozaimashita. mata no okoshi o omachi shite orimasu.)  <br>
 謝謝您。期待您再次光臨。  <br>
@@ -313,6 +339,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 ![打包](https://images.pexels.com/photos/1301373/pexels-photo-1301373.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 残りを包んでいただけますか？  <br>
 (nokori o tsutsunde itadakemasu ka?)  <br>
 可以幫我打包剩下的嗎？  <br>
@@ -322,6 +349,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** はい、承知しました。  <br>
 (hai, shouchi shimashita.)  <br>
 好的，我知道了。  <br>
@@ -329,6 +357,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** お持ち帰り用の袋もお願いします。  <br>
 (omochikaeri you no fukuro mo onegai shimasu.)  <br>
 也請給我外帶用的袋子。  <br>
@@ -336,6 +365,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** かしこまりました。こちらがお持ち帰り用の袋です。  <br>
 (kashikomarimashita. kochira ga omochikaeri you no fukuro desu.)  <br>
 好的，這是外帶用的袋子。  <br>
@@ -343,6 +373,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
@@ -350,6 +381,7 @@ excerpt: 學習在日本居酒屋和酒吧時常用的日語對話，包括點�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>

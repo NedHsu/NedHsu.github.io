@@ -35,6 +35,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 ![購票](/assets/img/jp/遊樂場購票入園.webp)
 
 <div style="text-align: left">  
+
 **顧客:** 大人2枚、子供1枚のチケットをお願いします。  <br>
 (otona nimai, kodomo ichimai no chiketto o onegai shimasu.)  <br>
 請給我2張成人票和1張兒童票。  <br>
@@ -44,6 +45,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** はい、合計で12,000円になります。  <br>
 (hai, goukei de ichiman nisen en ni narimasu.)  <br>
 好的，總共是12,000日圓。  <br>
@@ -51,6 +53,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** パスポートはありますか？  <br>
 (pasupooto wa arimasu ka?)  <br>
 有通票嗎？  <br>
@@ -58,6 +61,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、パスポートは大人8,000円、子供5,000円です。1日何度でもアトラクションに乗ることができます。  <br>
 (hai, pasupooto wa otona hachi sen en, kodomo go sen en desu. ichinichi nando demo atorakushon ni noru koto ga dekimasu.)  <br>
 是的，通票成人8,000日圓，兒童5,000日圓。一天內可以無限次乘坐遊樂設施。  <br>
@@ -65,6 +69,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** では、パスポート3枚をお願いします。開園時間は何時から何時までですか？  <br>
 (dewa, pasupooto san mai o onegai shimasu. kaien jikan wa nanji kara nanji made desu ka?)  <br>
 那麼，請給我3張通票。開園時間是幾點到幾點？  <br>
@@ -72,6 +77,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 9時から21時までです。最終入園は20時までとなっております。  <br>
 (ku ji kara nijuu ichi ji made desu. saishuu nyuuen wa nijuu ji made to natte orimasu.)  <br>
 從9點到21點。最後入園時間是20點。  <br>
@@ -79,6 +85,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。チケットは当日中は再入園可能ですか？  <br>
 (arigatou gozaimasu. chiketto wa toujitsuchuu wa sainyuu en kanou desu ka?)  <br>
 謝謝您。票券當天內可以重新入園嗎？  <br>
@@ -86,6 +93,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、パスポートは当日中何度でも再入園可能です。手の甲にスタンプを押しますので、入園の際にお見せください。  <br>
 (hai, pasupooto wa toujitsuchuu nando demo sainyuu en kanou desu. te no kou ni sutanpu o oshimasu node, nyuuen no sai ni omise kudasai.)  <br>
 是的，通票當天內可以無限次重新入園。我會在您的手背上蓋章，入園時請出示。  <br>
@@ -120,6 +128,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 ![設施](/assets/img/jp/遊樂設施.webp)
 
 <div style="text-align: left">  
+
 **顧客:** このアトラクションの待ち時間はどのくらいですか？  <br>
 (kono atorakushon no machijikan wa dono kurai desu ka?)  <br>
 這個遊樂設施要等多久？  <br>
@@ -129,6 +138,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** 現在の待ち時間は約30分です。  <br>
 (genzai no machijikan wa yaku sanjuppun desu.)  <br>
 目前等待時間約30分鐘。  <br>
@@ -136,6 +146,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ファストパスは使えますか？  <br>
 (fasuto pasu wa tsukaemasu ka?)  <br>
 可以使用快速通關嗎？  <br>
@@ -143,6 +154,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、ファストパスは1,000円で購入できます。ただし、身長制限が120cm以上となっております。  <br>
 (hai, fasuto pasu wa sen en de kounyuu dekimasu. tadashi, shinchou seigen ga hyaku nijuu senchi ijou to natte orimasu.)  <br>
 是的，快速通關1,000日圓可以購買。不過，身高限制是120公分以上。  <br>
@@ -150,6 +162,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 子供の身長は110cmです。このアトラクションに乗れますか？  <br>
 (kodomo no shinchou wa hyaku juu senchi desu. kono atorakushon ni noremasu ka?)  <br>
 小孩的身高是110公分。可以乘坐這個遊樂設施嗎？  <br>
@@ -157,6 +170,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 申し訳ございませんが、このアトラクションは身長120cm以上が必要です。お子様は隣のキッズエリアで遊ぶことができます。  <br>
 (moushiwake gozaimasen ga, kono atorakushon wa shinchou hyaku nijuu senchi ijou ga hitsuyou desu. okosama wa tonari no kizzu eria de asobu koto ga dekimasu.)  <br>
 抱歉，這個遊樂設施需要身高120公分以上。您的小孩可以在隔壁的兒童區遊玩。  <br>
@@ -164,6 +178,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** キッズエリアの待ち時間はどのくらいですか？  <br>
 (kizzu eria no machijikan wa dono kurai desu ka?)  <br>
 兒童區要等多久？  <br>
@@ -171,6 +186,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** キッズエリアは待ち時間が少なく、通常5分程度です。お子様も楽しめるアトラクションがたくさんございます。  <br>
 (kizzu eria wa machijikan ga sukunaku, tsuujou go fun teido desu. okosama mo tanoshimeru atorakushon ga takusan gozaimasu.)  <br>
 兒童區等待時間較少，通常約5分鐘。有很多您的小孩也能享受的遊樂設施。  <br>
@@ -207,6 +223,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 ![表演](/assets/img/jp/遊樂場表演活動.webp)
 
 <div style="text-align: left">  
+
 **顧客:** パレードは何時から始まりますか？  <br>
 (pareedo wa nanji kara hajimarimasu ka?)  <br>
 遊行表演幾點開始？  <br>
@@ -216,6 +233,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** 14時からメインストリートで行われます。  <br>
 (juyoji kara mein sutorito de okonawaremasu.)  <br>
 下午2點在主要街道舉行。  <br>
@@ -223,6 +241,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 観覧席の予約は必要ですか？  <br>
 (kanranseki no yoyaku wa hitsuyou desu ka?)  <br>
 需要預約觀賞席嗎？  <br>
@@ -230,6 +249,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、有料の観覧席は事前予約が必要です。無料の観覧エリアもありますが、混雑時は立ち見になります。  <br>
 (hai, yuuryou no kanranseki wa jizen yoyaku ga hitsuyou desu. muryou no kanran eria mo arimasu ga, konzatsuji wa tachimi ni narimasu.)  <br>
 是的，付費觀賞席需要事先預約。也有免費觀賞區，但擁擠時需要站著看。  <br>
@@ -237,6 +257,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 有料の観覧席はいくらですか？  <br>
 (yuuryou no kanranseki wa ikura desu ka?)  <br>
 付費觀賞席是多少錢？  <br>
@@ -244,6 +265,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 大人1,500円、子供800円です。座席はパレードの30分前からご利用いただけます。  <br>
 (otona sen gohyaku en, kodomo happyaku en desu. zaseki wa pareedo no sanjuppun mae kara goriyou itadakemasu.)  <br>
 成人1,500日圓，兒童800日圓。座位可以從遊行開始前30分鐘使用。  <br>
@@ -251,6 +273,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** では、大人2席と子供1席を予約してください。  <br>
 (dewa, otona niseki to kodomo ichiseki o yoyaku shite kudasai.)  <br>
 那麼，請預約2個成人座位和1個兒童座位。  <br>
@@ -258,6 +281,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 承知いたしました。お名前と連絡先をお教えください。  <br>
 (shouchi itashimashita. onamae to renrakusaki o ooshie kudasai.)  <br>
 好的。請告訴我您的姓名和聯絡方式。  <br>
@@ -294,6 +318,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 ![餐飲](/assets/img/jp/遊樂場餐飲服務.webp)
 
 <div style="text-align: left">  
+
 **顧客:** レストランは予約が必要ですか？  <br>
 (resutoran wa yoyaku ga hitsuyou desu ka?)  <br>
 餐廳需要預約嗎？  <br>
@@ -303,6 +328,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** はい、混雑時は予約をお勧めします。  <br>
 (hai, konzatsuji wa yoyaku o osusume shimasu.)  <br>
 是的，在擁擠時段建議預約。  <br>
@@ -310,6 +336,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 持ち込みの飲食物は可能ですか？  <br>
 (mochikomi no inshokubutsu wa kanou desu ka?)  <br>
 可以帶外食嗎？  <br>
@@ -317,6 +344,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 申し訳ございませんが、持ち込みの飲食物は禁止されております。ただし、お子様用のベビーフードやアレルギー対応食は例外となります。  <br>
 (moushiwake gozaimasen ga, mochikomi no inshokubutsu wa kinshi sarete orimasu. tadashi, okosama you no bebii fuudo ya arerugii taiou shoku wa reigai to narimasu.)  <br>
 抱歉，攜帶外食是禁止的。不過，嬰兒食品和過敏對應食品是例外。  <br>
@@ -324,6 +352,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 園内のレストランの料金はどのくらいですか？  <br>
 (ennai no resutoran no ryoukin wa dono kurai desu ka?)  <br>
 園內餐廳的費用大概是多少？  <br>
@@ -331,6 +360,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** レストランによって異なりますが、大人のランチセットは1,500円から3,000円程度です。ファミリーレストランもありますので、お子様連れの方にも安心です。  <br>
 (resutoran ni yotte kotonarimasu ga, otona no ranchi setto wa sen gohyaku en kara sanzen en teido desu. famirii resutoran mo arimasu node, okosama tsure no kata ni mo anshin desu.)  <br>
 根據餐廳不同而異，成人午餐套餐從1,500日圓到3,000日圓左右。也有家庭餐廳，所以帶小孩的家庭也很安心。  <br>
@@ -338,6 +368,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ベジタリアンメニューはありますか？  <br>
 (bejitarian menyuu wa arimasu ka?)  <br>
 有素食菜單嗎？  <br>
@@ -345,6 +376,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、メインのレストランでベジタリアンメニューをご用意しております。事前にお申し付けいただければ、特別なアレンジも可能です。  <br>
 (hai, mein no resutoran de bejitarian menyuu o goyoui shite orimasu. jizen ni omoushitsuke itadakereba, tokubetsu na arenji mo kanou desu.)  <br>
 是的，主要餐廳有準備素食菜單。如果事先告知的話，也可以特別安排。  <br>
@@ -384,6 +416,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 ![紀念品](/assets/img/jp/遊樂場紀念品購買.webp)
 
 <div style="text-align: left">  
+
 **顧客:** このぬいぐるみのサイズは何がありますか？  <br>
 (kono nuigurumi no saizu wa nani ga arimasu ka?)  <br>
 這個玩偶有哪些尺寸？  <br>
@@ -393,6 +426,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** S、M、Lサイズがございます。  <br>
 (esu, emu, eru saizu ga gozaimasu.)  <br>
 有S、M、L尺寸。  <br>
@@ -400,6 +434,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 免税の手続きはどこでできますか？  <br>
 (menzei no tetsuzuki wa doko de dekimasu ka?)  <br>
 在哪裡辦理退稅手續？  <br>
@@ -407,6 +442,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 免税手続きは出口近くの免税カウンターでお手続きいただけます。購入金額が5,000円以上の場合、免税対象となります。  <br>
 (menzei tetsuzuki wa deguchi chikaku no menzei kauntaa de otetsuzuki itadakemasu. kounyuu kingaku ga go sen en ijou no baai, menzei taishou to narimasu.)  <br>
 退稅手續可以在出口附近的退稅櫃台辦理。購買金額5,000日圓以上的話，就是退稅對象。  <br>
@@ -414,6 +450,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** パスポートは免税対象になりますか？  <br>
 (pasupooto wa menzei taishou ni narimasu ka?)  <br>
 通票是退稅對象嗎？  <br>
@@ -421,6 +458,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 申し訳ございませんが、入場料やパスポートは免税対象外となっております。商品や記念品のみが免税対象です。  <br>
 (moushiwake gozaimasen ga, nyuujou ryou ya pasupooto wa menzei taishougai to natte orimasu. shouhin ya kinenbin nomi ga menzei taishou desu.)  <br>
 抱歉，入場費和通票不在退稅對象內。只有商品和紀念品是退稅對象。  <br>
@@ -428,6 +466,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** では、このぬいぐるみをLサイズで2個と、Tシャツを大人用と子供用で1枚ずつお願いします。  <br>
 (dewa, kono nuigurumi o eru saizu de niko to, tii shatsu o otona you to kodomo you de ichimai zutsu onegai shimasu.)  <br>
 那麼，請給我L尺寸的玩偶2個，還有成人用和兒童用的T恤各1件。  <br>
@@ -435,6 +474,7 @@ excerpt: 學習在日本遊樂園和主題樂園時常用的日語對話，包�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 承知いたしました。ぬいぐるみ2個で3,000円、Tシャツ2枚で2,400円、合計で5,400円になります。免税手続きも可能です。  <br>
 (shouchi itashimashita. nuigurumi niko de sanzen en, tii shatsu nimaide nisen yonhyaku en, goukei de go sen yonhyaku en ni narimasu. menzei tetsuzuki mo kanou desu.)  <br>
 好的。玩偶2個3,000日圓，T恤2件2,400日圓，總共5,400日圓。也可以辦理退稅手續。  <br>

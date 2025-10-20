@@ -35,6 +35,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 ![入會](https://images.pexels.com/photos/32133930/pexels-photo-32133930.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 入会したいのですが。  <br>
 (nyuukai shitai no desu ga.)  <br>
 我想入會。  <br>
@@ -44,6 +45,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 <br>  
 
 <div style="text-align: right">  
+
 **會籍顧問:** どのようなプランがよろしいですか？  <br>
 (dono you na puran ga yoroshii desu ka?)  <br>
 您想要什麼樣的方案？  <br>
@@ -51,6 +53,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 月額プランはありますか？  <br>
 (getsumatsu puran wa arimasu ka?)  <br>
 有月費方案嗎？  <br>
@@ -58,6 +61,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 </div>  
 
 <div style="text-align: right">  
+
 **會籍顧問:** はい、月額8,000円のプランがあります。  <br>
 (hai, getsumatsu hachi sen en no puran ga arimasu.)  <br>
 有的，有月費8,000日圓的方案。  <br>
@@ -65,6 +69,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 年間プランもありますか？  <br>
 (nenkan puran mo arimasu ka?)  <br>
 有年費方案嗎？  <br>
@@ -72,6 +77,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 </div>  
 
 <div style="text-align: right">  
+
 **會籍顧問:** はい、年間プランは月額プランよりもお得です。  <br>
 (hai, nenkan puran wa getsumatsu puran yori mo otoku desu.)  <br>
 有的，年費方案比月費方案更划算。  <br>
@@ -79,6 +85,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。年間プランにします。  <br>
 (arigatou gozaimasu. nenkan puran ni shimasu.)  <br>
 謝謝您。我選擇年費方案。  <br>
@@ -86,6 +93,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 </div>  
 
 <div style="text-align: right">  
+
 **會籍顧問:** かしこまりました。こちらにご記入ください。  <br>
 (kashikomarimashita. kochira ni gokinyuu kudasai.)  <br>
 明白了。請在這裡填寫資料。  <br>
@@ -115,6 +123,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 ![設施](https://images.pexels.com/photos/21715257/pexels-photo-21715257.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **會員:** このマシンの使い方を教えていただけますか？  <br>
 (kono mashin no tsukaikata o oshiete itadakemasu ka?)  <br>
 可以教我這台機器的使用方法嗎？  <br>
@@ -124,6 +133,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 <br>  
 
 <div style="text-align: right">  
+
 **教練:** はい、こちらが使い方の説明です。  <br>
 (hai, kochira ga tsukaikata no setsumei desu.)  <br>
 好的，這是使用方法的說明。  <br>
@@ -131,6 +141,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 </div>  
 
 <div style="text-align: left">  
+
 **會員:** このマシンは何回くらいやればいいですか？  <br>
 (kono mashin wa nankai kurai yareba ii desu ka?)  <br>
 這台機器要做幾次比較好？  <br>
@@ -138,6 +149,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 </div>  
 
 <div style="text-align: right">  
+
 **教練:** 初心者の方は10回から始めることをお勧めします。  <br>
 (shoshinsha no kata wa juukai kara hajimeru koto o osusume shimasu.)  <br>
 建議初學者從10次開始。  <br>
@@ -145,6 +157,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 </div>  
 
 <div style="text-align: left">  
+
 **會員:** ありがとうございます。注意点はありますか？  <br>
 (arigatou gozaimasu. chuuiten wa arimasu ka?)  <br>
 謝謝您。有什麼注意事項嗎？  <br>
@@ -152,6 +165,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 </div>  
 
 <div style="text-align: right">  
+
 **教練:** はい、無理をせず、正しいフォームで行ってください。  <br>
 (hai, muri o sezu, tadashii foomu de okonatte kudasai.)  <br>
 是的，不要勉強，請用正確的姿勢進行。  <br>
@@ -159,6 +173,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 </div>  
 
 <div style="text-align: left">  
+
 **會員:** わかりました。気をつけます。  <br>
 (wakarimashita. ki o tsukemasu.)  <br>
 明白了。我會注意的。  <br>
@@ -166,6 +181,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 </div>  
 
 <div style="text-align: right">  
+
 **教練:** どういたしまして。頑張ってください。  <br>
 (dou itashimashite. ganbatte kudasai.)  <br>
 不客氣。加油。  <br>
@@ -195,6 +211,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 ![課程](https://images.pexels.com/photos/9159054/pexels-photo-9159054.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **會員:** ヨガのクラスはありますか？  <br>
 (yoga no kurasu wa arimasu ka?)  <br>
 有瑜伽課程嗎？  <br>
@@ -204,6 +221,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 <br>  
 
 <div style="text-align: right">  
+
 **課程顧問:** はい、毎日開催しています。  <br>
 (hai, mainichi kaisai shite imasu.)  <br>
 有的，每天都有舉辦。  <br>
@@ -211,6 +229,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 </div>  
 
 <div style="text-align: left">  
+
 **會員:** 初心者向けのクラスはありますか？  <br>
 (shoshinsha muke no kurasu wa arimasu ka?)  <br>
 有適合初學者的課程嗎？  <br>
@@ -218,6 +237,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 </div>  
 
 <div style="text-align: right">  
+
 **課程顧問:** はい、午前と午後、それぞれ1時間のクラスがあります。  <br>
 (hai, gozen to gogo, sorezore ichijikan no kurasu ga arimasu.)  <br>
 有的，上午和下午各有1小時的課程。  <br>
@@ -225,6 +245,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 </div>  
 
 <div style="text-align: left">  
+
 **會員:** クラスの料金はいくらですか？  <br>
 (kurasu no ryoukin wa ikura desu ka?)  <br>
 課程的費用是多少？  <br>
@@ -232,6 +253,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 </div>  
 
 <div style="text-align: right">  
+
 **課程顧問:** 1回のクラスは2,000円です。  <br>
 (ikkai no kurasu wa nisen en desu.)  <br>
 每次課程是2,000日圓。  <br>
@@ -239,6 +261,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 </div>  
 
 <div style="text-align: left">  
+
 **會員:** ありがとうございます。午前のクラスを予約したいです。  <br>
 (arigatou gozaimasu. gozen no kurasu o yoyaku shitai desu.)  <br>
 謝謝您。我想預約上午的課程。  <br>
@@ -246,6 +269,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 </div>  
 
 <div style="text-align: right">  
+
 **課程顧問:** かしこまりました。予約を承りました。  <br>
 (kashikomarimashita. yoyaku o uketamawarimashita.)  <br>
 明白了。已為您預約。  <br>
@@ -275,6 +299,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 ![教練](https://images.pexels.com/photos/5745684/pexels-photo-5745684.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **會員:** トレーナーに相談したいのですが。  <br>
 (toreenaa ni soudan shitai no desu ga.)  <br>
 我想諮詢教練。  <br>
@@ -284,6 +309,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 <br>  
 
 <div style="text-align: right">  
+
 **教練:** はい、こちらがトレーナーです。  <br>
 (hai, kochira ga toreenaa desu.)  <br>
 好的，這是教練。  <br>
@@ -291,6 +317,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 </div>  
 
 <div style="text-align: left">  
+
 **會員:** ダイエットのためのトレーニングメニューを作っていただけますか？  <br>
 (daietto no tame no toreeningu menyuu o tsukutte itadakemasu ka?)  <br>
 可以幫我制定減重訓練菜單嗎？  <br>
@@ -298,6 +325,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 </div>  
 
 <div style="text-align: right">  
+
 **教練:** はい、まずは目標体重を教えていただけますか？  <br>
 (hai, mazu wa mokuhyou taijuu o oshiete itadakemasu ka?)  <br>
 好的，可以先告訴我您的目標體重嗎？  <br>
@@ -305,6 +333,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 </div>  
 
 <div style="text-align: left">  
+
 **會員:** 目標は60キロです。  <br>
 (mokuhyou wa rokujuu kiro desu.)  <br>
 目標是60公斤。  <br>
@@ -312,6 +341,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 </div>  
 
 <div style="text-align: right">  
+
 **教練:** かしこまりました。週に何回トレーニングを行いたいですか？  <br>
 (kashikomarimashita. shuu ni nankai toreeningu o okonaitai desu ka?)  <br>
 明白了。您每週想訓練幾次？  <br>
@@ -319,6 +349,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 </div>  
 
 <div style="text-align: left">  
+
 **會員:** 週に3回を考えています。  <br>
 (shuu ni sankai o kangaete imasu.)  <br>
 我考慮每週三次。  <br>
@@ -326,6 +357,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 </div>  
 
 <div style="text-align: right">  
+
 **教練:** いいですね。では、トレーニングメニューを作成します。  <br>
 (ii desu ne. dewa, toreeningu menyuu o sakusei shimasu.)  <br>
 很好。那麼，我會制定訓練菜單。  <br>
@@ -355,6 +387,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 ![結帳](https://images.pexels.com/photos/7621136/pexels-photo-7621136.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** お会計をお願いします。  <br>
 (okaikei o onegai shimasu.)  <br>
 請幫我結帳。  <br>
@@ -364,6 +397,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 <br>  
 
 <div style="text-align: right">  
+
 **收銀員:** 合計で15,000円になります。  <br>
 (goukei de ichi go sen en ni narimasu.)  <br>
 總共是15,000日圓。  <br>
@@ -371,6 +405,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** クレジットカードで支払えますか？  <br>
 (kurejitto kaado de shiharaemasu ka?)  <br>
 可以用信用卡付款嗎？  <br>
@@ -378,6 +413,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 </div>  
 
 <div style="text-align: right">  
+
 **收銀員:** はい、VISAとマスターカードがご利用いただけます。  <br>
 (hai, visa to masutaa kaado ga goriyou itadakemasu.)  <br>
 是的，可以使用VISA和MasterCard。  <br>
@@ -385,6 +421,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** では、VISAでお願いします。  <br>
 (dewa, visa de onegai shimasu.)  <br>
 那麼，請用VISA付款。  <br>
@@ -392,6 +429,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 </div>  
 
 <div style="text-align: right">  
+
 **收銀員:** 承知いたしました。こちらが領収書です。  <br>
 (shouchi itashimashita. kochira ga ryoushuusho desu.)  <br>
 好的。這是您的收據。  <br>
@@ -399,6 +437,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございました。また来ます。  <br>
 (arigatou gozaimashita. mata kimasu.)  <br>
 謝謝您。我會再來。  <br>
@@ -406,6 +445,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 </div>  
 
 <div style="text-align: right">  
+
 **收銀員:** ありがとうございました。またのお越しをお待ちしております。  <br>
 (arigatou gozaimashita. mata no okoshi o omachi shite orimasu.)  <br>
 謝謝您。期待您再次光臨。  <br>

@@ -35,6 +35,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 ![預約](https://images.pexels.com/photos/19109102/pexels-photo-19109102.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** トリミングの予約をしたいのですが。  <br>
 (torimingu no yoyaku o shitai no desu ga.)  <br>
 我想預約寵物美容。  <br>
@@ -44,6 +45,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** はい、いつがご希望ですか？  <br>
 (hai, itsu ga gokibou desu ka?)  <br>
 好的，您希望什麼時候？  <br>
@@ -51,6 +53,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 来週の水曜日、午後2時頃でお願いします。  <br>
 (raishuu no suiyoubi, gogo niji goro de onegai shimasu.)  <br>
 下週三下午2點左右，麻煩您了。  <br>
@@ -58,6 +61,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** かしこまりました。ペットの種類と名前を教えていただけますか？  <br>
 (kashikomarimashita. petto no shurui to namae o oshiete itadakemasu ka?)  <br>
 明白了。可以告訴我寵物的種類和名字嗎？  <br>
@@ -65,6 +69,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 犬のポメラニアンで、名前はココです。  <br>
 (inu no pomeranian de, namae wa koko desu.)  <br>
 是隻博美犬，名字叫可可。  <br>
@@ -72,6 +77,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** ありがとうございます。ココちゃんのために特別なケアが必要ですか？  <br>
 (arigatou gozaimasu. koko-chan no tame ni tokubetsu na kea ga hitsuyou desu ka?)  <br>
 謝謝您。可可需要特別的照顧嗎？  <br>
@@ -79,6 +85,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** はい、皮膚が敏感なので、低刺激のシャンプーを使ってください。  <br>
 (hai, hifu ga binkan na node, teishigeki no shanpuu o tsukatte kudasai.)  <br>
 是的，因為皮膚敏感，請使用低刺激的洗髮精。  <br>
@@ -86,6 +93,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** かしこまりました。低刺激のシャンプーを用意いたします。  <br>
 (kashikomarimashita. teishigeki no shanpuu o youi itashimasu.)  <br>
 明白了。我會準備低刺激的洗髮精。  <br>
@@ -118,6 +126,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 ![服務](https://images.pexels.com/photos/30342381/pexels-photo-30342381.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** シャンプーとカットをお願いします。  <br>
 (shanpuu to katto o onegai shimasu.)  <br>
 請幫我洗髮和剪毛。  <br>
@@ -127,6 +136,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** 爪切りも必要ですか？  <br>
 (tsume kiri mo hitsuyou desu ka?)  <br>
 需要剪指甲嗎？  <br>
@@ -134,6 +144,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** はい、お願いします。  <br>
 (hai, onegai shimasu.)  <br>
 是的，麻煩您了。  <br>
@@ -141,6 +152,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** かしこまりました。耳掃除もご希望ですか？  <br>
 (kashikomarimashita. mimi souji mo gokibou desu ka?)  <br>
 明白了。需要清理耳朵嗎？  <br>
@@ -148,6 +160,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** はい、耳掃除もお願いします。  <br>
 (hai, mimi souji mo onegai shimasu.)  <br>
 是的，也請清理耳朵。  <br>
@@ -155,6 +168,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** ありがとうございます。ココちゃんのために最善を尽くします。  <br>
 (arigatou gozaimasu. koko-chan no tame ni saizen o tsukushimasu.)  <br>
 謝謝您。我會為可可做到最好。  <br>
@@ -186,6 +200,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 ![價格](https://images.pexels.com/photos/24032931/pexels-photo-24032931.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 料金はいくらになりますか？  <br>
 (ryoukin wa ikura ni narimasu ka?)  <br>
 費用是多少？  <br>
@@ -195,6 +210,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** シャンプーとカットで5,000円、爪切りは1,000円です。  <br>
 (shanpuu to katto de gosen en, tsume kiri wa sen en desu.)  <br>
 洗髮和剪毛是5,000日圓，剪指甲是1,000日圓。  <br>
@@ -202,6 +218,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 合計で6,000円ですね。  <br>
 (goukei de rokusen en desu ne.)  <br>
 總共是6,000日圓對吧。  <br>
@@ -209,6 +226,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、耳掃除も追加すると、合計で7,000円になります。  <br>
 (hai, mimi souji mo tsuika suru to, goukei de nanasen en ni narimasu.)  <br>
 是的，加上清理耳朵，總共是7,000日圓。  <br>
@@ -216,6 +234,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 支払い方法は何がありますか？  <br>
 (shiharai houhou wa nani ga arimasu ka?)  <br>
 有哪些付款方式？  <br>
@@ -223,6 +242,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 現金、クレジットカード、電子マネーがご利用いただけます。  <br>
 (genkin, kurejitto kaado, denshi manee ga goriyou itadakemasu.)  <br>
 可以使用現金、信用卡和電子錢包。  <br>
@@ -254,6 +274,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 ![服務過程](https://images.pexels.com/photos/29967130/pexels-photo-29967130.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** どのくらい時間がかかりますか？  <br>
 (dono kurai jikan ga kakarimasu ka?)  <br>
 需要多久時間？  <br>
@@ -263,6 +284,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** 約2時間かかります。  <br>
 (yaku nijikan kakarimasu.)  <br>
 大約需要2小時。  <br>
@@ -270,6 +292,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 終わったら電話をいただけますか？  <br>
 (owattara denwa o itadakemasu ka?)  <br>
 結束後可以打電話給我嗎？  <br>
@@ -277,6 +300,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** もちろんです。終わりましたらすぐにご連絡いたします。  <br>
 (mochiron desu. owarimashitara sugu ni gorenraku itashimasu.)  <br>
 當然可以。結束後會立即聯絡您。  <br>
@@ -284,6 +308,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。ココちゃんが楽しみにしています。  <br>
 (arigatou gozaimasu. koko-chan ga tanoshimi ni shiteimasu.)  <br>
 謝謝您。可可很期待。  <br>
@@ -291,6 +316,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** こちらこそ、ありがとうございます。ココちゃんをお待ちしております。  <br>
 (kochira koso, arigatou gozaimasu. koko-chan o omachi shite orimasu.)  <br>
 不客氣，謝謝您。我們期待可可的到來。  <br>
@@ -321,6 +347,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 ![結帳](https://images.pexels.com/photos/7621136/pexels-photo-7621136.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** お会計をお願いします。  <br>
 (okaikei o onegai shimasu.)  <br>
 請幫我結帳。  <br>
@@ -330,6 +357,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** 合計で6,000円になります。  <br>
 (goukei de rokusen en ni narimasu.)  <br>
 總共是6,000日圓。  <br>
@@ -337,6 +365,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** クレジットカードで支払えますか？  <br>
 (kurejitto kaado de shiharaemasu ka?)  <br>
 可以用信用卡付款嗎？  <br>
@@ -344,6 +373,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、クレジットカード、デビットカード、電子マネーでのお支払いが可能です。  <br>
 (hai, kurejitto kaado, debitto kaado, denshi manee de no oshiharai ga kanou desu.)  <br>
 是的，可以使用信用卡、金融卡、電子錢包付款。  <br>
@@ -351,6 +381,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** では、クレジットカードでお願いします。領収書もお願いします。  <br>
 (dewa, kurejitto kaado de onegai shimasu. ryoushuusho mo onegai shimasu.)  <br>
 那麼，請用信用卡付款。也請給我收據。  <br>
@@ -358,6 +389,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 承知いたしました。クレジットカードでのお支払いを承ります。領収書もお渡しします。  <br>
 (shouchi itashimashita. kurejitto kaado de no oshiharai o uketotte orimasu. ryoushuusho mo otodashi shimasu.)  <br>
 好的。我來處理信用卡付款。也會給您收據。  <br>
@@ -365,6 +397,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございました。また利用したいと思います。  <br>
 (arigatou gozaimashita. mata riyou shitai to omoimasu.)  <br>
 謝謝您。我想還會再來使用。  <br>
@@ -372,6 +405,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** ありがとうございました。またのお越しをお待ちしております。  <br>
 (arigatou gozaimashita. mata no okoshi o omachi shite orimasu.)  <br>
 謝謝您。期待您再次光臨。  <br>

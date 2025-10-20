@@ -35,6 +35,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 ![掛號](https://images.pexels.com/photos/3771110/pexels-photo-3771110.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **患者:** 初診ですが、受付をお願いします。  <br>
 (shoshin desu ga, uketsuke o onegai shimasu.)  <br>
 我是初診，請幫我掛號。  <br>
@@ -44,6 +45,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 <br>  
 
 <div style="text-align: right">  
+
 **櫃台人員:** 健康保険証をお持ちですか？  <br>
 (kenkou hokenshou o omochi desu ka?)  <br>
 您有帶健保卡嗎？  <br>
@@ -51,6 +53,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 </div>  
 
 <div style="text-align: left">  
+
 **患者:** はい、こちらです。  <br>
 (hai, kochira desu.)  <br>
 有，在這裡。  <br>
@@ -58,6 +61,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 </div>  
 
 <div style="text-align: right">  
+
 **櫃台人員:** 問診票のご記入もお願いします。  <br>
 (monshinhyou no gokinyuu mo onegai shimasu.)  <br>
 請填寫問診表。  <br>
@@ -65,6 +69,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 </div>  
 
 <div style="text-align: left">  
+
 **患者:** 診察券は必要ですか？  <br>
 (shinsatsuken wa hitsuyou desu ka?)  <br>
 需要診察券嗎？  <br>
@@ -72,6 +77,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 </div>  
 
 <div style="text-align: right">  
+
 **櫃台人員:** はい、診察券も必要です。  <br>
 (hai, shinsatsuken mo hitsuyou desu.)  <br>
 是的，也需要診察券。  <br>
@@ -79,6 +85,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 </div>  
 
 <div style="text-align: left">  
+
 **患者:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
@@ -86,6 +93,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 </div>  
 
 <div style="text-align: right">  
+
 **櫃台人員:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>
@@ -111,6 +119,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 ![看診](https://images.pexels.com/photos/4226256/pexels-photo-4226256.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **患者:** 頭が痛くて、熱があります。  <br>
 (atama ga itakute, netsu ga arimasu.)  <br>
 我頭痛，而且發燒。  <br>
@@ -120,6 +129,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 <br>  
 
 <div style="text-align: right">  
+
 **醫生:** いつから症状が出始めましたか？  <br>
 (itsu kara shoujou ga dehajimemashita ka?)  <br>
 症狀是什麼時候開始的？  <br>
@@ -127,6 +137,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 </div>  
 
 <div style="text-align: left">  
+
 **患者:** 昨日の夜からです。  <br>
 (kinou no yoru kara desu.)  <br>
 從昨天晚上開始。  <br>
@@ -134,6 +145,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 </div>  
 
 <div style="text-align: right">  
+
 **醫生:** 他に症状はありますか？  <br>
 (hoka ni shoujou wa arimasu ka?)  <br>
 還有其他症狀嗎？  <br>
@@ -159,6 +171,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 ![檢查](https://images.pexels.com/photos/8961701/pexels-photo-8961701.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **患者:** 検査が必要ですか？  <br>
 (kensa ga hitsuyou desu ka?)  <br>
 需要做檢查嗎？  <br>
@@ -168,6 +181,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 <br>  
 
 <div style="text-align: right">  
+
 **醫生:** はい、血液検査をしましょう。  <br>
 (hai, ketsueki kensa o shimashou.)  <br>
 是的，我們來做血液檢查。  <br>
@@ -175,6 +189,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 </div>  
 
 <div style="text-align: left">  
+
 **患者:** 検査の結果はいつわかりますか？  <br>
 (kensa no kekka wa itsu wakarimasu ka?)  <br>
 檢查結果什麼時候會知道？  <br>
@@ -182,6 +197,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 </div>  
 
 <div style="text-align: right">  
+
 **醫生:** 本日中にご案内できます。  <br>
 (honjitsu chuu ni goannai dekimasu.)  <br>
 今天之內會通知您。  <br>
@@ -207,6 +223,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 ![領藥](https://images.pexels.com/photos/13835498/pexels-photo-13835498.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **患者:** 薬の飲み方を教えていただけますか？  <br>
 (kusuri no nomikata o oshiete itadakemasu ka?)  <br>
 可以告訴我藥的服用方法嗎？  <br>
@@ -216,6 +233,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 <br>  
 
 <div style="text-align: right">  
+
 **藥師:** はい、1日3回、食後に飲んでください。  <br>
 (hai, ichinichi sankai, shokugo ni nonde kudasai.)  <br>
 好的，一天三次，飯後服用。  <br>
@@ -223,6 +241,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 </div>  
 
 <div style="text-align: left">  
+
 **患者:** 副作用はありますか？  <br>
 (fukusayou wa arimasu ka?)  <br>
 有副作用嗎？  <br>
@@ -230,6 +249,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 </div>  
 
 <div style="text-align: right">  
+
 **藥師:** 眠気が出る場合がありますので、運転は控えてください。  <br>
 (nemuke ga deru baai ga arimasu node, unten wa hikaete kudasai.)  <br>
 可能會嗜睡，請避免開車。  <br>
@@ -255,6 +275,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 ![複診](https://images.pexels.com/photos/6812532/pexels-photo-6812532.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **患者:** 次回の診察を予約したいです。  <br>
 (jikai no shinsatsu o yoyaku shitai desu.)  <br>
 我想預約下次看診。  <br>
@@ -264,6 +285,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 <br>  
 
 <div style="text-align: right">  
+
 **櫃台人員:** 来週の月曜日はいかがですか？  <br>
 (raishuu no getsuyoubi wa ikaga desu ka?)  <br>
 下週一如何？  <br>
@@ -271,6 +293,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 </div>  
 
 <div style="text-align: left">  
+
 **患者:** 午前中が希望です。  <br>
 (gozenchuu ga kibou desu.)  <br>
 希望在上午。  <br>
@@ -278,6 +301,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 </div>  
 
 <div style="text-align: right">  
+
 **櫃台人員:** 10時からご案内できます。  <br>
 (juuji kara goannai dekimasu.)  <br>
 可以從10點開始。  <br>

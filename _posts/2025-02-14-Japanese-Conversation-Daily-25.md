@@ -35,6 +35,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 ![飲料](https://images.pexels.com/photos/29499773/pexels-photo-29499773.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** コーヒーをください。  <br>
 (koohii o kudasai.)  <br>
 請給我咖啡。  <br>
@@ -44,6 +45,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** ホットですか、アイスですか？  <br>
 (hotto desu ka, aisu desu ka?)  <br>
 要熱的還是冰的？  <br>
@@ -51,6 +53,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ホットでお願いします。  <br>
 (hotto de onegai shimasu.)  <br>
 請給我熱的。  <br>
@@ -58,6 +61,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 砂糖とミルクはお入れしますか？  <br>
 (satou to miruku wa oire shimasu ka?)  <br>
 要加糖和牛奶嗎？  <br>
@@ -65,6 +69,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 砂糖だけお願いします。  <br>
 (satou dake onegai shimasu.)  <br>
 只要糖，謝謝。  <br>
@@ -72,6 +77,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** かしこまりました。少々お待ちください。  <br>
 (kashikomarimashita. shoushou omachi kudasai.)  <br>
 明白了。請稍等。  <br>
@@ -100,6 +106,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 ![甜點](https://images.pexels.com/photos/7214783/pexels-photo-7214783.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** ケーキをください。  <br>
 (keeki o kudasai.)  <br>
 請給我蛋糕。  <br>
@@ -109,6 +116,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** どのケーキがよろしいですか？  <br>
 (dono keeki ga yoroshii desu ka?)  <br>
 要哪種蛋糕？  <br>
@@ -116,6 +124,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** おすすめはありますか？  <br>
 (osusume wa arimasu ka?)  <br>
 有什麼推薦的嗎？  <br>
@@ -123,6 +132,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、当店の名物はチーズケーキです。  <br>
 (hai, touten no meibutsu wa chiizu keeki desu.)  <br>
 有的，本店的招牌是起司蛋糕。  <br>
@@ -130,6 +140,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** では、チーズケーキをお願いします。  <br>
 (dewa, chiizu keeki o onegai shimasu.)  <br>
 那麼，請給我起司蛋糕。  <br>
@@ -137,6 +148,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** かしこまりました。少々お待ちください。  <br>
 (kashikomarimashita. shoushou omachi kudasai.)  <br>
 明白了。請稍等。  <br>
@@ -166,6 +178,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 ![菜單](https://images.pexels.com/photos/32132443/pexels-photo-32132443.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** メニューを見せていただけますか？  <br>
 (menyuu o misete itadakemasu ka?)  <br>
 可以給我看菜單嗎？  <br>
@@ -175,6 +188,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** はい、こちらです。  <br>
 (hai, kochira desu.)  <br>
 好的，這是菜單。  <br>
@@ -182,6 +196,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 英語のメニューはありますか？  <br>
 (eigo no menyuu wa arimasu ka?)  <br>
 有英文菜單嗎？  <br>
@@ -189,6 +204,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、こちらが英語版です。  <br>
 (hai, kochira ga eigo ban desu.)  <br>
 是的，這是英文版本。  <br>
@@ -196,6 +212,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
@@ -203,6 +220,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>
@@ -232,6 +250,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 ![結帳](https://images.pexels.com/photos/7621136/pexels-photo-7621136.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** お会計をお願いします。  <br>
 (okaikei o onegai shimasu.)  <br>
 請幫我結帳。  <br>
@@ -241,6 +260,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** 合計で1,200円になります。  <br>
 (goukei de sen nihyaku en ni narimasu.)  <br>
 總共是1,200日圓。  <br>
@@ -248,6 +268,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** カードで支払えますか？  <br>
 (kaado de shiharaemasu ka?)  <br>
 可以刷卡嗎？  <br>
@@ -255,6 +276,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、クレジットカードも電子マネーも使えます。  <br>
 (hai, kurejitto kaado mo denshi manee mo tsukaemasu.)  <br>
 是的，可以使用信用卡和電子錢包。  <br>
@@ -262,6 +284,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** では、カードでお願いします。  <br>
 (dewa, kaado de onegai shimasu.)  <br>
 那麼，請用卡付款。  <br>
@@ -269,6 +292,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 承知いたしました。こちらが領収書です。  <br>
 (shouchi itashimashita. kochira ga ryoushuusho desu.)  <br>
 好的。這是您的收據。  <br>
@@ -276,6 +300,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございました。また来ます。  <br>
 (arigatou gozaimashita. mata kimasu.)  <br>
 謝謝您。我會再來。  <br>
@@ -283,6 +308,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** ありがとうございました。またのお越しをお待ちしております。  <br>
 (arigatou gozaimashita. mata no okoshi o omachi shite orimasu.)  <br>
 謝謝您。期待您再次光臨。  <br>
@@ -312,6 +338,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 ![打包](https://images.pexels.com/photos/1301373/pexels-photo-1301373.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 残りを包んでいただけますか？  <br>
 (nokori o tsutsunde itadakemasu ka?)  <br>
 可以幫我打包剩下的嗎？  <br>
@@ -321,6 +348,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** はい、承知しました。  <br>
 (hai, shouchi shimashita.)  <br>
 好的，我知道了。  <br>
@@ -328,6 +356,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** お持ち帰り用の袋もお願いします。  <br>
 (omochikaeri you no fukuro mo onegai shimasu.)  <br>
 也請給我外帶用的袋子。  <br>
@@ -335,6 +364,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** かしこまりました。こちらがお持ち帰り用の袋です。  <br>
 (kashikomarimashita. kochira ga omochikaeri you no fukuro desu.)  <br>
 好的，這是外帶用的袋子。  <br>
@@ -342,6 +372,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
@@ -349,6 +380,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>

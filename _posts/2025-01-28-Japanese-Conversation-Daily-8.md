@@ -36,6 +36,7 @@ tags: [日語, Japanese, 日語對話]
 ![初次見面的問候](https://images.pexels.com/photos/31416984/pexels-photo-31416984.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **田中:** はじめまして。  <br>
 (hajimemashite.)  <br>
 初次見面。  <br>
@@ -45,6 +46,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **山田:** はじめまして。よろしくお願いします。  <br>
 (hajimemashite. yoroshiku onegai shimasu.)  <br>
 初次見面。請多多指教。  <br>
@@ -52,6 +54,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **田中:** お会いできて嬉しいです。  <br>
 (o-ai dekite ureshii desu.)  <br>
 很高興見到您。  <br>
@@ -59,6 +62,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **山田:** こちらこそ。今日はよろしくお願いします。  <br>
 (kochira koso. kyou wa yoroshiku onegai shimasu.)  <br>
 哪裡哪裡。今天請多多指教。  <br>
@@ -67,6 +71,7 @@ tags: [日語, Japanese, 日語對話]
 
 
 <div style="text-align: left">  
+
 **田中:** 今日はどんな活動がありますか？  <br>
 (kyou wa donna katsudou ga arimasu ka?)  <br>
 今天有什麼活動嗎？  <br>
@@ -74,6 +79,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **山田:** 午後に交流會があります。  <br>
 (gogo ni kouryuu kai ga arimasu.)  <br>
 下午有一個交流會。  <br>
@@ -81,6 +87,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **田中:** 太好了，我很期待。  <br>
 (taihen arigatou gozaimasu, tanoshimi ni shiteimasu.)  <br>
 太好了，我很期待。  <br>
@@ -106,6 +113,7 @@ tags: [日語, Japanese, 日語對話]
 ![自我介紹](https://images.pexels.com/photos/186976/pexels-photo-186976.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **田中:** 私は田中と申します。  <br>
 (watashi wa tanaka to moushimasu.)  <br>
 我姓田中。  <br>
@@ -115,6 +123,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **山田:** 田中さんですね。私は山田です。  <br>
 (tanaka san desu ne. watashi wa yamada desu.)  <br>
 是田中先生/女士對吧。我姓山田。  <br>
@@ -122,6 +131,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **田中:** 山田さんはどちらからいらっしゃいましたか？  <br>
 (yamada san wa dochira kara irasshaimashita ka?)  <br>
 山田先生/女士是從哪裡來的？  <br>
@@ -129,6 +139,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **山田:** 東京から来ました。  <br>
 (toukyou kara kimashita.)  <br>
 我從東京來的。  <br>
@@ -136,6 +147,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **田中:** そうですか。東京は素敵な街ですね。  <br>
 (sou desu ka. toukyou wa suteki na machi desu ne.)  <br>
 是嗎。東京是個很棒的城市呢。  <br>
@@ -144,6 +156,7 @@ tags: [日語, Japanese, 日語對話]
 
 
 <div style="text-align: right">  
+
 **山田:** 是的，東京有很多有趣的地方。  <br>
 (hai, toukyou wa omoshiroi tokoro ga takusan arimasu.)  <br>
 是的，東京有很多有趣的地方。  <br>
@@ -151,6 +164,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **田中:** 我希望有機會去看看。  <br>
 (kibou ga areba, itsuka ikitai desu.)  <br>
 我希望有機會去看看。  <br>
@@ -176,6 +190,7 @@ tags: [日語, Japanese, 日語對話]
 ![詢問基本資訊](https://images.pexels.com/photos/32151403/pexels-photo-32151403.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **田中:** お仕事は何をされていますか？  <br>
 (o-shigoto wa nani o sarete imasu ka?)  <br>
 請問您從事什麼工作？  <br>
@@ -185,6 +200,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **山田:** 会社員です。IT企業で働いています。  <br>
 (kaishain desu. ai ti kigyou de hataraite imasu.)  <br>
 我是公司職員。在IT公司工作。  <br>
@@ -192,6 +208,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **田中:** そうですか。どのくらいの経験がありますか？  <br>
 (sou desu ka. dono kurai no keiken ga arimasu ka?)  <br>
 是嗎。您有多少工作經驗？  <br>
@@ -199,6 +216,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **山田:** 5年目になります。  <br>
 (go nen me ni narimasu.)  <br>
 已經第五年了。  <br>
@@ -206,6 +224,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **田中:** すごいですね。  <br>
 (sugoi desu ne.)  <br>
 真厲害呢。  <br>
@@ -214,6 +233,7 @@ tags: [日語, Japanese, 日語對話]
 
 
 <div style="text-align: right">  
+
 **山田:** 謝謝，我很喜歡我的工作。  <br>
 (arigatou, shigoto ga daisuki desu.)  <br>
 謝謝，我很喜歡我的工作。  <br>
@@ -221,6 +241,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **田中:** 那真是太好了。  <br>
 (sore wa yokatta desu ne.)  <br>
 那真是太好了。  <br>
@@ -246,6 +267,7 @@ tags: [日語, Japanese, 日語對話]
 ![表達感謝與再見](https://images.pexels.com/photos/6249257/pexels-photo-6249257.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **田中:** 今日はありがとうございました。  <br>
 (kyou wa arigatou gozaimashita.)  <br>
 今天非常感謝您。  <br>
@@ -255,6 +277,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **山田:** こちらこそ。またお会いしましょう。  <br>
 (kochira koso. mata o-ai shimashou.)  <br>
 哪裡哪裡。下次再見。  <br>
@@ -262,6 +285,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **田中:** はい、またお会いできるのを楽しみにしています。  <br>
 (hai, mata o-ai dekiru no o tanoshimi ni shite imasu.)  <br>
 好的，期待下次見面。  <br>
@@ -269,6 +293,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **山田:** お気をつけてお帰りください。  <br>
 (o-ki o tsukete o-kaeri kudasai.)  <br>
 請小心慢走。  <br>
@@ -276,6 +301,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **田中:** 失礼します。  <br>
 (shitsurei shimasu.)  <br>
 告辭了。  <br>
@@ -284,6 +310,7 @@ tags: [日語, Japanese, 日語對話]
 
 
 <div style="text-align: right">  
+
 **田中:** 下次我會帶朋友來。  <br>
 (jikai wa tomodachi o tsurete kimasu.)  <br>
 下次我會帶朋友來。  <br>
@@ -291,6 +318,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **山田:** ありがとうございます。お待ちしております。  <br>
 (arigatou gozaimasu. omachi shite orimasu.)  <br>
 謝謝。我們會期待您的光臨。  <br>
@@ -298,6 +326,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **田中:** 再見！  <br>
 (saiken!)  <br>
 再見！  <br>
@@ -323,6 +352,7 @@ tags: [日語, Japanese, 日語對話]
 ![日常寒暄](https://images.pexels.com/photos/32136341/pexels-photo-32136341.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **田中:** お元気ですか？  <br>
 (o-genki desu ka?)  <br>
 您好嗎？  <br>
@@ -332,6 +362,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **山田:** はい、おかげさまで。田中さんは？  <br>
 (hai, okagesama de. tanaka san wa?)  <br>
 是的，托您的福。田中先生/女士呢？  <br>
@@ -339,6 +370,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **田中:** 私も元気です。最近は忙しいですか？  <br>
 (watashi mo genki desu. saikin wa isogashii desu ka?)  <br>
 我也很好。最近忙嗎？  <br>
@@ -346,6 +378,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **山田:** はい、少し忙しいです。でも、充実しています。  <br>
 (hai, sukoshi isogashii desu. demo, juujitsu shite imasu.)  <br>
 是的，有點忙。但是很充實。  <br>
@@ -353,6 +386,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **田中:** それは良かったですね。  <br>
 (sore wa yokatta desu ne.)  <br>
 那真是太好了。  <br>
@@ -361,6 +395,7 @@ tags: [日語, Japanese, 日語對話]
 
 
 <div style="text-align: right">  
+
 **山田:** 是的，工作和生活都很平衡。  <br>
 (hai, shigoto to seikatsu ga totemo baransu ga toreteimasu.)  <br>
 是的，工作和生活都很平衡。  <br>
@@ -368,6 +403,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **田中:** 那真是太好了。  <br>
 (sore wa yokatta desu ne.)  <br>
 那真是太好了。  <br>

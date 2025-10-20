@@ -35,6 +35,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 ![包裹](https://images.pexels.com/photos/4464887/pexels-photo-4464887.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** この荷物を送りたいのですが。  <br>
 (kono nimotsu o okuritai no desu ga.)  <br>
 我想寄這個包裹。  <br>
@@ -44,6 +45,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 <br>  
 
 <div style="text-align: right">  
+
 **郵局職員:** 送り先の住所を教えていただけますか？  <br>
 (okurisaki no juusho o oshiete itadakemasu ka?)  <br>
 請告訴我收件地址。  <br>
@@ -51,6 +53,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** こちらが住所です。  <br>
 (kochira ga juusho desu.)  <br>
 這是地址。  <br>
@@ -58,6 +61,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 </div>  
 
 <div style="text-align: right">  
+
 **郵局職員:** ありがとうございます。料金はいくらになりますか？  <br>
 (arigatou gozaimasu. ryoukin wa ikura ni narimasu ka?)  <br>
 謝謝您。費用是多少？  <br>
@@ -65,6 +69,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** それはどのくらいかかりますか？  <br>
 (sore wa dono kurai kakarimasu ka?)  <br>
 大約需要多少時間？  <br>
@@ -72,6 +77,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 </div>  
 
 <div style="text-align: right">  
+
 **郵局職員:** 通常は3日ほどで届きます。  <br>
 (tsuujou wa mikka hodo de todokimasu.)  <br>
 通常需要3天左右。  <br>
@@ -79,6 +85,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
@@ -86,6 +93,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 </div>  
 
 <div style="text-align: right">  
+
 **郵局職員:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>
@@ -111,6 +119,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 ![信件](https://images.pexels.com/photos/16361644/pexels-photo-16361644.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 手紙を送りたいです。  <br>
 (tegami o okuritai desu.)  <br>
 我想寄信。  <br>
@@ -120,6 +129,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 <br>  
 
 <div style="text-align: right">  
+
 **郵局職員:** 切手は貼りましたか？  <br>
 (kitte wa harimashita ka?)  <br>
 您貼郵票了嗎？  <br>
@@ -127,6 +137,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** はい、貼りました。  <br>
 (hai, harimashita.)  <br>
 是的，已經貼好了。  <br>
@@ -134,6 +145,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 </div>  
 
 <div style="text-align: right">  
+
 **郵局職員:** ありがとうございます。こちらでお預かりします。  <br>
 (arigatou gozaimasu. kochira de oazukari shimasu.)  <br>
 謝謝您，我們會在這裡收下。  <br>
@@ -141,6 +153,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** いつ届きますか？  <br>
 (itsu todokimasu ka?)  <br>
 什麼時候會送到？  <br>
@@ -148,6 +161,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 </div>  
 
 <div style="text-align: right">  
+
 **郵局職員:** 通常は2日ほどで届きます。  <br>
 (tsuujou wa futsuka hodo de todokimasu.)  <br>
 通常需要2天左右。  <br>
@@ -155,6 +169,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
@@ -162,6 +177,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 </div>  
 
 <div style="text-align: right">  
+
 **郵局職員:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>
@@ -187,6 +203,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 ![郵票](https://images.pexels.com/photos/32116848/pexels-photo-32116848.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 切手を5枚ください。  <br>
 (kitte o go-mai kudasai.)  <br>
 請給我5張郵票。  <br>
@@ -196,6 +213,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 <br>  
 
 <div style="text-align: right">  
+
 **郵局職員:** はい、全部で250円になります。  <br>
 (hai, zenbu de nihyaku gojuu en ni narimasu.)  <br>
 好的，總共250日圓。  <br>
@@ -203,6 +221,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 記念切手はありますか？  <br>
 (kinen kitte wa arimasu ka?)  <br>
 有紀念郵票嗎？  <br>
@@ -210,6 +229,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 </div>  
 
 <div style="text-align: right">  
+
 **郵局職員:** はい、こちらにございます。  <br>
 (hai, kochira ni gozaimasu.)  <br>
 有的，在這裡。  <br>
@@ -217,6 +237,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
@@ -224,6 +245,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 </div>  
 
 <div style="text-align: right">  
+
 **郵局職員:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>
@@ -249,6 +271,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 ![查詢](https://images.pexels.com/photos/4065624/pexels-photo-4065624.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 荷物の追跡番号を教えていただけますか？  <br>
 (nimotsu no tsuiseki bangou o oshiete itadakemasu ka?)  <br>
 請告訴我包裹的追蹤號碼。  <br>
@@ -258,6 +281,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 <br>  
 
 <div style="text-align: right">  
+
 **郵局職員:** はい、こちらが追跡番号です。  <br>
 (hai, kochira ga tsuiseki bangou desu.)  <br>
 好的，這是追蹤號碼。  <br>
@@ -265,6 +289,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 配達状況を確認できますか？  <br>
 (haitatsu joukyou o kakunin dekimasu ka?)  <br>
 可以確認配送狀況嗎？  <br>
@@ -272,6 +297,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 </div>  
 
 <div style="text-align: right">  
+
 **郵局職員:** はい、現在配送中です。  <br>
 (hai, genzai haisouchuu desu.)  <br>
 好的，目前正在配送中。  <br>
@@ -279,6 +305,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
@@ -286,6 +313,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 </div>  
 
 <div style="text-align: right">  
+
 **郵局職員:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>
@@ -311,6 +339,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 ![儲蓄](https://images.pexels.com/photos/7821726/pexels-photo-7821726.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 郵便貯金の口座を開設したいです。  <br>
 (yuubin chokin no kouza o kaisetsu shitai desu.)  <br>
 我想開設郵政儲蓄帳戶。  <br>
@@ -320,6 +349,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 <br>  
 
 <div style="text-align: right">  
+
 **郵局職員:** 身分証明書をお願いします。  <br>
 (mibun shoumeisho o onegai shimasu.)  <br>
 請出示身分證明文件。  <br>
@@ -327,6 +357,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** こちらです。  <br>
 (kochira desu.)  <br>
 在這裡。  <br>
@@ -334,6 +365,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 </div>  
 
 <div style="text-align: right">  
+
 **郵局職員:** ありがとうございます。利率はいくらですか？  <br>
 (arigatou gozaimasu. riritsu wa ikura desu ka?)  <br>
 謝謝您。利率是多少？  <br>
@@ -341,6 +373,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** それはどのくらいですか？  <br>
 (sore wa dono kurai desu ka?)  <br>
 大約是多少？  <br>
@@ -348,6 +381,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 </div>  
 
 <div style="text-align: right">  
+
 **郵局職員:** 現在の利率は0.01%です。  <br>
 (genzai no riritsu wa zero ten zero ichi paasento desu.)  <br>
 目前的利率是0.01%。  <br>
@@ -355,6 +389,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
@@ -362,6 +397,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 </div>  
 
 <div style="text-align: right">  
+
 **郵局職員:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>

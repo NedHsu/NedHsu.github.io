@@ -35,6 +35,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 ![商店入口](https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **店員:** いらっしゃいませ。何かお探しでしょうか？  <br>
 (irasshaimase. nanika o-sagashi deshou ka?)  <br>
 歡迎光臨。請問您在找什麼商品嗎？  <br>
@@ -44,6 +45,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 <br>  
 
 <div style="text-align: right">  
+
 **顧客:** はい、このシャツのサイズを確認したいです。  <br>
 (hai, kono shatsu no saizu o kakunin shitai desu.)  <br>
 是的，我想確認這件襯衫的尺寸。  <br>
@@ -51,6 +53,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **店員:** このシャツはS、M、Lサイズがあります。  <br>
 (kono shatsu wa esu, emu, eru saizu ga arimasu.)  <br>
 這件襯衫有S、M、L尺寸。  <br>
@@ -58,6 +61,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** 色は何色がありますか？  <br>
 (iro wa nani iro ga arimasu ka?)  <br>
 有哪些顏色？  <br>
@@ -65,6 +69,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **店員:** 白、黒、青の3色です。  <br>
 (shiro, kuro, ao no san shoku desu.)  <br>
 有白色、黑色和藍色三種。  <br>
@@ -73,6 +78,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 
 
 <div style="text-align: right">  
+
 **顧客:** 這件襯衫有其他材質嗎？  <br>
 (kono shatsu wa hoka no sozai ga arimasu ka?)  <br>
 這件襯衫有其他材質嗎？  <br>
@@ -80,6 +86,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **店員:** はい、綿とポリエステルの混紡もあります。  <br>
 (hai, men to poriesuteru no konbou mo arimasu.)  <br>
 是的，也有棉和聚酯纖維混紡的。  <br>
@@ -87,6 +94,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** 太好了，謝謝！  <br>
 (taihen arigatou gozaimasu!)  <br>
 太好了，謝謝！  <br>
@@ -112,6 +120,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 ![試穿](https://images.pexels.com/photos/934070/pexels-photo-934070.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **店員:** 試着室はこちらです。  <br>
 (shichaku-shitsu wa kochira desu.)  <br>
 試衣間在這邊。  <br>
@@ -121,6 +130,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 <br>  
 
 <div style="text-align: right">  
+
 **顧客:** このサイズで合いますか？  <br>
 (kono saizu de aimasu ka?)  <br>
 這個尺寸合適嗎？  <br>
@@ -128,6 +138,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **店員:** 少し大きいようですね。一つ小さいサイズをお持ちしましょうか？  <br>
 (sukoshi ookii you desu ne. hitotsu chiisai saizu o o-mochi shimashou ka?)  <br>
 看起來有點大。要幫您拿小一號的嗎？  <br>
@@ -135,6 +146,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** はい、お願いします。  <br>
 (hai, onegai shimasu.)  <br>
 好的，麻煩您了。  <br>
@@ -142,6 +154,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **店員:** 素材は綿100%で、着心地が良いですよ。  <br>
 (sozai wa men hyaku paasento de, kigokochi ga yoi desu yo.)  <br>
 材質是100%純棉，穿起來很舒服。  <br>
@@ -150,6 +163,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 
 
 <div style="text-align: right">  
+
 **顧客:** 這個顏色會褪色嗎？  <br>
 (kono iro wa taishoku shimasu ka?)  <br>
 這個顏色會褪色嗎？  <br>
@@ -157,6 +171,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **店員:** いいえ、色落ちしにくいです。  <br>
 (iie, irochishinikui desu.)  <br>
 不，這個顏色不容易褪色。  <br>
@@ -164,6 +179,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** 太好了，謝謝！  <br>
 (taihen arigatou gozaimasu!)  <br>
 太好了，謝謝！  <br>
@@ -189,6 +205,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 ![價格](https://images.pexels.com/photos/4386366/pexels-photo-4386366.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **店員:** この商品はセール中で、20%オフです。  <br>
 (kono shouhin wa seeru-chuu de, nijuu paasento ofu desu.)  <br>
 這件商品正在特價，打八折。  <br>
@@ -198,6 +215,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 <br>  
 
 <div style="text-align: right">  
+
 **顧客:** 税込みの価格はいくらですか？  <br>
 (zeikomi no kakaku wa ikura desu ka?)  <br>
 含稅價格是多少？  <br>
@@ -205,6 +223,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **店員:** 税込みで3,240円です。  <br>
 (zeikomi de sanzen nihyaku yonjuu en desu.)  <br>
 含稅是3,240日圓。  <br>
@@ -212,6 +231,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** クレジットカードで支払えますか？  <br>
 (kurejitto kaado de shiharaiemasu ka?)  <br>
 可以用信用卡付款嗎？  <br>
@@ -219,6 +239,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **店員:** はい、VISA、マスターカード、JCBが使えます。  <br>
 (hai, visa, masutaa kaado, jcb ga tsukaemasu.)  <br>
 是的，可以使用VISA、萬事達卡和JCB。  <br>
@@ -227,6 +248,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 
 
 <div style="text-align: right">  
+
 **顧客:** 有會員折扣嗎？  <br>
 (kaiin waribiki wa arimasu ka?)  <br>
 有會員折扣嗎？  <br>
@@ -234,6 +256,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **店員:** はい、会員様はさらに5%オフです。  <br>
 (hai, kaiin-sama wa sara ni go paasento ofu desu.)  <br>
 是的，會員再打95折。  <br>
@@ -241,6 +264,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** 太好了，謝謝！  <br>
 (taihen arigatou gozaimasu!)  <br>
 太好了，謝謝！  <br>
@@ -266,6 +290,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 ![退換貨](https://images.pexels.com/photos/4386366/pexels-photo-4386366.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** この商品を返品したいのですが。  <br>
 (kono shouhin o henpin shitai no desu ga.)  <br>
 我想退這件商品。  <br>
@@ -275,6 +300,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** レシートはお持ちですか？  <br>
 (reshiito wa o-mochi desu ka?)  <br>
 您有收據嗎？  <br>
@@ -282,6 +308,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** はい、こちらです。購入から3日目です。  <br>
 (hai, kochira desu. kounyuu kara mikka me desu.)  <br>
 是的，這是收據。購買後第三天。  <br>
@@ -289,6 +316,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 商品の状態を確認させていただきます。  <br>
 (shouhin no joutai o kakunin sasete itadakimasu.)  <br>
 讓我檢查一下商品的狀態。  <br>
@@ -296,6 +324,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 未使用の状態です。  <br>
 (mishiyou no joutai desu.)  <br>
 是未使用過的狀態。  <br>
@@ -304,6 +333,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 
 
 <div style="text-align: right">  
+
 **店員:** 返品は可能です。返金をご希望ですか？  <br>
 (henpin wa kanou desu. henkin o go-kibou desu ka?)  <br>
 可以退貨。您希望退款嗎？  <br>
@@ -311,6 +341,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** はい、お願いします。  <br>
 (hai, onegai shimasu.)  <br>
 是的，麻煩您了。  <br>
@@ -318,6 +349,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** かしこまりました。手続きいたします。  <br>
 (kashikomarimashita. tetsuzuki itashimasu.)  <br>
 好的，我會為您辦理。  <br>
@@ -325,6 +357,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝。  <br>
@@ -350,6 +383,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 ![包裝](https://images.pexels.com/photos/4386366/pexels-photo-4386366.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** プレゼント用に包装をお願いします。  <br>
 (purezento you ni housou o onegai shimasu.)  <br>
 請幫我包裝成禮物。  <br>
@@ -359,6 +393,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** かしこまりました。包装紙のデザインをお選びください。  <br>
 (kashikomarimashita. housou-shi no dezain o o-erabi kudasai.)  <br>
 好的，請選擇包裝紙的設計。  <br>
@@ -366,6 +401,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** この赤い包装紙でお願いします。  <br>
 (kono akai housou-shi de onegai shimasu.)  <br>
 請用這個紅色的包裝紙。  <br>
@@ -373,6 +409,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** リボンもお付けしましょうか？  <br>
 (ribon mo o-tsuke shimashou ka?)  <br>
 要加緞帶嗎？  <br>
@@ -380,6 +417,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** はい、お願いします。  <br>
 (hai, onegai shimasu.)  <br>
 好的，麻煩您了。  <br>
@@ -388,6 +426,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 
 
 <div style="text-align: right">  
+
 **店員:** 配送も承りますか？  <br>
 (haisou mo uketamawarimasu ka?)  <br>
 需要配送服務嗎？  <br>
@@ -395,6 +434,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** いいえ、持ち帰ります。  <br>
 (iie, mochikaerimasu.)  <br>
 不，我會帶走。  <br>
@@ -402,6 +442,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** かしこまりました。  <br>
 (kashikomarimashita.)  <br>
 好的。  <br>
@@ -409,6 +450,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝。  <br>

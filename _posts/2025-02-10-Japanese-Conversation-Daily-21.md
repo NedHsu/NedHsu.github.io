@@ -35,6 +35,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 ![商品](https://images.pexels.com/photos/8921573/pexels-photo-8921573.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** おにぎりはどこにありますか？  <br>
 (onigiri wa doko ni arimasu ka?)  <br>
 飯糰在哪裡？  <br>
@@ -44,6 +45,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** 冷蔵コーナーの奥にあります。  <br>
 (reizou koonaa no oku ni arimasu.)  <br>
 在冷藏區的裡面。  <br>
@@ -51,6 +53,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 飲み物も同じ場所ですか？  <br>
 (nomimono mo onaji basho desu ka?)  <br>
 飲料也在同一個地方嗎？  <br>
@@ -58,6 +61,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 飲み物はその隣の棚にございます。  <br>
 (nomimono wa sono tonari no tana ni gozaimasu.)  <br>
 飲料在旁邊的貨架上。  <br>
@@ -65,6 +69,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 他におすすめの商品はありますか？  <br>
 (hoka ni osusume no shouhin wa arimasu ka?)  <br>
 還有其他推薦的商品嗎？  <br>
@@ -72,6 +77,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、こちらのサンドイッチも人気です。  <br>
 (hai, kochira no sandoicchi mo ninki desu.)  <br>
 有的，這款三明治也很受歡迎。  <br>
@@ -79,6 +85,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
@@ -86,6 +93,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>
@@ -116,6 +124,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 ![價格](https://images.pexels.com/photos/22021193/pexels-photo-22021193.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** このお弁当はいくらですか？  <br>
 (kono obentou wa ikura desu ka?)  <br>
 這個便當多少錢？  <br>
@@ -125,6 +134,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** 580円です。  <br>
 (gohyaku hachijuu en desu.)  <br>
 580日圓。  <br>
@@ -132,6 +142,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 税込みですか？  <br>
 (zeikomi desu ka?)  <br>
 含稅嗎？  <br>
@@ -139,6 +150,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、税込みの価格です。  <br>
 (hai, zeikomi no kakaku desu.)  <br>
 是的，這是含稅價格。  <br>
@@ -146,6 +158,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 割引はありますか？  <br>
 (waribiki wa arimasu ka?)  <br>
 有折扣嗎？  <br>
@@ -153,6 +166,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 申し訳ありませんが、現在は割引はございません。  <br>
 (moushiwake arimasen ga, genzai wa waribiki wa gozaimasen.)  <br>
 很抱歉，目前沒有折扣。  <br>
@@ -160,6 +174,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
@@ -167,6 +182,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>
@@ -195,6 +211,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 ![服務](https://images.pexels.com/photos/32156379/pexels-photo-32156379.png?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** コピー機を使いたいのですが。  <br>
 (kopiiki o tsukaitai no desu ga.)  <br>
 我想使用影印機。  <br>
@@ -204,6 +221,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** はい、こちらでお願いします。  <br>
 (hai, kochira de onegai shimasu.)  <br>
 好的，請在這裡使用。  <br>
@@ -211,6 +229,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 使い方を教えていただけますか？  <br>
 (tsukaikata o oshiete itadakemasu ka?)  <br>
 可以教我怎麼用嗎？  <br>
@@ -218,6 +237,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、まずこのボタンを押してください。  <br>
 (hai, mazu kono botan o oshite kudasai.)  <br>
 好的，請先按這個按鈕。  <br>
@@ -225,6 +245,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** その後はどうすればいいですか？  <br>
 (sono ato wa dou sureba ii desu ka?)  <br>
 之後該怎麼做？  <br>
@@ -232,6 +253,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 次に、用紙をセットして、スタートボタンを押してください。  <br>
 (tsugi ni, youshi o setto shite, sutaato botan o oshite kudasai.)  <br>
 接下來，放入紙張，然後按下開始按鈕。  <br>
@@ -239,6 +261,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
@@ -246,6 +269,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>
@@ -276,6 +300,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 ![結帳](https://images.pexels.com/photos/7820359/pexels-photo-7820359.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** お会計をお願いします。  <br>
 (okaikei o onegai shimasu.)  <br>
 請幫我結帳。  <br>
@@ -285,6 +310,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** 合計で1,280円になります。  <br>
 (goukei de sen nihyaku hachijuu en ni narimasu.)  <br>
 總共是1,280日圓。  <br>
@@ -292,6 +318,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** カードで支払えますか？  <br>
 (kaado de shiharaemasu ka?)  <br>
 可以刷卡嗎？  <br>
@@ -299,6 +326,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、クレジットカードも電子マネーも使えます。  <br>
 (hai, kurejitto kaado mo denshi manee mo tsukaemasu.)  <br>
 是的，可以使用信用卡和電子錢包。  <br>
@@ -306,6 +334,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 領収書をいただけますか？  <br>
 (ryoushuusho o itadakemasu ka?)  <br>
 可以給我收據嗎？  <br>
@@ -313,6 +342,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、こちらが領収書です。  <br>
 (hai, kochira ga ryoushuusho desu.)  <br>
 好的，這是收據。  <br>
@@ -320,6 +350,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございました。また来ます。  <br>
 (arigatou gozaimashita. mata kimasu.)  <br>
 謝謝您。我會再來。  <br>
@@ -327,6 +358,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** ありがとうございました。またのお越しをお待ちしております。  <br>
 (arigatou gozaimashita. mata no okoshi o omachi shite orimasu.)  <br>
 謝謝您。期待您再次光臨。  <br>
@@ -357,6 +389,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 ![退換](https://images.pexels.com/photos/8927657/pexels-photo-8927657.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** この商品を返品したいのですが。  <br>
 (kono shouhin o henpin shitai no desu ga.)  <br>
 我想退這件商品。  <br>
@@ -366,6 +399,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** レシートをお持ちですか？  <br>
 (reshiito o omochi desu ka?)  <br>
 您有收據嗎？  <br>
@@ -373,6 +407,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** はい、こちらです。  <br>
 (hai, kochira desu.)  <br>
 是的，在這裡。  <br>
@@ -380,6 +415,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 申し訳ありませんが、生鮮食品は返品できません。  <br>
 (moushiwake arimasen ga, sensei shokuhin wa henpin dekimasen.)  <br>
 抱歉，生鮮食品不能退貨。  <br>
@@ -387,6 +423,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 交換は可能ですか？  <br>
 (koukan wa kanou desu ka?)  <br>
 可以換貨嗎？  <br>
@@ -394,6 +431,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、未開封であれば交換可能です。  <br>
 (hai, mikaifuu de areba koukan kanou desu.)  <br>
 是的，如果未開封的話可以換貨。  <br>
@@ -401,6 +439,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
@@ -408,6 +447,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>

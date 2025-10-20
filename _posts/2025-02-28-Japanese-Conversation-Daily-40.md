@@ -35,6 +35,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 ![購票](/assets/img/jp/購票入場.webp)
 
 <div style="text-align: left">  
+
 **顧客:** 常設展と特別展のチケットをお願いします。  <br>
 (jousetsuten to tokubetsuten no chiketto o onegai shimasu.)  <br>
 請給我常設展和特別展的票。  <br>
@@ -44,6 +45,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** はい、大人1枚で2,000円になります。  <br>
 (hai, otona ichimai de nisen en ni narimasu.)  <br>
 好的，成人票一張2,000日圓。  <br>
@@ -51,6 +53,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 学生割引はありますか？  <br>
 (gakusei waribiki wa arimasu ka?)  <br>
 有學生優惠嗎？  <br>
@@ -58,6 +61,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、学生証をご提示いただければ、1,500円になります。  <br>
 (hai, gakuseishou o goteiji itadakereba, sen gohyaku en ni narimasu.)  <br>
 是的，如果您出示學生證的話，就是1,500日圓。  <br>
@@ -65,6 +69,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** はい、こちらです。開館時間は何時から何時までですか？  <br>
 (hai, kochira desu. kaikan jikan wa nanji kara nanji made desu ka?)  <br>
 好的，在這裡。開館時間是幾點到幾點？  <br>
@@ -72,6 +77,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 9時から17時までです。最終入館は16時30分までとなっております。  <br>
 (ku ji kara juu shichi ji made desu. saishuu nyuukan wa juu roku ji sanjuu pun made to natte orimasu.)  <br>
 從9點到17點。最後入館時間是16點30分。  <br>
@@ -79,6 +85,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。チケットは当日中は再入場可能ですか？  <br>
 (arigatou gozaimasu. chiketto wa toujitsuchuu wa sainyuu jou kanou desu ka?)  <br>
 謝謝您。票券當天內可以重新入場嗎？  <br>
@@ -86,6 +93,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、チケットに再入場の印を押しますので、当日中は何度でもご入場いただけます。  <br>
 (hai, chiketto ni sainyuu jou no in o oshimasu node, toujitsuchuu wa nando demo gonyuu jou itadakemasu.)  <br>
 是的，我會在票券上蓋再入場的印章，所以當天內可以多次入場。  <br>
@@ -119,6 +127,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 ![導覽](/assets/img/jp/展覽導覽.webp)
 
 <div style="text-align: left">  
+
 **顧客:** 音声ガイドはありますか？  <br>
 (onsei gaido wa arimasu ka?)  <br>
 有語音導覽嗎？  <br>
@@ -128,6 +137,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** はい、日本語、英語、中国語がございます。  <br>
 (hai, nihongo, eigo, chuugokugo ga gozaimasu.)  <br>
 是的，有日語、英語和中文。  <br>
@@ -135,6 +145,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ガイドツアーは何時からですか？  <br>
 (gaido tsuaa wa nanji kara desu ka?)  <br>
 導覽團幾點開始？  <br>
@@ -142,6 +153,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 10時、13時、15時から1時間程度のツアーがございます。事前予約が必要です。  <br>
 (juu ji, juu san ji, juu go ji kara ichi jikan teido no tsuaa ga gozaimasu. jizen yoyaku ga hitsuyou desu.)  <br>
 10點、13點、15點開始，每次導覽約1小時。需要事先預約。  <br>
@@ -149,6 +161,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 予約は今からでもできますか？  <br>
 (yoyaku wa ima kara demo dekimasu ka?)  <br>
 現在可以預約嗎？  <br>
@@ -156,6 +169,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、13時のツアーに空きがございます。お名前をお教えください。  <br>
 (hai, juu san ji no tsuaa ni aki ga gozaimasu. onamae o ooshie kudasai.)  <br>
 是的，13點的導覽還有空位。請告訴我您的姓名。  <br>
@@ -163,6 +177,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 佐藤美咲です。音声ガイドの料金はいくらですか？  <br>
 (satou misaki desu. onsei gaido no ryoukin wa ikura desu ka?)  <br>
 我是佐藤美咲。語音導覽的費用是多少？  <br>
@@ -170,6 +185,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 音声ガイドは500円で、ガイドツアーは無料です。音声ガイドは受付でお渡しします。  <br>
 (onsei gaido wa gohyaku en de, gaido tsuaa wa muryou desu. onsei gaido wa uketsuke de otodashi shimasu.)  <br>
 語音導覽是500日圓，導覽團是免費的。語音導覽在櫃台領取。  <br>
@@ -204,6 +220,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 ![拍照](/assets/img/jp/博物館拍照規定.webp)
 
 <div style="text-align: left">  
+
 **顧客:** 写真撮影は可能ですか？  <br>
 (shashin satsuei wa kanou desu ka?)  <br>
 可以拍照嗎？  <br>
@@ -213,6 +230,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** フラッシュなしで撮影可能です。  <br>
 (furasshu nashi de satsuei kanou desu.)  <br>
 可以拍照，但不能使用閃光燈。  <br>
@@ -220,6 +238,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 三脚の使用は可能ですか？  <br>
 (sankyaku no shiyou wa kanou desu ka?)  <br>
 可以使用三腳架嗎？  <br>
@@ -227,6 +246,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 申し訳ございませんが、三脚の使用は禁止されております。混雑時は他のお客様の邪魔になるためです。  <br>
 (moushiwake gozaimasen ga, sankyaku no shiyou wa kinshi sarete orimasu. konzatsuji wa hoka no okyakusama no jama ni naru tame desu.)  <br>
 抱歉，三腳架的使用是禁止的。因為擁擠時會妨礙其他客人。  <br>
@@ -234,6 +254,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 自撮り棒は使えますか？  <br>
 (jidori bou wa tsukaemasu ka?)  <br>
 可以使用自拍棒嗎？  <br>
@@ -241,6 +262,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 自撮り棒も使用禁止です。作品との距離を保つため、手の届く範囲での撮影をお願いしております。  <br>
 (jidori bou mo shiyou kinshi desu. sakuhin to no kyori o tamotsu tame, te no todoku han'i de no satsuei o onegai shite orimasu.)  <br>
 自拍棒也是禁止使用的。為了保持與作品的距離，請在手臂可及的範圍內拍照。  <br>
@@ -248,6 +270,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 動画撮影は可能ですか？  <br>
 (douga satsuei wa kanou desu ka?)  <br>
 可以錄影嗎？  <br>
@@ -255,6 +278,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 動画撮影は個人利用目的のみ可能です。商用利用やSNSでの公開は禁止されております。  <br>
 (douga satsuei wa kojin riyou mokuteki nomi kanou desu. shouyou riyou ya esu enu esu de no koukai wa kinshi sarete orimasu.)  <br>
 錄影僅限個人使用目的。商業用途或在社群媒體上公開是禁止的。  <br>
@@ -290,6 +314,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 ![紀念品](/assets/img/jp/紀念品購買.webp)
 
 <div style="text-align: left">  
+
 **顧客:** この作品のポストカードはありますか？  <br>
 (kono sakuhin no posuto kaado wa arimasu ka?)  <br>
 有這件作品的明信片嗎？  <br>
@@ -299,6 +324,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** はい、こちらにございます。  <br>
 (hai, kochira ni gozaimasu.)  <br>
 是的，在這裡。  <br>
@@ -306,6 +332,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 図録はありますか？  <br>
 (zuroku wa arimasu ka?)  <br>
 有展覽圖錄嗎？  <br>
@@ -313,6 +340,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、特別展の図録は2,500円でございます。常設展のガイドブックは1,000円です。  <br>
 (hai, tokubetsuten no zuroku wa nisen gohyaku en de gozaimasu. jousetsuten no gaido bukku wa sen en desu.)  <br>
 是的，特別展的圖錄是2,500日圓。常設展的導覽手冊是1,000日圓。  <br>
@@ -320,6 +348,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 両方ともお願いします。この作品のレプリカはありますか？  <br>
 (ryouhou tomo onegai shimasu. kono sakuhin no repurika wa arimasu ka?)  <br>
 兩本都要。有這件作品的複製品嗎？  <br>
@@ -327,6 +356,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 申し訳ございませんが、レプリカの販売はしておりません。著作権の関係でございます。  <br>
 (moushiwake gozaimasen ga, repurika no hanbai wa shite orimasen. chosakuken no kankei de gozaimasu.)  <br>
 抱歉，我們不販售複製品。因為著作權的關係。  <br>
@@ -334,6 +364,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** では、ポストカードを5枚と図録2冊をお願いします。  <br>
 (dewa, posuto kaado o go mai to zuroku ni satsu o onegai shimasu.)  <br>
 那麼，請給我5張明信片和2本圖錄。  <br>
@@ -341,6 +372,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 承知いたしました。合計で6,000円になります。レジ袋は有料ですが、エコバッグをお持ちでしたらそちらをご利用ください。  <br>
 (shouchi itashimashita. goukei de roku sen en ni narimasu. reji bukuro wa yuuryou desu ga, ekobaggu o omochi deshitara sochira o goriyou kudasai.)  <br>
 好的。總共6,000日圓。購物袋要付費，但如果您有環保袋的話請使用那個。  <br>
@@ -375,6 +407,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 ## 情境 5: 設施使用
 
 <div style="text-align: left">  
+
 **顧客:** コインロッカーはどこにありますか？  <br>
 (koin rokkaa wa doko ni arimasu ka?)  <br>
 置物櫃在哪裡？  <br>
@@ -384,6 +417,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** 入口の右手にございます。  <br>
 (iriguchi no migite ni gozaimasu.)  <br>
 在入口的右側。  <br>
@@ -391,6 +425,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 休憩スペースはありますか？  <br>
 (kyuukei supeesu wa arimasu ka?)  <br>
 有休息區嗎？  <br>
@@ -398,6 +433,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、2階のカフェテリアと1階のロビーにございます。カフェテリアでは軽食とドリンクをご利用いただけます。  <br>
 (hai, nikai no kafeteria to ikkai no robii ni gozaimasu. kafeteria de wa keishoku to dorinku o goriyou itadakemasu.)  <br>
 是的，在2樓的咖啡廳和1樓的大廳。咖啡廳可以享用輕食和飲料。  <br>
@@ -405,6 +441,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ベビーカーは館内で使用できますか？  <br>
 (bebii kaa wa kannai de shiyou dekimasu ka?)  <br>
 嬰兒車可以在館內使用嗎？  <br>
@@ -412,6 +449,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、ベビーカーは使用可能です。ただし、混雑時は他のお客様の邪魔にならないようご配慮ください。  <br>
 (hai, bebii kaa wa shiyou kanou desu. tadashi, konzatsuji wa hoka no okyakusama no jama ni naranai you gohairyo kudasai.)  <br>
 是的，嬰兒車可以使用。不過，擁擠時請注意不要妨礙其他客人。  <br>
@@ -419,6 +457,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 車椅子の貸し出しはありますか？  <br>
 (kurumaisu no kashidashi wa arimasu ka?)  <br>
 有輪椅出租嗎？  <br>
@@ -426,6 +465,7 @@ excerpt: 學習在日本博物館和美術館時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、無料で貸し出ししております。事前予約をお勧めします。エレベーターも全階にございますので、車椅子での移動も安心です。  <br>
 (hai, muryou de kashidashi shite orimasu. jizen yoyaku o osusume shimasu. erebeetaa mo zenkai ni gozaimasu node, kurumaisu de no idou mo anshin desu.)  <br>
 是的，免費出租。建議事先預約。電梯也遍及所有樓層，所以輪椅移動也很安全。  <br>

@@ -35,6 +35,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 ![詢問](https://images.pexels.com/photos/8921573/pexels-photo-8921573.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** このカメラの在庫はありますか？  <br>
 (kono kamera no zaiko wa arimasu ka?)  <br>
 這台相機有庫存嗎？  <br>
@@ -44,6 +45,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** はい、在庫があります。  <br>
 (hai, zaiko ga arimasu.)  <br>
 是的，有庫存。  <br>
@@ -51,6 +53,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 価格はいくらですか？  <br>
 (kakaku wa ikura desu ka?)  <br>
 價格是多少？  <br>
@@ -58,6 +61,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 税込みで45,000円になります。  <br>
 (zeikomi de yonman gosen en ni narimasu.)  <br>
 含稅是45,000日圓。  <br>
@@ -65,6 +69,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 保証期間はどのくらいですか？  <br>
 (hoshou kikan wa dono kurai desu ka?)  <br>
 保固期是多久？  <br>
@@ -72,6 +77,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 1年間の保証が付いています。  <br>
 (ichinenkan no hoshou ga tsuite imasu.)  <br>
 附有一年的保固。  <br>
@@ -79,6 +85,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 他におすすめの商品はありますか？  <br>
 (hoka ni osusume no shouhin wa arimasu ka?)  <br>
 還有其他推薦的商品嗎？  <br>
@@ -86,6 +93,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、こちらのモデルも人気です。  <br>
 (hai, kochira no moderu mo ninki desu.)  <br>
 有的，這款型號也很受歡迎。  <br>
@@ -93,6 +101,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
@@ -100,6 +109,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>
@@ -125,6 +135,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 ![價格](https://images.pexels.com/photos/22021193/pexels-photo-22021193.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** このモデルとあのモデル、どちらがおすすめですか？  <br>
 (kono moderu to ano moderu, dochira ga osusume desu ka?)  <br>
 這個型號和那個型號，您推薦哪一個？  <br>
@@ -134,6 +145,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** こちらの方が機能が充実しています。  <br>
 (kochira no hou ga kinou ga juujitsu shite imasu.)  <br>
 這個型號的功能比較齊全。  <br>
@@ -141,6 +153,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 具体的にどのような機能がありますか？  <br>
 (gutaiteki ni dono you na kinou ga arimasu ka?)  <br>
 具體有哪些功能呢？  <br>
@@ -148,6 +161,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 4K動画撮影やWi-Fi接続、手ぶれ補正機能などが付いています。  <br>
 (yon kei douga satsuei ya waifai setsuzoku, tebure hosei kinou nado ga tsuite imasu.)  <br>
 有4K影片拍攝、Wi-Fi連接、防手震等功能。  <br>
@@ -155,6 +169,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 価格の違いはいくらですか？  <br>
 (kakaku no chigai wa ikura desu ka?)  <br>
 價格差多少？  <br>
@@ -162,6 +177,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 15,000円の差があります。  <br>
 (ichiman gosen en no sa ga arimasu.)  <br>
 差15,000日圓。  <br>
@@ -169,6 +185,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** もう少し考えさせてください。  <br>
 (mou sukoshi kangaesasete kudasai.)  <br>
 讓我再考慮一下。  <br>
@@ -176,6 +193,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** もちろんです。  <br>
 (mochiron desu.)  <br>
 當然可以。  <br>
@@ -201,6 +219,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 ![功能](https://images.pexels.com/photos/32156379/pexels-photo-32156379.png?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** このテレビの機能を説明していただけますか？  <br>
 (kono terebi no kinou o setsumei shite itadakemasu ka?)  <br>
 可以為我說明這台電視的功能嗎？  <br>
@@ -210,6 +229,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** はい、4K対応で、スマートテレビ機能も付いています。  <br>
 (hai, yon kei taiou de, sumato terebi kinou mo tsuite imasu.)  <br>
 是的，支援4K，還有智慧電視功能。  <br>
@@ -217,6 +237,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** スマートテレビ機能では何ができますか？  <br>
 (sumato terebi kinou dewa nani ga dekimasu ka?)  <br>
 智慧電視功能可以做什麼？  <br>
@@ -224,6 +245,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** NetflixやYouTubeなどの動画配信サービスを視聴できます。  <br>
 (nettofurikkusu ya yuuchuubu nado no douga haishin saabisu o shichou dekimasu.)  <br>
 可以觀看Netflix、YouTube等影音串流服務。  <br>
@@ -231,6 +253,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 音声認識機能はありますか？  <br>
 (onsei ninshiki kinou wa arimasu ka?)  <br>
 有語音辨識功能嗎？  <br>
@@ -238,6 +261,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、リモコンで音声操作が可能です。  <br>
 (hai, rimokon de onsei sousa ga kanou desu.)  <br>
 是的，可以用遙控器進行語音操作。  <br>
@@ -245,6 +269,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 使い方は簡単ですか？  <br>
 (tsukaikata wa kantan desu ka?)  <br>
 使用方法簡單嗎？  <br>
@@ -252,6 +277,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、とても簡単です。  <br>
 (hai, totemo kantan desu.)  <br>
 是的，非常簡單。  <br>
@@ -277,6 +303,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 ![維修](https://images.pexels.com/photos/18483564/pexels-photo-18483564.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** このパソコンの修理をお願いします。  <br>
 (kono pasokon no shuuri o onegai shimasu.)  <br>
 請幫我修理這台電腦。  <br>
@@ -286,6 +313,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** 故障の状況を教えていただけますか？  <br>
 (koshou no joukyou o oshiete itadakemasu ka?)  <br>
 請告訴我故障的情況。  <br>
@@ -293,6 +321,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 電源を入れても起動しません。  <br>
 (dengen o irete mo kidou shimasen.)  <br>
 開機後無法啟動。  <br>
@@ -300,6 +329,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 保証書はお持ちですか？  <br>
 (hoshousho wa omochi desu ka?)  <br>
 您有帶保固書嗎？  <br>
@@ -307,6 +337,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** はい、こちらです。  <br>
 (hai, kochira desu.)  <br>
 有，在這裡。  <br>
@@ -314,6 +345,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 修理期間は1週間ほどかかります。  <br>
 (shuuri kikan wa isshuukan hodo kakarimasu.)  <br>
 修理需要約一週時間。  <br>
@@ -321,6 +353,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 修理費用はいくらですか？  <br>
 (shuuri hiyou wa ikura desu ka?)  <br>
 修理費用是多少？  <br>
@@ -328,6 +361,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 保証期間内ですので、無料で修理いたします。  <br>
 (hoshou kikan nai desu node, muryou de shuuri itashimasu.)  <br>
 因為在保固期內，所以免費維修。  <br>
@@ -353,6 +387,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 ![退換](https://images.pexels.com/photos/8927657/pexels-photo-8927657.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** この商品を返品したいのですが。  <br>
 (kono shouhin o henpin shitai no desu ga.)  <br>
 我想退這件商品。  <br>
@@ -362,6 +397,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** レシートをお持ちですか？  <br>
 (reshiito o omochi desu ka?)  <br>
 您有收據嗎？  <br>
@@ -369,6 +405,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** はい、こちらです。  <br>
 (hai, kochira desu.)  <br>
 有，在這裡。  <br>
@@ -376,6 +413,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 返品の理由を教えていただけますか？  <br>
 (henpin no riyuu o oshiete itadakemasu ka?)  <br>
 可以告訴我退貨的原因嗎？  <br>
@@ -383,6 +421,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 商品に傷がありました。  <br>
 (shouhin ni kizu ga arimashita.)  <br>
 商品有瑕疵。  <br>
@@ -390,6 +429,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 申し訳ありません。交換も可能です。  <br>
 (moushiwake arimasen. koukan mo kanou desu.)  <br>
 非常抱歉。也可以換貨。  <br>
@@ -397,6 +437,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 交換をお願いします。  <br>
 (koukan o onegai shimasu.)  <br>
 請幫我換貨。  <br>
@@ -404,6 +445,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** かしこまりました。すぐに手配いたします。  <br>
 (kashikomarimashita. sugu ni tehai itashimasu.)  <br>
 好的，馬上為您安排。  <br>

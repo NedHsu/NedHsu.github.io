@@ -35,6 +35,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 ![預約](https://images.pexels.com/photos/7928388/pexels-photo-7928388.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** カットの予約をお願いします。  <br>
 (katto no yoyaku o onegai shimasu.)  <br>
 我想預約剪髮。  <br>
@@ -44,6 +45,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 <br>  
 
 <div style="text-align: right">  
+
 **美容師:** 何時がご希望ですか？  <br>
 (nanji ga gokibou desu ka?)  <br>
 您希望什麼時候？  <br>
@@ -51,6 +53,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 明日の午後2時は空いていますか？  <br>
 (ashita no gogo niji wa aite imasu ka?)  <br>
 明天下午2點有空嗎？  <br>
@@ -58,6 +61,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 </div>  
 
 <div style="text-align: right">  
+
 **美容師:** はい、ご予約できます。  <br>
 (hai, go yoyaku dekimasu.)  <br>
 是的，可以預約。  <br>
@@ -65,6 +69,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** カットとカラーのセットでお願いします。  <br>
 (katto to karaa no setto de onegai shimasu.)  <br>
 請幫我預約剪髮和染髮的套餐。  <br>
@@ -72,6 +77,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 </div>  
 
 <div style="text-align: right">  
+
 **美容師:** かしこまりました。お名前をお願いします。  <br>
 (kashikomarimashita. onamae o onegai shimasu.)  <br>
 好的，請告訴我您的姓名。  <br>
@@ -79,6 +85,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 田中太郎です。  <br>
 (tanaka tarou desu.)  <br>
 我是田中太郎。  <br>
@@ -86,6 +93,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 </div>  
 
 <div style="text-align: right">  
+
 **美容師:** ありがとうございます。明日の午後2時にお待ちしております。  <br>
 (arigatou gozaimasu. ashita no gogo niji ni omachi shite orimasu.)  <br>
 謝謝您，明天下午2點見。  <br>
@@ -111,6 +119,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 ![剪髮](https://images.pexels.com/photos/30326073/pexels-photo-30326073.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 前髪を少し短くしてください。  <br>
 (maegami o sukoshi mijikaku shite kudasai.)  <br>
 請把瀏海剪短一點。  <br>
@@ -120,6 +129,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 <br>  
 
 <div style="text-align: right">  
+
 **美容師:** このくらいでよろしいですか？  <br>
 (kono kurai de yoroshii desu ka?)  <br>
 這個長度可以嗎？  <br>
@@ -127,6 +137,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** もう少し短くお願いします。  <br>
 (mou sukoshi mijikaku onegai shimasu.)  <br>
 請再剪短一點。  <br>
@@ -134,6 +145,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 </div>  
 
 <div style="text-align: right">  
+
 **美容師:** はい、承知しました。  <br>
 (hai, shouchi shimashita.)  <br>
 好的，我知道了。  <br>
@@ -141,6 +153,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 横髪も少し整えてください。  <br>
 (yokogami mo sukoshi totonoete kudasai.)  <br>
 也請幫我整理一下側邊的頭髮。  <br>
@@ -148,6 +161,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 </div>  
 
 <div style="text-align: right">  
+
 **美容師:** はい、自然な感じに仕上げます。  <br>
 (hai, shizen na kanji ni shiagemasu.)  <br>
 好的，我會幫您整理成自然的樣子。  <br>
@@ -155,6 +169,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
@@ -162,6 +177,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 </div>  
 
 <div style="text-align: right">  
+
 **美容師:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>
@@ -187,6 +203,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 ![染髮](https://images.pexels.com/photos/8467963/pexels-photo-8467963.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** この色に染めたいです。  <br>
 (kono iro ni sometai desu.)  <br>
 我想染這個顏色。  <br>
@@ -196,6 +213,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 <br>  
 
 <div style="text-align: right">  
+
 **美容師:** トリートメントも一緒にしますか？  <br>
 (toriitomento mo issho ni shimasu ka?)  <br>
 要一起做護髮嗎？  <br>
@@ -203,6 +221,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** はい、お願いします。  <br>
 (hai, onegai shimasu.)  <br>
 好的，麻煩您了。  <br>
@@ -210,6 +229,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 </div>  
 
 <div style="text-align: right">  
+
 **美容師:** 色持ちを良くするために、トリートメントをお勧めします。  <br>
 (iromochi o yoku suru tame ni, toriitomento o osusume shimasu.)  <br>
 為了讓顏色持久，我建議做護髮。  <br>
@@ -217,6 +237,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 染めた後はどのくらい持続しますか？  <br>
 (someta ato wa dono kurai jizoku shimasu ka?)  <br>
 染完後可以維持多久？  <br>
@@ -224,6 +245,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 </div>  
 
 <div style="text-align: right">  
+
 **美容師:** 約2ヶ月ほど持続します。  <br>
 (yaku nikagetsu hodo jizoku shimasu.)  <br>
 大約可以維持2個月。  <br>
@@ -231,6 +253,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
@@ -238,6 +261,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 </div>  
 
 <div style="text-align: right">  
+
 **美容師:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>
@@ -263,6 +287,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 ![美甲](https://images.pexels.com/photos/29189916/pexels-photo-29189916.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** ネイルのデザインを見せてください。  <br>
 (neiru no dezain o misete kudasai.)  <br>
 請讓我看看美甲設計。  <br>
@@ -272,6 +297,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 <br>  
 
 <div style="text-align: right">  
+
 **美容師:** こちらが人気のデザインです。  <br>
 (kochira ga ninki no dezain desu.)  <br>
 這些是熱門的設計。  <br>
@@ -279,6 +305,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** このデザインはどのくらい時間がかかりますか？  <br>
 (kono dezain wa dono kurai jikan ga kakarimasu ka?)  <br>
 這個設計需要多久時間？  <br>
@@ -286,6 +313,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 </div>  
 
 <div style="text-align: right">  
+
 **美容師:** 約1時間半かかります。  <br>
 (yaku ichijikanhan kakarimasu.)  <br>
 大約需要1個半小時。  <br>
@@ -293,6 +321,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ジェルネイルは何日くらい持ちますか？  <br>
 (jeru neiru wa nannichi kurai mochimasu ka?)  <br>
 凝膠美甲可以維持幾天？  <br>
@@ -300,6 +329,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 </div>  
 
 <div style="text-align: right">  
+
 **美容師:** 2週間から3週間ほど持ちます。  <br>
 (nishuukan kara sanshuukan hodo mochimasu.)  <br>
 可以維持2到3週。  <br>
@@ -307,6 +337,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
@@ -314,6 +345,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 </div>  
 
 <div style="text-align: right">  
+
 **美容師:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>
@@ -339,6 +371,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 ![結帳](https://images.pexels.com/photos/7820359/pexels-photo-7820359.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** お会計をお願いします。  <br>
 (okaikei o onegai shimasu.)  <br>
 請幫我結帳。  <br>
@@ -348,6 +381,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 <br>  
 
 <div style="text-align: right">  
+
 **美容師:** 合計で8,500円になります。  <br>
 (goukei de hassen gohyaku en ni narimasu.)  <br>
 總共是8,500日圓。  <br>
@@ -355,6 +389,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** クレジットカードで支払えますか？  <br>
 (kurejitto kaado de shiharaemasu ka?)  <br>
 可以刷卡嗎？  <br>
@@ -362,6 +397,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 </div>  
 
 <div style="text-align: right">  
+
 **美容師:** はい、ご利用いただけます。  <br>
 (hai, go riyou itadakemasu.)  <br>
 是的，可以使用。  <br>
@@ -369,6 +405,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 次回の予約もお願いします。  <br>
 (jikai no yoyaku mo onegai shimasu.)  <br>
 也請幫我預約下次。  <br>
@@ -376,6 +413,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 </div>  
 
 <div style="text-align: right">  
+
 **美容師:** はい、いつがご希望ですか？  <br>
 (hai, itsu ga gokibou desu ka?)  <br>
 好的，您希望什麼時候？  <br>
@@ -383,6 +421,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 来週の土曜日の午後は空いていますか？  <br>
 (raishuu no doyoubi no gogo wa aite imasu ka?)  <br>
 下週六的下午有空嗎？  <br>
@@ -390,6 +429,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 </div>  
 
 <div style="text-align: right">  
+
 **美容師:** はい、空いています。ご予約を承ります。  <br>
 (hai, aite imasu. go yoyaku o uketamawarimasu.)  <br>
 是的，有空。我幫您預約。  <br>

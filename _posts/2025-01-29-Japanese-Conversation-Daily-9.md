@@ -34,6 +34,7 @@ tags: [日語, Japanese, 日語對話]
 ![進入餐廳與找座位](https://images.pexels.com/photos/10165535/pexels-photo-10165535.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **店員:** いらっしゃいませ。何名様ですか？  <br>
 (irasshaimase. nanmei sama desu ka?)  <br>
 歡迎光臨。請問幾位？  <br>
@@ -43,6 +44,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **顧客:** 2人です。禁煙席をお願いします。  <br>
 (futari desu. kin'en seki o onegai shimasu.)  <br>
 兩位。請給我禁煙區的座位。  <br>
@@ -50,6 +52,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **店員:** かしこまりました。こちらへどうぞ。  <br>
 (kashikomarimashita. kochira e douzo.)  <br>
 好的，請往這邊走。  <br>
@@ -57,6 +60,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** 予約は必要ですか？  <br>
 (yoyaku wa hitsuyou desu ka?)  <br>
 需要預約嗎？  <br>
@@ -64,6 +68,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **店員:** 土日は予約をお勧めします。  <br>
 (doyoubi nichiyoubi wa yoyaku o o-susume shimasu.)  <br>
 週末建議預約。  <br>
@@ -72,6 +77,7 @@ tags: [日語, Japanese, 日語對話]
 
 
 <div style="text-align: right">  
+
 **顧客:** 這家餐廳有什麼特色菜嗎？  <br>
 (kono resutoran wa nani ka tokusetsu na ryouri ga arimasu ka?)  <br>
 這家餐廳有什麼特色菜嗎？  <br>
@@ -79,6 +85,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **店員:** はい、当店の特製ラーメンが人気です。  <br>
 (hai, touten no tokusei raamen ga ninki desu.)  <br>
 是的，我們的特製拉麵很受歡迎。  <br>
@@ -86,6 +93,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** 太好了，我們會考慮的。  <br>
 (taihen arigatou gozaimasu, kangaemasu.)  <br>
 太好了，我們會考慮的。  <br>
@@ -111,6 +119,7 @@ tags: [日語, Japanese, 日語對話]
 ![點餐與詢問推薦](https://images.pexels.com/photos/28041846/pexels-photo-28041846.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **店員:** ご注文はお決まりでしょうか？  <br>
 (go-chumon wa o-kimari deshou ka?)  <br>
 請問您決定好要點什麼了嗎？  <br>
@@ -120,6 +129,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **顧客:** おすすめは何ですか？  <br>
 (o-susume wa nan desu ka?)  <br>
 有什麼推薦的嗎？  <br>
@@ -127,6 +137,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **店員:** 本日の特選は和牛ステーキです。  <br>
 (honjitsu no tokusen wa wagyuu suteeki desu.)  <br>
 今天的特選是和牛牛排。  <br>
@@ -134,6 +145,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** それをお願いします。サイドディッシュは何がありますか？  <br>
 (sore o onegai shimasu. saido disshu wa nani ga arimasu ka?)  <br>
 請給我那個。有什麼配菜？  <br>
@@ -141,6 +153,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **店員:** サラダ、ポテト、ライスからお選びいただけます。  <br>
 (sarada, poteto, raisu kara o-erabi itadakemasu.)  <br>
 可以選擇沙拉、馬鈴薯或白飯。  <br>
@@ -149,6 +162,7 @@ tags: [日語, Japanese, 日語對話]
 
 
 <div style="text-align: right">  
+
 **顧客:** 這些配菜有什麼特別之處嗎？  <br>
 (kono saido disshu wa nani ka tokubetsu na tokoro ga arimasu ka?)  <br>
 這些配菜有什麼特別之處嗎？  <br>
@@ -156,6 +170,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **店員:** サラダは自家製ドレッシングを使用しています。  <br>
 (sarada wa jikasei doresshingu o shiyou shiteimasu.)  <br>
 沙拉使用的是自家製的醬料。  <br>
@@ -163,6 +178,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** 太好了，我會選擇沙拉。  <br>
 (taihen arigatou gozaimasu, sarada o erabimasu.)  <br>
 太好了，我會選擇沙拉。  <br>
@@ -188,6 +204,7 @@ tags: [日語, Japanese, 日語對話]
 ![要求服務與加點](https://images.pexels.com/photos/31196726/pexels-photo-31196726.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** すみません。お水をください。  <br>
 (sumimasen. o-mizu o kudasai.)  <br>
 不好意思，請給我水。  <br>
@@ -197,6 +214,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** かしこまりました。  <br>
 (kashikomarimashita.)  <br>
 好的，馬上來。  <br>
@@ -204,6 +222,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** もう一つビールをお願いします。  <br>
 (mou hitotsu biiru o onegai shimasu.)  <br>
 再給我一杯啤酒。  <br>
@@ -211,6 +230,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** かしこまりました。お手拭きもお持ちしましょうか？  <br>
 (kashikomarimashita. o-tefuki mo o-mochi shimashou ka?)  <br>
 好的，要幫您拿濕紙巾嗎？  <br>
@@ -218,6 +238,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** はい、お願いします。  <br>
 (hai, onegai shimasu.)  <br>
 好的，麻煩您了。  <br>
@@ -226,6 +247,7 @@ tags: [日語, Japanese, 日語對話]
 
 
 <div style="text-align: right">  
+
 **顧客:** 這裡的啤酒是什麼品牌的？  <br>
 (koko no biiru wa nani no burando desu ka?)  <br>
 這裡的啤酒是什麼品牌的？  <br>
@@ -233,6 +255,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **店員:** キリンビールを提供しています。  <br>
 (kirin biiru o teikyou shiteimasu.)  <br>
 我們提供麒麟啤酒。  <br>
@@ -240,6 +263,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** 太好了，我很喜歡這個品牌。  <br>
 (taihen arigatou gozaimasu, kono burando ga daisuki desu.)  <br>
 太好了，我很喜歡這個品牌。  <br>
@@ -265,6 +289,7 @@ tags: [日語, Japanese, 日語對話]
 ![結帳與付款](https://images.pexels.com/photos/7621136/pexels-photo-7621136.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **店員:** お会計は3,500円になります。  <br>
 (o-kaikei wa sanzen gohyaku en ni narimasu.)  <br>
 總共是3,500日圓。  <br>
@@ -274,6 +299,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **顧客:** クレジットカードでお願いします。  <br>
 (kurejitto kaado de onegai shimasu.)  <br>
 請用信用卡付款。  <br>
@@ -281,6 +307,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **店員:** かしこまりました。領収書もお持ちしましょうか？  <br>
 (kashikomarimashita. ryoushuusho mo o-mochi shimashou ka?)  <br>
 好的，要幫您拿收據嗎？  <br>
@@ -288,6 +315,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** はい、お願いします。  <br>
 (hai, onegai shimasu.)  <br>
 好的，麻煩您了。  <br>
@@ -295,6 +323,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **店員:** お釣りは1,500円です。  <br>
 (o-tsuri wa sen gohyaku en desu.)  <br>
 找您1,500日圓。  <br>
@@ -303,6 +332,7 @@ tags: [日語, Japanese, 日語對話]
 
 
 <div style="text-align: right">  
+
 **顧客:** 這裡可以使用電子支付嗎？  <br>
 (koko de wa denshi shiharai ga tsukaemasu ka?)  <br>
 這裡可以使用電子支付嗎？  <br>
@@ -310,6 +340,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **店員:** はい、PayPayとLINE Payが使えます。  <br>
 (hai, peipei to lain pei ga tsukaemasu.)  <br>
 是的，可以使用PayPay和LINE Pay。  <br>
@@ -317,6 +348,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** 太好了，謝謝！  <br>
 (taihen arigatou gozaimasu!)  <br>
 太好了，謝謝！  <br>
@@ -342,6 +374,7 @@ tags: [日語, Japanese, 日語對話]
 ![離開餐廳](https://images.pexels.com/photos/31767966/pexels-photo-31767966.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** ごちそうさまでした。  <br>
 (gochisou sama deshita.)  <br>
 謝謝招待。  <br>
@@ -351,6 +384,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** ありがとうございました。またのお越しをお待ちしております。  <br>
 (arigatou gozaimashita. mata no o-koshi o o-machi shite orimasu.)  <br>
 謝謝光臨。期待您再次光臨。  <br>
@@ -358,6 +392,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** とても美味しかったです。  <br>
 (totemo oishikatta desu.)  <br>
 非常好吃。  <br>
@@ -365,6 +400,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** ありがとうございます。お気をつけてお帰りください。  <br>
 (arigatou gozaimasu. o-ki o tsukete o-kaeri kudasai.)  <br>
 謝謝。請小心慢走。  <br>
@@ -372,6 +408,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 失礼します。  <br>
 (shitsurei shimasu.)  <br>
 告辭了。  <br>
@@ -380,6 +417,7 @@ tags: [日語, Japanese, 日語對話]
 
 
 <div style="text-align: right">  
+
 **顧客:** 下次我會帶朋友來。  <br>
 (jikai wa tomodachi o tsurete kimasu.)  <br>
 下次我會帶朋友來。  <br>
@@ -387,6 +425,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **店員:** ありがとうございます。お待ちしております。  <br>
 (arigatou gozaimasu. omachi shite orimasu.)  <br>
 謝謝。我們會期待您的光臨。  <br>
@@ -394,6 +433,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** 再見！  <br>
 (saiken!)  <br>
 再見！  <br>

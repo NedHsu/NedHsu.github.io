@@ -36,6 +36,7 @@ tags: [日語, Japanese, 日語對話]
 ![銀行開戶](https://images.pexels.com/photos/28176070/pexels-photo-28176070.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **銀行職員:** いらっしゃいませ。ご用件は何でしょうか？  <br>
 (irasshaimase. go-youken wa nan deshou ka?)  <br>
 歡迎光臨。請問有什麼可以幫您的嗎？  <br>
@@ -45,6 +46,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **顧客:** 普通預金口座を開設したいのですが。  <br>
 (futsuu yokin kouza o kaisetsu shitai no desu ga.)  <br>
 我想開設一般存款帳戶。  <br>
@@ -54,6 +56,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: left">  
+
 **銀行職員:** はい、承知しました。パスポートと在留カードをお願いします。  <br>
 (hai, shouchi shimashita. pasupooto to zairyuu kaado o onegai shimasu.)  <br>
 好的，請出示您的護照和居留證。  <br>
@@ -62,6 +65,7 @@ tags: [日語, Japanese, 日語對話]
 
 
 <div style="text-align: right">  
+
 **顧客:** こちらです。手続きにはどのくらい時間がかかりますか？  <br>
 (kochira desu. tetsuzuki ni wa dono kurai jikan ga kakarimasu ka?)  <br>
 這是我的護照和居留證。手續需要多長時間？  <br>
@@ -69,6 +73,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **銀行職員:** 約30分ほどです。  <br>
 (yaku sanjuppun hodo desu.)  <br>
 大約30分鐘。  <br>
@@ -76,6 +81,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝。  <br>
@@ -101,6 +107,7 @@ tags: [日語, Japanese, 日語對話]
 ![郵局寄包裹](https://images.pexels.com/photos/6169021/pexels-photo-6169021.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **郵局職員:** いらっしゃいませ。何をお送りになりますか？  <br>
 (irasshaimase. nani o o-okuri ni narimasu ka?)  <br>
 歡迎光臨。請問您要寄什麼？  <br>
@@ -110,6 +117,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **顧客:** この小包を台湾まで送りたいです。  <br>
 (kono kozutsumi o taiwan made okuritai desu.)  <br>
 我想把這個包裹寄到台灣。  <br>
@@ -119,6 +127,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: left">  
+
 **郵局職員:** はい、承知しました。住所を確認させていただきます。  <br>
 (hai, shouchi shimashita. juusho o kakunin sasete itadakimasu.)  <br>
 好的，讓我確認一下地址。  <br>
@@ -127,6 +136,7 @@ tags: [日語, Japanese, 日語對話]
 
 
 <div style="text-align: right">  
+
 **顧客:** こちらです。運費はどのくらいですか？  <br>
 (kochira desu. souryou wa dono kurai desu ka?)  <br>
 這是地址。運費是多少？  <br>
@@ -134,6 +144,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **郵局職員:** 重さによりますが、約1,500円です。  <br>
 (omosa ni yorimasu ga, yaku sen gohyaku en desu.)  <br>
 根據重量，大約1,500日圓。  <br>
@@ -141,6 +152,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝。  <br>
@@ -166,6 +178,7 @@ tags: [日語, Japanese, 日語對話]
 ![美容院染髮](https://images.pexels.com/photos/32008401/pexels-photo-32008401.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **美容師:** いらっしゃいませ。カラーのご予約でしょうか？  <br>
 (irasshaimase. karaa no go-yoyaku deshou ka?)  <br>
 歡迎光臨。是要預約染髮嗎？  <br>
@@ -175,6 +188,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **顧客:** はい、茶色に染めたいです。  <br>
 (hai, chairo ni sometai desu.)  <br>
 是的，我想染成棕色。  <br>
@@ -184,6 +198,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: left">  
+
 **美容師:** はい、承知しました。カラーチャートをご覧ください。  <br>
 (hai, shouchi shimashita. karaa chaato o go-ran kudasai.)  <br>
 好的，請看顏色表。  <br>
@@ -192,6 +207,7 @@ tags: [日語, Japanese, 日語對話]
 
 
 <div style="text-align: right">  
+
 **顧客:** 這個顏色看起來不錯。需要多長時間？  <br>
 (kono iro wa yokatta desu. jikan wa dono kurai kakarimasu ka?)  <br>
 這個顏色看起來不錯。需要多長時間？  <br>
@@ -199,6 +215,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **美容師:** 約2時間です。  <br>
 (yaku ni jikan desu.)  <br>
 大約2小時。  <br>
@@ -206,6 +223,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝。  <br>
@@ -231,6 +249,7 @@ tags: [日語, Japanese, 日語對話]
 ![電器行購買](https://images.pexels.com/photos/28608383/pexels-photo-28608383.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **店員:** いらっしゃいませ。何かお探しですか？  <br>
 (irasshaimase. nanika o-sagashi desu ka?)  <br>
 歡迎光臨。請問您在找什麼？  <br>
@@ -240,6 +259,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **顧客:** スマートフォンを探しています。  <br>
 (sumaato fon o sagashite imasu.)  <br>
 我在找智慧型手機。  <br>
@@ -249,6 +269,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: left">  
+
 **店員:** こちらの最新モデルはいかがでしょうか？  <br>
 (kochira no saishin moderu wa ikaga deshou ka?)  <br>
 這款最新型號您覺得如何？  <br>
@@ -257,6 +278,7 @@ tags: [日語, Japanese, 日語對話]
 
 
 <div style="text-align: right">  
+
 **顧客:** 這款有什麼特別功能嗎？  <br>
 (kono moderu wa nani ka tokubetsu na kinou ga arimasu ka?)  <br>
 這款有什麼特別功能嗎？  <br>
@@ -264,6 +286,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **店員:** はい、高解像度カメラと長時間電池があります。  <br>
 (hai, koukaizoudo kamera to choujikan denchi ga arimasu.)  <br>
 是的，有高解析度相機和長效電池。  <br>
@@ -271,6 +294,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** 太好了，謝謝！  <br>
 (taihen arigatou gozaimasu!)  <br>
 太好了，謝謝！  <br>
@@ -296,6 +320,7 @@ tags: [日語, Japanese, 日語對話]
 ![計程車叫車](https://images.pexels.com/photos/18201732/pexels-photo-18201732.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **司機:** いらっしゃいませ。どちらまででしょうか？  <br>
 (irasshaimase. dochira made deshou ka?)  <br>
 歡迎搭乘。請問您要去哪裡？  <br>
@@ -305,6 +330,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **乘客:** 東京駅までお願いします。  <br>
 (toukyou eki made onegai shimasu.)  <br>
 請載我到東京車站。  <br>
@@ -314,6 +340,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: left">  
+
 **司機:** かしこまりました。  <br>
 (kashikomarimashita.)  <br>
 好的，我知道了。  <br>
@@ -322,6 +349,7 @@ tags: [日語, Japanese, 日語對話]
 
 
 <div style="text-align: right">  
+
 **乘客:** 大約需要多長時間？  <br>
 (dono kurai jikan ga kakarimasu ka?)  <br>
 大約需要多長時間？  <br>
@@ -329,6 +357,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **司機:** 約30分です。  <br>
 (yaku sanjuppun desu.)  <br>
 大約30分鐘。  <br>
@@ -336,6 +365,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **乘客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝。  <br>

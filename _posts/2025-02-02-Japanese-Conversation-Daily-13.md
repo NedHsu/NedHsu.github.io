@@ -35,6 +35,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 ![天氣](https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **友人A:** 今日の天気はどうですか？  <br>
 (kyou no tenki wa dou desu ka?)  <br>
 今天天氣怎麼樣？  <br>
@@ -44,6 +45,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
+
 **友人B:** 晴れています。気持ちがいいですね。  <br>
 (harete imasu. kimochi ga ii desu ne.)  <br>
 是晴天。天氣很舒服呢。  <br>
@@ -51,6 +53,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **友人A:** 気温は何度ですか？  <br>
 (kion wa nando desu ka?)  <br>
 氣溫是幾度？  <br>
@@ -58,6 +61,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **友人B:** 25度です。過ごしやすいですね。  <br>
 (nijuu go do desu. sugoshiyasui desu ne.)  <br>
 25度。很適合外出呢。  <br>
@@ -65,6 +69,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **友人A:** 明日も晴れますか？  <br>
 (ashita mo haremasu ka?)  <br>
 明天也會是晴天嗎？  <br>
@@ -72,6 +77,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **友人B:** 天気予報によると、午後から雨が降るそうです。  <br>
 (tenki yohou ni yoruto, gogo kara ame ga furu sou desu.)  <br>
 根據天氣預報，下午會下雨。  <br>
@@ -79,6 +85,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **友人A:** じゃあ、傘を持って行った方がいいですね。  <br>
 (jaa, kasa o motte itta hou ga ii desu ne.)  <br>
 那麼，最好帶把傘。  <br>
@@ -86,6 +93,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **友人B:** そうですね。念のために。  <br>
 (sou desu ne. nen no tame ni.)  <br>
 是啊，以防萬一。  <br>
@@ -111,6 +119,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 ![季節](https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **友人A:** 日本は四季がはっきりしていますね。  <br>
 (nihon wa shiki ga hakkiri shite imasu ne.)  <br>
 日本的四季分明呢。  <br>
@@ -120,6 +129,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
+
 **友人B:** はい、特に春の桜と秋の紅葉が美しいです。  <br>
 (hai, toku ni haru no sakura to aki no kouyou ga utsukushii desu.)  <br>
 是的，特別是春天的櫻花和秋天的紅葉很美。  <br>
@@ -127,6 +137,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **友人A:** 夏はどうですか？  <br>
 (natsu wa dou desu ka?)  <br>
 夏天怎麼樣？  <br>
@@ -134,6 +145,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **友人B:** 夏は蒸し暑くて、湿度が高いです。  <br>
 (natsu wa mushiatsukute, shitsudo ga takai desu.)  <br>
 夏天很悶熱，濕度很高。  <br>
@@ -141,6 +153,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **友人A:** 冬は雪が降りますか？  <br>
 (fuyu wa yuki ga furimasu ka?)  <br>
 冬天會下雪嗎？  <br>
@@ -148,6 +161,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **友人B:** 地域によって違います。北海道は雪が多いですが、東京はあまり降りません。  <br>
 (chiiki ni yotte chigaimasu. hokkaidou wa yuki ga ooi desu ga, toukyou wa amari furimasen.)  <br>
 要看地區。北海道雪很多，但東京不太下雪。  <br>
@@ -155,6 +169,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **友人A:** それぞれの季節に楽しみがありますね。  <br>
 (sorezore no kisetsu ni tanoshimi ga arimasu ne.)  <br>
 每個季節都有其樂趣呢。  <br>
@@ -162,6 +177,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **友人B:** そうですね。季節ごとに違う楽しみがあります。  <br>
 (sou desu ne. kisetsu goto ni chigau tanoshimi ga arimasu.)  <br>
 是啊，每個季節都有不同的樂趣。  <br>
@@ -187,6 +203,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 ![溫度](https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **友人A:** 今日は何度ですか？  <br>
 (kyou wa nando desu ka?)  <br>
 今天幾度？  <br>
@@ -196,6 +213,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
+
 **友人B:** 25度です。少し暑いですね。  <br>
 (nijuu go do desu. sukoshi atsui desu ne.)  <br>
 25度。有點熱呢。  <br>
@@ -203,6 +221,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **友人A:** 湿度はどうですか？  <br>
 (shitsudo wa dou desu ka?)  <br>
 濕度怎麼樣？  <br>
@@ -210,6 +229,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **友人B:** 70%です。蒸し暑いですね。  <br>
 (nanajuu paasento desu. mushiatsui desu ne.)  <br>
 70%。很悶熱呢。  <br>
@@ -217,6 +237,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **友人A:** エアコンをつけましょうか？  <br>
 (eakon o tsukemashou ka?)  <br>
 要開冷氣嗎？  <br>
@@ -224,6 +245,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **友人B:** はい、お願いします。  <br>
 (hai, onegai shimasu.)  <br>
 好的，麻煩你了。  <br>
@@ -231,6 +253,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **友人A:** これで少し快適になりますね。  <br>
 (kore de sukoshi kaiteki ni narimasu ne.)  <br>
 這樣會舒服一點呢。  <br>
@@ -238,6 +261,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **友人B:** そうですね。快適に過ごせます。  <br>
 (sou desu ne. kaiteki ni sugosu koto ga dekimasu.)  <br>
 是啊，可以舒適地度過。  <br>
@@ -263,6 +287,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 ![預報](https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **友人A:** 明日の天気予報はどうですか？  <br>
 (ashita no tenki yohou wa dou desu ka?)  <br>
 明天的天氣預報怎麼樣？  <br>
@@ -272,6 +297,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
+
 **友人B:** 雨が降るそうです。傘を持っていった方がいいですよ。  <br>
 (ame ga furu sou desu. kasa o motte itta hou ga ii desu yo.)  <br>
 聽說會下雨。最好帶傘去。  <br>
@@ -279,6 +305,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **友人A:** 降水確率は何パーセントですか？  <br>
 (kousui kakuritsu wa nan paasento desu ka?)  <br>
 降雨機率是多少？  <br>
@@ -286,6 +313,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **友人B:** 80%です。かなり高いですね。  <br>
 (hachijuu paasento desu. kanari takai desu ne.)  <br>
 80%。相當高呢。  <br>
@@ -293,6 +321,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **友人A:** 気温はどうなりますか？  <br>
 (kion wa dou narimasu ka?)  <br>
 氣溫會怎麼樣？  <br>
@@ -300,6 +329,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **友人B:** 最高気温は23度、最低気温は18度の予報です。  <br>
 (saikou kion wa nijuu san do, saitei kion wa juu hachi do no yohou desu.)  <br>
 預報最高溫23度，最低溫18度。  <br>
@@ -307,6 +337,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **友人A:** それなら、ジャケットを持って行った方がいいですね。  <br>
 (sore nara, jaketto o motte itta hou ga ii desu ne.)  <br>
 那麼，最好帶件夾克。  <br>
@@ -314,6 +345,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **友人B:** そうですね。念のために。  <br>
 (sou desu ne. nen no tame ni.)  <br>
 是啊，以防萬一。  <br>
@@ -339,6 +371,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 ![生活](https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **友人A:** 梅雨の時期は大変ですね。  <br>
 (tsuyu no jiki wa taihen desu ne.)  <br>
 梅雨季節真辛苦呢。  <br>
@@ -348,6 +381,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 <br>  
 
 <div style="text-align: right">  
+
 **友人B:** はい、洗濯物が乾きにくいです。  <br>
 (hai, sentakumono ga kawakini kui desu.)  <br>
 是的，衣服很難乾。  <br>
@@ -355,6 +389,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **友人A:** 除湿機を使っていますか？  <br>
 (joshitsuki o tsukatte imasu ka?)  <br>
 你有使用除濕機嗎？  <br>
@@ -362,6 +397,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **友人B:** はい、毎日使っています。  <br>
 (hai, mainichi tsukatte imasu.)  <br>
 是的，每天都在用。  <br>
@@ -369,6 +405,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **友人A:** カビ対策はどうしていますか？  <br>
 (kabi taisaku wa dou shite imasu ka?)  <br>
 你怎麼防霉？  <br>
@@ -376,6 +413,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **友人B:** 換気をよくして、除湿剤も使っています。  <br>
 (kanki o yoku shite, joshitsuzai mo tsukatte imasu.)  <br>
 經常通風，也使用除濕劑。  <br>
@@ -383,6 +421,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: left">  
+
 **友人A:** それはいいですね。健康にも良さそうです。  <br>
 (sore wa ii desu ne. kenkou ni mo yosasou desu.)  <br>
 那很好呢。對健康也有好處。  <br>
@@ -390,6 +429,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 </div>  
 
 <div style="text-align: right">  
+
 **友人B:** そうですね。健康第一ですから。  <br>
 (sou desu ne. kenkou daiichi desu kara.)  <br>
 是啊，健康最重要。  <br>

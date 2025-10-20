@@ -36,6 +36,7 @@ tags: [日語, Japanese, 日語對話]
 ![在餐廳點餐](https://images.pexels.com/photos/21832929/pexels-photo-21832929.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **店員:** いらっしゃいませ。ご注文はお決まりですか？  <br>
 (irasshaimase. go-chuumon wa o-kimari desu ka?)  <br>
 歡迎光臨。請問您決定好要點什麼了嗎？  <br>
@@ -45,6 +46,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **顧客:** はい、おすすめの料理はありますか？  <br>
 (hai, o-susume no ryouri wa arimasu ka?)  <br>
 是的，請問有什麼推薦的料理嗎？  <br>
@@ -52,6 +54,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **店員:** はい、本日の特選は刺身の盛り合わせです。  <br>
 (hai, honjitsu no tokusen wa sashimi no moriawase desu.)  <br>
 有的，今天的特選是綜合生魚片。  <br>
@@ -59,6 +62,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** それをお願いします。お飲み物は何がありますか？  <br>
 (sore o onegai shimasu. o-nomimono wa nani ga arimasu ka?)  <br>
 請給我那個。有什麼飲料？  <br>
@@ -66,6 +70,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **店員:** ビール、日本酒、ソフトドリンクをご用意しております。  <br>
 (biiru, nihonshu, sofuto dorinku o go-youi shite orimasu.)  <br>
 我們有啤酒、日本酒和軟性飲料。  <br>
@@ -74,6 +79,7 @@ tags: [日語, Japanese, 日語對話]
 
 
 <div style="text-align: right">  
+
 **顧客:** 我會選擇日本酒。  <br>
 (nihonshu o erabimasu.)  <br>
 我會選擇日本酒。  <br>
@@ -81,6 +87,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **店員:** かしこまりました。  <br>
 (kashikomarimashita.)  <br>
 好的。  <br>
@@ -88,6 +95,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝。  <br>
@@ -113,6 +121,7 @@ tags: [日語, Japanese, 日語對話]
 ![購物退換貨](https://images.pexels.com/photos/7414659/pexels-photo-7414659.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **店員:** いらっしゃいませ。何かお手伝いできることはありますか？  <br>
 (irasshaimase. nanika o-tetsudai dekiru koto wa arimasu ka?)  <br>
 歡迎光臨。有什麼可以幫您的嗎？  <br>
@@ -122,6 +131,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **顧客:** この商品を返品したいのですが。  <br>
 (kono shouhin o henpin shitai no desu ga.)  <br>
 我想退這件商品。  <br>
@@ -129,6 +139,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **店員:** はい、承知しました。レシートはお持ちですか？  <br>
 (hai, shouchi shimashita. reshiito wa o-mochi desu ka?)  <br>
 好的，請問您有收據嗎？  <br>
@@ -136,6 +147,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** はい、こちらです。サイズが合わなかったので。  <br>
 (hai, kochira desu. saizu ga awanakatta node.)  <br>
 是的，在這裡。因為尺寸不合適。  <br>
@@ -143,6 +155,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **店員:** かしこまりました。返金の手続きをさせていただきます。  <br>
 (kashikomarimashita. henkin no tetsuzuki o sasete itadakimasu.)  <br>
 好的，我來為您辦理退款手續。  <br>
@@ -151,6 +164,7 @@ tags: [日語, Japanese, 日語對話]
 
 
 <div style="text-align: right">  
+
 **顧客:** 謝謝您的幫助。  <br>
 (goen o arigatou gozaimasu.)  <br>
 謝謝您的幫助。  <br>
@@ -158,6 +172,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **店員:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>
@@ -165,6 +180,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝。  <br>
@@ -190,6 +206,7 @@ tags: [日語, Japanese, 日語對話]
 ![預約旅館](https://images.pexels.com/photos/32137685/pexels-photo-32137685.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **受付:** はい、ホテル「さくら」でございます。  <br>
 (hai, hoteru "sakura" de gozaimasu.)  <br>
 您好，這裡是櫻花旅館。  <br>
@@ -199,6 +216,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **顧客:** 来週の土曜日から2泊3日で予約をお願いしたいのですが。  <br>
 (raishuu no doyoubi kara nihaku mikkade yoyaku o onegai shitai no desu ga.)  <br>
 我想預約下週六開始，住兩晚三天。  <br>
@@ -206,6 +224,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **受付:** はい、承知しました。お部屋のタイプはどうされますか？  <br>
 (hai, shouchi shimashita. o-heya no taipu wa dou saremasu ka?)  <br>
 好的，請問您需要什麼類型的房間？  <br>
@@ -213,6 +232,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** シングルルームをお願いします。温泉はありますか？  <br>
 (shinguru ruumu o onegai shimasu. onsen wa arimasu ka?)  <br>
 請給我單人房。有溫泉嗎？  <br>
@@ -220,6 +240,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **受付:** はい、大浴場がございます。朝食は7時から9時までです。  <br>
 (hai, daiyokujou ga gozaimasu. choushoku wa shichiji kara kuji made desu.)  <br>
 是的，我們有大浴場。早餐時間是7點到9點。  <br>
@@ -228,6 +249,7 @@ tags: [日語, Japanese, 日語對話]
 
 
 <div style="text-align: right">  
+
 **顧客:** 太好了，謝謝！  <br>
 (taihen arigatou gozaimasu!)  <br>
 太好了，謝謝！  <br>
@@ -235,6 +257,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **受付:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>
@@ -242,6 +265,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝。  <br>
@@ -267,6 +291,7 @@ tags: [日語, Japanese, 日語對話]
 ![問路](https://images.pexels.com/photos/29786884/pexels-photo-29786884.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **通行人:** すみません、この近くにコンビニはありますか？  <br>
 (sumimasen, kono chikaku ni konbini wa arimasu ka?)  <br>
 不好意思，請問這附近有便利商店嗎？  <br>
@@ -276,6 +301,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **地元の人:** はい、この道をまっすぐ行って、右側にあります。  <br>
 (hai, kono michi o massugu itte, migigawa ni arimasu.)  <br>
 有的，沿著這條路直走，在右側。  <br>
@@ -283,6 +309,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **通行人:** どのくらいかかりますか？  <br>
 (dono kurai kakarimasu ka?)  <br>
 大概要走多久？  <br>
@@ -290,6 +317,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **地元の人:** 歩いて5分くらいです。  <br>
 (aruite gofun kurai desu.)  <br>
 走路大概5分鐘。  <br>
@@ -297,6 +325,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **通行人:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 非常感謝。  <br>
@@ -305,6 +334,7 @@ tags: [日語, Japanese, 日語對話]
 
 
 <div style="text-align: right">  
+
 **通行人:** 這條路上有其他商店嗎？  <br>
 (kono michi ni wa hoka no mise ga arimasu ka?)  <br>
 這條路上有其他商店嗎？  <br>
@@ -312,6 +342,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **地元の人:** はい、カフェと書店があります。  <br>
 (hai, kafe to shoten ga arimasu.)  <br>
 是的，有咖啡店和書店。  <br>
@@ -319,6 +350,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **通行人:** 太好了，謝謝！  <br>
 (taihen arigatou gozaimasu!)  <br>
 太好了，謝謝！  <br>
@@ -344,6 +376,7 @@ tags: [日語, Japanese, 日語對話]
 ![天氣預報](https://images.pexels.com/photos/5087597/pexels-photo-5087597.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **アナウンサー:** 今日の天気予報を確認しましょう。  <br>
 (kyou no tenki yohou o kakunin shimashou.)  <br>
 讓我們來看看今天的天氣預報。  <br>
@@ -353,6 +386,7 @@ tags: [日語, Japanese, 日語對話]
 <br>  
 
 <div style="text-align: right">  
+
 **視聴者:** はい、お願いします。  <br>
 (hai, onegai shimasu.)  <br>
 好的，麻煩您了。  <br>
@@ -360,6 +394,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **アナウンサー:** 今日は晴れのち曇り、最高気温は25度です。  <br>
 (kyou wa hare nochi kumori, saikou kion wa nijuugo do desu.)  <br>
 今天晴轉陰，最高氣溫25度。  <br>
@@ -367,6 +402,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **視聴者:** 明日の天気はどうですか？  <br>
 (ashita no tenki wa dou desu ka?)  <br>
 明天的天氣如何？  <br>
@@ -374,6 +410,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **アナウンサー:** 明日は雨の予報です。傘をお持ちください。  <br>
 (ashita wa ame no yohou desu. kasa o o-mochi kudasai.)  <br>
 明天預報會下雨。請記得帶傘。  <br>
@@ -382,6 +419,7 @@ tags: [日語, Japanese, 日語對話]
 
 
 <div style="text-align: right">  
+
 **視聴者:** 謝謝您的提醒。  <br>
 (kansha o arigatou gozaimasu.)  <br>
 謝謝您的提醒。  <br>
@@ -389,6 +427,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: left">  
+
 **アナウンサー:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>
@@ -396,6 +435,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 <div style="text-align: right">  
+
 **視聴者:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝。  <br>

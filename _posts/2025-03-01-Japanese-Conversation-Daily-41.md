@@ -35,6 +35,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 ![借書](/assets/img/jp/借書還書.webp)
 
 <div style="text-align: left">  
+
 **顧客:** この本を借りたいのですが。  <br>
 (kono hon o karitai no desu ga.)  <br>
 我想借這本書。  <br>
@@ -44,6 +45,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** 図書館カードをお持ちですか？  <br>
 (toshokan kaado o omochi desu ka?)  <br>
 您有圖書館卡嗎？  <br>
@@ -51,6 +53,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** はい、こちらです。返却期限はいつですか？  <br>
 (hai, kochira desu. henkyaku kigen wa itsu desu ka?)  <br>
 是的，在這裡。歸還期限是什麼時候？  <br>
@@ -58,6 +61,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 2週間後になります。3月15日までにお返しください。  <br>
 (nishuukan go ni narimasu. sangatsu juugo nichi made ni okaeshi kudasai.)  <br>
 兩週後。請在3月15日之前歸還。  <br>
@@ -65,6 +69,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 延長は可能ですか？  <br>
 (enchou wa kanou desu ka?)  <br>
 可以延長嗎？  <br>
@@ -72,6 +77,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、電話やオンラインで延長できます。ただし、他の方が予約していない場合のみです。  <br>
 (hai, denwa ya onrain de enchou dekimasu. tadashi, hoka no kata ga yoyaku shite inai baai nomi desu.)  <br>
 是的，可以通過電話或網路延長。不過，只有在沒有其他人預約的情況下才行。  <br>
@@ -79,6 +85,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。本を大切にします。  <br>
 (arigatou gozaimasu. hon o taisetsu ni shimasu.)  <br>
 謝謝您。我會好好愛惜這本書。  <br>
@@ -86,6 +93,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** どういたしまして。ご利用ありがとうございます。  <br>
 (dou itashimashite. goriyou arigatou gozaimasu.)  <br>
 不客氣。謝謝您的使用。  <br>
@@ -118,6 +126,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 ![查詢](/assets/img/jp/查詢書籍.webp)
 
 <div style="text-align: left">  
+
 **顧客:** この本はありますか？  <br>
 (kono hon wa arimasu ka?)  <br>
 有這本書嗎？  <br>
@@ -127,6 +136,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** 申し訳ありませんが、現在在庫切れです。  <br>
 (moushiwake arimasen ga, genzai zaiko kire desu.)  <br>
 抱歉，目前缺貨。  <br>
@@ -134,6 +144,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 予約はできますか？  <br>
 (yoyaku wa dekimasu ka?)  <br>
 可以預約嗎？  <br>
@@ -141,6 +152,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、予約できます。お名前と連絡先をお教えください。  <br>
 (hai, yoyaku dekimasu. onamae to renrakusaki o ooshie kudasai.)  <br>
 是的，可以預約。請告訴我您的姓名和聯絡方式。  <br>
@@ -148,6 +160,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 田中太郎です。電話番号は090-1234-5678です。  <br>
 (tanaka tarou desu. denwa bangou wa zero kyuu zero ichi ni san yon go roku nana hachi desu.)  <br>
 我是田中太郎。電話號碼是090-1234-5678。  <br>
@@ -155,6 +168,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** ありがとうございます。入荷次第、ご連絡いたします。  <br>
 (arigatou gozaimasu. nyuuka shidai, gorenraku itashimasu.)  <br>
 謝謝您。到貨後我會立即聯絡您。  <br>
@@ -162,6 +176,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** どのくらいかかりますか？  <br>
 (dono kurai kakarimasu ka?)  <br>
 大概需要多久？  <br>
@@ -169,6 +184,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 通常1週間から10日程度です。急ぎでしたら、他の店舗で在庫を確認することもできます。  <br>
 (tsuujou isshuukan kara juu nichi teido desu. isogi deshitara, hoka no tenpo de zaiko o kakunin suru koto mo dekimasu.)  <br>
 通常需要1週到10天左右。如果很急的話，我也可以幫您確認其他分店是否有庫存。  <br>
@@ -201,6 +217,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 ![購買](/assets/img/jp/購買書籍.webp)
 
 <div style="text-align: left">  
+
 **顧客:** この本を買いたいのですが。  <br>
 (kono hon o kaitai no desu ga.)  <br>
 我想買這本書。  <br>
@@ -210,6 +227,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** はい、1,500円になります。  <br>
 (hai, sen gohyaku en ni narimasu.)  <br>
 好的，1,500日圓。  <br>
@@ -217,6 +235,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** レジ袋は必要ですか？  <br>
 (reji bukuro wa hitsuyou desu ka?)  <br>
 需要購物袋嗎？  <br>
@@ -224,6 +243,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** いいえ、レジ袋は有料です。エコバッグをお持ちでしたら、そちらをご利用ください。  <br>
 (iie, reji bukuro wa yuuryou desu. ekobaggu o omochi deshitara, sochira o goriyou kudasai.)  <br>
 不需要，購物袋是要付費的。如果您有環保袋的話，請使用那個。  <br>
@@ -231,6 +251,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 会員カードをお持ちです。ポイントは使えますか？  <br>
 (kaiin kaado o omochi desu. pointo wa tsukaemasu ka?)  <br>
 我有會員卡。可以使用點數嗎？  <br>
@@ -238,6 +259,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、現在500ポイントをお持ちです。100ポイントで50円割引になります。  <br>
 (hai, genzai gohyaku pointo o omochi desu. hyaku pointo de gojuu en waribiki ni narimasu.)  <br>
 是的，您目前有500點。100點可以折抵50日圓。  <br>
@@ -245,6 +267,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** では、500ポイント全部使ってください。  <br>
 (dewa, gohyaku pointo zenbu tsukatte kudasai.)  <br>
 那麼，請使用全部500點。  <br>
@@ -252,6 +275,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 承知いたしました。250円割引になりますので、お支払いは1,250円です。  <br>
 (shouchi itashimashita. nihyaku gojuu en waribiki ni narimasu node, oshiharai wa sen nihyaku gojuu en desu.)  <br>
 好的。250日圓的折扣，所以您需要支付1,250日圓。  <br>
@@ -284,6 +308,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 ![會員](/assets/img/jp/會員服務.webp)
 
 <div style="text-align: left">  
+
 **顧客:** 会員カードを作りたいのですが。  <br>
 (kaiin kaado o tsukuritai no desu ga.)  <br>
 我想辦會員卡。  <br>
@@ -293,6 +318,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** 身分証明書をお持ちですか？  <br>
 (mibun shoumeisho o omochi desu ka?)  <br>
 您有身分證明文件嗎？  <br>
@@ -300,6 +326,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** はい、運転免許証で大丈夫ですか？  <br>
 (hai, unten menkyoshou de daijoubu desu ka?)  <br>
 是的，駕照可以嗎？  <br>
@@ -307,6 +334,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、大丈夫です。お名前と住所もお教えください。  <br>
 (hai, daijoubu desu. onamae to juusho mo ooshie kudasai.)  <br>
 是的，可以。請也告訴我您的姓名和地址。  <br>
@@ -314,6 +342,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 田中花子です。東京都渋谷区1-2-3です。  <br>
 (tanaka hanako desu. toukyouto shibuyaku ichi ni san desu.)  <br>
 我是田中花子。地址是東京都渋谷區1-2-3。  <br>
@@ -321,6 +350,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** ありがとうございます。会員カードは即日発行できます。年会費は無料で、ポイントも貯まります。  <br>
 (arigatou gozaimasu. kaiin kaado wa sokujitsu hakkou dekimasu. nenkaihi wa muryou de, pointo mo tamarimasu.)  <br>
 謝謝您。會員卡可以當天發行。年費免費，還可以累積點數。  <br>
@@ -328,6 +358,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ポイントはどのように貯まりますか？  <br>
 (pointo wa dono you ni tamarimasu ka?)  <br>
 點數是怎麼累積的呢？  <br>
@@ -335,6 +366,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 購入金額の1%がポイントとして貯まります。100円で1ポイントです。  <br>
 (kounyuu kingaku no ichi paasento ga pointo toshite tamarimasu. hyaku en de ichi pointo desu.)  <br>
 購買金額的1%會成為點數。100日圓1點。  <br>
@@ -368,6 +400,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 ![設施](/assets/img/jp/圖書館設施使用.webp)
 
 <div style="text-align: left">  
+
 **顧客:** 閲覧室はどこにありますか？  <br>
 (etsuranshitsu wa doko ni arimasu ka?)  <br>
 閱覧室在哪裡？  <br>
@@ -377,6 +410,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** 2階の奥にございます。  <br>
 (nikai no oku ni gozaimasu.)  <br>
 在二樓的裡面。  <br>
@@ -384,6 +418,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** コピー機は使えますか？  <br>
 (kopii ki wa tsukaemasu ka?)  <br>
 可以使用影印機嗎？  <br>
@@ -391,6 +426,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、1階の受付の横にございます。白黒は10円、カラーは50円です。  <br>
 (hai, ikkai no uketsuke no yoko ni gozaimasu. shirokuro wa juu en, karaa wa gojuu en desu.)  <br>
 是的，在一樓櫃台的旁邊。黑白10日圓，彩色50日圓。  <br>
@@ -398,6 +434,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 自習室は静かですか？  <br>
 (jishuushitsu wa shizuka desu ka?)  <br>
 自習室安靜嗎？  <br>
@@ -405,6 +442,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、とても静かです。携帯電話の使用は禁止されています。  <br>
 (hai, totemo shizuka desu. keitai denwa no shiyou wa kinshi sarete imasu.)  <br>
 是的，非常安靜。禁止使用手機。  <br>
@@ -412,6 +450,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 休憩スペースはありますか？  <br>
 (kyuukei supeesu wa arimasu ka?)  <br>
 有休息區嗎？  <br>
@@ -419,6 +458,7 @@ excerpt: 學習在日本圖書館和書店時常用的日語對話，包括借�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、1階のカフェの隣にございます。飲み物の持ち込みも可能です。  <br>
 (hai, ikkai no kafe no tonari ni gozaimasu. nomimono no mochikomi mo kanou desu.)  <br>
 是的，在一樓咖啡廳的旁邊。也可以帶飲料進去。  <br>

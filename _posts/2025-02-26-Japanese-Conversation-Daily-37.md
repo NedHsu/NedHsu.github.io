@@ -35,6 +35,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 ![購票](https://images.pexels.com/photos/8261829/pexels-photo-8261829.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 映画のチケットを2枚お願いします。  <br>
 (eiga no chiketto o nimai onegai shimasu.)  <br>
 請給我兩張電影票。  <br>
@@ -44,6 +45,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** はい、何時の回をご希望ですか？  <br>
 (hai, nanji no kai o gokibou desu ka?)  <br>
 好的，您要看幾點的場次？  <br>
@@ -51,6 +53,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 19時30分の回をお願いします。  <br>
 (jukuji sanjuppun no kai o onegai shimasu.)  <br>
 請給我19:30的場次。  <br>
@@ -58,6 +61,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、19時30分の回ですね。料金は大人1,800円、学生1,300円になります。  <br>
 (hai, jukuji sanjuppun no kai desu ne. ryoukin wa otona sen happyaku en, gakusei sen sanbyaku en ni narimasu.)  <br>
 好的，19:30的場次。費用是成人1,800日圓，學生1,300日圓。  <br>
@@ -65,6 +69,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 学生証の提示は必要ですか？  <br>
 (gakuseishou no teiji wa hitsuyou desu ka?)  <br>
 需要出示學生證嗎？  <br>
@@ -72,6 +77,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、学生料金でご購入の場合は学生証の提示が必要です。  <br>
 (hai, gakusei ryoukin de gokounyuu no baai wa gakuseishou no teiji ga hitsuyou desu.)  <br>
 是的，如果以學生價格購買的話，需要出示學生證。  <br>
@@ -79,6 +85,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** では、大人1枚と学生1枚でお願いします。学生証はこちらです。  <br>
 (dewa, otona ichimai to gakusei ichimai de onegai shimasu. gakuseishou wa kochira desu.)  <br>
 那麼，請給我1張成人票和1張學生票。學生證在這裡。  <br>
@@ -86,6 +93,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 承知いたしました。合計で3,100円になります。座席の選択も可能です。  <br>
 (shouchi itashimashita. goukei de sanzen hyaku en ni narimasu. zaseki no sentaku mo kanou desu.)  <br>
 好的。總共3,100日圓。也可以選擇座位。  <br>
@@ -122,6 +130,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 ![座位](https://images.pexels.com/photos/6827254/pexels-photo-6827254.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 座席を選べますか？  <br>
 (zaseki o erabemasu ka?)  <br>
 可以選擇座位嗎？  <br>
@@ -131,6 +140,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** はい、スクリーンから見て、どの辺りがよろしいですか？  <br>
 (hai, sukuriin kara mite, dono hen ga yoroshii desu ka?)  <br>
 はい、スクリーンから見て、どの辺りがよろしいですか？  <br>
@@ -138,6 +148,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 真ん中あたりをお願いします。  <br>
 (mannaka atari o onegai shimasu.)  <br>
 請給我中間的位置。  <br>
@@ -145,6 +156,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、真ん中ですね。何列目がよろしいですか？前から5列目、6列目が空いております。  <br>
 (hai, mannaka desu ne. nan retsume ga yoroshii desu ka? mae kara go retsume, roku retsume ga aite orimasu.)  <br>
 好的，中間位置。您想要第幾排？從前面數第5排、第6排有空位。  <br>
@@ -152,6 +164,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 5列目をお願いします。視界は大丈夫ですか？  <br>
 (go retsume o onegai shimasu. shikai wa daijoubu desu ka?)  <br>
 請給我第5排。視野沒問題嗎？  <br>
@@ -159,6 +172,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、5列目は視界が良く、スクリーンとの距離も適切です。前の席の方の頭が邪魔になることもありません。  <br>
 (hai, go retsume wa shikai ga yoku, sukuriin to no kyori mo tekisetsu desu. mae no seki no kata no atama ga jama ni naru koto mo arimasen.)  <br>
 是的，第5排視野很好，與銀幕的距離也適中。不會被前面座位的客人擋住視線。  <br>
@@ -166,6 +180,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** では、5列目の真ん中、15番と16番をお願いします。  <br>
 (dewa, go retsume no mannaka, juu go ban to juu roku ban o onegai shimasu.)  <br>
 那麼，請給我第5排中間的15號和16號座位。  <br>
@@ -173,6 +188,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 承知いたしました。5列目15番、16番で確定いたしました。座席は上映開始10分前からご利用いただけます。  <br>
 (shouchi itashimashita. go retsume juu go ban, juu roku ban de kakutei itashimashita. zaseki wa jouei kaishi juu pun mae kara goriyou itadakemasu.)  <br>
 好的。第5排15號、16號座位已確定。座位可以從開演前10分鐘開始使用。  <br>
@@ -212,6 +228,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 ![零食](https://images.pexels.com/photos/31194556/pexels-photo-31194556.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** ポップコーンとドリンクをお願いします。  <br>
 (poppukoon to dorinku o onegai shimasu.)  <br>
 請給我爆米花和飲料。  <br>
@@ -221,6 +238,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** ポップコーンはS、M、Lサイズがございます。  <br>
 (poppukoon wa esu, emu, eru saizu ga gozaimasu.)  <br>
 爆米花有S、M、L尺寸。  <br>
@@ -228,6 +246,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** Mサイズをお願いします。  <br>
 (emu saizu o onegai shimasu.)  <br>
 請給我M尺寸的。  <br>
@@ -235,6 +254,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、Mサイズのポップコーンですね。ドリンクは何がよろしいですか？コーラ、スプライト、オレンジジュースがございます。  <br>
 (hai, emu saizu no poppukoon desu ne. dorinku wa nani ga yoroshii desu ka? koora, supuraito, orenji juusu ga gozaimasu.)  <br>
 好的，M尺寸的爆米花。飲料要什麼？有可樂、雪碧、柳橙汁。  <br>
@@ -242,6 +262,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** コーラをお願いします。セットで買った方がお得ですか？  <br>
 (koora o onegai shimasu. setto de katta hou ga otoku desu ka?)  <br>
 請給我可樂。買套餐比較划算嗎？  <br>
@@ -249,6 +270,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、セットでご購入いただくと、通常より100円お得になります。Mサイズポップコーンとドリンクのセットで800円です。  <br>
 (hai, setto de gokounyuu itadaku to, tsuujou yori hyaku en otoku ni narimasu. emu saizu poppukoon to dorinku no setto de happyaku en desu.)  <br>
 是的，買套餐的話比平常便宜100日圓。M尺寸爆米花和飲料的套餐是800日圓。  <br>
@@ -256,6 +278,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** では、セットでお願いします。他におすすめのスナックはありますか？  <br>
 (dewa, setto de onegai shimasu. hoka ni osusume no sunakku wa arimasu ka?)  <br>
 那麼，請給我套餐。還有其他推薦的零食嗎？  <br>
@@ -263,6 +286,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、ホットドッグやナチョス、チョコレートなどが人気です。特にホットドッグは温かくて美味しいと評判です。  <br>
 (hai, hotto doggu ya nachosu, chokoreeto nado ga ninki desu. toku ni hotto doggu wa atatakute oishii to hyouban desu.)  <br>
 是的，熱狗、玉米片、巧克力等都很受歡迎。特別是熱狗，評價是溫熱美味。  <br>
@@ -304,6 +328,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 ![禮儀](https://images.pexels.com/photos/4592083/pexels-photo-4592083.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 映画館でのマナーを教えていただけますか？  <br>
 (eigakan de no manaa o oshiete itadakemasu ka?)  <br>
 可以告訴我電影院的禮儀嗎？  <br>
@@ -313,6 +338,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** はい、携帯電話の電源は必ず切ってください。  <br>
 (hai, keitai denwa no dengen wa kanarazu kitte kudasai.)  <br>
 好的，請務必關閉手機電源。  <br>
@@ -320,6 +346,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 写真撮影は禁止ですか？  <br>
 (shashin satsuei wa kinshi desu ka?)  <br>
 禁止拍照嗎？  <br>
@@ -327,6 +354,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、映画の撮影は著作権侵害となるため、完全に禁止されております。スクリーンの写真も含めて、一切の撮影は禁止です。  <br>
 (hai, eiga no satsuei wa chosakuken shingai to naru tame, kanzen ni kinshi sarete orimasu. sukuriin no shashin mo fukumete, issai no satsuei wa kinshi desu.)  <br>
 是的，拍攝電影會侵犯著作權，因此完全禁止。包括銀幕的照片在內，一切拍攝都禁止。  <br>
@@ -334,6 +362,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 映画中に話し声を出すことはできますか？  <br>
 (eiga chuu ni hanashigoe o dasu koto wa dekimasu ka?)  <br>
 電影播放中可以說話嗎？  <br>
@@ -341,6 +370,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 申し訳ございませんが、映画中は静かに観賞していただく必要があります。他のお客様の迷惑になりますので、大きな声での会話はお控えください。  <br>
 (moushiwake gozaimasen ga, eiga chuu wa shizuka ni kanshou shite itadaku hitsuyou ga arimasu. hoka no okyakusama no meiwaku ni narimasu node, ookina koe de no kaiwa wa ohiroku kudasai.)  <br>
 抱歉，電影播放中需要安靜觀賞。會妨礙其他客人，所以請避免大聲說話。  <br>
@@ -348,6 +378,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 映画中にトイレに行くことは可能ですか？  <br>
 (eiga chuu ni toire ni iku koto wa kanou desu ka?)  <br>
 電影播放中可以去廁所嗎？  <br>
@@ -355,6 +386,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、緊急の場合は可能ですが、できるだけ映画の開始前や休憩時間に済ませることをお勧めします。映画中は他のお客様の邪魔にならないよう、静かに移動してください。  <br>
 (hai, kinkyuu no baai wa kanou desu ga, dekiru dake eiga no kaishi mae ya kyuukei jikan ni sumaseru koto o osusume shimasu. eiga chuu wa hoka no okyakusama no jama ni naranai you, shizuka ni idou shite kudasai.)  <br>
 是的，緊急情況下可以去，但建議盡量在電影開始前或休息時間解決。電影播放中請安靜移動，避免妨礙其他客人。  <br>
@@ -399,6 +431,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 ![退票](https://images.pexels.com/photos/20720265/pexels-photo-20720265.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** チケットの払い戻しは可能ですか？  <br>
 (chiketto no haraimodoshi wa kanou desu ka?)  <br>
 可以退票嗎？  <br>
@@ -408,6 +441,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 <br>  
 
 <div style="text-align: right">  
+
 **店員:** 上映開始30分前まで可能です。  <br>
 (jouei kaishi sanjuppun mae made kanou desu.)  <br>
 在開演前30分鐘可以退票。  <br>
@@ -415,6 +449,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 手数料はかかりますか？  <br>
 (tesuuryou wa kakarimasu ka?)  <br>
 要收手續費嗎？  <br>
@@ -422,6 +457,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** はい、手数料として200円がかかります。また、購入時の支払い方法によって返金方法が異なります。  <br>
 (hai, tesuuryou toshite nihyaku en ga kakarimasu. mata, kounyuu ji no shiharai houhou ni yotte henkin houhou ga kotonarimasu.)  <br>
 是的，要收200日圓手續費。另外，根據購買時的付款方式，退款方式也不同。  <br>
@@ -429,6 +465,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** クレジットカードで支払った場合はどうなりますか？  <br>
 (kurejitto kaado de shiharat ta baai wa dou narimasu ka?)  <br>
 如果用信用卡付款的話會怎樣？  <br>
@@ -436,6 +473,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** クレジットカードで支払った場合は、カード会社を通じて返金されます。通常1週間から2週間程度かかります。現金で支払った場合は、即座に現金で返金いたします。  <br>
 (kurejitto kaado de shiharat ta baai wa, kaado gaisha o tsuujite henkin saremasu. tsuujou isshuukan kara nishuukan teido kakarimasu. genkin de shiharat ta baai wa, sokuza ni genkin de henkin itashimasu.)  <br>
 如果用信用卡付款的話，會通過信用卡公司退款。通常需要1週到2週左右。如果用現金付款的話，會立即以現金退款。  <br>
@@ -443,6 +481,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** では、退票の手続きをお願いします。チケットはこちらです。  <br>
 (dewa, taipu no tetsuzuki o onegai shimasu. chiketto wa kochira desu.)  <br>
 那麼，請辦理退票手續。票券在這裡。  <br>
@@ -450,6 +489,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 </div>  
 
 <div style="text-align: right">  
+
 **店員:** 承知いたしました。チケット2枚の払い戻しを承ります。手数料200円を差し引いて、2,900円の返金になります。  <br>
 (shouchi itashimashita. chiketto nimai no haraimodoshi o uketotte orimasu. tesuuryou nihyaku en o sashihite, nisen kyuuhyaku en no henkin ni narimasu.)  <br>
 好的。我來辦理2張票券的退款。扣除200日圓手續費，退款2,900日圓。  <br>

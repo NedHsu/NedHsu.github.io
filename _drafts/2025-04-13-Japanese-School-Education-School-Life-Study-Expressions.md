@@ -38,37 +38,37 @@ excerpt: 學習日語中學校與教育相關的表達方式，包括學校設�
 <div style="text-align: left">
 **学校** (gakkou) - 學校  <br>
 **School**  <br>
-例：学校へ行きます。(gakkou e ikimasu) - 去學校。  <br>
+*例句：学校へ行きます。(gakkou e ikimasu) - 去學校。  <br>
 </div>
 
 <div style="text-align: left">
 **教室** (kyoushitsu) - 教室  <br>
 **Classroom**  <br>
-例：教室で勉強します。(kyoushitsu de benkyou shimasu) - 在教室學習。  <br>
+*例句：教室で勉強します。(kyoushitsu de benkyou shimasu) - 在教室學習。  <br>
 </div>
 
 <div style="text-align: left">
 **図書室/図書館** (toshoshitsu/toshokan) - 圖書室/圖書館  <br>
 **Library**  <br>
-例：図書館で本を借ります。(toshokan de hon wo karimasu) - 在圖書館借書。  <br>
+*例句：図書館で本を借ります。(toshokan de hon wo karimasu) - 在圖書館借書。  <br>
 </div>
 
 <div style="text-align: left">
 **職員室** (shokuinshitsu) - 教職員辦公室  <br>
 **Staff room**  <br>
-例：職員室に行きます。(shokuinshitsu ni ikimasu) - 去職員室。  <br>
+*例句：職員室に行きます。(shokuinshitsu ni ikimasu) - 去職員室。  <br>
 </div>
 
 <div style="text-align: left">
 **体育館** (taiikukan) - 體育館  <br>
 **Gym**  <br>
-例：体育館で運動します。(taiikukan de undou shimasu) - 在體育館運動。  <br>
+*例句：体育館で運動します。(taiikukan de undou shimasu) - 在體育館運動。  <br>
 </div>
 
 <div style="text-align: left">
 **校長室** (kouchoushitsu) - 校長室  <br>
 **Principal's office**  <br>
-例：校長室に呼ばれました。(kouchoushitsu ni yobaremashita) - 被叫到校長室。  <br>
+*例句：校長室に呼ばれました。(kouchoushitsu ni yobaremashita) - 被叫到校長室。  <br>
 </div>
 
 ### 校園人員
@@ -76,19 +76,19 @@ excerpt: 學習日語中學校與教育相關的表達方式，包括學校設�
 <div style="text-align: left">
 **先生** (sensei) - 老師  <br>
 **Teacher**  <br>
-例：先生に質問します。(sensei ni shitsumon shimasu) - 向老師提問。  <br>
+*例句：先生に質問します。(sensei ni shitsumon shimasu) - 向老師提問。  <br>
 </div>
 
 <div style="text-align: left">
 **生徒/学生** (seito/gakusei) - 學生  <br>
 **Student**  <br>
-例：学生です。(gakusei desu) - 我是學生。  <br>
+*例句：学生です。(gakusei desu) - 我是學生。  <br>
 </div>
 
 <div style="text-align: left">
 **先輩/後輩** (senpai/kouhai) - 學長姐/學弟妹  <br>
 **Senior/Junior**  <br>
-例：先輩に相談します。(senpai ni soudan shimasu) - 向學長姐請教。  <br>
+*例句：先輩に相談します。(senpai ni soudan shimasu) - 向學長姐請教。  <br>
 </div>
 
 ### 重點句型
@@ -114,25 +114,25 @@ excerpt: 學習日語中學校與教育相關的表達方式，包括學校設�
 <div style="text-align: left">
 **授業** (jugyou) - 上課  <br>
 **Class/Lesson**  <br>
-例：授業を始めます。(jugyou wo hajimemasu) - 要上課了。  <br>
+*例句：授業を始めます。(jugyou wo hajimemasu) - 要上課了。*  <br>
 </div>
 
 <div style="text-align: left">
 **発表** (happyou) - 發表  <br>
 **Presentation**  <br>
-例：明日、発表します。(ashita, happyou shimasu) - 明天要發表。  <br>
+*例句：明日、発表します。(ashita, happyou shimasu) - 明天要發表。*  <br>
 </div>
 
 <div style="text-align: left">
 **宿題** (shukudai) - 作業  <br>
 **Homework**  <br>
-例：宿題を提出します。(shukudai wo teishutsu shimasu) - 繳交作業。  <br>
+*例句：宿題を提出します。(shukudai wo teishutsu shimasu) - 繳交作業。*  <br>
 </div>
 
 <div style="text-align: left">
 **試験/テスト** (shiken/tesuto) - 考試  <br>
 **Exam/Test**  <br>
-例：来週、試験があります。(raishuu, shiken ga arimasu) - 下週有考試。  <br>
+*例句：来週、試験があります。(raishuu, shiken ga arimasu) - 下週有考試。*  <br>
 </div>
 
 ### 請求與回應
@@ -175,25 +175,25 @@ excerpt: 學習日語中學校與教育相關的表達方式，包括學校設�
 <div style="text-align: left">
 **勉強する** (benkyou suru) - 學習  <br>
 **Study**  <br>
-例：毎日勉強します。(mainichi benkyou shimasu) - 我每天學習。  <br>
+*例句：毎日勉強します。(mainichi benkyou shimasu) - 我每天學習。*  <br>
 </div>
 
 <div style="text-align: left">
 **覚える** (oboeru) - 記住  <br>
 **Memorize**  <br>
-例：単語を覚えます。(tango wo oboemasu) - 記住單字。  <br>
+*例句：単語を覚えます。(tango wo oboemasu) - 記住單字。*  <br>
 </div>
 
 <div style="text-align: left">
 **練習する** (renshuu suru) - 練習  <br>
 **Practice**  <br>
-例：文法を練習します。(bunpou wo renshuu shimasu) - 練習文法。  <br>
+*例句：文法を練習します。(bunpou wo renshuu shimasu) - 練習文法。*  <br>
 </div>
 
 <div style="text-align: left">
 **復習する** (fukushuu suru) - 複習  <br>
 **Review**  <br>
-例：復習をしています。(fukushuu wo shite imasu) - 正在複習。  <br>
+*例句：復習をしています。(fukushuu wo shite imasu) - 正在複習。*  <br>
 </div>
 
 ### 成績評量
@@ -201,19 +201,19 @@ excerpt: 學習日語中學校與教育相關的表達方式，包括學校設�
 <div style="text-align: left">
 **点数/成績** (tensuu/seiseki) - 分數/成績  <br>
 **Score/Grade**  <br>
-例：成績が上がりました。(seiseki ga agarimashita) - 成績變好了。  <br>
+*例句：成績が上がりました。(seiseki ga agarimashita) - 成績變好了。*  <br>
 </div>
 
 <div style="text-align: left">
 **合格/不合格** (goukaku/fugoukaku) - 合格/不合格  <br>
 **Pass/Fail**  <br>
-例：試験に合格しました。(shiken ni goukaku shimashita) - 通過考試。  <br>
+*例句：試験に合格しました。(shiken ni goukaku shimashita) - 通過考試。*  <br>
 </div>
 
 <div style="text-align: left">
 **評価** (hyouka) - 評價  <br>
 **Evaluation**  <br>
-例：先生の評価です。(sensei no hyouka desu) - 老師的評價。  <br>
+*例句：先生の評価です。(sensei no hyouka desu) - 老師的評價。*  <br>
 </div>
 
 ### 重點句型
@@ -239,19 +239,19 @@ excerpt: 學習日語中學校與教育相關的表達方式，包括學校設�
 <div style="text-align: left">
 **部活/クラブ** (bukatsu/kurabu) - 社團  <br>
 **Club activity**  <br>
-例：クラブに入ります。(kurabu ni hairimasu) - 加入社團。  <br>
+*例句：クラブに入ります。(kurabu ni hairimasu) - 加入社團。*  <br>
 </div>
 
 <div style="text-align: left">
 **運動部** (undoubu) - 體育性社團  <br>
 **Sports club**  <br>
-例：運動部で練習します。(undoubu de renshuu shimasu) - 在運動社練習。  <br>
+*例句：運動部で練習します。(undoubu de renshuu shimasu) - 在運動社練習。*  <br>
 </div>
 
 <div style="text-align: left">
 **文化部** (bunkabu) - 文化性社團  <br>
 **Cultural club**  <br>
-例：文化部の活動です。(bunkabu no katsudou desu) - 文化性社團活動。  <br>
+*例句：文化部の活動です。(bunkabu no katsudou desu) - 文化性社團活動。*  <br>
 </div>
 
 ### 活動與賽事
@@ -259,19 +259,19 @@ excerpt: 學習日語中學校與教育相關的表達方式，包括學校設�
 <div style="text-align: left">
 **大会** (taikai) - 大會  <br>
 **Tournament**  <br>
-例：大会に出ます。(taikai ni demasu) - 參加大會。  <br>
+*例句：大会に出ます。(taikai ni demasu) - 參加大會。*  <br>
 </div>
 
 <div style="text-align: left">
 **練習試合** (renshuu jiai) - 練習賽  <br>
 **Practice match**  <br>
-例：練習試合をします。(renshuu jiai wo shimasu) - 打練習賽。  <br>
+*例句：練習試合をします。(renshuu jiai wo shimasu) - 打練習賽。*  <br>
 </div>
 
 <div style="text-align: left">
 **文化祭** (bunkasai) - 文化祭  <br>
 **School festival**  <br>
-例：文化祭を楽しみます。(bunkasai wo tanoshimimasu) - 享受文化祭。  <br>
+*例句：文化祭を楽しみます。(bunkasai wo tanoshimimasu) - 享受文化祭。*  <br>
 </div>
 
 ### 重點句型

@@ -35,6 +35,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 ![成藥](https://images.pexels.com/photos/13835498/pexels-photo-13835498.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 風邪薬を探しています。  <br>
 (kazegusuri o sagashite imasu.)  <br>
 我在找感冒藥。  <br>
@@ -44,6 +45,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 <br>  
 
 <div style="text-align: right">  
+
 **藥師:** こちらが人気の風邪薬です。  <br>
 (kochira ga ninki no kazegusuri desu.)  <br>
 這是熱門的感冒藥。  <br>
@@ -51,6 +53,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 咳にも効きますか？  <br>
 (seki ni mo kikimasu ka?)  <br>
 對咳嗽也有效嗎？  <br>
@@ -58,6 +61,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 </div>  
 
 <div style="text-align: right">  
+
 **藥師:** はい、咳や喉の痛みにも効果があります。  <br>
 (hai, seki ya nodo no itami ni mo kouka ga arimasu.)  <br>
 是的，對咳嗽和喉嚨痛也有效。  <br>
@@ -65,6 +69,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 他におすすめの薬はありますか？  <br>
 (hoka ni osusume no kusuri wa arimasu ka?)  <br>
 還有其他推薦的藥嗎？  <br>
@@ -72,6 +77,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 </div>  
 
 <div style="text-align: right">  
+
 **藥師:** はい、こちらのビタミン剤も風邪の予防に効果的です。  <br>
 (hai, kochira no bitaminzai mo kaze no yobou ni koukateki desu.)  <br>
 有的，這款維他命也對預防感冒有效。  <br>
@@ -79,6 +85,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
@@ -86,6 +93,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 </div>  
 
 <div style="text-align: right">  
+
 **藥師:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>
@@ -111,6 +119,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 ![諮詢](https://images.pexels.com/photos/4226256/pexels-photo-4226256.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** この薬の使い方を教えていただけますか？  <br>
 (kono kusuri no tsukaikata o oshiete itadakemasu ka?)  <br>
 可以告訴我這個藥的使用方法嗎？  <br>
@@ -120,6 +129,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 <br>  
 
 <div style="text-align: right">  
+
 **藥師:** はい、1日3回、食後に飲んでください。  <br>
 (hai, ichinichi sankai, shokugo ni nonde kudasai.)  <br>
 好的，一天三次，飯後服用。  <br>
@@ -127,6 +137,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** どのくらいの期間飲めばいいですか？  <br>
 (dono kurai no kikan nomeba ii desu ka?)  <br>
 要服用多久？  <br>
@@ -134,6 +145,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 </div>  
 
 <div style="text-align: right">  
+
 **藥師:** 症状が治まるまで、最大1週間続けてください。  <br>
 (shoujou ga osamaru made, saidai isshuukan tsuzukete kudasai.)  <br>
 請服用到症狀緩解，最多一週。  <br>
@@ -159,6 +171,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 ![副作用](https://images.pexels.com/photos/8961701/pexels-photo-8961701.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 副作用はありますか？  <br>
 (fukusayou wa arimasu ka?)  <br>
 有副作用嗎？  <br>
@@ -168,6 +181,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 <br>  
 
 <div style="text-align: right">  
+
 **藥師:** 眠気や胃の不快感が出る場合があります。  <br>
 (nemuke ya i no fukaikan ga deru baai ga arimasu.)  <br>
 可能會出現嗜睡或胃部不適。  <br>
@@ -175,6 +189,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 他の薬と一緒に飲んでも大丈夫ですか？  <br>
 (hoka no kusuri to issho ni nonde mo daijoubu desu ka?)  <br>
 可以和其他藥一起吃嗎？  <br>
@@ -182,6 +197,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 </div>  
 
 <div style="text-align: right">  
+
 **藥師:** 併用する場合はご相談ください。  <br>
 (heiyou suru baai wa go soudan kudasai.)  <br>
 如需併用請先諮詢我們。  <br>
@@ -207,6 +223,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 ![處方藥](https://images.pexels.com/photos/13835498/pexels-photo-13835498.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 処方箋を持ってきました。  <br>
 (shohousen o motte kimashita.)  <br>
 我帶了處方箋。  <br>
@@ -216,6 +233,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 <br>  
 
 <div style="text-align: right">  
+
 **藥師:** 健康保険証もお願いします。  <br>
 (kenkou hokenshou mo onegai shimasu.)  <br>
 請也出示健保卡。  <br>
@@ -223,6 +241,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** お薬はいつできますか？  <br>
 (okusuri wa itsu dekimasu ka?)  <br>
 藥什麼時候可以拿？  <br>
@@ -230,6 +249,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 </div>  
 
 <div style="text-align: right">  
+
 **藥師:** 10分ほどお待ちください。  <br>
 (juppun hodo omachi kudasai.)  <br>
 請稍等約10分鐘。  <br>
@@ -255,6 +275,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 ![諮詢](https://images.pexels.com/photos/4226256/pexels-photo-4226256.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 健康相談をしたいのですが。  <br>
 (kenkou soudan o shitai no desu ga.)  <br>
 我想諮詢健康問題。  <br>
@@ -264,6 +285,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 <br>  
 
 <div style="text-align: right">  
+
 **藥師:** どのような症状ですか？  <br>
 (dono you na shoujou desu ka?)  <br>
 是什麼樣的症狀？  <br>
@@ -271,6 +293,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 最近よく眠れません。  <br>
 (saikin yoku nemuremasen.)  <br>
 最近常常睡不好。  <br>
@@ -278,6 +301,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 </div>  
 
 <div style="text-align: right">  
+
 **藥師:** 生活習慣やストレスについてもお伺いしてもよろしいですか？  <br>
 (seikatsu shuukan ya sutoresu ni tsuite mo oukagai shite mo yoroshii desu ka?)  <br>
 可以詢問一下生活習慣和壓力狀況嗎？  <br>

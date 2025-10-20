@@ -35,6 +35,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 ![開戶](https://images.pexels.com/photos/7621536/pexels-photo-7621536.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 口座を開設したいのですが。  <br>
 (kouza o kaisetsu shitai no desu ga.)  <br>
 我想開戶。  <br>
@@ -44,6 +45,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 <br>  
 
 <div style="text-align: right">  
+
 **銀行員:** はい、身分証明書をお願いします。  <br>
 (hai, mibun shoumeisho o onegai shimasu.)  <br>
 好的，請出示身分證明文件。  <br>
@@ -51,6 +53,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 在留カードで大丈夫ですか？  <br>
 (zairyuu kaado de daijoubu desu ka?)  <br>
 用居留卡可以嗎？  <br>
@@ -58,6 +61,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 </div>  
 
 <div style="text-align: right">  
+
 **銀行員:** はい、在留カードで問題ありません。印鑑もお持ちですか？  <br>
 (hai, zairyuu kaado de mondai arimasen. inkan mo omochi desu ka?)  <br>
 是的，居留卡沒問題。您有帶印章嗎？  <br>
@@ -65,6 +69,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** はい、こちらです。  <br>
 (hai, kochira desu.)  <br>
 有，在這裡。  <br>
@@ -72,6 +77,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 </div>  
 
 <div style="text-align: right">  
+
 **銀行員:** では、申込書に必要事項を記入していただきます。  <br>
 (dewa, moushikomisho ni hitsuyou jikou o kinyuu shite itadakimasu.)  <br>
 那麼，請您在申請書上填寫必要事項。  <br>
@@ -79,6 +85,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
@@ -86,6 +93,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 </div>  
 
 <div style="text-align: right">  
+
 **銀行員:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>
@@ -111,6 +119,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 ![存款](https://images.pexels.com/photos/3943726/pexels-photo-3943726.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 10万円を預け入れたいです。  <br>
 (juu man en o azukeire tai desu.)  <br>
 我想存入10萬日圓。  <br>
@@ -120,6 +129,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 <br>  
 
 <div style="text-align: right">  
+
 **銀行員:** はい、通帳と印鑑をお願いします。  <br>
 (hai, tsuuchou to inkan o onegai shimasu.)  <br>
 好的，請出示存摺和印章。  <br>
@@ -127,6 +137,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 定期預金の金利はいくらですか？  <br>
 (teiki yokin no kinri wa ikura desu ka?)  <br>
 定期存款的利率是多少？  <br>
@@ -134,6 +145,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 </div>  
 
 <div style="text-align: right">  
+
 **銀行員:** 1年定期で0.002%です。  <br>
 (ichinen teiki de rei ten zero zero ni paasento desu.)  <br>
 一年定期是0.002%。  <br>
@@ -141,6 +153,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** では、5万円を定期預金にしたいです。  <br>
 (dewa, goman en o teiki yokin ni shitai desu.)  <br>
 那麼，我想存5萬日圓的定期存款。  <br>
@@ -148,6 +161,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 </div>  
 
 <div style="text-align: right">  
+
 **銀行員:** かしこまりました。手続きをさせていただきます。  <br>
 (kashikomarimashita. tetsuzuki o sasete itadakimasu.)  <br>
 好的，我來為您辦理手續。  <br>
@@ -155,6 +169,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
@@ -162,6 +177,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 </div>  
 
 <div style="text-align: right">  
+
 **銀行員:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>
@@ -187,6 +203,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 ![匯款](https://images.pexels.com/photos/4968380/pexels-photo-4968380.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 海外への送金をお願いします。  <br>
 (kaigai e no soukin o onegai shimasu.)  <br>
 請幫我辦理海外匯款。  <br>
@@ -196,6 +213,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 <br>  
 
 <div style="text-align: right">  
+
 **銀行員:** 送金先の情報を教えていただけますか？  <br>
 (soukinsaki no jouhou o oshiete itadakemasu ka?)  <br>
 請告訴我匯款對象的資訊。  <br>
@@ -203,6 +221,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** アメリカの銀行に送金したいです。  <br>
 (amerika no ginkou ni soukin shitai desu.)  <br>
 我想匯款到美國的銀行。  <br>
@@ -210,6 +229,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 </div>  
 
 <div style="text-align: right">  
+
 **銀行員:** 送金手数料は3,000円になります。  <br>
 (soukin tesuuryou wa sanzen en ni narimasu.)  <br>
 匯款手續費是3,000日圓。  <br>
@@ -217,6 +237,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 為替レートはいくらですか？  <br>
 (kawase reeto wa ikura desu ka?)  <br>
 匯率是多少？  <br>
@@ -224,6 +245,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 </div>  
 
 <div style="text-align: right">  
+
 **銀行員:** 現在のレートは1ドル150円です。  <br>
 (genzai no reeto wa ichi doru hyakugojuu en desu.)  <br>
 現在的匯率是1美元兌150日圓。  <br>
@@ -231,6 +253,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
@@ -238,6 +261,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 </div>  
 
 <div style="text-align: right">  
+
 **銀行員:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>
@@ -263,6 +287,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 ![信用卡](https://images.pexels.com/photos/32093661/pexels-photo-32093661.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** クレジットカードの申し込みをしたいです。  <br>
 (kurejitto kaado no moushikomi o shitai desu.)  <br>
 我想申請信用卡。  <br>
@@ -272,6 +297,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 <br>  
 
 <div style="text-align: right">  
+
 **銀行員:** 申込書に必要事項を記入してください。  <br>
 (moushikomisho ni hitsuyou jikou o kinyuu shite kudasai.)  <br>
 請在申請書上填寫必要事項。  <br>
@@ -279,6 +305,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 年収の証明書は必要ですか？  <br>
 (nenshuu no shoumeisho wa hitsuyou desu ka?)  <br>
 需要年收入證明嗎？  <br>
@@ -286,6 +313,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 </div>  
 
 <div style="text-align: right">  
+
 **銀行員:** はい、給与明細書のコピーをお願いします。  <br>
 (hai, kyuuyo meisaisho no kopii o onegai shimasu.)  <br>
 是的，請提供薪資單的影本。  <br>
@@ -293,6 +321,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 審査結果はいつわかりますか？  <br>
 (shinsa kekka wa itsu wakarimasu ka?)  <br>
 什麼時候知道審查結果？  <br>
@@ -300,6 +329,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 </div>  
 
 <div style="text-align: right">  
+
 **銀行員:** 約1週間で結果をお知らせします。  <br>
 (yaku isshuukan de kekka o oshirase shimasu.)  <br>
 大約一週後會通知結果。  <br>
@@ -307,6 +337,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
@@ -314,6 +345,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 </div>  
 
 <div style="text-align: right">  
+
 **銀行員:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>
@@ -339,6 +371,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 ![理財](https://images.pexels.com/photos/32027904/pexels-photo-32027904.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 <div style="text-align: left">  
+
 **顧客:** 資産運用について相談したいです。  <br>
 (shisan unyou ni tsuite soudan shitai desu.)  <br>
 我想諮詢資產運用。  <br>
@@ -348,6 +381,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 <br>  
 
 <div style="text-align: right">  
+
 **銀行員:** 担当者がご案内いたします。  <br>
 (tantousha ga go-annai itashimasu.)  <br>
 我會請專員為您說明。  <br>
@@ -355,6 +389,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 投資信託について詳しく知りたいです。  <br>
 (toushi shintaku ni tsuite kuwashiku shiritai desu.)  <br>
 我想詳細了解投資信託。  <br>
@@ -362,6 +397,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 </div>  
 
 <div style="text-align: right">  
+
 **銀行員:** リスクとリターンについて説明させていただきます。  <br>
 (risuku to ritaan ni tsuite setsumei sasete itadakimasu.)  <br>
 我來為您說明風險和報酬。  <br>
@@ -369,6 +405,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** 最低投資額はいくらですか？  <br>
 (saitei toushi gaku wa ikura desu ka?)  <br>
 最低投資金額是多少？  <br>
@@ -376,6 +413,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 </div>  
 
 <div style="text-align: right">  
+
 **銀行員:** 10万円から投資可能です。  <br>
 (juu man en kara toushi kanou desu.)  <br>
 從10萬日圓開始可以投資。  <br>
@@ -383,6 +421,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 </div>  
 
 <div style="text-align: left">  
+
 **顧客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
@@ -390,6 +429,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 </div>  
 
 <div style="text-align: right">  
+
 **銀行員:** どういたしまして。  <br>
 (dou itashimashite.)  <br>
 不客氣。  <br>
