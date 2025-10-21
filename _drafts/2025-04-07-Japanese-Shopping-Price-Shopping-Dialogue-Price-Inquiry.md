@@ -33,7 +33,7 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 ## 情境 1: 購物場所
 
 ![購物場所](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Various Japanese shopping venues - department stores, supermarkets, convenience stores, shopping malls, traditional markets, modern retail spaces, bustling shopping scenes -->
+<!-- Image Prompt: Japanese shopping venues and retail locations diagram - shopping venues and retail establishments with Japanese labels (デパート, ショッピングモール, スーパー, コンビニ, 服屋, 靴屋, 本屋, 薬局, 市場, 魚市場, 花屋, 八百屋, 店, 商業, 小売, 販売), clean shopping venue layout, educational diagram style, no text overlays, only shopping venue labels positioned at corresponding retail establishment elements -->
 
 ### 大型購物場所
 
@@ -129,7 +129,7 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 ## 情境 2: 商品與價格
 
 ![商品價格](https://images.unsplash.com/photo-1557683316-973673baf926?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese products with price tags - clothing, electronics, food items, traditional goods, price displays, shopping baskets, retail products -->
+<!-- Image Prompt: Japanese products and pricing system diagram - products and price expressions with Japanese labels (商品, 品物, 特売品, 新商品, 値段, 価格, 安い, 高い, いくらですか, 値段はいくらですか, ～円です, 税込み, 価値, 割引, 定価, 消費税), clean product pricing layout, educational diagram style, no text overlays, only product and pricing labels positioned at corresponding price system elements -->
 
 ### 商品種類
 
@@ -225,7 +225,7 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 ## 情境 3: 購物對話
 
 ![購物對話](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Customer and shop assistant having conversations - asking about products, trying on clothes, discussing prices, shopping interactions -->
+<!-- Image Prompt: Japanese shopping dialogue and customer service scene - shopping conversation and customer interaction with Japanese labels (～はありますか, ～を探しています, ～はどこですか, ～を見せてください, 試着, サイズ, 色, 気に入りました, これをください, 買います, 決めました, やめます, 選択, 決定, 比較, 検討), clean shopping dialogue setting, educational illustration style, no text overlays, only shopping dialogue phrase labels positioned near corresponding conversation elements -->
 
 ### 尋找商品
 
@@ -321,7 +321,7 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 ## 情境 4: 付款方式
 
 ![付款方式](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Payment methods in Japan - cash, credit cards, mobile payments, ATM, cash register, payment terminals, modern payment systems -->
+<!-- Image Prompt: Japanese payment methods and transaction system diagram - payment methods and transaction processes with Japanese labels (現金, クレジットカード, 電子マネー, スマホ決済, お会計, レシート, 袋, おつり, 支払う, 払う, 代金, 合計, 決済, 支払い, 代金, 計算), clean payment method layout, educational diagram style, no text overlays, only payment method labels positioned at corresponding transaction system elements -->
 
 ### 付款方式
 
@@ -417,7 +417,7 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 ## 情境 5: 退換貨
 
 ![退換貨](https://images.unsplash.com/photo-1541746972996-4e0b0f93e586?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Customer service desk - returns, exchanges, refunds, customer complaints, product defects, return policy discussions -->
+<!-- Image Prompt: Japanese customer service and return policy scene - customer service desk and return process with Japanese labels (返品, 交換, 返金, レシート, サイズが合わない, 色が違う, 壊れている, 気に入らない, 保証書, 期間, 条件, 手数料, 保証, 条件, 期間, 手続き), clean customer service setting, educational illustration style, no text overlays, only customer service phrase labels positioned near corresponding return process elements -->
 
 ### 退貨相關
 

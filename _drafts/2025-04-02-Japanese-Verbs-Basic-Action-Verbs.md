@@ -33,7 +33,7 @@ excerpt: 學習日常生活中常用的日語動詞，包括基本動作、日�
 ## 情境 1: 基本動作動詞
 
 ![基本動作](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: People performing basic actions like eating, drinking, sleeping, walking, running, sitting, standing, in a clean modern environment, clear visual representation of each action, educational style with Japanese text labels -->
+<!-- Image Prompt: Japanese basic action verbs and daily activities diagram - basic action verbs and daily routines with Japanese labels (食べる, 飲む, 寝る, 起きる, 歩く, 走る, 座る, 立つ, 動作, 生活, 習慣, 日常), clean action verb layout, educational diagram style, no text overlays, only action verb labels positioned at corresponding daily activity elements -->
 
 ### 生活基本動作
 
@@ -103,7 +103,7 @@ excerpt: 學習日常生活中常用的日語動詞，包括基本動作、日�
 ## 情境 2: 日常活動動詞
 
 ![日常活動](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: People engaged in daily activities like studying, working, cooking, cleaning, shopping, reading, writing, in various settings like home, office, school, clean and organized scenes, educational style -->
+<!-- Image Prompt: Japanese daily activity verbs and routine tasks diagram - daily activity verbs and routine work with Japanese labels (勉強する, 働く, 読む, 書く, 料理する, 掃除する, 洗う, 買い物する, 活動, 仕事, 家事, 趣味), clean daily activity layout, educational diagram style, no text overlays, only daily activity labels positioned at corresponding routine task elements -->
 
 ### 學習與工作
 
@@ -173,7 +173,7 @@ excerpt: 學習日常生活中常用的日語動詞，包括基本動作、日�
 ## 情境 3: 移動動詞
 
 ![移動動詞](https://images.unsplash.com/photo-1541746972996-4e0b0f93e586?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Various modes of transportation and movement like walking, cycling, driving, taking train, flying, with Japanese cityscape background, clear visual representation of each movement, modern transportation scenes -->
+<!-- Image Prompt: Japanese movement verbs and transportation methods diagram - movement verbs and transportation systems with Japanese labels (行く, 来る, 帰る, 出る, 乗る, 降りる, 運転する, 飛ぶ, 移動, 交通, 乗り物, 旅行), clean movement verb layout, educational diagram style, no text overlays, only movement verb labels positioned at corresponding transportation method elements -->
 
 ### 基本移動
 
@@ -243,7 +243,7 @@ excerpt: 學習日常生活中常用的日語動詞，包括基本動作、日�
 ## 情境 4: 感官動詞
 
 ![感官動詞](https://images.unsplash.com/photo-1557683316-973673baf926?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: People using their senses - seeing beautiful scenery, hearing music, smelling flowers, tasting food, touching objects, sensory experiences in daily life, warm and inviting atmosphere -->
+<!-- Image Prompt: Japanese sensory verbs and perception experiences diagram - sensory verbs and sensory experiences with Japanese labels (見る, 聞く, 見える, 聞こえる, 触る, 味わう, 嗅ぐ, 感じる, 感覚, 五感, 体験, 印象), clean sensory verb layout, educational diagram style, no text overlays, only sensory verb labels positioned at corresponding perception experience elements -->
 
 ### 視覺與聽覺
 
@@ -313,7 +313,7 @@ excerpt: 學習日常生活中常用的日語動詞，包括基本動作、日�
 ## 情境 5: 情感動詞
 
 ![情感動詞](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: People expressing different emotions - smiling, laughing, crying, thinking, worrying, celebrating, in various social situations, emotional expressions and body language, warm human interactions -->
+<!-- Image Prompt: Japanese emotional verbs and psychological states diagram - emotional verbs and psychological experiences with Japanese labels (笑う, 喜ぶ, 楽しむ, 愛する, 泣く, 怒る, 心配する, 困る, 考える, 覚える, 忘れる, 思い出す, 感情, 気持ち, 心, 精神), clean emotional verb layout, educational diagram style, no text overlays, only emotional verb labels positioned at corresponding psychological state elements -->
 
 ### 正面情感
 

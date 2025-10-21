@@ -33,7 +33,7 @@ excerpt: 學習日語中時間相關的表達方式，包括日期、時間、�
 ## 情境 1: 基本時間表達
 
 ![基本時間](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Clock faces showing different times, calendar pages, time-related objects like watches, clocks, timers, in a clean modern setting, educational style with Japanese time expressions -->
+<!-- Image Prompt: Japanese time expressions and time units diagram - time expressions and time measurement with Japanese labels (時, 分, 秒, 時間, 今, 今朝, 今日, 今夜, 時刻, 時計, 待つ, 遅れる), clean time expression layout, educational diagram style, no text overlays, only time expression labels positioned at corresponding time unit elements -->
 
 ### 時間單位
 
@@ -103,7 +103,7 @@ excerpt: 學習日語中時間相關的表達方式，包括日期、時間、�
 ## 情境 2: 日期與星期
 
 ![日期星期](https://images.unsplash.com/photo-1557683316-973673baf926?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Calendar pages showing dates and days of the week, Japanese calendar with kanji characters, week planner, date picker interface, clean and organized layout -->
+<!-- Image Prompt: Japanese calendar and weekly schedule diagram - calendar dates and weekly organization with Japanese labels (月曜日, 火曜日, 水曜日, 木曜日, 金曜日, 土曜日, 日曜日, 昨日, 明日, 明後日, 一昨日, 週, 日, 予定, スケジュール), clean calendar layout, educational diagram style, no text overlays, only calendar labels positioned at corresponding weekly schedule elements -->
 
 ### 星期表達
 
@@ -191,7 +191,7 @@ excerpt: 學習日語中時間相關的表達方式，包括日期、時間、�
 ## 情境 3: 季節與月份
 
 ![季節月份](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Four seasons represented with Japanese landscapes - cherry blossoms for spring, green forests for summer, autumn leaves for fall, snow scenes for winter, calendar showing months, seasonal activities -->
+<!-- Image Prompt: Japanese seasons and monthly calendar diagram - seasonal periods and monthly organization with Japanese labels (春, 夏, 秋, 冬, 一月, 四月, 七月, 十月, 花見, 海水浴, 紅葉狩り, スキー, 季節, 月, 天気, 自然), clean seasonal calendar layout, educational diagram style, no text overlays, only seasonal calendar labels positioned at corresponding monthly organization elements -->
 
 ### 四季表達
 
@@ -287,7 +287,7 @@ excerpt: 學習日語中時間相關的表達方式，包括日期、時間、�
 ## 情境 4: 時間點與時段
 
 ![時間點時段](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Timeline showing different time periods - morning, afternoon, evening, night, with Japanese clock faces, daily schedule, time management concepts -->
+<!-- Image Prompt: Japanese time periods and daily schedule diagram - time periods and daily organization with Japanese labels (朝, 昼, 夕方, 夜, 午前, 午後, 深夜, 早朝, 短い, 長い, 早い, 遅い, 時刻, 期間, 予定, スケジュール), clean time period layout, educational diagram style, no text overlays, only time period labels positioned at corresponding daily schedule elements -->
 
 ### 一天中的時段
 
@@ -383,7 +383,7 @@ excerpt: 學習日語中時間相關的表達方式，包括日期、時間、�
 ## 情境 5: 時間相關句型
 
 ![時間句型](https://images.unsplash.com/photo-1541746972996-4e0b0f93e586?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese conversation bubbles showing time-related questions and answers, clock faces with different times, calendar with appointments, time management tools, educational dialogue format -->
+<!-- Image Prompt: Japanese time-related conversation and scheduling dialogue scene - time conversation and scheduling discussion with Japanese labels (何時ですか, いつですか, どのくらいですか, 何時からですか, ～時～分です, ～から～まで, ～に～します, ～までに～します, ～時間, ～分, ～日, ～週間, 質問, 回答, 約束, 予定), clean time conversation setting, educational illustration style, no text overlays, only time conversation phrase labels positioned near corresponding scheduling dialogue elements -->
 
 ### 時間詢問
 

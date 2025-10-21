@@ -33,7 +33,7 @@ excerpt: 學習日語中食物和飲料相關的表達方式，包括日式料�
 ## 情境 1: 基本食物詞彙
 
 ![基本食物](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Various Japanese foods arranged beautifully - rice, fish, vegetables, meat, fruits, traditional Japanese table setting, clean presentation, appetizing colors -->
+<!-- Image Prompt: Japanese food categories and ingredients diagram - food categories and cooking ingredients with Japanese labels (ご飯, パン, 麺, うどん, 魚, 肉, 卵, 豆腐, 野菜, 大根, 白菜, きのこ, 食材, 料理, 調理, 栄養), clean food category layout, educational diagram style, no text overlays, only food category labels positioned at corresponding ingredient elements -->
 
 ### 主食類
 
@@ -129,7 +129,7 @@ excerpt: 學習日語中食物和飲料相關的表達方式，包括日式料�
 ## 情境 2: 日式料理
 
 ![日式料理](https://images.unsplash.com/photo-1557683316-973673baf926?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Traditional Japanese dishes - sushi, tempura, ramen, miso soup, bento boxes, traditional tableware, beautiful presentation, authentic Japanese cuisine -->
+<!-- Image Prompt: Japanese traditional cuisine and cooking methods diagram - traditional Japanese dishes and cooking techniques with Japanese labels (寿司, 天ぷら, 刺身, 焼き鳥, 味噌汁, 鍋物, しゃぶしゃぶ, すき焼き, 弁当, 漬物, おにぎり, 茶碗蒸し, 和食, 伝統, 調理法, 盛り付け), clean traditional cuisine layout, educational diagram style, no text overlays, only traditional cuisine labels positioned at corresponding cooking method elements -->
 
 ### 傳統料理
 
@@ -225,7 +225,7 @@ excerpt: 學習日語中食物和飲料相關的表達方式，包括日式料�
 ## 情境 3: 飲品與酒類
 
 ![飲品酒類](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese beverages - green tea, sake, beer, soft drinks, traditional tea ceremony, modern drinks, clean presentation, various containers -->
+<!-- Image Prompt: Japanese beverages and drink categories diagram - beverages and drink types with Japanese labels (お茶, 緑茶, 抹茶, 玄米茶, 日本酒, ビール, 焼酎, 梅酒, 水, ジュース, コーヒー, 牛乳, 飲み物, 酒類, 茶道, 乾杯), clean beverage category layout, educational diagram style, no text overlays, only beverage labels positioned at corresponding drink type elements -->
 
 ### 茶類
 
@@ -321,7 +321,7 @@ excerpt: 學習日語中食物和飲料相關的表達方式，包括日式料�
 ## 情境 4: 用餐表達
 
 ![用餐表達](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese dining etiquette - people eating together, saying itadakimasu, chopsticks, traditional table setting, respectful dining atmosphere -->
+<!-- Image Prompt: Japanese dining etiquette and meal customs diagram - dining etiquette and meal traditions with Japanese labels (いただきます, ごちそうさまでした, 箸, 茶碗, 食べる, 飲む, 噛む, 味わう, 美味しい, 甘い, 辛い, 酸っぱい, 食事, 礼儀, 作法, 感謝), clean dining etiquette layout, educational diagram style, no text overlays, only dining etiquette labels positioned at corresponding meal custom elements -->
 
 ### 用餐禮儀
 
@@ -417,7 +417,7 @@ excerpt: 學習日語中食物和飲料相關的表達方式，包括日式料�
 ## 情境 5: 食物相關對話
 
 ![食物對話](https://images.unsplash.com/photo-1541746972996-4e0b0f93e586?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: People having conversations about food - ordering at restaurant, asking about ingredients, discussing preferences, food shopping, cooking together -->
+<!-- Image Prompt: Japanese food conversation and culinary dialogue scene - food conversation and culinary discussion with Japanese labels (メニューを見せてください, これを注文します, おすすめは何ですか, お会計お願いします, これは何ですか, 辛いですか, アレルギーがあります, ベジタリアンです, 好きです, 嫌いです, 苦手です, 美味しいです, 料理を作ります, 手伝ってください, 材料を買います, レシピを見ます, 注文, 会話, 好み, 調理), clean food conversation setting, educational illustration style, no text overlays, only food conversation phrase labels positioned near corresponding culinary dialogue elements -->
 
 ### 點餐對話
 

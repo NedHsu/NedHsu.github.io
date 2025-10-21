@@ -33,7 +33,7 @@ excerpt: 學習日語中數字與計算相關的表達方式，包括基本數�
 ## 情境 1: 基本數字
 
 ![基本數字](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese numbers displayed in various formats - Arabic numerals, Japanese kanji numbers, counting objects, number charts, mathematical symbols -->
+<!-- Image Prompt: Japanese numbers and counting system diagram - Japanese numerals and counting methods with Japanese labels (一, 二, 三, 四, 五, 六, 七, 八, 九, 十, 二十, 三十, 四十, 五十, 百, 千, 万, 億, 数字, 数える, 計算, 数量), clean number system layout, educational diagram style, no text overlays, only number labels positioned at corresponding counting system elements -->
 
 ### 基本數字 (1-10)
 
@@ -165,7 +165,7 @@ excerpt: 學習日語中數字與計算相關的表達方式，包括基本數�
 ## 情境 2: 計算用語
 
 ![計算用語](https://images.unsplash.com/photo-1557683316-973673baf926?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Mathematical calculations and operations - addition, subtraction, multiplication, division, calculator, mathematical symbols, equations -->
+<!-- Image Prompt: Japanese mathematical calculations and operations diagram - mathematical operations and calculation methods with Japanese labels (足す, 引く, 掛ける, 割る, 答え, 合計, 残り, 半分, 多い, 少ない, 同じ, 違う, 算数, 数学, 問題, 式), clean mathematical calculation layout, educational diagram style, no text overlays, only calculation labels positioned at corresponding mathematical operation elements -->
 
 ### 基本運算
 
@@ -261,7 +261,7 @@ excerpt: 學習日語中數字與計算相關的表達方式，包括基本數�
 ## 情境 3: 時間表達
 
 ![時間表達](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Time expressions and clocks - digital clocks, analog clocks, time schedules, calendar, time-related activities -->
+<!-- Image Prompt: Japanese time expressions and time concepts diagram - time units and time expressions with Japanese labels (時, 分, 秒, 時間, 今, 今度, 前, 後, 長い, 短い, 早い, 遅い, 時刻, 期間, 予定, 約束), clean time expression layout, educational diagram style, no text overlays, only time expression labels positioned at corresponding time concept elements -->
 
 ### 時間單位
 
@@ -357,7 +357,7 @@ excerpt: 學習日語中數字與計算相關的表達方式，包括基本數�
 ## 情境 4: 數量表達
 
 ![數量表達](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Quantity expressions and counting - various objects being counted, measurement tools, quantity indicators, shopping with quantities -->
+<!-- Image Prompt: Japanese quantity expressions and measurement units diagram - quantity expressions and measurement systems with Japanese labels (個, 人, 枚, 本, グラム, キロ, トン, センチ, メートル, キロメートル, 単位, 測定, 重さ, 長さ), clean quantity expression layout, educational diagram style, no text overlays, only quantity expression labels positioned at corresponding measurement unit elements -->
 
 ### 計數詞
 
@@ -441,7 +441,7 @@ excerpt: 學習日語中數字與計算相關的表達方式，包括基本數�
 ## 情境 5: 數字文化
 
 ![數字文化](https://images.unsplash.com/photo-1541746972996-4e0b0f93e586?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese cultural aspects of numbers - traditional counting methods, lucky numbers, unlucky numbers, cultural significance of numbers -->
+<!-- Image Prompt: Japanese number culture and traditional significance diagram - cultural aspects of numbers and traditional meanings with Japanese labels (七, 八, 九, 四, 九, 縁起, 迷信, 伝統, 数え年, 厄年, 還暦, 文化, 習慣, 信仰, 意味), clean number culture layout, educational diagram style, no text overlays, only cultural number labels positioned at corresponding traditional significance elements -->
 
 ### 幸運數字
 
