@@ -33,7 +33,7 @@ excerpt: 學習日語中學術與研究相關的表達方式，包括學術用�
 ## 情境 1: 學術用語
 
 ![學術用語](https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese academic environment - university library, research laboratory, academic books and journals, students studying, professors lecturing, scholarly atmosphere with Japanese academic texts and materials -->
+<!-- Image Prompt: Japanese academic environment and scholarly institutions diagram - academic institutions and scholarly positions with Japanese labels (学問, 研究, 学術, 専門, 教授, 准教授, 助教授, 研究員, 大学, 研究所, 学会, 研究室, 学者, 博士, 修士, 学士), clean academic institution layout, educational diagram style, no text overlays, only academic position labels positioned at corresponding scholarly institution elements -->
 
 ### 學術領域
 
@@ -129,7 +129,7 @@ excerpt: 學習日語中學術與研究相關的表達方式，包括學術用�
 ## 情境 2: 研究方法
 
 ![研究方法](https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese research methodology - scientific experiments, data analysis, research equipment, laboratory work, academic research process, scholarly investigation with Japanese text and scientific instruments -->
+<!-- Image Prompt: Japanese research methodology and scientific investigation diagram - research methods and scientific processes with Japanese labels (実験, 観察, 調査, 分析, 仮説, 検証, 結論, 評価, データ, 統計, 文献, 資料, 手法, 技術, 理論, 実証), clean research methodology layout, educational diagram style, no text overlays, only research method labels positioned at corresponding scientific investigation elements -->
 
 ### 研究方法
 
@@ -225,7 +225,7 @@ excerpt: 學習日語中學術與研究相關的表達方式，包括學術用�
 ## 情境 3: 論文寫作
 
 ![論文寫作](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese academic writing - students writing papers, academic documents, research papers, scholarly writing process, university library with Japanese academic texts and writing materials -->
+<!-- Image Prompt: Japanese academic writing and thesis composition diagram - academic writing process and thesis structure with Japanese labels (論文, 卒業論文, 修士論文, 博士論文, 序論, 本論, 結論, 参考文献, 執筆, 校正, 提出, 審査, 原稿, 草稿, 清書, 査読), clean academic writing layout, educational diagram style, no text overlays, only academic writing labels positioned at corresponding thesis composition elements -->
 
 ### 論文結構
 
@@ -321,7 +321,7 @@ excerpt: 學習日語中學術與研究相關的表達方式，包括學術用�
 ## 情境 4: 學術討論
 
 ![學術討論](https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese academic discussion - university seminar room, students and professors in academic debate, scholarly conversation, academic conference, intellectual discussion with Japanese academic environment -->
+<!-- Image Prompt: Japanese academic discussion and scholarly exchange diagram - academic discussions and scholarly presentations with Japanese labels (議論, 討論, 討議, 協議, 発表, 講演, セミナー, シンポジウム, 意見交換, 質疑応答, 批判, 提案, 会議, 座談会, 研究会, 学会), clean academic discussion layout, educational diagram style, no text overlays, only academic discussion labels positioned at corresponding scholarly exchange elements -->
 
 ### 討論用語
 
@@ -417,7 +417,7 @@ excerpt: 學習日語中學術與研究相關的表達方式，包括學術用�
 ## 情境 5: 研究對話
 
 ![研究對話](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese research collaboration - researchers discussing projects, academic advisors meeting with students, research team collaboration, scholarly consultation, professional academic environment with Japanese research materials -->
+<!-- Image Prompt: Japanese research collaboration and academic guidance scene - research collaboration and academic consultation with Japanese labels (指導, 助言, 相談, アドバイス, 進捗, 状況, 問題, 課題, 協力, 共同研究, 連携, 交流, 研究, 調査, 実験, 分析), clean research collaboration setting, educational illustration style, no text overlays, only research collaboration phrase labels positioned near corresponding academic guidance elements -->
 
 ### 研究指導
 

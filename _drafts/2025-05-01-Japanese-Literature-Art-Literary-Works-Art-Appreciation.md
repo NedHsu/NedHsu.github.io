@@ -33,7 +33,7 @@ excerpt: 學習日語中文學與藝術相關的表達方式，包括文學作�
 ## 情境 1: 文學作品
 
 ![文學作品](https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese literature and literary works - traditional Japanese books, modern novels, poetry collections, literary manuscripts, reading culture, bookstores with Japanese literature, literary atmosphere -->
+<!-- Image Prompt: Japanese literature and literary works diagram - literary genres and literary elements with Japanese labels (文学, 小説, 詩, 俳句, 短編, 長編, 随筆, 評論, 物語, 登場人物, 設定, テーマ, 作品, 創作, 表現, 文体), clean literature layout, educational diagram style, no text overlays, only literary work labels positioned at corresponding literary element elements -->
 
 ### 文學類型
 
@@ -129,7 +129,7 @@ excerpt: 學習日語中文學與藝術相關的表達方式，包括文學作�
 ## 情境 2: 藝術欣賞
 
 ![藝術欣賞](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese art appreciation - traditional Japanese art galleries, modern art exhibitions, art museums, artistic contemplation, cultural appreciation, aesthetic experience with Japanese artistic elements -->
+<!-- Image Prompt: Japanese art appreciation and cultural arts diagram - art types and cultural appreciation with Japanese labels (芸術, 絵画, 彫刻, 書道, 茶道, 華道, 能, 歌舞伎, 現代美術, 写真, 映画, 音楽, 鑑賞, 体験, 観劇, 展覧会), clean art appreciation layout, educational diagram style, no text overlays, only art appreciation labels positioned at corresponding cultural art elements -->
 
 ### 藝術類型
 
@@ -225,7 +225,7 @@ excerpt: 學習日語中文學與藝術相關的表達方式，包括文學作�
 ## 情境 3: 創作表達
 
 ![創作表達](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese creative expression - artists at work, creative writing, artistic creation, creative process, inspiration and imagination, artistic expression with Japanese cultural elements -->
+<!-- Image Prompt: Japanese creative expression and artistic creation diagram - creative processes and artistic expression with Japanese labels (創作, 制作, 表現, 描写, インスピレーション, 想像力, 創造力, 感性, 技法, 手法, スタイル, 個性, 作品, 芸術家, 作家, 詩人), clean creative expression layout, educational diagram style, no text overlays, only creative expression labels positioned at corresponding artistic creation elements -->
 
 ### 創作過程
 
@@ -321,7 +321,7 @@ excerpt: 學習日語中文學與藝術相關的表達方式，包括文學作�
 ## 情境 4: 美學概念
 
 ![美學概念](https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese aesthetic concepts - traditional Japanese aesthetics, beauty principles, artistic philosophy, aesthetic appreciation, cultural beauty standards with Japanese aesthetic elements -->
+<!-- Image Prompt: Japanese aesthetic concepts and beauty principles diagram - aesthetic concepts and beauty standards with Japanese labels (美学, 美, 美しさ, 調和, わび, さび, 幽玄, 風雅, 評価, 批評, 鑑賞, 感動, 趣, 味, 品格, 格調), clean aesthetic concept layout, educational diagram style, no text overlays, only aesthetic concept labels positioned at corresponding beauty principle elements -->
 
 ### 美學原則
 
@@ -417,7 +417,7 @@ excerpt: 學習日語中文學與藝術相關的表達方式，包括文學作�
 ## 情境 5: 文學對話
 
 ![文學對話](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese literary dialogue - book club discussions, literary criticism, author interviews, literary analysis, intellectual conversation about literature and art with Japanese cultural context -->
+<!-- Image Prompt: Japanese literary dialogue and cultural discussion scene - literary conversation and cultural exchange with Japanese labels (議論, 分析, 解釈, 考察, 感想, 印象, 共感, 理解, 紹介, 推薦, 交換, 共有, 読書, 書評, 文学者, 愛読者), clean literary dialogue setting, educational illustration style, no text overlays, only literary dialogue phrase labels positioned near corresponding cultural discussion elements -->
 
 ### 文學討論
 

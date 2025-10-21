@@ -33,7 +33,7 @@ excerpt: 學習日語中歷史與傳統相關的表達方式，包括歷史概�
 ## 情境 1: 歷史概念
 
 ![歷史概念](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese historical concepts - ancient Japanese architecture, historical monuments, traditional buildings, historical artifacts, cultural heritage sites, historical atmosphere -->
+<!-- Image Prompt: Japanese historical concepts and historical periods diagram - historical concepts and time periods with Japanese labels (歴史, 時代, 年代, 世紀, 古代, 中世, 近世, 現代, 事件, 戦争, 革命, 改革, 史料, 文献, 記録, 資料), clean historical concept layout, educational diagram style, no text overlays, only historical concept labels positioned at corresponding historical period elements -->
 
 ### 基本歷史概念
 
@@ -129,7 +129,7 @@ excerpt: 學習日語中歷史與傳統相關的表達方式，包括歷史概�
 ## 情境 2: 傳統文化
 
 ![傳統文化](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese traditional culture - traditional Japanese arts, cultural ceremonies, traditional crafts, cultural heritage, traditional customs, cultural preservation -->
+<!-- Image Prompt: Japanese traditional culture and cultural heritage diagram - traditional culture and cultural elements with Japanese labels (伝統, 文化, 芸能, 工芸, 技, 職人, 匠, 名人, 習俗, 風習, 慣習, しきたり, 遺産, 財産, 宝物, 価値), clean traditional culture layout, educational diagram style, no text overlays, only traditional culture labels positioned at corresponding cultural heritage elements -->
 
 ### 傳統藝術
 
@@ -225,7 +225,7 @@ excerpt: 學習日語中歷史與傳統相關的表達方式，包括歷史概�
 ## 情境 3: 文化傳承
 
 ![文化傳承](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese cultural heritage - cultural transmission, traditional knowledge passing down, cultural preservation, heritage conservation, cultural continuity -->
+<!-- Image Prompt: Japanese cultural heritage and knowledge transmission diagram - cultural inheritance and knowledge transfer with Japanese labels (継承, 伝承, 保存, 保護, 教える, 学ぶ, 習う, 伝える, 価値, 意義, 重要性, 責任, 後継者, 弟子, 師匠, 先輩), clean cultural heritage layout, educational diagram style, no text overlays, only cultural heritage labels positioned at corresponding knowledge transmission elements -->
 
 ### 傳承概念
 
@@ -321,7 +321,7 @@ excerpt: 學習日語中歷史與傳統相關的表達方式，包括歷史概�
 ## 情境 4: 歷史對話
 
 ![歷史對話](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese historical dialogue - historians discussing, historical research, academic historical conversation, cultural heritage discussion -->
+<!-- Image Prompt: Japanese historical dialogue and academic discussion scene - historical research and academic conversation with Japanese labels (議論, 研究, 調査, 分析, 説明, 解説, 紹介, 報告, 見解, 解釈, 評価, 考察, 史家, 学者, 研究者, 専門家), clean historical dialogue setting, educational illustration style, no text overlays, only historical dialogue phrase labels positioned near corresponding academic discussion elements -->
 
 ### 歷史討論
 
@@ -417,7 +417,7 @@ excerpt: 學習日語中歷史與傳統相關的表達方式，包括歷史概�
 ## 情境 5: 傳統對話
 
 ![傳統對話](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese traditional dialogue - cultural exchange, traditional knowledge sharing, cultural preservation discussion, heritage conversation -->
+<!-- Image Prompt: Japanese traditional dialogue and cultural exchange scene - traditional conversation and cultural sharing with Japanese labels (話し合い, 相談, 交流, 対話, 体験, 経験, 知識, 知恵, 大切, 尊重, 敬意, 感謝, 会話, 対談, 座談会, 交流会), clean traditional dialogue setting, educational illustration style, no text overlays, only traditional dialogue phrase labels positioned near corresponding cultural exchange elements -->
 
 ### 傳統討論
 

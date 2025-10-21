@@ -33,7 +33,7 @@ excerpt: 學習日語中藝術與文化相關的表達方式，包括傳統藝�
 ## 情境 1: 傳統藝術
 
 ![傳統藝術](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Traditional Japanese arts and crafts - calligraphy, tea ceremony, flower arrangement, pottery, traditional painting, origami -->
+<!-- Image Prompt: Japanese traditional arts and crafts diagram - traditional art forms with Japanese labels (書道, 水墨画, 浮世絵, 日本画, 陶芸, 漆器, 織物, 染物, 折り紙, 生け花, 茶道, 香道), clean traditional art layout, educational diagram style, no text overlays, only art form labels positioned at corresponding traditional art activities and materials -->
 
 ### 書道與繪畫
 
@@ -129,7 +129,7 @@ excerpt: 學習日語中藝術與文化相關的表達方式，包括傳統藝�
 ## 情境 2: 現代藝術
 
 ![現代藝術](https://images.unsplash.com/photo-1557683316-973673baf926?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Modern Japanese art and contemporary culture - modern paintings, sculptures, digital art, photography, contemporary exhibitions -->
+<!-- Image Prompt: Japanese modern art and contemporary culture diagram - contemporary art forms with Japanese labels (現代美術, 彫刻, 写真, デジタルアート, 演劇, ダンス, 音楽, 映画, グラフィックデザイン, ファッションデザイン, 建築), clean modern art layout, educational diagram style, no text overlays, only modern art labels positioned at corresponding contemporary art activities and equipment -->
 
 ### 視覺藝術
 
@@ -219,7 +219,7 @@ excerpt: 學習日語中藝術與文化相關的表達方式，包括傳統藝�
 ## 情境 3: 文化活動
 
 ![文化活動](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Cultural activities and events - museum visits, art galleries, cultural performances, traditional ceremonies, cultural festivals -->
+<!-- Image Prompt: Japanese cultural activities and events diagram - cultural venues and activities with Japanese labels (美術館, 展覧会, ギャラリー, 博物館, 文化体験, ワークショップ, 見学, 体験学習, 文化祭, 芸術祭, 伝統芸能), clean cultural activity layout, educational diagram style, no text overlays, only cultural activity labels positioned at corresponding cultural venues and events -->
 
 ### 展覽活動
 
@@ -309,7 +309,7 @@ excerpt: 學習日語中藝術與文化相關的表達方式，包括傳統藝�
 ## 情境 4: 藝術欣賞
 
 ![藝術欣賞](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Art appreciation and cultural appreciation - people viewing art, discussing artworks, cultural appreciation, aesthetic experiences -->
+<!-- Image Prompt: Japanese art appreciation and cultural appreciation scene - art viewing and cultural discussion with Japanese labels (鑑賞, 観賞, 見物, 見学, 美しい, 素晴らしい, 感動的, 印象的, 評価, 批評, 感想), clean art appreciation setting, educational illustration style, no text overlays, only appreciation term labels positioned near corresponding art viewing and cultural discussion elements -->
 
 ### 欣賞表達
 
@@ -399,7 +399,7 @@ excerpt: 學習日語中藝術與文化相關的表達方式，包括傳統藝�
 ## 情境 5: 文化對話
 
 ![文化對話](https://images.unsplash.com/photo-1541746972996-4e0b0f93e586?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Cultural conversations and discussions - people talking about art, culture, sharing cultural experiences, discussing traditions -->
+<!-- Image Prompt: Japanese cultural conversations and discussions scene - cultural dialogue and art discussion with Japanese labels (この作品についてどう思いますか, とても興味深いですね, 文化について教えてください, 一緒に美術館に行きませんか, 文化体験をしてみたいです, 伝統芸能を見たいです, 日本の文化を学びたいです, 芸術に興味があります, 文化の違いを理解したいです), clean cultural discussion setting, educational illustration style, no text overlays, only cultural conversation phrase labels positioned near corresponding cultural discussion and art appreciation elements -->
 
 ### 藝術討論
 

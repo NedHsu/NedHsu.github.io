@@ -33,7 +33,7 @@ excerpt: 學習日語中醫療與健康相關的表達方式，包括醫療機�
 ## 情境 1: 醫療機構
 
 ![醫療機構](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Medical institutions and healthcare facilities - hospitals, clinics, medical equipment, healthcare professionals -->
+<!-- Image Prompt: Japanese medical institutions and healthcare facilities diagram - healthcare facilities with Japanese labels (病院, 診療所, 歯科医院, 薬局, 内科, 外科, 小児科, 産婦人科, 診察室, 手術室, 検査室, 病室), clean medical facility layout, educational diagram style, no text overlays, only medical facility labels positioned at corresponding healthcare buildings and medical equipment -->
 
 ### 醫療場所
 
@@ -129,7 +129,7 @@ excerpt: 學習日語中醫療與健康相關的表達方式，包括醫療機�
 ## 情境 2: 醫療服務
 
 ![醫療服務](https://images.unsplash.com/photo-1557683316-973673baf926?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Medical services and healthcare - doctors examining patients, medical consultations, healthcare procedures -->
+<!-- Image Prompt: Japanese medical services and healthcare diagram - medical procedures and healthcare services with Japanese labels (医師, 看護師, 薬剤師, 歯科医師, 診察, 検査, 治療, 手術, 注射, 点滴, 処方, 入院), clean medical service layout, educational diagram style, no text overlays, only medical service labels positioned at corresponding healthcare procedures and medical staff elements -->
 
 ### 醫療人員
 
@@ -225,7 +225,7 @@ excerpt: 學習日語中醫療與健康相關的表達方式，包括醫療機�
 ## 情境 3: 健康狀況
 
 ![健康狀況](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Health conditions and symptoms - people feeling unwell, medical symptoms, health monitoring -->
+<!-- Image Prompt: Japanese health conditions and symptoms diagram - health status and medical symptoms with Japanese labels (健康, 病気, 症状, 痛み, 熱, 咳, 頭痛, 腹痛, 元気, 疲れ, 眠い, 食欲), clean health condition layout, educational diagram style, no text overlays, only health condition labels positioned at corresponding health monitoring and symptom elements -->
 
 ### 身體狀況
 
@@ -321,7 +321,7 @@ excerpt: 學習日語中醫療與健康相關的表達方式，包括醫療機�
 ## 情境 4: 醫療對話
 
 ![醫療對話](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Medical conversations and consultations - doctor-patient discussions, medical consultations, healthcare communication -->
+<!-- Image Prompt: Japanese medical conversations and consultations scene - doctor-patient medical discussions with Japanese labels (どこが痛いですか, いつからですか, どのような症状ですか, 薬のアレルギーはありますか, 頭が痛いです, 熱があります, 咳が出ます, 吐き気がします, 薬を飲んでください, 安静にしてください, 水分をたくさん取ってください, また来てください), clean medical consultation setting, educational illustration style, no text overlays, only medical conversation phrase labels positioned near corresponding doctor-patient discussion elements -->
 
 ### 就醫詢問
 
@@ -417,7 +417,7 @@ excerpt: 學習日語中醫療與健康相關的表達方式，包括醫療機�
 ## 情境 5: 健康管理
 
 ![健康管理](https://images.unsplash.com/photo-1541746972996-4e0b0f93e586?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Health management and wellness - healthy lifestyle, exercise, nutrition, preventive care -->
+<!-- Image Prompt: Japanese health management and wellness diagram - preventive healthcare and healthy lifestyle with Japanese labels (健康診断, 検診, 予防, ワクチン, 運動, 食事, 睡眠, ストレス, 規則正しい, バランス, 適度, 継続), clean health management layout, educational diagram style, no text overlays, only health management labels positioned at corresponding wellness activities and preventive care elements -->
 
 ### 預防保健
 

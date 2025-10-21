@@ -33,7 +33,7 @@ excerpt: 學習日語中新聞與媒體相關的表達方式，包括新聞報�
 ## 情境 1: 新聞報導
 
 ![新聞報導](https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese news studio with anchors, newsroom with journalists working, newspaper headlines, TV news broadcast, professional media environment with Japanese text and graphics -->
+<!-- Image Prompt: Japanese news studio and newsroom diagram - news broadcasting and journalism with Japanese labels (ニュース, 速報, 特集, 緊急ニュース, 事件, 事故, 災害, 政治, 報道, 取材, 放送, 記者, アナウンサー, 番組, 放送局), clean news studio layout, educational diagram style, no text overlays, only news broadcasting labels positioned at corresponding journalism and media elements -->
 
 ### 新聞標題
 
@@ -123,7 +123,7 @@ excerpt: 學習日語中新聞與媒體相關的表達方式，包括新聞報�
 ## 情境 2: 媒體用語
 
 ![媒體用語](https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese media environment showing newspapers, magazines, TV screens, radio equipment, digital media devices, professional journalism tools, clean modern media workspace -->
+<!-- Image Prompt: Japanese media environment and digital platforms diagram - media types and digital platforms with Japanese labels (テレビ, 新聞, 雑誌, ラジオ, インターネット, ウェブサイト, SNS, 動画, 記事, コメント, 情報, メディア, 情報源, 発信, 受信), clean media platform layout, educational diagram style, no text overlays, only media platform labels positioned at corresponding digital media elements -->
 
 ### 媒體類型
 
@@ -213,7 +213,7 @@ excerpt: 學習日語中新聞與媒體相關的表達方式，包括新聞報�
 ## 情境 3: 時事討論
 
 ![時事討論](https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese people discussing current events in various settings - office meeting, casual conversation, academic discussion, news analysis, thoughtful expressions, professional and informal environments -->
+<!-- Image Prompt: Japanese current events discussion and analysis diagram - current events and discussion topics with Japanese labels (時事, 話題, 問題, 課題, 意見, 考え, 賛成, 反対, 分析, 検討, 評価, 議論, 討論, 対話, 協議), clean current events layout, educational diagram style, no text overlays, only current events discussion labels positioned at corresponding social discussion elements -->
 
 ### 時事話題
 
@@ -303,7 +303,7 @@ excerpt: 學習日語中新聞與媒體相關的表達方式，包括新聞報�
 ## 情境 4: 新聞分析
 
 ![新聞分析](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese news analysis and commentary - analysts reviewing charts and data, news commentators discussing topics, research materials, analytical tools, professional newsroom environment with Japanese text and graphics -->
+<!-- Image Prompt: Japanese news analysis and commentary diagram - news analysis and reporting perspectives with Japanese labels (調査, 統計, 比較, 傾向, 客観的, 主観的, 中立的, 公平, 正確, 信頼性, 透明性, データ, 結果, 原因, 影響), clean news analysis layout, educational diagram style, no text overlays, only news analysis labels positioned at corresponding analytical reporting elements -->
 
 ### 分析用語
 
@@ -393,7 +393,7 @@ excerpt: 學習日語中新聞與媒體相關的表達方式，包括新聞報�
 ## 情境 5: 媒體對話
 
 ![媒體對話](https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese media professionals in conversation - journalists interviewing, news anchors discussing, media team collaboration, professional communication, modern newsroom with Japanese text and equipment -->
+<!-- Image Prompt: Japanese media professionals conversation and interview scene - media interactions and professional communication with Japanese labels (インタビュー, 質問, 回答, コメント, 発表, 声明, 説明, 釈明, 取材, 公開, 非公開, オフレコ, 記者会見, プレス, 報道陣, メディア), clean media professional setting, educational illustration style, no text overlays, only media professional phrase labels positioned near corresponding journalism interaction elements -->
 
 ### 採訪對話
 

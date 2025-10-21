@@ -33,7 +33,7 @@ excerpt: 學習日語中娛樂與休閒相關的表達方式，包括娛樂活�
 ## 情境 1: 娛樂活動
 
 ![娛樂活動](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Various entertainment activities in Japan - karaoke, movies, concerts, festivals, traditional performances, modern entertainment venues -->
+<!-- Image Prompt: Japanese entertainment activities visual diagram - various entertainment venues and activities with Japanese labels (映画, カラオケ, コンサート, テレビ, 音楽, ゲーム, パチンコ, 麻雀, トランプ, 祭り, 花火, 温泉), clean entertainment scene layout, educational diagram style, no text overlays, only activity labels positioned at corresponding entertainment venues and activities -->
 
 ### 視聽娛樂
 
@@ -129,7 +129,7 @@ excerpt: 學習日語中娛樂與休閒相關的表達方式，包括娛樂活�
 ## 情境 2: 休閒場所
 
 ![休閒場所](https://images.unsplash.com/photo-1557683316-973673baf926?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese leisure venues - parks, shopping centers, cafes, bookstores, arcades, traditional gardens, modern entertainment complexes -->
+<!-- Image Prompt: Japanese leisure venues layout diagram - different leisure locations with Japanese labels (公園, 海, 山, 川, カフェ, 本屋, ゲームセンター, ショッピングモール, 美術館, 博物館, 劇場), clean venue arrangement, educational diagram style, no text overlays, only venue labels positioned at corresponding leisure locations -->
 
 ### 戶外場所
 
@@ -219,7 +219,7 @@ excerpt: 學習日語中娛樂與休閒相關的表達方式，包括娛樂活�
 ## 情境 3: 興趣愛好
 
 ![興趣愛好](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese hobbies and interests - reading, photography, cooking, gardening, crafts, music instruments, art supplies -->
+<!-- Image Prompt: Japanese hobbies and interests illustration - various hobby activities with Japanese labels (読書, 写真, 料理, 絵, 編み物, 陶芸, 折り紙, ピアノ, ギター, 歌), clean hobby activity scenes, educational illustration style, no text overlays, only hobby labels positioned near corresponding hobby activities and materials -->
 
 ### 創作活動
 
@@ -303,7 +303,7 @@ excerpt: 學習日語中娛樂與休閒相關的表達方式，包括娛樂活�
 ## 情境 4: 運動健身
 
 ![運動健身](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese sports and fitness activities - jogging, yoga, martial arts, swimming, gym workouts, team sports -->
+<!-- Image Prompt: Japanese sports and fitness activities diagram - various sports and fitness activities with Japanese labels (ジョギング, 水泳, ヨガ, 筋トレ, サッカー, バスケットボール, テニス, 柔道, 剣道, 空手), clean sports activity layout, educational diagram style, no text overlays, only sports labels positioned at corresponding sports activities and equipment -->
 
 ### 個人運動
 
@@ -387,7 +387,7 @@ excerpt: 學習日語中娛樂與休閒相關的表達方式，包括娛樂活�
 ## 情境 5: 娛樂對話
 
 ![娛樂對話](https://images.unsplash.com/photo-1541746972996-4e0b0f93e586?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: People enjoying leisure activities together - friends at karaoke, family at festivals, colleagues at cafes, relaxed and happy atmosphere -->
+<!-- Image Prompt: Japanese entertainment conversation scene - people enjoying leisure activities together with Japanese conversation labels (一緒に行きませんか, いいですね, 楽しみです, すみません都合が悪いです, 何をしますか, どこに行きますか, いつですか, 楽しかったです, 疲れました, またやりたいです), clean social interaction scenes, educational illustration style, no text overlays, only conversation phrase labels positioned near corresponding social interactions -->
 
 ### 邀請與回應
 

@@ -33,7 +33,7 @@ excerpt: 學習日語中金融與投資相關的表達方式，包括銀行服�
 ## 情境 1: 銀行服務
 
 ![銀行服務](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Banking services and financial institutions - bank counters, ATMs, banking transactions, financial documents -->
+<!-- Image Prompt: Japanese banking services and financial institutions diagram - banking facilities and services with Japanese labels (銀行, 支店, ATM, 窓口, 預金, 引き出し, 振込, 送金, 口座, 普通預金, 定期預金, 残高), clean banking facility layout, educational diagram style, no text overlays, only banking service labels positioned at corresponding financial institution elements -->
 
 ### 銀行機構
 
@@ -129,7 +129,7 @@ excerpt: 學習日語中金融與投資相關的表達方式，包括銀行服�
 ## 情境 2: 投資理財
 
 ![投資理財](https://images.unsplash.com/photo-1557683316-973673baf926?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Investment and financial planning - stock market charts, investment portfolios, financial planning documents -->
+<!-- Image Prompt: Japanese investment and financial planning diagram - investment types and financial planning with Japanese labels (投資, 株式, 債券, 投資信託, ポートフォリオ, リスク, リターン, 分散投資, 資産運用, 老後資金, 教育資金, 家計管理), clean investment planning layout, educational diagram style, no text overlays, only investment planning labels positioned at corresponding financial planning elements -->
 
 ### 投資類型
 
@@ -225,7 +225,7 @@ excerpt: 學習日語中金融與投資相關的表達方式，包括銀行服�
 ## 情境 3: 保險業務
 
 ![保險業務](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Insurance services and policies - insurance documents, policy contracts, insurance agents -->
+<!-- Image Prompt: Japanese insurance services and policies diagram - insurance types and services with Japanese labels (保険, 生命保険, 損害保険, 医療保険, 保険料, 保険金, 免責, 補償, 保険会社, 保険代理店, 見積もり, 契約更新), clean insurance service layout, educational diagram style, no text overlays, only insurance service labels positioned at corresponding insurance policy elements -->
 
 ### 保險類型
 
@@ -321,7 +321,7 @@ excerpt: 學習日語中金融與投資相關的表達方式，包括銀行服�
 ## 情境 4: 金融產品
 
 ![金融產品](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Financial products and services - credit cards, loans, financial instruments, banking products -->
+<!-- Image Prompt: Japanese financial products and services diagram - financial products and banking services with Japanese labels (クレジットカード, デビットカード, 限度額, 利用明細, ローン, 住宅ローン, 教育ローン, 金利, 外貨預金, 為替, 金, FX), clean financial product layout, educational diagram style, no text overlays, only financial product labels positioned at corresponding banking product elements -->
 
 ### 信用卡
 
@@ -417,7 +417,7 @@ excerpt: 學習日語中金融與投資相關的表達方式，包括銀行服�
 ## 情境 5: 投資對話
 
 ![投資對話](https://images.unsplash.com/photo-1541746972996-4e0b0f93e586?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Investment conversations and financial discussions - financial advisors, investment consultations, portfolio discussions -->
+<!-- Image Prompt: Japanese investment consultation and financial discussion scene - investment conversations and financial advice with Japanese labels (投資について相談したいです, リスクを教えてください, どのくらいのリターンが期待できますか, 手数料はいくらですか, 分散投資をお勧めします, 長期投資が良いでしょう, リスク管理が重要です, 定期的に見直しをしましょう, 利益が出ました, 損失が出ました, 相場が上がりました, 相場が下がりました), clean investment consultation setting, educational illustration style, no text overlays, only investment conversation phrase labels positioned near corresponding financial discussion elements -->
 
 ### 投資諮詢
 

@@ -33,7 +33,7 @@ excerpt: 學習日語中心理與情感相關的表達方式，包括心理狀�
 ## 情境 1: 心理狀態
 
 ![心理狀態](https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese people expressing various psychological states - calm meditation, thoughtful contemplation, stress relief, emotional support, peaceful and introspective atmosphere with Japanese cultural elements -->
+<!-- Image Prompt: Japanese psychological states and mental conditions diagram - psychological states and mental health with Japanese labels (気持ち, 心, 精神, 心理, 不安, 緊張, 落ち込む, リラックス, 満足, 充実, 孤独, 安心, 感情, 心境, 気分, 状態), clean psychological state layout, educational diagram style, no text overlays, only psychological state labels positioned at corresponding mental health elements -->
 
 ### 基本心理狀態
 
@@ -129,7 +129,7 @@ excerpt: 學習日語中心理與情感相關的表達方式，包括心理狀�
 ## 情境 2: 情感表達
 
 ![情感表達](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese people expressing emotions - joy, sadness, anger, surprise, love, gratitude, various emotional expressions in different social contexts, respectful and culturally appropriate emotional display -->
+<!-- Image Prompt: Japanese emotional expressions and feelings diagram - emotional expressions and feelings with Japanese labels (嬉しい, 楽しい, 幸せ, 感謝, 悲しい, 怒り, 心配, 失望, 複雑, 困惑, 後悔, 期待, 表現, 表出, 感情, 気分), clean emotional expression layout, educational diagram style, no text overlays, only emotional expression labels positioned at corresponding feeling elements -->
 
 ### 正面情感
 
@@ -225,7 +225,7 @@ excerpt: 學習日語中心理與情感相關的表達方式，包括心理狀�
 ## 情境 3: 心理諮詢
 
 ![心理諮詢](https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese counseling and therapy environment - professional counselor and client in conversation, comfortable therapy room, supportive atmosphere, mental health consultation, respectful and confidential setting -->
+<!-- Image Prompt: Japanese counseling and therapy environment diagram - psychological counseling and therapy services with Japanese labels (カウンセリング, 相談, セラピー, 治療, 話す, 聞く, 理解, 共感, 支える, 励ます, 慰める, 助ける, カウンセラー, 心理士, 専門家, 支援), clean counseling environment layout, educational diagram style, no text overlays, only counseling service labels positioned at corresponding therapy elements -->
 
 ### 諮詢用語
 
@@ -321,7 +321,7 @@ excerpt: 學習日語中心理與情感相關的表達方式，包括心理狀�
 ## 情境 4: 情感管理
 
 ![情感管理](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese emotional management techniques - meditation, mindfulness, stress relief activities, emotional regulation, peaceful and balanced lifestyle, traditional Japanese wellness practices -->
+<!-- Image Prompt: Japanese emotional management and wellness techniques diagram - emotional regulation and stress management with Japanese labels (コントロール, 調整, 安定, バランス, ストレス, 発散, リフレッシュ, 休息, セルフケア, 癒し, 回復, 改善, 管理, 調節, 維持, 向上), clean emotional management layout, educational diagram style, no text overlays, only emotional management labels positioned at corresponding wellness technique elements -->
 
 ### 情感調節
 
@@ -417,7 +417,7 @@ excerpt: 學習日語中心理與情感相關的表達方式，包括心理狀�
 ## 情境 5: 心理對話
 
 ![心理對話](https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese people in supportive conversation - friends comforting each other, family members discussing feelings, colleagues providing emotional support, empathetic communication, warm and understanding atmosphere -->
+<!-- Image Prompt: Japanese psychological conversation and emotional support scene - psychological dialogue and emotional support with Japanese labels (どうですか, 大丈夫ですか, 何かありますか, 話してください, 分かります, 一緒に, 応援, 信じています, 頑張って, 無理しないで, ゆっくり, 一人じゃない, 対話, 会話, コミュニケーション, 理解), clean psychological conversation setting, educational illustration style, no text overlays, only psychological conversation phrase labels positioned near corresponding emotional support elements -->
 
 ### 情感詢問
 

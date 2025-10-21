@@ -33,7 +33,7 @@ excerpt: 學習日語中商務與貿易相關的表達方式，包括商業活�
 ## 情境 1: 商業活動
 
 ![商業活動](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Business activities and commerce - office meetings, business transactions, corporate environments, business documents -->
+<!-- Image Prompt: Japanese business activities and commerce diagram - corporate business operations with Japanese labels (企業, 会社, 経営, 管理, 取引, 商談, 契約, 合意, サービス, 品質, 価格, 顧客), clean business operation layout, educational diagram style, no text overlays, only business activity labels positioned at corresponding corporate environments and business transaction elements -->
 
 ### 企業經營
 
@@ -129,7 +129,7 @@ excerpt: 學習日語中商務與貿易相關的表達方式，包括商業活�
 ## 情境 2: 貿易往來
 
 ![貿易往來](https://images.unsplash.com/photo-1557683316-973673baf926?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: International trade and commerce - shipping containers, ports, customs, international business, trade documents -->
+<!-- Image Prompt: Japanese international trade and commerce diagram - trade operations and international business with Japanese labels (貿易, 輸出, 輸入, 通関, インボイス, パッキングリスト, 船荷証券, 保険証券, FOB, CIF, L/C, 支払い), clean international trade layout, educational diagram style, no text overlays, only trade term labels positioned at corresponding shipping containers and trade document elements -->
 
 ### 國際貿易
 
@@ -225,7 +225,7 @@ excerpt: 學習日語中商務與貿易相關的表達方式，包括商業活�
 ## 情境 3: 商務會議
 
 ![商務會議](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Business meetings and conferences - conference rooms, business presentations, meeting discussions, corporate meetings -->
+<!-- Image Prompt: Japanese business meetings and conferences diagram - corporate meeting processes with Japanese labels (会議, 議題, 資料, 発表, 司会, 討論, 意見, 提案, 決定, 合意, 議事録, フォローアップ), clean business meeting layout, educational diagram style, no text overlays, only meeting term labels positioned at corresponding conference rooms and meeting discussion elements -->
 
 ### 會議準備
 
@@ -321,7 +321,7 @@ excerpt: 學習日語中商務與貿易相關的表達方式，包括商業活�
 ## 情境 4: 商業談判
 
 ![商業談判](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Business negotiations and deals - people negotiating, business discussions, contract signing, professional meetings -->
+<!-- Image Prompt: Japanese business negotiations and deals diagram - negotiation processes and business deals with Japanese labels (交渉, 条件, 価格交渉, 妥協, 説得, 譲歩, 強硬, 柔軟, 合意, 契約, 破談, 延期), clean business negotiation layout, educational diagram style, no text overlays, only negotiation term labels positioned at corresponding professional meetings and contract signing elements -->
 
 ### 談判策略
 
@@ -417,7 +417,7 @@ excerpt: 學習日語中商務與貿易相關的表達方式，包括商業活�
 ## 情境 5: 貿易對話
 
 ![貿易對話](https://images.unsplash.com/photo-1541746972996-4e0b0f93e586?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Trade conversations and business discussions - international business meetings, trade negotiations, professional communication -->
+<!-- Image Prompt: Japanese trade conversations and business discussions scene - professional business communication with Japanese labels (お疲れ様です, よろしくお願いします, お世話になります, お忙しいところ申し訳ありません, お時間をいただけますか, ご都合はいかがですか, 承知いたしました, 検討させていただきます, お返事をお待ちしております, ありがとうございました, 失礼いたします, またお会いしましょう), clean business communication setting, educational illustration style, no text overlays, only business conversation phrase labels positioned near corresponding professional communication and trade discussion elements -->
 
 ### 商務問候
 

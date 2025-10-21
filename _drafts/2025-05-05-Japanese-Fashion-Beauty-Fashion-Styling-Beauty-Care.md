@@ -33,7 +33,7 @@ excerpt: 學習日語中時尚與美容相關的表達方式，包括時尚穿�
 ## 情境 1: 時尚穿搭
 
 ![時尚穿搭](https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese fashion and styling - modern Japanese fashion, stylish outfits, fashion coordination, trendy clothing, fashion sense, contemporary fashion atmosphere -->
+<!-- Image Prompt: Japanese fashion styling and clothing coordination diagram - fashion concepts and clothing styles with Japanese labels (服, 洋服, 和服, コーディネート, シャツ, パンツ, スカート, ドレス, スタイル, ファッション, トレンド, オシャレ, 色, サイズ, ブランド, デザイン), clean fashion styling layout, educational diagram style, no text overlays, only fashion styling labels positioned at corresponding clothing coordination elements -->
 
 ### 基本服裝
 
@@ -129,7 +129,7 @@ excerpt: 學習日語中時尚與美容相關的表達方式，包括時尚穿�
 ## 情境 2: 美容護理
 
 ![美容護理](https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese beauty and skincare - Japanese skincare routine, beauty products, skincare steps, beauty care, cosmetic products, elegant beauty atmosphere -->
+<!-- Image Prompt: Japanese beauty care and skincare routine diagram - beauty care and skincare steps with Japanese labels (美容, スキンケア, メイク, ヘアケア, 洗顔, 化粧水, 乳液, クリーム, ファンデーション, 口紅, アイシャドウ, マスカラ, 保湿, 美白, 抗老化, 敏感肌), clean beauty care layout, educational diagram style, no text overlays, only beauty care labels positioned at corresponding skincare routine elements -->
 
 ### 基本護理
 
@@ -225,7 +225,7 @@ excerpt: 學習日語中時尚與美容相關的表達方式，包括時尚穿�
 ## 情境 3: 個人形象
 
 ![個人形象](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese personal image - personal grooming, image consulting, style consultation, personal appearance, professional image, elegant personal care atmosphere -->
+<!-- Image Prompt: Japanese personal image and grooming concepts diagram - personal image and grooming elements with Japanese labels (外見, 印象, 雰囲気, 魅力, 身だしなみ, 姿勢, 表情, マナー, 個性, センス, 自信, 品格, 上品, 洗練, エレガント, プロフェッショナル), clean personal image layout, educational diagram style, no text overlays, only personal image labels positioned at corresponding grooming concept elements -->
 
 ### 外貌描述
 
@@ -321,7 +321,7 @@ excerpt: 學習日語中時尚與美容相關的表達方式，包括時尚穿�
 ## 情境 4: 時尚購物
 
 ![時尚購物](https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese fashion shopping - fashion shopping experience, clothing stores, fashion boutiques, shopping for clothes, fashion retail, stylish shopping atmosphere -->
+<!-- Image Prompt: Japanese fashion shopping and retail experience diagram - fashion shopping and retail concepts with Japanese labels (ファッション店, ブティック, デパート, ショッピングモール, 試着, サイズ, 色, 値段, おすすめ, 流行, 品質, デザイン, 素材, ブランド, 価格, 割引), clean fashion shopping layout, educational diagram style, no text overlays, only fashion shopping labels positioned at corresponding retail experience elements -->
 
 ### 購物場所
 
@@ -417,7 +417,7 @@ excerpt: 學習日語中時尚與美容相關的表達方式，包括時尚穿�
 ## 情境 5: 美容對話
 
 ![美容對話](https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese beauty dialogue - beauty consultation, skincare advice, beauty tips sharing, beauty discussion, professional beauty conversation -->
+<!-- Image Prompt: Japanese beauty dialogue and beauty consultation scene - beauty discussion and beauty advice with Japanese labels (相談, アドバイス, 指導, 提案, 話し合い, 体験, 感想, 効果, 情報, コツ, 秘訣, 方法, 会話, 対話, 交流, コミュニケーション), clean beauty dialogue setting, educational illustration style, no text overlays, only beauty dialogue phrase labels positioned near corresponding beauty consultation elements -->
 
 ### 美容諮詢
 

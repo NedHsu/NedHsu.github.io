@@ -33,7 +33,7 @@ excerpt: 學習日語中金融與投資相關的表達方式，包括金融概�
 ## 情境 1: 金融概念
 
 ![金融概念](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese financial concepts - modern banking, financial institutions, money management, economic concepts, financial planning, professional financial atmosphere -->
+<!-- Image Prompt: Japanese financial concepts and banking services diagram - financial concepts and banking institutions with Japanese labels (金融, 経済, 市場, 通貨, 銀行, 証券会社, 保険会社, 信用金庫, 預金, 融資, 保険, 年金, 金利, 利子, 手数料, 為替), clean financial concept layout, educational diagram style, no text overlays, only financial concept labels positioned at corresponding banking service elements -->
 
 ### 基本金融概念
 
@@ -129,7 +129,7 @@ excerpt: 學習日語中金融與投資相關的表達方式，包括金融概�
 ## 情境 2: 投資術語
 
 ![投資術語](https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese investment terminology - stock market charts, investment analysis, financial graphs, trading concepts, investment strategies, professional trading atmosphere -->
+<!-- Image Prompt: Japanese investment terminology and trading concepts diagram - investment terms and trading processes with Japanese labels (投資, 資産, 収益, 配当, 株式, 債券, 投資信託, 外貨預金, チャート, テクニカル分析, ファンダメンタル分析, ポートフォリオ, 売買, 取引, 相場, 値動き), clean investment terminology layout, educational diagram style, no text overlays, only investment terminology labels positioned at corresponding trading concept elements -->
 
 ### 投資基本概念
 
@@ -225,7 +225,7 @@ excerpt: 學習日語中金融與投資相關的表達方式，包括金融概�
 ## 情境 3: 理財規劃
 
 ![理財規劃](https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese financial planning - personal finance planning, budget management, financial goals, savings planning, financial consultation, organized financial planning atmosphere -->
+<!-- Image Prompt: Japanese financial planning and budget management diagram - financial planning and budget concepts with Japanese labels (家計, 予算, 支出, 収入, 貯金, 積立, 目標, 計画, 老後, 教育費, 住宅購入, 緊急時, 資金, 財産, 負債, 純資産), clean financial planning layout, educational diagram style, no text overlays, only financial planning labels positioned at corresponding budget management elements -->
 
 ### 財務規劃
 
@@ -321,7 +321,7 @@ excerpt: 學習日語中金融與投資相關的表達方式，包括金融概�
 ## 情境 4: 風險管理
 
 ![風險管理](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese risk management - risk assessment, financial security, investment protection, risk analysis, financial safety measures, professional risk management atmosphere -->
+<!-- Image Prompt: Japanese risk management and financial security diagram - risk assessment and security measures with Japanese labels (リスク, 危険, 損失, 安全, 評価, 分析, 予測, 判断, 分散, 制限, 回避, 軽減, 保証, 補償, 保険, 保護), clean risk management layout, educational diagram style, no text overlays, only risk management labels positioned at corresponding financial security elements -->
 
 ### 風險概念
 
@@ -417,7 +417,7 @@ excerpt: 學習日語中金融與投資相關的表達方式，包括金融概�
 ## 情境 5: 投資對話
 
 ![投資對話](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese investment dialogue - financial consultation, investment discussion, professional financial conversation, investment advice, financial planning meeting -->
+<!-- Image Prompt: Japanese investment dialogue and financial consultation scene - investment discussion and financial advice with Japanese labels (相談, アドバイス, 指導, 提案, 話し合い, 検討, 比較, 選択, 決定, 実行, 確認, 報告, 会議, 面談, 説明, 契約), clean investment dialogue setting, educational illustration style, no text overlays, only investment dialogue phrase labels positioned near corresponding financial consultation elements -->
 
 ### 投資諮詢
 

@@ -33,7 +33,7 @@ excerpt: 學習日語中旅遊與觀光相關的表達方式，包括旅遊準�
 ## 情境 1: 旅遊準備
 
 ![旅遊準備](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Travel preparation and planning - people packing luggage, booking tickets, planning itineraries, travel documents -->
+<!-- Image Prompt: Japanese travel preparation and planning diagram - travel planning and preparation with Japanese labels (旅行, 観光, 計画, 予定, パスポート, ビザ, 航空券, 切符, 荷物, スーツケース, バッグ, カメラ), clean travel preparation layout, educational diagram style, no text overlays, only travel preparation labels positioned at corresponding travel documents and luggage elements -->
 
 ### 旅行計劃
 
@@ -129,7 +129,7 @@ excerpt: 學習日語中旅遊與觀光相關的表達方式，包括旅遊準�
 ## 情境 2: 觀光景點
 
 ![觀光景點](https://images.unsplash.com/photo-1557683316-973673baf926?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Tourist attractions and sightseeing spots - famous landmarks, temples, castles, natural attractions, cultural sites -->
+<!-- Image Prompt: Japanese tourist attractions and sightseeing spots diagram - famous landmarks and tourist destinations with Japanese labels (神社, お寺, 城, 博物館, 山, 海, 温泉, 公園, タワー, 水族館, 遊園地, ショッピングモール), clean tourist attraction layout, educational diagram style, no text overlays, only attraction labels positioned at corresponding famous landmarks and cultural sites -->
 
 ### 歷史景點
 
@@ -225,7 +225,7 @@ excerpt: 學習日語中旅遊與觀光相關的表達方式，包括旅遊準�
 ## 情境 3: 住宿服務
 
 ![住宿服務](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Accommodation services and hotels - hotel lobbies, room service, hotel staff, accommodation facilities -->
+<!-- Image Prompt: Japanese accommodation services and hotels diagram - hotel services and accommodation facilities with Japanese labels (ホテル, 旅館, 民宿, ペンション, チェックイン, チェックアウト, ルームサービス, コンシェルジュ, 部屋, ベッド, バスルーム, エアコン), clean accommodation service layout, educational diagram style, no text overlays, only accommodation labels positioned at corresponding hotel facilities and room amenities -->
 
 ### 住宿類型
 
@@ -321,7 +321,7 @@ excerpt: 學習日語中旅遊與觀光相關的表達方式，包括旅遊準�
 ## 情境 4: 旅遊活動
 
 ![旅遊活動](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Travel activities and experiences - sightseeing tours, cultural experiences, local activities, travel adventures -->
+<!-- Image Prompt: Japanese travel activities and experiences diagram - tourism activities and cultural experiences with Japanese labels (見学, 散策, ツアー, ガイド, 体験, 工芸, 料理教室, 茶道体験, ハイキング, キャンプ, 釣り, サイクリング), clean travel activity layout, educational diagram style, no text overlays, only travel activity labels positioned at corresponding sightseeing tours and cultural experience elements -->
 
 ### 觀光活動
 
@@ -417,7 +417,7 @@ excerpt: 學習日語中旅遊與觀光相關的表達方式，包括旅遊準�
 ## 情境 5: 觀光對話
 
 ![觀光對話](https://images.unsplash.com/photo-1541746972996-4e0b0f93e586?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Tourism conversations and travel discussions - tourists asking for directions, hotel check-in, tour guide interactions -->
+<!-- Image Prompt: Japanese tourism conversations and travel discussions scene - tourist interactions and travel communication with Japanese labels (すみません道を教えてください, 駅はどこですか, この近くにホテルはありますか, 歩いてどのくらいですか, チェックインをお願いします, 予約をしています, Wi-Fiのパスワードは何ですか, 朝食は何時からですか, おすすめの観光地はどこですか, 入場料はいくらですか, 写真を撮ってもいいですか, お土産はどこで買えますか), clean tourism conversation setting, educational illustration style, no text overlays, only tourism conversation phrase labels positioned near corresponding tourist interactions and travel service elements -->
 
 ### 問路對話
 

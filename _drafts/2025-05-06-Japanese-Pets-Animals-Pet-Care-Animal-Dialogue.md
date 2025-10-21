@@ -33,7 +33,7 @@ excerpt: 學習日語中寵物與動物相關的表達方式，包括寵物種�
 ## 情境 1: 寵物種類
 
 ![寵物種類](https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese pets and animals - various pet types, cute animals, domestic pets, pet diversity, animal companionship, warm pet atmosphere -->
+<!-- Image Prompt: Japanese pets and animal types diagram - pet types and animal categories with Japanese labels (ペット, 動物, 飼い主, 家族, 犬, 猫, 鳥, 魚, ハムスター, うさぎ, カメ, フェレット, 子犬, 子猫, 成犬, 成猫), clean pet types layout, educational diagram style, no text overlays, only pet type labels positioned at corresponding animal category elements -->
 
 ### 基本寵物
 
@@ -129,7 +129,7 @@ excerpt: 學習日語中寵物與動物相關的表達方式，包括寵物種�
 ## 情境 2: 寵物照顧
 
 ![寵物照顧](https://images.unsplash.com/photo-1583337130417-b6a253a1b9be?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese pet care - pet grooming, feeding pets, pet care activities, caring for animals, pet maintenance, loving pet care atmosphere -->
+<!-- Image Prompt: Japanese pet care and animal maintenance diagram - pet care and maintenance activities with Japanese labels (世話, お世話, ケア, 管理, 餌, エサ, 水, 食事, お風呂, シャンプー, ブラッシング, 掃除, ケージ, トイレ, おもちゃ, ベッド), clean pet care layout, educational diagram style, no text overlays, only pet care labels positioned at corresponding animal maintenance elements -->
 
 ### 基本照顧
 
@@ -225,7 +225,7 @@ excerpt: 學習日語中寵物與動物相關的表達方式，包括寵物種�
 ## 情境 3: 動物行為
 
 ![動物行為](https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese animal behavior - pets playing, animal activities, pet behavior, animal interactions, pet movements, lively animal atmosphere -->
+<!-- Image Prompt: Japanese animal behavior and pet activities diagram - animal behaviors and pet activities with Japanese labels (遊ぶ, 走る, 歩く, 寝る, 鳴く, 吠える, しっぽ, 甘える, 撫でる, 抱く, 触る, 見つめる, 散歩, 運動, 休息, 活動), clean animal behavior layout, educational diagram style, no text overlays, only animal behavior labels positioned at corresponding pet activity elements -->
 
 ### 基本行為
 
@@ -321,7 +321,7 @@ excerpt: 學習日語中寵物與動物相關的表達方式，包括寵物種�
 ## 情境 4: 寵物健康
 
 ![寵物健康](https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese pet health - veterinary care, pet health check, animal medical care, pet wellness, health monitoring, caring veterinary atmosphere -->
+<!-- Image Prompt: Japanese pet health and veterinary care diagram - pet health and medical care with Japanese labels (健康, 元気, 病気, 調子, 獣医, 病院, 診察, 治療, 予防, ワクチン, 検査, 薬, 症状, 体温, 体重, 食欲), clean pet health layout, educational diagram style, no text overlays, only pet health labels positioned at corresponding veterinary care elements -->
 
 ### 健康狀態
 
@@ -417,7 +417,7 @@ excerpt: 學習日語中寵物與動物相關的表達方式，包括寵物種�
 ## 情境 5: 動物對話
 
 ![動物對話](https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese animal dialogue - pet owners talking about pets, animal conversation, pet sharing, pet discussion, animal communication, friendly pet conversation -->
+<!-- Image Prompt: Japanese animal dialogue and pet conversation scene - pet discussion and animal communication with Japanese labels (話す, 紹介, 体験, 経験, 相談, 質問, アドバイス, 情報, 心配, 愛情, 責任, 幸せ, 会話, 対話, 交流, コミュニケーション), clean animal dialogue setting, educational illustration style, no text overlays, only animal dialogue phrase labels positioned near corresponding pet conversation elements -->
 
 ### 寵物分享
 

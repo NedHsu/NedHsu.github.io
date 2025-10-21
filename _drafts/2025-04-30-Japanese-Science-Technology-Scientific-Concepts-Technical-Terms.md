@@ -33,7 +33,7 @@ excerpt: 學習日語中科學與技術相關的表達方式，包括科學概�
 ## 情境 1: 科學概念
 
 ![科學概念](https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese scientific concepts - laboratory equipment, scientific research, technology innovation, modern Japanese science facilities, research and development environment with Japanese scientific terminology -->
+<!-- Image Prompt: Japanese scientific concepts and research methodology diagram - scientific concepts and research processes with Japanese labels (科学, 研究, 実験, 観察, 仮説, 検証, 分析, 結論, 物理学, 化学, 生物学, 数学, 理論, 法則, 原理, 現象), clean scientific concept layout, educational diagram style, no text overlays, only scientific concept labels positioned at corresponding research methodology elements -->
 
 ### 基本科學概念
 
@@ -129,7 +129,7 @@ excerpt: 學習日語中科學與技術相關的表達方式，包括科學概�
 ## 情境 2: 技術術語
 
 ![技術術語](https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese technology terminology - modern technology devices, engineering equipment, technical specifications, innovation labs, high-tech Japanese manufacturing with technical documentation -->
+<!-- Image Prompt: Japanese technology terminology and engineering concepts diagram - technology terms and engineering processes with Japanese labels (技術, 工学, システム, 装置, 情報技術, 人工知能, ロボット, 自動化, 開発, 設計, 製造, 改良, 機器, 設備, 材料, 部品), clean technology terminology layout, educational diagram style, no text overlays, only technology term labels positioned at corresponding engineering concept elements -->
 
 ### 基本技術概念
 
@@ -225,7 +225,7 @@ excerpt: 學習日語中科學與技術相關的表達方式，包括科學概�
 ## 情境 3: 創新表達
 
 ![創新表達](https://images.unsplash.com/photo-1551434678-e076c223a692?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese innovation and creativity - brainstorming sessions, creative problem solving, innovative technology development, research and development teams, creative workspace with Japanese innovation culture -->
+<!-- Image Prompt: Japanese innovation and creative development diagram - innovation concepts and creative processes with Japanese labels (革新, 創造, 発明, 発見, アイデア, 企画, 試行錯誤, 改善, 成果, 特許, 商品化, 実用化, 創造性, 独創性, 新規性, 実用性), clean innovation concept layout, educational diagram style, no text overlays, only innovation concept labels positioned at corresponding creative development elements -->
 
 ### 創新概念
 
@@ -321,7 +321,7 @@ excerpt: 學習日語中科學與技術相關的表達方式，包括科學概�
 ## 情境 4: 科技發展
 
 ![科技發展](https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese technological development - futuristic technology, advanced research facilities, technological progress, innovation timeline, modern Japanese tech industry with development milestones -->
+<!-- Image Prompt: Japanese technological development and progress diagram - technology development stages and progress indicators with Japanese labels (進歩, 発展, 進化, 変革, トレンド, 動向, 将来, 展望, 影響, 変化, 機会, 課題, 成長, 拡大, 向上, 発達), clean technological development layout, educational diagram style, no text overlays, only development progress labels positioned at corresponding technology advancement elements -->
 
 ### 發展階段
 
@@ -417,7 +417,7 @@ excerpt: 學習日語中科學與技術相關的表達方式，包括科學概�
 ## 情境 5: 科學對話
 
 ![科學對話](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese scientific dialogue - researchers discussing findings, scientific collaboration, academic exchange, laboratory meetings, professional scientific communication with Japanese research environment -->
+<!-- Image Prompt: Japanese scientific dialogue and research collaboration scene - scientific discussion and research communication with Japanese labels (議論, 検討, 評価, 検証, 発表, 報告, 説明, 提案, 協力, 共同研究, 交流, 連携, 対話, 会議, 討論, 協議), clean scientific dialogue setting, educational illustration style, no text overlays, only scientific dialogue phrase labels positioned near corresponding research collaboration elements -->
 
 ### 研究討論
 

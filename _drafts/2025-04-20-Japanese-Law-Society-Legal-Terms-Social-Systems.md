@@ -33,7 +33,7 @@ excerpt: 學習日語中法律與社會相關的表達方式，包括法律概�
 ## 情境 1: 法律概念
 
 ![法律概念](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Legal concepts and law - courtroom, legal documents, scales of justice, law books, legal symbols -->
+<!-- Image Prompt: Japanese legal concepts and law diagram - legal system elements with Japanese labels (法律, 憲法, 民法, 刑法, 条項, 規則, 条例, 契約, 正義, 平等, 自由, 人権), clean legal system layout, educational diagram style, no text overlays, only legal concept labels positioned at corresponding legal documents and system elements -->
 
 ### 基本法律
 
@@ -129,7 +129,7 @@ excerpt: 學習日語中法律與社會相關的表達方式，包括法律概�
 ## 情境 2: 社會制度
 
 ![社會制度](https://images.unsplash.com/photo-1557683316-973673baf926?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Social systems and institutions - government buildings, parliament, social services, public institutions -->
+<!-- Image Prompt: Japanese social systems and institutions diagram - government and social institutions with Japanese labels (政府, 国会, 内閣, 省庁, 裁判所, 裁判官, 弁護士, 検察官, 社会保障, 年金, 保険, 福祉), clean social system layout, educational diagram style, no text overlays, only institution labels positioned at corresponding government buildings and social service elements -->
 
 ### 政府機構
 
@@ -225,7 +225,7 @@ excerpt: 學習日語中法律與社會相關的表達方式，包括法律概�
 ## 情境 3: 權利義務
 
 ![權利義務](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Rights and obligations - people exercising rights, fulfilling duties, legal responsibilities, civic engagement -->
+<!-- Image Prompt: Japanese rights and obligations diagram - civic rights and duties with Japanese labels (権利, 義務, 責任, 自由権, 選挙権, 被選挙権, 参政権, 表現の自由, 納税, 兵役, 教育, 労働), clean rights and duties layout, educational diagram style, no text overlays, only rights and obligations labels positioned at corresponding civic engagement and legal responsibility elements -->
 
 ### 基本權利
 
@@ -321,7 +321,7 @@ excerpt: 學習日語中法律與社會相關的表達方式，包括法律概�
 ## 情境 4: 法律程序
 
 ![法律程序](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Legal procedures and processes - court proceedings, legal documents, legal consultations, judicial processes -->
+<!-- Image Prompt: Japanese legal procedures and processes diagram - legal processes and court procedures with Japanese labels (訴訟, 裁判, 判決, 上訴, 手続き, 申請, 許可, 登録, 書類, 証拠, 宣誓, 調書), clean legal procedure layout, educational diagram style, no text overlays, only legal procedure labels positioned at corresponding court proceedings and legal document elements -->
 
 ### 訴訟程序
 
@@ -417,7 +417,7 @@ excerpt: 學習日語中法律與社會相關的表達方式，包括法律概�
 ## 情境 5: 社會對話
 
 ![社會對話](https://images.unsplash.com/photo-1541746972996-4e0b0f93e586?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Social conversations and civic discussions - people discussing social issues, civic engagement, community meetings -->
+<!-- Image Prompt: Japanese social conversations and civic discussions scene - social dialogue and civic engagement with Japanese labels (社会問題, 政策, 改革, 改善, 投票, 選挙, デモ, 請願, 社会貢献, ボランティア, 寄付, 支援), clean social discussion setting, educational illustration style, no text overlays, only social conversation term labels positioned near corresponding social issues and civic engagement elements -->
 
 ### 社會議題
 

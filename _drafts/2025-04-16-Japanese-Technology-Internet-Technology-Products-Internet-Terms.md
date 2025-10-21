@@ -33,7 +33,7 @@ excerpt: 學習日語中科技與網路相關的表達方式，包括電子產�
 ## 情境 1: 電子產品
 
 ![電子產品](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Modern Japanese electronic devices - smartphones, laptops, tablets, smartwatches, cameras, headphones, gaming devices, clean tech aesthetic -->
+<!-- Image Prompt: Japanese electronic devices layout diagram - modern technology products with Japanese labels (スマートフォン, 携帯電話, タブレット, パソコン, カメラ, ヘッドホン, スピーカー, テレビ, スマートウォッチ, イヤホン), clean tech device arrangement, educational diagram style, no text overlays, only device labels positioned at corresponding electronic devices -->
 
 ### 通訊設備
 
@@ -117,7 +117,7 @@ excerpt: 學習日語中科技與網路相關的表達方式，包括電子產�
 ## 情境 2: 網路用語
 
 ![網路用語](https://images.unsplash.com/photo-1557683316-973673baf926?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Internet and digital concepts - websites, search engines, online interfaces, network connections, digital communication -->
+<!-- Image Prompt: Japanese internet and digital concepts diagram - web interfaces and network operations with Japanese labels (インターネット, ウェブサイト, 検索, ダウンロード, アップロード, 保存, 削除, コピー, 接続, 切断, ログイン, ログアウト), clean digital interface layout, educational diagram style, no text overlays, only internet term labels positioned at corresponding web and network elements -->
 
 ### 基本網路
 
@@ -213,7 +213,7 @@ excerpt: 學習日語中科技與網路相關的表達方式，包括電子產�
 ## 情境 3: 社交媒體
 
 ![社交媒體](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Social media platforms and interactions - people using smartphones, posting content, messaging, social networking interfaces -->
+<!-- Image Prompt: Japanese social media platforms and interactions scene - social networking interfaces with Japanese labels (SNS, Twitter, Instagram, Facebook, 投稿, いいね, コメント, シェア, メッセージ, チャット, フォロー), clean social media interface layout, educational illustration style, no text overlays, only social media term labels positioned at corresponding social platform features -->
 
 ### 社交平台
 
@@ -303,7 +303,7 @@ excerpt: 學習日語中科技與網路相關的表達方式，包括電子產�
 ## 情境 4: 數位服務
 
 ![數位服務](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Digital services and online platforms - e-commerce, streaming services, online banking, cloud storage, mobile apps -->
+<!-- Image Prompt: Japanese digital services and online platforms diagram - various digital services with Japanese labels (オンラインショッピング, ECサイト, 決済, 配送, 動画配信, 音楽配信, サブスクリプション, クラウド, バックアップ, 同期), clean digital service layout, educational diagram style, no text overlays, only service labels positioned at corresponding digital platforms and services -->
 
 ### 電子商務
 
@@ -387,7 +387,7 @@ excerpt: 學習日語中科技與網路相關的表達方式，包括電子產�
 ## 情境 5: 科技對話
 
 ![科技對話](https://images.unsplash.com/photo-1541746972996-4e0b0f93e586?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: People discussing technology - troubleshooting, asking for help with devices, explaining tech features, modern office or home setting -->
+<!-- Image Prompt: Japanese technology support and troubleshooting scene - technical assistance interactions with Japanese labels (故障, 修理, 設定, 更新, 使い方を教えてください, どうやって使いますか, どこで買えますか, この機能は何ですか, どういう意味ですか, 安全ですか), clean tech support environment, educational illustration style, no text overlays, only tech support phrase labels positioned near corresponding technical assistance elements -->
 
 ### 技術支援
 

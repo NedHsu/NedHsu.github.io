@@ -33,7 +33,7 @@ excerpt: 學習日語中哲學與思想相關的表達方式，包括哲學概�
 ## 情境 1: 哲學概念
 
 ![哲學概念](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese philosophical concepts - traditional Japanese philosophy, Zen meditation, philosophical texts, contemplative atmosphere, ancient wisdom, intellectual reflection with Japanese cultural elements -->
+<!-- Image Prompt: Japanese philosophical concepts and intellectual ideas diagram - philosophical concepts and intellectual thought with Japanese labels (哲学, 思想, 理念, 概念, 存在, 本質, 真理, 現実, 意識, 認識, 理解, 悟り, 理論, 原理, 法則, 体系), clean philosophical concept layout, educational diagram style, no text overlays, only philosophical concept labels positioned at corresponding intellectual thought elements -->
 
 ### 基本哲學概念
 
@@ -129,7 +129,7 @@ excerpt: 學習日語中哲學與思想相關的表達方式，包括哲學概�
 ## 情境 2: 思想表達
 
 ![思想表達](https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese intellectual discourse - scholars discussing ideas, philosophical debate, academic exchange, thoughtful conversation, intellectual atmosphere with Japanese cultural elements -->
+<!-- Image Prompt: Japanese intellectual discourse and thought expression diagram - thought processes and intellectual expression with Japanese labels (考える, 思う, 考える, 検討, 見解, 意見, 主張, 立場, 論理, 推論, 分析, 批判, 議論, 討論, 対話, 考察), clean intellectual discourse layout, educational diagram style, no text overlays, only thought expression labels positioned at corresponding intellectual discourse elements -->
 
 ### 思考過程
 
@@ -225,7 +225,7 @@ excerpt: 學習日語中哲學與思想相關的表達方式，包括哲學概�
 ## 情境 3: 人生觀
 
 ![人生觀](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese life philosophy - traditional Japanese wisdom, life contemplation, philosophical reflection, serene natural settings, contemplative moments, cultural depth with Japanese philosophical elements -->
+<!-- Image Prompt: Japanese life philosophy and existential contemplation diagram - life philosophy and existential concepts with Japanese labels (人生, 生き方, 使命, 目的, 態度, 姿勢, 心構え, 覚悟, 知恵, 経験, 成長, 成熟, 価値, 意義, 目標, 理想), clean life philosophy layout, educational diagram style, no text overlays, only life philosophy labels positioned at corresponding existential contemplation elements -->
 
 ### 人生意義
 
@@ -321,7 +321,7 @@ excerpt: 學習日語中哲學與思想相關的表達方式，包括哲學概�
 ## 情境 4: 價值觀
 
 ![價值觀](https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese values and ethics - traditional Japanese moral concepts, ethical discussions, value systems, cultural principles, philosophical values with Japanese cultural context -->
+<!-- Image Prompt: Japanese values and ethical principles diagram - values and ethical concepts with Japanese labels (価値, 価値観, 倫理, 道徳, 正義, 公平, 平等, 自由, 尊厳, 責任, 誠実, 信頼, 原則, 基準, 規範, 理念), clean values and ethics layout, educational diagram style, no text overlays, only values and ethics labels positioned at corresponding ethical principle elements -->
 
 ### 基本價值
 
@@ -417,7 +417,7 @@ excerpt: 學習日語中哲學與思想相關的表達方式，包括哲學概�
 ## 情境 5: 哲學對話
 
 ![哲學對話](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese philosophical dialogue - intellectuals in deep conversation, philosophical debate, thoughtful discussion, academic exchange, contemplative atmosphere with Japanese cultural elements -->
+<!-- Image Prompt: Japanese philosophical dialogue and intellectual exchange scene - philosophical discussion and intellectual conversation with Japanese labels (議論, 討論, 対話, 交流, 賛成, 反対, 疑問, 提案, 分析, 検討, 考察, 結論, 会話, 話し合い, 相談, 協議), clean philosophical dialogue setting, educational illustration style, no text overlays, only philosophical dialogue phrase labels positioned near corresponding intellectual exchange elements -->
 
 ### 哲學討論
 

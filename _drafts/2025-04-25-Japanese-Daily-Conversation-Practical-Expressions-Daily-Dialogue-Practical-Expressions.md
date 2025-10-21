@@ -33,7 +33,7 @@ excerpt: 學習日常生活中最實用的日語對話和表達方式。包含�
 ## 情境 1: 基本問候與社交
 
 ![基本問候](https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese people greeting each other in various social situations - bowing politely, shaking hands, exchanging business cards, smiling warmly, in both formal and casual settings, clean and respectful atmosphere -->
+<!-- Image Prompt: Japanese people greeting each other in various social situations diagram - greeting expressions and social interactions with Japanese labels (おはようございます, こんにちは, こんばんは, おやすみなさい, はじめまして, よろしくお願いします, こちらこそ, 元気ですか, お疲れ様です), clean social interaction layout, educational diagram style, no text overlays, only greeting phrase labels positioned at corresponding social interaction elements -->
 
 ### 日常問候
 
@@ -111,7 +111,7 @@ excerpt: 學習日常生活中最實用的日語對話和表達方式。包含�
 ## 情境 2: 請求與回應
 
 ![請求回應](https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese people in polite conversation showing various request and response situations - asking for help, offering assistance, politely declining, accepting requests, respectful body language, clean office or home setting -->
+<!-- Image Prompt: Japanese request and response situations diagram - polite requests and responses with Japanese labels (お願いします, してください, していただけますか, してもらえますか, はいいいです, もちろん, すみませんできません, 申し訳ありません), clean request-response layout, educational diagram style, no text overlays, only request-response phrase labels positioned at corresponding polite interaction elements -->
 
 ### 基本請求
 
@@ -181,7 +181,7 @@ excerpt: 學習日常生活中最實用的日語對話和表達方式。包含�
 ## 情境 3: 感謝與道歉
 
 ![感謝道歉](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese people expressing gratitude and apology in various situations - bowing deeply, exchanging gifts, showing sincere expressions, in both formal and casual settings, respectful and humble atmosphere -->
+<!-- Image Prompt: Japanese gratitude and apology expressions diagram - thank you and sorry expressions with Japanese labels (ありがとうございます, ありがとう, どうもありがとうございます, お世話になりました, すみません, ごめんなさい, 申し訳ございません, お詫び申し上げます, どういたしまして, 大丈夫です), clean gratitude-apology layout, educational diagram style, no text overlays, only gratitude-apology phrase labels positioned at corresponding emotional expression elements -->
 
 ### 感謝表達
 
@@ -265,7 +265,7 @@ excerpt: 學習日常生活中最實用的日語對話和表達方式。包含�
 ## 情境 4: 購物與用餐對話
 
 ![購物用餐](https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese shopping and dining scenes - customers interacting with shopkeepers, ordering food at restaurants, browsing products in stores, exchanging money, polite customer service interactions, clean and organized retail environment -->
+<!-- Image Prompt: Japanese shopping and dining conversation scenes diagram - shopping and dining interactions with Japanese labels (いらっしゃいませ, を探しています, いくらですか, これをください, メニューを見せてください, をお願いします, おすすめは何ですか, お会計お願いします), clean shopping-dining layout, educational diagram style, no text overlays, only shopping-dining phrase labels positioned at corresponding customer service interaction elements -->
 
 ### 購物對話
 
@@ -335,7 +335,7 @@ excerpt: 學習日常生活中最實用的日語對話和表達方式。包含�
 ## 情境 5: 問路與求助
 
 ![問路求助](https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese street scene with people asking for directions - pointing at maps, showing street signs, giving directions with hand gestures, helpful interactions between locals and visitors, clean urban environment with clear signage -->
+<!-- Image Prompt: Japanese asking for directions and help scene diagram - direction asking and help requests with Japanese labels (すみません道を教えてください, はどこですか, までどう行けばいいですか, は近いですか, まっすぐ行ってください, 右に曲がってください, 左に曲がってください, の隣です, 助けてください, 困っています), clean direction-help layout, educational diagram style, no text overlays, only direction-help phrase labels positioned at corresponding street navigation and assistance elements -->
 
 ### 問路表達
 

@@ -33,7 +33,7 @@ excerpt: 學習日語中節慶與節日相關的表達方式，包括傳統節�
 ## 情境 1: 傳統節慶
 
 ![傳統節慶](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Traditional Japanese festivals and celebrations - cherry blossom viewing, summer festivals, autumn festivals, New Year celebrations, traditional costumes -->
+<!-- Image Prompt: Japanese traditional festivals and celebrations diagram - seasonal festivals and traditional events with Japanese labels (お花見, 夏祭り, 秋祭り, 雪祭り, お正月, 節分, ひな祭り, こどもの日, お盆, 彼岸, 七五三), clean traditional festival layout, educational diagram style, no text overlays, only festival labels positioned at corresponding traditional celebrations and seasonal events -->
 
 ### 四季節慶
 
@@ -123,7 +123,7 @@ excerpt: 學習日語中節慶與節日相關的表達方式，包括傳統節�
 ## 情境 2: 現代節日
 
 ![現代節日](https://images.unsplash.com/photo-1557683316-973673baf926?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Modern Japanese holidays and celebrations - Valentine's Day, Christmas, birthdays, anniversaries, modern celebrations -->
+<!-- Image Prompt: Japanese modern holidays and celebrations diagram - contemporary holidays and personal celebrations with Japanese labels (バレンタインデー, クリスマス, ハロウィン, 母の日, 誕生日, 記念日, 結婚記念日, ホワイトデー, 敬老の日, 文化の日), clean modern holiday layout, educational diagram style, no text overlays, only holiday labels positioned at corresponding modern celebrations and personal events -->
 
 ### 國際節日
 
@@ -207,7 +207,7 @@ excerpt: 學習日語中節慶與節日相關的表達方式，包括傳統節�
 ## 情境 3: 節慶活動
 
 ![節慶活動](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Festival activities and traditions - traditional dances, fireworks, food stalls, games, ceremonies, cultural performances -->
+<!-- Image Prompt: Japanese festival activities and traditions diagram - traditional festival activities and cultural performances with Japanese labels (踊り, 花火, 屋台, 神輿, 金魚すくい, 射的, くじ引き, 輪投げ, 参拝, お祈り, お守り), clean festival activity layout, educational diagram style, no text overlays, only activity labels positioned at corresponding festival activities and traditional performances -->
 
 ### 傳統活動
 
@@ -297,7 +297,7 @@ excerpt: 學習日語中節慶與節日相關的表達方式，包括傳統節�
 ## 情境 4: 節日祝福
 
 ![節日祝福](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Holiday greetings and celebrations - people exchanging gifts, cards, traditional greetings, festive atmosphere -->
+<!-- Image Prompt: Japanese holiday greetings and celebrations scene - festive greetings and gift exchanges with Japanese labels (明けましておめでとうございます, 今年もよろしくお願いします, 良いお年を, お誕生日おめでとうございます, おめでとうございます, お祝い申し上げます, クリスマスおめでとう, ハッピーハロウィン, 母の日おめでとう), clean holiday greeting setting, educational illustration style, no text overlays, only greeting phrase labels positioned near corresponding holiday celebrations and festive exchanges -->
 
 ### 新年祝福
 
@@ -375,7 +375,7 @@ excerpt: 學習日語中節慶與節日相關的表達方式，包括傳統節�
 ## 情境 5: 節慶對話
 
 ![節慶對話](https://images.unsplash.com/photo-1541746972996-4e0b0f93e586?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Festival conversations and interactions - people discussing plans, sharing experiences, making arrangements, festive social gatherings -->
+<!-- Image Prompt: Japanese festival conversations and interactions scene - festival planning and social gatherings with Japanese labels (祭りに行きませんか, 一緒に行きましょう, 何時に会いますか, 楽しかったですか, とても楽しかったです, また来年も来たいです, 準備はできましたか, 何か持っていきますか, お土産を買いましょう), clean festival conversation setting, educational illustration style, no text overlays, only conversation phrase labels positioned near corresponding festival planning and social interaction elements -->
 
 ### 節慶計劃
 

@@ -33,7 +33,7 @@ excerpt: 學習日語中工作與職業相關的表達方式，包括職業類�
 ## 情境 1: 職業類型
 
 ![職業類型](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Various Japanese professionals in their work environments - office workers, doctors, teachers, engineers, service workers, chefs, artists, representing different career fields -->
+<!-- Image Prompt: Japanese professional occupations visual diagram - different professionals in their work environments with Japanese occupation labels (医者, 教師, エンジニア, 弁護士, 会計士, 営業, 事務, マーケティング, 経理, 店員, コック, 運転手, 看護師), clean professional workplace scenes, educational diagram style, no text overlays, only occupation labels positioned near corresponding professionals -->
 
 ### 專業職業
 
@@ -135,7 +135,7 @@ excerpt: 學習日語中工作與職業相關的表達方式，包括職業類�
 ## 情境 2: 工作環境
 
 ![工作環境](https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Modern Japanese office environment - desks, computers, meeting rooms, break areas, clean and organized workspace -->
+<!-- Image Prompt: Japanese office environment layout diagram - modern office space showing workplace facilities with Japanese labels (オフィス, デスク, 会議室, コピー機, パソコン, 電話, ファックス, プリンター, シュレッダー), clean office equipment arrangement, educational diagram style, no text overlays, only facility labels positioned at corresponding office equipment and spaces -->
 
 ### 辦公室設施
 
@@ -211,7 +211,7 @@ excerpt: 學習日語中工作與職業相關的表達方式，包括職業類�
 ## 情境 3: 職場用語
 
 ![職場用語](https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Professional workplace interactions - meetings, presentations, team collaboration, formal business attire -->
+<!-- Image Prompt: Japanese workplace interaction scene - professional workplace showing work activities and relationships with Japanese labels (働く, 会議, 報告, 連絡, 上司, 部下, 同僚, 先輩, 忙しい, 暇, 疲れる), clean business environment, educational illustration style, no text overlays, only workplace term labels positioned near corresponding work activities and relationships -->
 
 ### 工作動作
 
@@ -301,7 +301,7 @@ excerpt: 學習日語中工作與職業相關的表達方式，包括職業類�
 ## 情境 4: 面試對話
 
 ![面試對話](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Job interview setting - interviewer and candidate in formal business attire, professional office environment, documents and resumes -->
+<!-- Image Prompt: Japanese job interview setting - formal interview scene with interviewer and candidate, showing interview process elements with Japanese labels (自己紹介, なぜこの会社を選びましたか, 経験はありますか, 給料はいくら希望ですか, よろしくお願いします, 頑張ります, 学びたいです, 貢献したいです), clean professional office setting, educational illustration style, no text overlays, only interview phrase labels positioned near corresponding interview elements -->
 
 ### 面試問答
 
@@ -371,7 +371,7 @@ excerpt: 學習日語中工作與職業相關的表達方式，包括職業類�
 ## 情境 5: 工作文化
 
 ![工作文化](https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese workplace culture - bowing, exchanging business cards, group meetings, after-work socializing, respectful interactions -->
+<!-- Image Prompt: Japanese workplace culture illustration - traditional Japanese office showing workplace etiquette and attitudes with Japanese labels (お疲れ様, お先に失礼します, 名刺交換, 挨拶, 責任感, 協調性, 積極性, チームワーク), clean traditional Japanese office environment, educational illustration style, no text overlays, only cultural term labels positioned at relevant workplace culture elements -->
 
 ### 職場禮儀
 

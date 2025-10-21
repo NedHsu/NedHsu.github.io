@@ -33,7 +33,7 @@ excerpt: 學習日語中宗教與信仰相關的表達方式，包括宗教概�
 ## 情境 1: 宗教概念
 
 ![宗教概念](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese religious concepts - traditional Japanese temples, shrines, religious ceremonies, spiritual symbols, Buddhist and Shinto elements, peaceful religious atmosphere -->
+<!-- Image Prompt: Japanese religious concepts and spiritual beliefs diagram - religious concepts and spiritual elements with Japanese labels (宗教, 信仰, 信心, 精神, 神道, 仏教, 禅, 浄土真宗, 神社, 寺院, お堂, 本堂, 教義, 教え, 修行, 悟り), clean religious concept layout, educational diagram style, no text overlays, only religious concept labels positioned at corresponding spiritual belief elements -->
 
 ### 基本宗教概念
 
@@ -129,7 +129,7 @@ excerpt: 學習日語中宗教與信仰相關的表達方式，包括宗教概�
 ## 情境 2: 信仰表達
 
 ![信仰表達](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese faith expression - people praying, religious ceremonies, spiritual practices, meditation, religious devotion, peaceful spiritual atmosphere -->
+<!-- Image Prompt: Japanese faith expression and spiritual practice diagram - faith expressions and spiritual practices with Japanese labels (祈る, お参り, 拝む, 手を合わせる, 敬虔, 謙虚, 感謝, 懺悔, 感動, 安らぎ, 救い, 導き, 祈願, 願い, 希望, 救済), clean faith expression layout, educational diagram style, no text overlays, only faith expression labels positioned at corresponding spiritual practice elements -->
 
 ### 祈禱表達
 
@@ -225,7 +225,7 @@ excerpt: 學習日語中宗教與信仰相關的表達方式，包括宗教概�
 ## 情境 3: 精神追求
 
 ![精神追求](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese spiritual pursuit - meditation, spiritual practice, inner peace, enlightenment, spiritual journey, contemplative atmosphere -->
+<!-- Image Prompt: Japanese spiritual pursuit and inner cultivation diagram - spiritual practices and inner development with Japanese labels (修行, 瞑想, 坐禅, 念仏, 悟り, 解脱, 涅槃, 成仏, 心, 魂, 霊性, 内観, 精進, 修養, 鍛錬, 向上), clean spiritual pursuit layout, educational diagram style, no text overlays, only spiritual pursuit labels positioned at corresponding inner cultivation elements -->
 
 ### 修行概念
 
@@ -321,7 +321,7 @@ excerpt: 學習日語中宗教與信仰相關的表達方式，包括宗教概�
 ## 情境 4: 宗教文化
 
 ![宗教文化](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese religious culture - traditional religious festivals, cultural ceremonies, religious art, spiritual traditions, cultural practices with religious significance -->
+<!-- Image Prompt: Japanese religious culture and traditional practices diagram - religious culture and traditional ceremonies with Japanese labels (儀式, 法要, 祭り, お祭り, お盆, 彼岸, 正月, 節分, 仏像, 神像, 絵馬, お守り, 供養, 参拝, 祈願, 奉納), clean religious culture layout, educational diagram style, no text overlays, only religious culture labels positioned at corresponding traditional practice elements -->
 
 ### 宗教儀式
 
@@ -417,7 +417,7 @@ excerpt: 學習日語中宗教與信仰相關的表達方式，包括宗教概�
 ## 情境 5: 宗教對話
 
 ![宗教對話](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese religious dialogue - respectful religious conversation, spiritual guidance, religious consultation, peaceful religious discussion, respectful spiritual communication -->
+<!-- Image Prompt: Japanese religious dialogue and spiritual communication scene - religious discussion and spiritual guidance with Japanese labels (話し合い, 相談, 指導, 教え, 体験, 証し, 分かち合い, 交流, 慰め, 支え, 励まし, 希望, 対話, 会話, 説教, 布教), clean religious dialogue setting, educational illustration style, no text overlays, only religious dialogue phrase labels positioned near corresponding spiritual communication elements -->
 
 ### 宗教討論
 
