@@ -9,6 +9,8 @@ image:
   path: /assets/svg/Table_hiragana.svg
 ---
 
+<link rel="stylesheet" href="/assets/css/responsive.css">
+
 練習書寫平假名和片假名是學習日語的基本步驟。以下是一些具體的練習方法和步驟，幫助你熟悉平假名和片假名的書寫。
 
 ## **1. 書寫準備**
@@ -52,4 +54,9 @@ image:
 
 透過這些練習，你可以逐步熟悉平假名和片假名的書寫，並為進一步的日語學習打下堅實的基礎。
 
+
+## 日語五十音發音練習
+
 {% include embed/youtube.html id='1jKPTpNNEhY' %}
+
+{% include embed/youtube.html id='iJk_JqWLrQ8' %}
