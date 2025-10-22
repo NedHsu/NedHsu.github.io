@@ -1,0 +1,37 @@
+/* 響應式內容顯示控制 */
+
+/* 只在手機版顯示 */
+.mobile-only {
+  display: block;
+}
+
+/* 只在桌面版顯示 */
+.desktop-only {
+  display: none;
+}
+
+/* 媒體查詢：當螢幕寬度大於 768px 時（桌面版） */
+@media screen and (min-width: 769px) {
+  .mobile-only {
+      display: none;
+  }
+
+  .desktop-only {
+      display: block;
+  }
+}
+
+/* 額外的響應式樣式 */
+@media screen and (max-width: 768px) {
+  .mobile-content {
+      font-size: 14px;
+      line-height: 1.5;
+  }
+}
+
+@media screen and (min-width: 769px) {
+  .desktop-content {
+      font-size: 16px;
+      line-height: 1.6;
+  }
+}
