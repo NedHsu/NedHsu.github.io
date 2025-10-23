@@ -99,8 +99,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: left">
 
-**田中:** 太好了，我很期待。 <br>
-(taihen arigatou gozaimasu, tanoshimi ni shiteimasu.) <br>
+**田中:** それはいいですね、楽しみにしています。 <br>
+(Sore wa īdesu ne, tanoshiminishiteimasu.) <br>
 太好了，我很期待。 <br>
 **Great, I'm looking forward to it.** <br>
 
@@ -175,7 +175,7 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">
 
-**山田:** 是的，東京有很多有趣的地方。 <br>
+**山田:** はい、東京には面白い場所がたくさんあります。 <br>
 (hai, toukyou wa omoshiroi tokoro ga takusan arimasu.) <br>
 是的，東京有很多有趣的地方。 <br>
 **Yes, Tokyo has many interesting places.** <br>
@@ -184,8 +184,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: left">
 
-**田中:** 我希望有機會去看看。 <br>
-(kibou ga areba, itsuka ikitai desu.) <br>
+**田中:** 訪問する機会があれば幸いです。 <br>
+(Hōmon suru kikai ga areba saiwaidesu.) <br>
 我希望有機會去看看。 <br>
 **I hope to visit someday.** <br>
 
@@ -260,8 +260,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">
 
-**山田:** 謝謝，我很喜歡我的工作。 <br>
-(arigatou, shigoto ga daisuki desu.) <br>
+**山田:** ありがとうございます。仕事は楽しいです。 <br>
+(Arigatōgozaimasu. Shigoto wa tanoshīdesu.) <br>
 謝謝，我很喜歡我的工作。 <br>
 **Thank you, I love my job.** <br>
 
@@ -269,8 +269,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: left">
 
-**田中:** 那真是太好了。 <br>
-(sore wa yokatta desu ne.) <br>
+**田中:** それは素晴らしいことです。 <br>
+(Sore wa subarashī kotodesu.) <br>
 那真是太好了。 <br>
 **That's good to hear.** <br>
 
@@ -345,8 +345,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">
 
-**田中:** 下次我會帶朋友來。 <br>
-(jikai wa tomodachi o tsurete kimasu.) <br>
+**田中:** 次回は友達を連れて来ます。 <br>
+(Jikai wa tomodachi o tsuretekimasu.) <br>
 下次我會帶朋友來。 <br>
 **Next time, I'll bring my friends.** <br>
 
@@ -363,8 +363,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">
 
-**田中:** 再見！ <br>
-(saiken!) <br>
+**田中:** さよなら！ <br>
+(Sayonara!) <br>
 再見！ <br>
 **Goodbye!** <br>
 
@@ -439,8 +439,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">
 
-**山田:** 是的，工作和生活都很平衡。 <br>
-(hai, shigoto to seikatsu ga totemo baransu ga toreteimasu.) <br>
+**山田:** はい、仕事と生活のバランスです。 <br>
+(Hai, shigoto to seikatsu no baransudesu.) <br>
 是的，工作和生活都很平衡。 <br>
 **Yes, work and life are well balanced.** <br>
 
@@ -448,7 +448,7 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: left">
 
-**田中:** 那真是太好了。 <br>
+**田中:** それは良かったですね。 <br>
 (sore wa yokatta desu ne.) <br>
 那真是太好了。 <br>
 **That's good to hear.** <br>

@@ -279,8 +279,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**路人:** 這條路上有其他商店嗎？  <br>
-(kono michi ni wa hoka no mise ga arimasu ka?)  <br>
+**路人:** この道沿いに他のお店はありますか？  <br>
+(Kono michi-zoi ni hoka no o-ten wa arimasu ka?)  <br>
 這條路上有其他商店嗎？  <br>
 **Are there other shops on this road?**  <br>
 </div>  
@@ -295,7 +295,7 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**路人:** 太好了，謝謝！  <br>
+**路人:** 大変ありがとうございます！  <br>
 (taihen arigatou gozaimasu!)  <br>
 太好了，謝謝！  <br>
 **Great, thank you!**  <br>
@@ -350,8 +350,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**觀眾:** 明天的天氣如何？  <br>
-(ashita no tenki wa dou desu ka?)  <br>
+**觀眾:** 明日の天気はどうでしょうか？  <br>
+(Asunotenki wa dōdeshou ka?)  <br>
 明天的天氣如何？  <br>
 **How about tomorrow's weather?**  <br>
 </div>  
@@ -366,8 +366,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**觀眾:** 謝謝您的資訊。  <br>
-(arigatou gozaimasu, jouhou o arigatou.)  <br>
+**觀眾:** 情報をいただきありがとうございます。  <br>
+(Jōhō o itadaki arigatōgozaimasu.)  <br>
 謝謝您的資訊。  <br>
 **Thank you for the information.**  <br>
 </div>  

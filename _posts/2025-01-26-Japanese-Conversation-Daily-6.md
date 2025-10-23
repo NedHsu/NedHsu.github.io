@@ -208,8 +208,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** 這個顏色看起來不錯。需要多長時間？  <br>
-(kono iro wa yokatta desu. jikan wa dono kurai kakarimasu ka?)  <br>
+**顧客:** 色はいい感じです。どれくらい時間がかかりますか？  <br>
+(Iro wa ī kanjidesu. Dorekurai jikan ga kakarimasu ka?)  <br>
 這個顏色看起來不錯。需要多長時間？  <br>
 **This color looks good. How long will it take?**  <br>
 </div>  
@@ -279,8 +279,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** 這款有什麼特別功能嗎？  <br>
-(kono moderu wa nani ka tokubetsu na kinou ga arimasu ka?)  <br>
+**顧客:** この製品には何か特別な機能がありますか?  <br>
+(Kono seihin ni wa nani ka tokubetsuna kinō ga arimasu ka?)  <br>
 這款有什麼特別功能嗎？  <br>
 **Does this model have any special features?**  <br>
 </div>  
@@ -295,7 +295,7 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** 太好了，謝謝！  <br>
+**顧客:** 大変ありがとうございます！  <br>
 (taihen arigatou gozaimasu!)  <br>
 太好了，謝謝！  <br>
 **Great, thank you!**  <br>

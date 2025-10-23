@@ -171,8 +171,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** 需要多久才能到達？  <br>
-(dono kurai de todokimasu ka?)  <br>
+**顧客:** 到着までどのくらいかかりますか？  <br>
+(Tōchaku made dono kurai kakarimasu ka?)  <br>
 需要多久才能到達？  <br>
 **How long will it take to arrive?**  <br>
 </div>  
@@ -258,7 +258,7 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** 太好了，謝謝！  <br>
+**顧客:** 大変ありがとうございます！  <br>
 (taihen arigatou gozaimasu!)  <br>
 太好了，謝謝！  <br>
 **Great, thank you!**  <br>
@@ -432,7 +432,7 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**乗客:** 太好了，謝謝！  <br>
+**乗客:** 大変ありがとうございます！  <br>
 (taihen arigatou gozaimasu!)  <br>
 太好了，謝謝！  <br>
 **Great, thank you!**  <br>

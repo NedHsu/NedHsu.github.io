@@ -80,7 +80,7 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** 我會選擇日本酒。  <br>
+**顧客:** 日本酒を選びます。  <br>
 (nihonshu o erabimasu.)  <br>
 我會選擇日本酒。  <br>
 **I'll choose sake.**  <br>
@@ -165,8 +165,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** 謝謝您的幫助。  <br>
-(goen o arigatou gozaimasu.)  <br>
+**顧客:** どうもありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
 謝謝您的幫助。  <br>
 **Thank you for your help.**  <br>
 </div>  
@@ -250,7 +250,7 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** 太好了，謝謝！  <br>
+**顧客:** 大変ありがとうございます！  <br>
 (taihen arigatou gozaimasu!)  <br>
 太好了，謝謝！  <br>
 **Great, thank you!**  <br>
@@ -335,8 +335,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**通行人:** 這條路上有其他商店嗎？  <br>
-(kono michi ni wa hoka no mise ga arimasu ka?)  <br>
+**通行人:** この道沿いに他のお店はありますか？  <br>
+(Kono michi-zoi ni hoka no o-ten wa arimasu ka?)  <br>
 這條路上有其他商店嗎？  <br>
 **Are there other shops on this road?**  <br>
 </div>  
@@ -351,7 +351,7 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**通行人:** 太好了，謝謝！  <br>
+**通行人:** 大変ありがとうございます！  <br>
 (taihen arigatou gozaimasu!)  <br>
 太好了，謝謝！  <br>
 **Great, thank you!**  <br>
@@ -420,8 +420,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**視聴者:** 謝謝您的提醒。  <br>
-(kansha o arigatou gozaimasu.)  <br>
+**視聴者:** リマインダーありがとうございます。  <br>
+(Rimaindā arigatōgozaimasu.)  <br>
 謝謝您的提醒。  <br>
 **Thank you for the reminder.**  <br>
 </div>  

@@ -78,8 +78,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** 謝謝，我會去試穿。  <br>
-(arigatou, shichaku shimasu.)  <br>
+**顧客:** ありがとう。試着してみます。  <br>
+(Arigatō. Shichaku shite mimasu.)  <br>
 謝謝，我會去試穿。  <br>
 **Thank you, I'll try it on.**  <br>
 </div>  

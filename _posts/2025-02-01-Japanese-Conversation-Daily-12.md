@@ -103,7 +103,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 <div style="text-align: left">  
 
-**観光客:** 太好了，謝謝！  <br>
+**観光客:** 大変ありがとうございます！  <br>
 (taihen arigatou gozaimasu!)  <br>
 太好了，謝謝！  <br>
 **Great, thank you!**  <br>
@@ -180,8 +180,8 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 <div style="text-align: left">  
 
-**観光客:** 這班電車有空調嗎？  <br>
-(kono densha wa kuuchou ga arimasu ka?)  <br>
+**観光客:** この電車にはエアコンが付いていますか？  <br>
+(Kono densha ni wa eakon ga tsuite imasu ka?)  <br>
 這班電車有空調嗎？  <br>
 **Does this train have air conditioning?**  <br>
 </div>  
@@ -196,7 +196,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 <div style="text-align: left">  
 
-**観光客:** 太好了，謝謝！  <br>
+**観光客:** 大変ありがとうございます！  <br>
 (taihen arigatou gozaimasu!)  <br>
 太好了，謝謝！  <br>
 **Great, thank you!**  <br>
@@ -273,8 +273,8 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 <div style="text-align: left">  
 
-**観光客:** 那麼，附近有ATM嗎？  <br>
-(nanoni, chikaku ni ATM wa arimasu ka?)  <br>
+**観光客:** ところで、近くにATMはありますか？  <br>
+(Tokorode, chikaku ni ATM wa arimasu ka?)  <br>
 那麼，附近有ATM嗎？  <br>
 **Then, is there an ATM nearby?**  <br>
 </div>  
@@ -289,7 +289,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 <div style="text-align: left">  
 
-**観光客:** 太好了，謝謝！  <br>
+**観光客:** 大変ありがとうございます！  <br>
 (taihen arigatou gozaimasu!)  <br>
 太好了，謝謝！  <br>
 **Great, thank you!**  <br>
@@ -366,15 +366,15 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 <div style="text-align: left">  
 
-**観光客:** 這條路線擁擠嗎？  <br>
-(kono rosen wa kondeimasu ka?)  <br>
+**観光客:** このルートは混雑していますか？  <br>
+(Kono rūto wa konzatsu shite imasu ka?)  <br>
 這條路線擁擠嗎？  <br>
 **Is this line crowded?**  <br>
 </div>  
 
 <div style="text-align: right">  
 
-**地元の人:** 通常在高峰期會很擁擠。  <br>
+**地元の人:** ピーク時には混雑することが多いです。  <br>
 (tsuujou wa kouhouki ni wa totemo kondeimasu.)  <br>
 通常在高峰期會很擁擠。  <br>
 **Usually, it's very crowded during peak hours.**  <br>
@@ -382,7 +382,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 <div style="text-align: left">  
 
-**観光客:** 太好了，謝謝！  <br>
+**観光客:** 大変ありがとうございます！  <br>
 (taihen arigatou gozaimasu!)  <br>
 太好了，謝謝！  <br>
 **Great, thank you!**  <br>
@@ -459,23 +459,23 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 <div style="text-align: left">  
 
-**観光客:** 這條路線擁擠嗎？  <br>
-(kono rosen wa kondeimasu ka?)  <br>
+**観光客:** このルートは混雑していますか？  <br>
+(Kono rūto wa konzatsu shite imasu ka?)  <br>
 這條路線擁擠嗎？  <br>
 **Is this line crowded?**  <br>
 </div>  
 
 <div style="text-align: right">  
 
-**地元の人:** 通常在高峰期會很擁擠。  <br>
-(tsuujou wa kouhouki ni wa totemo kondeimasu.)  <br>
+**地元の人:** ピーク時には混雑することが多いです。  <br>
+(Pīku tokiniha konzatsu suru koto ga ōidesu.)  <br>
 通常在高峰期會很擁擠。  <br>
 **Usually, it's very crowded during peak hours.**  <br>
 </div>  
 
 <div style="text-align: left">  
 
-**観光客:** 太好了，謝謝！  <br>
+**観光客:** 大変ありがとうございます！  <br>
 (taihen arigatou gozaimasu!)  <br>
 太好了，謝謝！  <br>
 **Great, thank you!**  <br>

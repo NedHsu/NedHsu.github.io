@@ -78,8 +78,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** 這家餐廳有什麼特色菜嗎？  <br>
-(kono resutoran wa nani ka tokusetsu na ryouri ga arimasu ka?)  <br>
+**顧客:** このレストランには特別な料理はありますか？  <br>
+(Kono resutoran ni wa tokubetsuna ryōri wa arimasu ka?)  <br>
 這家餐廳有什麼特色菜嗎？  <br>
 **Does this restaurant have any signature dishes?**  <br>
 </div>  
@@ -94,8 +94,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** 太好了，我們會考慮的。  <br>
-(taihen arigatou gozaimasu, kangaemasu.)  <br>
+**顧客:** 素晴らしいですね、検討させていただきます。  <br>
+(Subarashīdesu ne, kentō sa sete itadakimasu.)  <br>
 太好了，我們會考慮的。  <br>
 **Great, we'll consider it.**  <br>
 </div>  
@@ -163,8 +163,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** 這些配菜有什麼特別之處嗎？  <br>
-(kono saido disshu wa nani ka tokubetsu na tokoro ga arimasu ka?)  <br>
+**顧客:** これらのおかずには何か特別なものがありますか？  <br>
+(Korera no okazu ni wa nani ka tokubetsuna mono ga arimasu ka?)  <br>
 這些配菜有什麼特別之處嗎？  <br>
 **Is there anything special about these side dishes?**  <br>
 </div>  
@@ -179,8 +179,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** 太好了，我會選擇沙拉。  <br>
-(taihen arigatou gozaimasu, sarada o erabimasu.)  <br>
+**顧客:** いいですね、サラダを選びます。  <br>
+(Īdesu ne, sarada o erabimasu.)  <br>
 太好了，我會選擇沙拉。  <br>
 **Great, I'll choose the salad.**  <br>
 </div>  
@@ -248,8 +248,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** 這裡的啤酒是什麼品牌的？  <br>
-(koko no biiru wa nani no burando desu ka?)  <br>
+**顧客:** ここではどんな銘柄のビールが提供されますか？  <br>
+(Kokode wa don'na meigara no bīru ga teikyō sa remasu ka?)  <br>
 這裡的啤酒是什麼品牌的？  <br>
 **What brand of beer do you serve here?**  <br>
 </div>  
@@ -264,8 +264,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** 太好了，我很喜歡這個品牌。  <br>
-(taihen arigatou gozaimasu, kono burando ga daisuki desu.)  <br>
+**顧客:** 素晴らしいです。このブランドが好きです。  <br>
+(Subarashīdesu. Kono burando ga sukidesu.)  <br>
 太好了，我很喜歡這個品牌。  <br>
 **Great, I love this brand.**  <br>
 </div>  
@@ -333,8 +333,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** 這裡可以使用電子支付嗎？  <br>
-(koko de wa denshi shiharai ga tsukaemasu ka?)  <br>
+**顧客:** ここでは電子決済は受け付けられますか？  <br>
+(Kokode wa denshi kessai wa uketsuke raremasu ka?)  <br>
 這裡可以使用電子支付嗎？  <br>
 **Can I use electronic payment here?**  <br>
 </div>  
@@ -349,7 +349,7 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** 太好了，謝謝！  <br>
+**顧客:** 大変ありがとうございます！  <br>
 (taihen arigatou gozaimasu!)  <br>
 太好了，謝謝！  <br>
 **Great, thank you!**  <br>
@@ -418,8 +418,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** 下次我會帶朋友來。  <br>
-(jikai wa tomodachi o tsurete kimasu.)  <br>
+**顧客:** 次回は友達を連れて来ます。  <br>
+(Jikai wa tomodachi o tsuretekimasu.)  <br>
 下次我會帶朋友來。  <br>
 **Next time, I'll bring my friends.**  <br>
 </div>  
@@ -434,8 +434,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** 再見！  <br>
-(saiken!)  <br>
+**顧客:** さようなら！  <br>
+(Sayōnara!)  <br>
 再見！  <br>
 **Goodbye!**  <br>
 </div>  

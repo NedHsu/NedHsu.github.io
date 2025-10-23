@@ -66,8 +66,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**病患:** 最近感到頭痛和疲倦。  <br>
-(saikin atama ga itakute, tsukareteimasu.)  <br>
+**病患:** 最近頭痛がして疲れを感じています。  <br>
+(Saikin zutsū ga shite tsukare o kanjite imasu.)  <br>
 最近感到頭痛和疲倦。  <br>
 **I've been experiencing headaches and fatigue lately.**  <br>
 </div>  
@@ -137,8 +137,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** 這個設計看起來很漂亮。需要多長時間？  <br>
-(kono dezain wa kirei desu. jikan wa dono kurai kakarimasu ka?)  <br>
+**顧客:** デザインは綺麗ですね。どれくらい時間がかかりますか？  <br>
+(Dezain wa kireidesu ne. Dorekurai jikan ga kakarimasu ka?)  <br>
 這個設計看起來很漂亮。需要多長時間？  <br>
 **This design looks beautiful. How long will it take?**  <br>
 </div>  
@@ -208,8 +208,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** 電腦開機後無法正常運行。  <br>
-(pasokon wa kaiki go ni seijou ni unkou shimasen.)  <br>
+**顧客:** コンピュータの電源をオンにしても正常に動作しません。  <br>
+(Konpyūta no dengen o on ni shite mo seijō ni dōsa shimasen.)  <br>
 電腦開機後無法正常運行。  <br>
 **The computer doesn't run properly after booting up.**  <br>
 </div>  
@@ -279,8 +279,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**乘客:** 我姓田中，地址是東京都新宿區。  <br>
-(watashi wa tanaka desu, juusho wa toukyou-to shinjuku-ku desu.)  <br>
+**乘客:** 私の名字は田中、住所は東京都新宿区です。  <br>
+(Watashi no myōji wa Tanaka, jūsho wa tōkyōtoshinjukukudesu.)  <br>
 我姓田中，地址是東京都新宿區。  <br>
 **My name is Tanaka, and my address is Shinjuku, Tokyo.**  <br>
 </div>  
@@ -350,16 +350,16 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**同事B:** 我們應該準備好暖和的衣服。  <br>
-(atatakai fuku o junbi shite okimashou.)  <br>
+**同事B:** 暖かい服を用意したほうがいいでしょう。  <br>
+(Attakai fuku o yōi shita hō ga īdeshou.)  <br>
 我們應該準備好暖和的衣服。  <br>
 **We should prepare warm clothes.**  <br>
 </div>  
 
 <div style="text-align: left">  
 
-**同事A:** 是的，這樣我們就不會感冒了。  <br>
-(hai, sou sureba kaze o hikimasen.)  <br>
+**同事A:** はい、風邪をひかないように。  <br>
+(Hai, kaze o hikanai yō ni.)  <br>
 是的，這樣我們就不會感冒了。  <br>
 **Yes, that way we won't catch a cold.**  <br>
 </div>  
