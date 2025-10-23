@@ -350,7 +350,7 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**乘客:** 大約需要多長時間？  <br>
+**乘客:** おおよそどのくらい時間がかかりますか?  <br>
 (dono kurai jikan ga kakarimasu ka?)  <br>
 大約需要多長時間？  <br>
 **How long will it take?**  <br>
