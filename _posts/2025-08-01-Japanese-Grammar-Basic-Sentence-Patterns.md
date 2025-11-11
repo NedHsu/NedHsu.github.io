@@ -209,9 +209,9 @@ excerpt: 學習日語的基本句型結構，包括主語、謂語、賓語的�
 
 ## 相關文章
 
-- [日語詞彙 - 常見物品、地點、形容詞](../Japanese-Vocabulary-Common-Items-Places-Adjectives/)
-- [日語動詞 - 基本動作動詞](../Japanese-Verbs-Basic-Action-Verbs/)
-- [日語助詞 - は・が・を・に的用法](../Japanese-Grammar-Particles-Basic/)
+- [日語詞彙 - 常見物品、地點、形容詞](/posts/Japanese-Vocabulary-Common-Items-Places-Adjectives/)
+- [日語動詞 - 基本動作動詞](/posts/Japanese-Verbs-Basic-Action-Verbs/)
+- [日語助詞 - は・が・を・に的用法](/posts/Japanese-Grammar-Particles-Basic/)
 
 ---
 

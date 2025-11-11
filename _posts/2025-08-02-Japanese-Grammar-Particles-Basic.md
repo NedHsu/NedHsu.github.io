@@ -217,8 +217,8 @@ excerpt: 學習日語中最常用的助詞は・が・を・に的用法，包�
 
 ## 相關文章
 
-- [日語語法基礎 - 基本句型結構](../Japanese-Grammar-Basic-Sentence-Patterns/)
-- [日語動詞 - 基本動作動詞](../Japanese-Verbs-Basic-Action-Verbs/)
+- [日語語法基礎 - 基本句型結構](/posts/Japanese-Grammar-Basic-Sentence-Patterns/)
+- [日語動詞 - 基本動作動詞](/posts/Japanese-Verbs-Basic-Action-Verbs/)
 
 ---
 
