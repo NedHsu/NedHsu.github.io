@@ -67,7 +67,7 @@ excerpt: 學習日語的基本句型結構，包括主語、謂語、賓語的�
 <div style="text-align: left">  
 **私は歩きます** (watashi wa arukimasu) - 我走路  <br>
 **I walk**  <br>
-*例句：毎日公園を歩きます。(mainichi kouen wo arukimasu) - 每天在公園走路。*  <br>
+*例句：私は毎日公園を歩きます。(watashi wa mainichi kouen wo arukimasu) - 我每天在公園走路。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -78,7 +78,7 @@ excerpt: 學習日語的基本句型結構，包括主語、謂語、賓語的�
 
 <div style="text-align: left">  
 **子供は遊びます** (kodomo wa asobimasu) - 孩子玩耍  <br>
-**Children play**  <br>
+**A child plays**  <br>
 *例句：子供たちは庭で遊びます。(kodomotachi wa niwa de asobimasu) - 孩子們在院子裡玩耍。*  <br>
 </div>  
 
@@ -94,7 +94,7 @@ excerpt: 學習日語的基本句型結構，包括主語、謂語、賓語的�
 <div style="text-align: left">  
 **私は本を読みます** (watashi wa hon wo yomimasu) - 我讀書  <br>
 **I read a book**  <br>
-*例句：毎晩本を読みます。(maiban hon wo yomimasu) - 每晚讀書。*  <br>
+*例句：私は毎晩本を読みます。(watashi wa maiban hon wo yomimasu) - 我每晚讀書。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -105,7 +105,7 @@ excerpt: 學習日語的基本句型結構，包括主語、謂語、賓語的�
 
 <div style="text-align: left">  
 **母は料理を作ります** (haha wa ryouri wo tsukurimasu) - 媽媽做菜  <br>
-**Mother cooks**  <br>
+**Mother makes food**  <br>
 *例句：母は美味しい料理を作ります。(haha wa oishii ryouri wo tsukurimasu) - 媽媽做美味的菜。*  <br>
 </div>  
 
@@ -195,8 +195,8 @@ excerpt: 學習日語的基本句型結構，包括主語、謂語、賓語的�
 ### 練習2: 填空練習
 請填入適當的助詞：
 1. 私（　）本（　）読みます。
-2. 机（　）上（　）本（　）あります。
-3. 公園（　）子供（　）います。
+2. 机（　）上（　）本（　）あります。*提示：需要填入「の」「に」「が」*
+3. 公園（　）子供（　）います。*提示：需要填入「に」「が」*
 
 ### 練習3: 翻譯練習
 請翻譯以下句子：
