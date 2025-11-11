@@ -140,9 +140,9 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 </div>  
 
 <div style="text-align: left">  
-**品物** (shinamono) - 物品  <br>
-**Item**  <br>
-*例句：良い品物を選びます。(ii shinamono wo erabimasu) - 我選擇好的物品。*  <br>
+**品物** (shinamono) - 物品、商品  <br>
+**Item, Goods**  <br>
+*例句：良い品物を選びます。(ii shinamono wo erabimasu) - 我選擇好的商品。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -154,7 +154,7 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 <div style="text-align: left">  
 **新商品** (shinshouhin) - 新商品  <br>
 **New product**  <br>
-*例句：新商品が入りました。(shinshouhin ga hairimashita) - 新商品進貨了。*  <br>
+*例句：新商品が入荷しました。(shinshouhin ga nyuuka shimashita) - 新商品到貨了。*  <br>
 </div>  
 
 ### 價格表達
@@ -251,6 +251,7 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 **～を見せてください** (~wo misete kudasai) - 請給我看...  <br>
 **Please show me ...**  <br>
 *例句：この商品を見せてください。(kono shouhin wo misete kudasai) - 請給我看這個商品。*  <br>
+*（更禮貌：見せていただけますか？misete itadakemasu ka?）*  <br>
 </div>  
 
 ### 試穿與選擇
@@ -300,9 +301,9 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 </div>  
 
 <div style="text-align: left">  
-**やめます** (yamemasu) - 我不要了  <br>
-**I'll pass**  <br>
-*例句：買うのをやめます。(kau no wo yamemasu) - 我不要買了。*  <br>
+**やめます** (yamemasu) - 不要了、算了  <br>
+**I'll pass, I'll skip it**  <br>
+*例句：今回はやめます。(konkai wa yamemasu) - 這次就算了。*  <br>
 </div>  
 
 ### 重點句型
@@ -360,7 +361,8 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 <div style="text-align: left">  
 **レシート** (reshiito) - 收據  <br>
 **Receipt**  <br>
-*例句：レシートをください。(reshiito wo kudasai) - 請給我收據。*  <br>
+*例句：レシートをもらえますか？(reshiito wo moraemasu ka?) - 可以給我收據嗎？*  <br>
+*（也可以說：レシートをください。reshiito wo kudasai）*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -372,7 +374,7 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 <div style="text-align: left">  
 **おつり** (otsuri) - 找零  <br>
 **Change**  <br>
-*例句：おつりをください。(otsuri wo kudasai) - 請給我找零。*  <br>
+*例句：おつりは大丈夫です。(otsuri wa daijoubu desu) - 不用找零了。*  <br>
 </div>  
 
 ### 付款相關
@@ -380,7 +382,7 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 <div style="text-align: left">  
 **支払う** (shiharau) - 付款  <br>
 **To pay**  <br>
-*例句：代金を支払います。(daikin wo shiharaimasu) - 我付款。*  <br>
+*例句：現金で支払います。(genkin de shiharaimasu) - 我用現金付款。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -390,9 +392,9 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 </div>  
 
 <div style="text-align: left">  
-**代金** (daikin) - 費用  <br>
-**Payment**  <br>
-*例句：代金はいくらですか？(daikin wa ikura desu ka?) - 費用是多少？*  <br>
+**代金** (daikin) - 價格  <br>
+**Payment, Price**  <br>
+*例句：代金はいくらですか？(daikin wa ikura desu ka?) - 價格是多少？*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -409,7 +411,7 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 ### 相關單字
 - 決済 (kessai) - 結算
 - 支払い (shiharai) - 付款
-- 代金 (daikin) - 費用
+- 代金 (daikin) - 貨款
 - 計算 (keisan) - 計算
 
 ---
@@ -442,7 +444,7 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 <div style="text-align: left">  
 **レシート** (reshiito) - 收據  <br>
 **Receipt**  <br>
-*例句：レシートが必要です。(reshiito ga hitsuyou desu) - 需要收據。*  <br>
+*例句：返品にはレシートが必要です。(henpin ni wa reshiito ga hitsuyou desu) - 退貨需要收據。*  <br>
 </div>  
 
 ### 退貨原因
@@ -450,7 +452,7 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 <div style="text-align: left">  
 **サイズが合わない** (saizu ga awanai) - 尺寸不合  <br>
 **Size doesn't fit**  <br>
-*例句：サイズが合わないです。(saizu ga awanai desu) - 尺寸不合。*  <br>
+*例句：サイズが合いません。(saizu ga aimasen) - 尺寸不合。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -468,7 +470,7 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 <div style="text-align: left">  
 **気に入らない** (ki ni iranai) - 不喜歡  <br>
 **Don't like it**  <br>
-*例句：気に入りません。(ki ni irimasen) - 我不喜歡。*  <br>
+*例句：この商品は気に入りません。(kono shouhin wa ki ni irimasen) - 我不喜歡這個商品。*  <br>
 </div>  
 
 ### 退貨政策

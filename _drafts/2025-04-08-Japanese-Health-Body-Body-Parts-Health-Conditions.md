@@ -70,7 +70,7 @@ excerpt: 學習日語中健康與身體相關的表達方式，包括身體部�
 <div style="text-align: left">  
 **耳** (mimi) - 耳朵  <br>
 **Ear**  <br>
-*例句：耳が聞こえません。(mimi ga kikoemasen) - 我聽不見。*  <br>
+*例句：耳が聞こえません。(mimi ga kikoemasen) - 我聽不到。*  <br>
 </div>  
 
 ### 軀幹部位
@@ -126,9 +126,10 @@ excerpt: 學習日語中健康與身體相關的表達方式，包括身體部�
 </div>  
 
 <div style="text-align: left">  
-**足** (ashi) - 腳  <br>
-**Leg/Foot**  <br>
+**足** (ashi) - 腳、腿  <br>
+**Foot/Leg**  <br>
 *例句：足が疲れています。(ashi ga tsukarete imasu) - 我腳累了。*  <br>
+*（註：日語中「足」可指腳或腿，視上下文而定）*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -147,6 +148,7 @@ excerpt: 學習日語中健康與身體相關的表達方式，包括身體部�
 - 部位 (buui) - 部位
 - 器官 (kikan) - 器官
 - 解剖 (kaibou) - 解剖
+- 脚 (ashi) - 腿（與「足」區分時使用）
 
 ---
 
@@ -160,13 +162,13 @@ excerpt: 學習日語中健康與身體相關的表達方式，包括身體部�
 <div style="text-align: left">  
 **元気** (genki) - 健康/有精神  <br>
 **Healthy/Energetic**  <br>
-*例句：今日は元気です。(kyou wa genki desu) - 今天很健康。*  <br>
+*例句：今日は元気です。(kyou wa genki desu) - 今天很有精神。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **健康** (kenkou) - 健康  <br>
 **Health**  <br>
-*例句：健康に気をつけます。(kenkou ni ki wo tsukemasu) - 我注意健康。*  <br>
+*例句：健康に気をつけます。(kenkou ni ki wo tsukemasu) - 我注意身體健康。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -236,7 +238,7 @@ excerpt: 學習日語中健康與身體相關的表達方式，包括身體部�
 <div style="text-align: left">  
 **アレルギー** (arerugii) - 過敏  <br>
 **Allergy**  <br>
-*例句：アレルギーがあります。(arerugii ga arimasu) - 我有過敏。*  <br>
+*例句：アレルギーがあります。(arerugii ga arimasu) - 我有過敏症。*  <br>
 </div>  
 
 ### 重點句型
@@ -262,13 +264,13 @@ excerpt: 學習日語中健康與身體相關的表達方式，包括身體部�
 <div style="text-align: left">  
 **医者** (isha) - 醫生  <br>
 **Doctor**  <br>
-*例句：医者に診てもらいます。(isha ni mite moraimasu) - 我請醫生診斷。*  <br>
+*例句：医者に診てもらいます。(isha ni mite moraimasu) - 我請醫生看診。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **看護師** (kangoshi) - 護士  <br>
 **Nurse**  <br>
-*例句：看護師が手伝います。(kangoshi ga tetsudaimasu) - 護士幫忙。*  <br>
+*例句：看護師が手伝ってくれます。(kangoshi ga tetsudatte kuremasu) - 護士會幫忙。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -332,7 +334,8 @@ excerpt: 學習日語中健康與身體相關的表達方式，包括身體部�
 <div style="text-align: left">  
 **注射** (chuusha) - 注射  <br>
 **Injection**  <br>
-*例句：注射を打ちます。(chuusha wo uchimasu) - 我打針。*  <br>
+*例句：注射を打ちます。(chuusha wo uchimasu) - 我接受注射。*  <br>
+*（也可以說：注射をしてもらいます。chuusha wo shite moraimasu）*  <br>
 </div>  
 
 ### 重點句型
@@ -358,25 +361,29 @@ excerpt: 學習日語中健康與身體相關的表達方式，包括身體部�
 <div style="text-align: left">  
 **どこが痛いですか？** (doko ga itai desu ka?) - 哪裡痛？  <br>
 **Where does it hurt?**  <br>
-*例句：どこが痛いですか？(doko ga itai desu ka?) - 哪裡痛？*  <br>
+*例句：頭が痛いです。(atama ga itai desu) - 我頭痛。*  <br>
+*（醫生問：どこが痛いですか？doko ga itai desu ka?）*  <br>
 </div>  
 
 <div style="text-align: left">  
 **いつからですか？** (itsu kara desu ka?) - 什麼時候開始的？  <br>
 **Since when?**  <br>
-*例句：いつから痛いですか？(itsu kara itai desu ka?) - 什麼時候開始痛的？*  <br>
+*例句：昨日から痛いです。(kinou kara itai desu) - 從昨天開始痛。*  <br>
+*（醫生問：いつからですか？itsu kara desu ka?）*  <br>
 </div>  
 
 <div style="text-align: left">  
 **どのくらい痛いですか？** (dono kurai itai desu ka?) - 有多痛？  <br>
 **How much does it hurt?**  <br>
-*例句：どのくらい痛いですか？(dono kurai itai desu ka?) - 有多痛？*  <br>
+*例句：とても痛いです。(totemo itai desu) - 很痛。*  <br>
+*（醫生問：どのくらい痛いですか？dono kurai itai desu ka?）*  <br>
 </div>  
 
 <div style="text-align: left">  
 **他に症状はありますか？** (hoka ni shoujou wa arimasu ka?) - 有其他症狀嗎？  <br>
 **Are there any other symptoms?**  <br>
-*例句：他に症状はありますか？(hoka ni shoujou wa arimasu ka?) - 有其他症狀嗎？*  <br>
+*例句：熱もあります。(netsu mo arimasu) - 也有發燒。*  <br>
+*（醫生問：他に症状はありますか？hoka ni shoujou wa arimasu ka?）*  <br>
 </div>  
 
 ### 醫生建議
@@ -420,9 +427,10 @@ excerpt: 學習日語中健康與身體相關的表達方式，包括身體部�
 </div>  
 
 <div style="text-align: left">  
-**お疲れ様でした** (otsukaresama deshita) - 辛苦了  <br>
+**お世話になりました** (osewa ni narimashita) - 辛苦了  <br>
 **Thank you for your hard work**  <br>
-*例句：お疲れ様でした。(otsukaresama deshita) - 辛苦了。*  <br>
+*例句：お世話になりました。(osewa ni narimashita) - 謝謝您的照顧。*  <br>
+*（註：在醫院通常說「お世話になりました」更合適）*  <br>
 </div>  
 
 ### 重點句型
@@ -452,15 +460,15 @@ excerpt: 學習日語中健康與身體相關的表達方式，包括身體部�
 </div>  
 
 <div style="text-align: left">  
-**食事** (shokuji) - 飲食  <br>
-**Diet**  <br>
+**食事** (shokuji) - 飲食、用餐  <br>
+**Diet, Meal**  <br>
 *例句：バランスの良い食事をします。(baransu no ii shokuji wo shimasu) - 我吃均衡的飲食。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **睡眠** (suimin) - 睡眠  <br>
 **Sleep**  <br>
-*例句：十分な睡眠を取ります。(juubun na suimin wo torimasu) - 我充分睡眠。*  <br>
+*例句：十分な睡眠を取ります。(juubun na suimin wo torimasu) - 我獲得充足的睡眠。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -493,6 +501,7 @@ excerpt: 學習日語中健康與身體相關的表達方式，包括身體部�
 **うがい** (ugai) - 漱口  <br>
 **Gargling**  <br>
 *例句：うがいをします。(ugai wo shimasu) - 我漱口。*  <br>
+*（註：日本人在預防感冒時常用「うがい」）*  <br>
 </div>  
 
 ### 健康習慣
