@@ -32,9 +32,6 @@ excerpt: 學習日語的基本句型結構，包括主語、謂語、賓語的�
 
 ## 情境 1: 基本語序
 
-![基本語序](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese grammar basics - sentence structure diagram showing subject, object, verb order, educational materials with Japanese text, clean modern classroom setting, grammar charts and examples -->
-
 ### 日語語序特點
 
 <div style="text-align: left">  
@@ -58,9 +55,6 @@ excerpt: 學習日語的基本句型結構，包括主語、謂語、賓語的�
 ---
 
 ## 情境 2: 主語+謂語句型
-
-![主語謂語](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese subject-predicate sentences - people performing actions like walking, eating, sleeping, clear subject-verb relationships, educational style with Japanese text labels -->
 
 ### 基本主謂句型
 
@@ -86,9 +80,6 @@ excerpt: 學習日語的基本句型結構，包括主語、謂語、賓語的�
 
 ## 情境 3: 主語+賓語+謂語句型
 
-![主語賓語謂語](https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese subject-object-verb sentences - people interacting with objects like reading books, eating food, drinking water, clear object relationships, educational style -->
-
 ### 完整句型結構
 
 <div style="text-align: left">  
@@ -113,9 +104,6 @@ excerpt: 學習日語的基本句型結構，包括主語、謂語、賓語的�
 
 ## 情境 4: 存在句型
 
-![存在句型](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese existence sentences - objects and people in various locations, showing "there is/are" concepts, clean modern spaces with clear positioning -->
-
 ### ある・いる句型
 
 <div style="text-align: left">  
@@ -139,9 +127,6 @@ excerpt: 學習日語的基本句型結構，包括主語、謂語、賓語的�
 ---
 
 ## 情境 5: 疑問句型
-
-![疑問句型](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese question sentences - people asking questions, question marks, interrogative expressions, educational style with Japanese text -->
 
 ### 疑問詞句型
 
@@ -224,9 +209,9 @@ excerpt: 學習日語的基本句型結構，包括主語、謂語、賓語的�
 
 ## 相關文章
 
-- [日語詞彙 - 常見物品、地點、形容詞](../2025-04-01-Japanese-Vocabulary-Common-Items-Places-Adjectives/)
-- [日語動詞 - 基本動作動詞](../2025-04-02-Japanese-Verbs-Basic-Action-Verbs/)
-- [日語助詞 - は・が・を・に的用法](../2025-08-02-Japanese-Grammar-Particles-Basic/)
+- [日語詞彙 - 常見物品、地點、形容詞](../Japanese-Vocabulary-Common-Items-Places-Adjectives/)
+- [日語動詞 - 基本動作動詞](../Japanese-Verbs-Basic-Action-Verbs/)
+- [日語助詞 - は・が・を・に的用法](../Japanese-Grammar-Particles-Basic/)
 
 ---
 

@@ -32,9 +32,6 @@ excerpt: 學習日語中最常用的助詞は・が・を・に的用法，包�
 
 ## 情境 1: は (wa) - 主題標記
 
-![主題標記](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese particle wa - topic marker, people introducing topics, conversation scenes, educational style with Japanese text showing topic emphasis -->
-
 ### は的基本用法
 
 <div style="text-align: left">  
@@ -58,9 +55,6 @@ excerpt: 學習日語中最常用的助詞は・が・を・に的用法，包�
 ---
 
 ## 情境 2: が (ga) - 主語標記
-
-![主語標記](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese particle ga - subject marker, people performing actions, clear subject-verb relationships, educational style with Japanese text -->
 
 ### が的基本用法
 
@@ -86,9 +80,6 @@ excerpt: 學習日語中最常用的助詞は・が・を・に的用法，包�
 
 ## 情境 3: を (wo) - 賓語標記
 
-![賓語標記](https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese particle wo - object marker, people interacting with objects, clear object relationships, educational style with Japanese text -->
-
 ### を的基本用法
 
 <div style="text-align: left">  
@@ -113,9 +104,6 @@ excerpt: 學習日語中最常用的助詞は・が・を・に的用法，包�
 
 ## 情境 4: に (ni) - 方向、時間標記
 
-![方向時間標記](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese particle ni - direction and time marker, people moving to locations, clocks showing time, educational style with Japanese text -->
-
 ### に的基本用法
 
 <div style="text-align: left">  
@@ -139,9 +127,6 @@ excerpt: 學習日語中最常用的助詞は・が・を・に的用法，包�
 ---
 
 ## 情境 5: 助詞的區別與使用
-
-![助詞區別](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese particles comparison - side-by-side examples showing wa vs ga, wo vs ni, educational charts, clear visual distinctions -->
 
 ### は vs が的區別
 
@@ -232,8 +217,8 @@ excerpt: 學習日語中最常用的助詞は・が・を・に的用法，包�
 
 ## 相關文章
 
-- [日語語法基礎 - 基本句型結構](../2025-08-01-Japanese-Grammar-Basic-Sentence-Patterns/)
-- [日語動詞 - 基本動作動詞](../2025-04-02-Japanese-Verbs-Basic-Action-Verbs/)
+- [日語語法基礎 - 基本句型結構](../Japanese-Grammar-Basic-Sentence-Patterns/)
+- [日語動詞 - 基本動作動詞](../Japanese-Verbs-Basic-Action-Verbs/)
 
 ---
 
