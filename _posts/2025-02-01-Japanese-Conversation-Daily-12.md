@@ -3,7 +3,9 @@ title: 日語對話 - 問路與交通
 date: 2025-02-01 19:00:00 +0800
 categories: [Language, Japanese]
 tags: [日語, Japanese, 日語對話] 
-excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，包括詢問方向、搭乘電車、購買車票、轉乘和計程車等實用情境。每個情境都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，幫助您更好地理解和記憶。
+excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，包括詢問方向、搭乘電車、購買車票、轉乘和計程車等實用情境。<br>
+每個情境都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，幫助您更好地理解和記憶。<br>
+
 ---
 
 ## 課程預覽
@@ -45,9 +47,11 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 <div style="text-align: right">  
 
-**地元の人:** まっすぐ行って、右に曲がってください。  <br>
+**地元の人:** まっすぐ行って、右に曲がってください。<br>
+  <br>
 (massugu itte, migi ni magatte kudasai.)  <br>
-直走，然後右轉。  <br>
+直走，然後右轉。<br>
+  <br>
 **Go straight and turn right.**  <br>
 </div>  
 
@@ -61,9 +65,11 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 <div style="text-align: right">  
 
-**地元の人:** 歩いて5分くらいです。  <br>
+**地元の人:** 歩いて5分くらいです。<br>
+  <br>
 (aruite go fun kurai desu.)  <br>
-走路大概5分鐘。  <br>
+走路大概5分鐘。<br>
+  <br>
 **About 5 minutes on foot.**  <br>
 </div>  
 
@@ -77,9 +83,13 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 <div style="text-align: right">  
 
-**地元の人:** はい、大きなコンビニがあります。その隣です。  <br>
+**地元の人:** はい、大きなコンビニがあります。<br>
+その隣です。<br>
+  <br>
 (hai, ookina konbini ga arimasu. sono tonari desu.)  <br>
-有的，有一家很大的便利商店。就在它旁邊。  <br>
+有的，有一家很大的便利商店。<br>
+就在它旁邊。<br>
+  <br>
 **Yes, there's a large convenience store. It's right next to it.**  <br>
 </div>  
 
@@ -94,9 +104,11 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 <div style="text-align: right">  
 
-**地元の人:** セブンイレブンです。  <br>
+**地元の人:** セブンイレブンです。<br>
+  <br>
 (sebun irebun desu.)  <br>
-是7-11。  <br>
+是7-11。<br>
+  <br>
 **It's a 7-11.**  <br>
 </div>  
 
@@ -110,8 +122,10 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 ### 重點句型
 - すみません、～はどちらですか？(sumimasen, ~wa dochira desu ka?) - 不好意思，請問...在哪裡？
-- まっすぐ行ってください。(massugu itte kudasai) - 請直走
-- 右/左に曲がってください。(migi/hidari ni magatte kudasai) - 請右/左轉
+- まっすぐ行ってください。<br>
+(massugu itte kudasai) - 請直走
+- 右/左に曲がってください。<br>
+(migi/hidari ni magatte kudasai) - 請右/左轉
 
 ### 相關單字
 - 駅 (eki) - 車站
@@ -138,9 +152,11 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 <div style="text-align: right">  
 
-**地元の人:** はい、新宿行きです。  <br>
+**地元の人:** はい、新宿行きです。<br>
+  <br>
 (hai, shinjuku yuki desu.)  <br>
-是的，這是往新宿的電車。  <br>
+是的，這是往新宿的電車。<br>
+  <br>
 **Yes, this train goes to Shinjuku.**  <br>
 </div>  
 
@@ -154,9 +170,11 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 <div style="text-align: right">  
 
-**地元の人:** 約15分です。  <br>
+**地元の人:** 約15分です。<br>
+  <br>
 (yaku juu go fun desu.)  <br>
-大約15分鐘。  <br>
+大約15分鐘。<br>
+  <br>
 **About 15 minutes.**  <br>
 </div>  
 
@@ -170,9 +188,11 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 <div style="text-align: right">  
 
-**地元の人:** 3駅目です。  <br>
+**地元の人:** 3駅目です。<br>
+  <br>
 (san eki me desu.)  <br>
-是第三站。  <br>
+是第三站。<br>
+  <br>
 **It's the third stop.**  <br>
 </div>  
 
@@ -187,9 +207,11 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 <div style="text-align: right">  
 
-**地元の人:** はい、あります。  <br>
+**地元の人:** はい、あります。<br>
+  <br>
 (hai, arimasu.)  <br>
-是的，有空調。  <br>
+是的，有空調。<br>
+  <br>
 **Yes, it does.**  <br>
 </div>  
 
@@ -203,8 +225,10 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 ### 重點句型
 - この電車は～に行きますか？(kono densha wa ~ni ikimasu ka?) - 這班電車會到...嗎？
-- ～行きです。(~yuki desu) - 這是往...的電車
-- 次の駅は～です。(tsugi no eki wa ~desu) - 下一站是...
+- ～行きです。<br>
+(~yuki desu) - 這是往...的電車
+- 次の駅は～です。<br>
+(tsugi no eki wa ~desu) - 下一站是...
 
 ### 相關單字
 - 電車 (densha) - 電車
@@ -221,9 +245,11 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 <div style="text-align: left">  
 
-**観光客:** 新宿まで一枚お願いします。  <br>
+**観光客:** 新宿まで一枚お願いします。<br>
+  <br>
 (shinjuku made ichimai onegai shimasu.)  <br>
-請給我一張到新宿的車票。  <br>
+請給我一張到新宿的車票。<br>
+  <br>
 **One ticket to Shinjuku, please.**  <br>
 </div>  
 
@@ -231,25 +257,31 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 <div style="text-align: right">  
 
-**地元の人:** はい、320円になります。  <br>
+**地元の人:** はい、320円になります。<br>
+  <br>
 (hai, sanbyaku nijuu en ni narimasu.)  <br>
-好的，總共320日圓。  <br>
+好的，總共320日圓。<br>
+  <br>
 **Yes, that will be 320 yen.**  <br>
 </div>  
 
 <div style="text-align: left">  
 
-**観光客:** 往復でお願いします。  <br>
+**観光客:** 往復でお願いします。<br>
+  <br>
 (oufuku de onegai shimasu.)  <br>
-請給我來回票。  <br>
+請給我來回票。<br>
+  <br>
 **I'd like a round-trip ticket, please.**  <br>
 </div>  
 
 <div style="text-align: right">  
 
-**地元の人:** 往復は640円です。  <br>
+**地元の人:** 往復は640円です。<br>
+  <br>
 (oufuku wa roppyaku yonjuu en desu.)  <br>
-來回票是640日圓。  <br>
+來回票是640日圓。<br>
+  <br>
 **Round-trip is 640 yen.**  <br>
 </div>  
 
@@ -263,9 +295,11 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 <div style="text-align: right">  
 
-**地元の人:** 申し訳ありませんが、現金のみです。  <br>
+**地元の人:** 申し訳ありませんが、現金のみです。<br>
+  <br>
 (moushiwake arimasen ga, genkin nomi desu.)  <br>
-抱歉，只能付現金。  <br>
+抱歉，只能付現金。<br>
+  <br>
 **I'm sorry, but cash only.**  <br>
 </div>  
 
@@ -280,9 +314,11 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 <div style="text-align: right">  
 
-**地元の人:** はい、あちらにあります。  <br>
+**地元の人:** はい、あちらにあります。<br>
+  <br>
 (hai, achira ni arimasu.)  <br>
-是的，在那邊。  <br>
+是的，在那邊。<br>
+  <br>
 **Yes, over there.**  <br>
 </div>  
 
@@ -295,9 +331,12 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 ### 重點句型
-- ～まで一枚お願いします。(~made ichimai onegai shimasu) - 請給我一張到...的車票
-- ～円になります。(~en ni narimasu) - 總共...日圓
-- 往復でお願いします。(oufuku de onegai shimasu) - 請給我來回票
+- ～まで一枚お願いします。<br>
+(~made ichimai onegai shimasu) - 請給我一張到...的車票
+- ～円になります。<br>
+(~en ni narimasu) - 總共...日圓
+- 往復でお願いします。<br>
+(oufuku de onegai shimasu) - 請給我來回票
 
 ### 相關單字
 - 切符 (kippu) - 車票
@@ -324,9 +363,11 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 <div style="text-align: right">  
 
-**地元の人:** 新宿で山手線に乗り換えてください。  <br>
+**地元の人:** 新宿で山手線に乗り換えてください。<br>
+  <br>
 (shinjuku de yamanote-sen ni norikaete kudasai.)  <br>
-請在新宿換乘山手線。  <br>
+請在新宿換乘山手線。<br>
+  <br>
 **Please transfer to the Yamanote Line at Shinjuku.**  <br>
 </div>  
 
@@ -340,9 +381,11 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 <div style="text-align: right">  
 
-**地元の人:** はい、同じホームで乗り換えられます。  <br>
+**地元の人:** はい、同じホームで乗り換えられます。<br>
+  <br>
 (hai, onaji hoomu de norikaeraremasu.)  <br>
-是的，可以在同一個月台換乘。  <br>
+是的，可以在同一個月台換乘。<br>
+  <br>
 **Yes, you can transfer on the same platform.**  <br>
 </div>  
 
@@ -356,9 +399,11 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 <div style="text-align: right">  
 
-**地元の人:** 新宿から渋谷まで約7分です。  <br>
+**地元の人:** 新宿から渋谷まで約7分です。<br>
+  <br>
 (shinjuku kara shibuya made yaku nana fun desu.)  <br>
-從新宿到澀谷大約7分鐘。  <br>
+從新宿到澀谷大約7分鐘。<br>
+  <br>
 **About 7 minutes from Shinjuku to Shibuya.**  <br>
 </div>  
 
@@ -373,9 +418,11 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 <div style="text-align: right">  
 
-**地元の人:** ピーク時には混雑することが多いです。  <br>
+**地元の人:** ピーク時には混雑することが多いです。<br>
+  <br>
 (tsuujou wa kouhouki ni wa totemo kondeimasu.)  <br>
-通常在高峰期會很擁擠。  <br>
+通常在高峰期會很擁擠。<br>
+  <br>
 **Usually, it's very crowded during peak hours.**  <br>
 </div>  
 
@@ -389,8 +436,10 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 ### 重點句型
 - ～までどう行けばいいですか？(~made dou ikeba ii desu ka?) - 請問要怎麼到...？
-- ～で乗り換えてください。(~de norikaete kudasai) - 請在...換乘
-- ～線に乗ってください。(~sen ni notte kudasai) - 請搭乘...線
+- ～で乗り換えてください。<br>
+(~de norikaete kudasai) - 請在...換乘
+- ～線に乗ってください。<br>
+(~sen ni notte kudasai) - 請搭乘...線
 
 ### 相關單字
 - 乗り換え (norikae) - 換乘
@@ -407,9 +456,11 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 <div style="text-align: left">  
 
-**観光客:** 東京タワーまでお願いします。  <br>
+**観光客:** 東京タワーまでお願いします。<br>
+  <br>
 (toukyou tawaa made onegai shimasu.)  <br>
-請載我到東京鐵塔。  <br>
+請載我到東京鐵塔。<br>
+  <br>
 **Please take me to Tokyo Tower.**  <br>
 </div>  
 
@@ -417,9 +468,11 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 <div style="text-align: right">  
 
-**地元の人:** かしこまりました。  <br>
+**地元の人:** かしこまりました。<br>
+  <br>
 (kashikomarimashita.)  <br>
-好的。  <br>
+好的。<br>
+  <br>
 **I understand.**  <br>
 </div>  
 
@@ -433,9 +486,11 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 <div style="text-align: right">  
 
-**地元の人:** 約2,000円です。  <br>
+**地元の人:** 約2,000円です。<br>
+  <br>
 (yaku nisen en desu.)  <br>
-大約2,000日圓。  <br>
+大約2,000日圓。<br>
+  <br>
 **About 2,000 yen.**  <br>
 </div>  
 
@@ -449,9 +504,11 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 <div style="text-align: right">  
 
-**地元の人:** はい、大丈夫です。  <br>
+**地元の人:** はい、大丈夫です。<br>
+  <br>
 (hai, daijoubu desu.)  <br>
-是的，可以。  <br>
+是的，可以。<br>
+  <br>
 **Yes, that's fine.**  <br>
 </div>  
 
@@ -466,9 +523,11 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 <div style="text-align: right">  
 
-**地元の人:** ピーク時には混雑することが多いです。  <br>
+**地元の人:** ピーク時には混雑することが多いです。<br>
+  <br>
 (Pīku tokiniha konzatsu suru koto ga ōidesu.)  <br>
-通常在高峰期會很擁擠。  <br>
+通常在高峰期會很擁擠。<br>
+  <br>
 **Usually, it's very crowded during peak hours.**  <br>
 </div>  
 
@@ -481,9 +540,11 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 </div>  
 
 ### 重點句型
-- ～までお願いします。(~made onegai shimasu) - 請載我到...
+- ～までお願いします。<br>
+(~made onegai shimasu) - 請載我到...
 - 料金はいくらですか？(ryoukin wa ikura desu ka?) - 車資是多少？
-- クレジットカードでお願いします。(kurejitto kaado de onegai shimasu) - 請用信用卡付款
+- クレジットカードでお願いします。<br>
+(kurejitto kaado de onegai shimasu) - 請用信用卡付款
 
 ### 相關單字
 - タクシー (takushii) - 計程車
@@ -496,12 +557,24 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 ## 文化小知識
 
-在日本，交通工具的使用不僅僅是日常生活的一部分，更是一種文化體驗。乘坐電車時，您會發現人們自覺地排隊等候，這是一種尊重他人的表現。在擁擠的車廂裡，讓座給老人和孕婦是常見的禮儀，這種關懷讓人感受到社會的溫暖。車廂內的安靜氛圍讓人得以放鬆，這是因為大家都遵守不在車上講電話的規則，這樣的細節讓日本的交通體驗更加舒適。
+在日本，交通工具的使用不僅僅是日常生活的一部分，更是一種文化體驗。<br>
+乘坐電車時，您會發現人們自覺地排隊等候，這是一種尊重他人的表現。<br>
+在擁擠的車廂裡，讓座給老人和孕婦是常見的禮儀，這種關懷讓人感受到社會的溫暖。<br>
+車廂內的安靜氛圍讓人得以放鬆，這是因為大家都遵守不在車上講電話的規則，這樣的細節讓日本的交通體驗更加舒適。<br>
 
-在車站，您會注意到每個人都遵守著站內的規則，這不僅僅是為了安全，也是對公共空間的尊重。保管好車票是每個乘客的責任，這樣才能順利通過檢票口。乘車時間的準時性讓人驚嘆，這是因為每個人都遵守時間表，這樣的效率讓人感受到日本的精確。
+在車站，您會注意到每個人都遵守著站內的規則，這不僅僅是為了安全，也是對公共空間的尊重。<br>
+保管好車票是每個乘客的責任，這樣才能順利通過檢票口。<br>
+乘車時間的準時性讓人驚嘆，這是因為每個人都遵守時間表，這樣的效率讓人感受到日本的精確。<br>
 
-搭乘計程車時，從後門上車是基本的禮儀，這樣的設計是為了司機的安全考量。繫好安全帶是對自己和他人負責的表現。在日本，給小費並不是習慣，這讓人感受到服務的純粹。當您說出目的地時，司機會專注地將您送達，這種專業讓人安心。
+搭乘計程車時，從後門上車是基本的禮儀，這樣的設計是為了司機的安全考量。<br>
+繫好安全帶是對自己和他人負責的表現。<br>
+在日本，給小費並不是習慣，這讓人感受到服務的純粹。<br>
+當您說出目的地時，司機會專注地將您送達，這種專業讓人安心。<br>
 
-遵守交通規則是每個行人的責任，這不僅僅是為了自己的安全，也是對他人的尊重。走在人行道上，您會感受到秩序的美好。單行道的設置讓交通更加流暢，這樣的規劃讓人感受到城市的智慧。
+遵守交通規則是每個行人的責任，這不僅僅是為了自己的安全，也是對他人的尊重。<br>
+走在人行道上，您會感受到秩序的美好。<br>
+單行道的設置讓交通更加流暢，這樣的規劃讓人感受到城市的智慧。<br>
 
-當您在日本問路時，先說「すみません」是一種禮貌的表現，這樣的開場讓人感受到您的友善。說清楚目的地是對他人的尊重，這樣才能得到準確的指引。聽清楚指示後，說「ありがとうございました」是對幫助者的感謝，這樣的互動讓人感受到人情的溫暖。 
+當您在日本問路時，先說「すみません」是一種禮貌的表現，這樣的開場讓人感受到您的友善。<br>
+說清楚目的地是對他人的尊重，這樣才能得到準確的指引。<br>
+聽清楚指示後，說「ありがとうございました」是對幫助者的感謝，這樣的互動讓人感受到人情的溫暖。<br>
