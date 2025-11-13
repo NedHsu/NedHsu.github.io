@@ -53,10 +53,3 @@ image:
 - **線上工具**：許多網站和應用程式提供書寫練習工具，可以模擬書寫過程，並即時糾正錯誤。
 
 透過這些練習，你可以逐步熟悉平假名和片假名的書寫，並為進一步的日語學習打下堅實的基礎。
-
-
-## 日語五十音發音練習
-
-{% include embed/youtube.html id='1jKPTpNNEhY' %}
-
-{% include embed/youtube.html id='iJk_JqWLrQ8' %}
