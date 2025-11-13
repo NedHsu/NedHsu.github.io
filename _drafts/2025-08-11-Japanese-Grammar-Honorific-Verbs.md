@@ -15,8 +15,6 @@ excerpt: 學習日語敬語動詞的用法，包括尊敬語、謙讓語、丁�
 4. 敬語動詞的變化規則
 5. 敬語動詞的使用場合
 
-每個敬語動詞都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
-
 ## 學習小提醒
 
 今天的敬語動詞是日語語法的重要部分，建議您：
@@ -31,9 +29,6 @@ excerpt: 學習日語敬語動詞的用法，包括尊敬語、謙讓語、丁�
 ---
 
 ## 情境 1: 尊敬語 - 抬高對方的動詞
-
-![尊敬語](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese respectful verbs - people showing respect, formal interactions, educational style with Japanese text -->
 
 ### 尊敬語的基本用法
 
@@ -59,9 +54,6 @@ excerpt: 學習日語敬語動詞的用法，包括尊敬語、謙讓語、丁�
 
 ## 情境 2: 謙讓語 - 降低自己的動詞
 
-![謙讓語](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese humble verbs - people showing humility, self-deprecating expressions, educational style with Japanese text -->
-
 ### 謙讓語的基本用法
 
 <div style="text-align: left">  
@@ -85,9 +77,6 @@ excerpt: 學習日語敬語動詞的用法，包括尊敬語、謙讓語、丁�
 ---
 
 ## 情境 3: 丁寧語 - 禮貌的動詞形式
-
-![丁寧語](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese polite verbs - polite expressions, formal language, educational style with Japanese text -->
 
 ### 丁寧語的基本用法
 
@@ -113,9 +102,6 @@ excerpt: 學習日語敬語動詞的用法，包括尊敬語、謙讓語、丁�
 
 ## 情境 4: 敬語動詞的變化規則
 
-![變化規則](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese honorific verb conjugation - transformation rules, polite forms, educational style with Japanese text -->
-
 ### 敬語動詞的變化模式
 
 <div style="text-align: left">  
@@ -139,9 +125,6 @@ excerpt: 學習日語敬語動詞的用法，包括尊敬語、謙讓語、丁�
 ---
 
 ## 情境 5: 敬語動詞的使用場合
-
-![使用場合](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese honorific verb usage - formal situations, business settings, respectful interactions, educational style with Japanese text -->
 
 ### 敬語動詞的使用場合
 

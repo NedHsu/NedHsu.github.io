@@ -15,8 +15,6 @@ excerpt: 深入學習日語形容詞的詳細變化規則，包括い形容詞�
 4. 形容詞的語義特點
 5. 形容詞的比較級和最高級
 
-每個形容詞變化都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
-
 ## 學習小提醒
 
 今天的形容詞進階是日語語法的重要部分，建議您：
@@ -31,9 +29,6 @@ excerpt: 深入學習日語形容詞的詳細變化規則，包括い形容詞�
 ---
 
 ## 情境 1: い形容詞的完整變化
-
-![い形容詞變化](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese i-adjective conjugation - complete transformation patterns, all forms, educational style with Japanese text -->
 
 ### い形容詞的變化系統
 
@@ -62,9 +57,6 @@ excerpt: 深入學習日語形容詞的詳細變化規則，包括い形容詞�
 
 ## 情境 2: な形容詞的完整變化
 
-![な形容詞變化](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese na-adjective conjugation - complete transformation patterns, all forms, educational style with Japanese text -->
-
 ### な形容詞的變化系統
 
 <div style="text-align: left">  
@@ -92,9 +84,6 @@ excerpt: 深入學習日語形容詞的詳細變化規則，包括い形容詞�
 
 ## 情境 3: 形容詞的修飾功能
 
-![修飾功能](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese adjective modification - adjectives modifying nouns, descriptive relationships, educational style with Japanese text -->
-
 ### 形容詞修飾名詞的詳細用法
 
 <div style="text-align: left">  
@@ -120,9 +109,6 @@ excerpt: 深入學習日語形容詞的詳細變化規則，包括い形容詞�
 ---
 
 ## 情境 4: 形容詞的語義特點
-
-![語義特點](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese adjective semantics - meaning characteristics, semantic features, educational style with Japanese text -->
 
 ### 形容詞的語義分類
 
@@ -150,9 +136,6 @@ excerpt: 深入學習日語形容詞的詳細變化規則，包括い形容詞�
 ---
 
 ## 情境 5: 形容詞的比較級和最高級
-
-![比較級最高級](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese adjective comparison - comparative and superlative forms, comparison expressions, educational style with Japanese text -->
 
 ### 形容詞的比較表達
 

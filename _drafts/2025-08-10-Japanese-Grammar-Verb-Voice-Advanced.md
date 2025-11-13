@@ -15,8 +15,6 @@ excerpt: 深入學習日語動詞的進階語態用法，包括被動語態、�
 4. 語態的區別與使用
 5. 語態的組合使用
 
-每個語態都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
-
 ## 學習小提醒
 
 今天的進階語態是日語語法的高級部分，建議您：
@@ -31,9 +29,6 @@ excerpt: 深入學習日語動詞的進階語態用法，包括被動語態、�
 ---
 
 ## 情境 1: 被動語態 - られる・れる
-
-![被動語態](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese passive voice advanced - people receiving actions, being acted upon, complex passive constructions, educational style with Japanese text -->
 
 ### 被動語態的詳細用法
 
@@ -59,9 +54,6 @@ excerpt: 深入學習日語動詞的進階語態用法，包括被動語態、�
 
 ## 情境 2: 使役語態 - させる・せる
 
-![使役語態](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese causative voice advanced - people making others do actions, causing actions, complex causative constructions, educational style with Japanese text -->
-
 ### 使役語態的詳細用法
 
 <div style="text-align: left">  
@@ -85,9 +77,6 @@ excerpt: 深入學習日語動詞的進階語態用法，包括被動語態、�
 ---
 
 ## 情境 3: 可能語態 - られる・れる
-
-![可能語態](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese potential voice - people able to do actions, capability expressions, educational style with Japanese text -->
 
 ### 可能語態的詳細用法
 
@@ -113,9 +102,6 @@ excerpt: 深入學習日語動詞的進階語態用法，包括被動語態、�
 
 ## 情境 4: 語態的區別與使用
 
-![語態區別](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese voice distinctions - different voice types, voice relationships, educational style with Japanese text -->
-
 ### 語態的語義區別
 
 <div style="text-align: left">  
@@ -139,9 +125,6 @@ excerpt: 深入學習日語動詞的進階語態用法，包括被動語態、�
 ---
 
 ## 情境 5: 語態的組合使用
-
-![語態組合](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese voice combinations - complex voice constructions, multiple voice types, educational style with Japanese text -->
 
 ### 語態的組合表達
 

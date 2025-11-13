@@ -15,8 +15,6 @@ excerpt: 學習日語敬語的基礎，包括です・ます・だ・である�
 4. 敬語的轉換規則
 5. 敬語的注意事項
 
-每個敬語形式都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
-
 ## 學習小提醒
 
 今天的敬語是日語語法的重要部分，建議您：
@@ -31,9 +29,6 @@ excerpt: 學習日語敬語的基礎，包括です・ます・だ・である�
 ---
 
 ## 情境 1: です・ます - 敬語體
-
-![敬語體](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese polite speech desu/masu - formal conversations, respectful interactions, business settings, educational style with Japanese text -->
 
 ### です・ます的基本用法
 
@@ -59,9 +54,6 @@ excerpt: 學習日語敬語的基礎，包括です・ます・だ・である�
 
 ## 情境 2: だ・である - 普通體
 
-![普通體](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese plain speech da/dearu - casual conversations, informal settings, friends talking, educational style with Japanese text -->
-
 ### だ・である的基本用法
 
 <div style="text-align: left">  
@@ -85,9 +77,6 @@ excerpt: 學習日語敬語的基礎，包括です・ます・だ・である�
 ---
 
 ## 情境 3: 敬語的使用場合
-
-![使用場合](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese polite speech usage - formal vs informal situations, business meetings, casual conversations, educational style with Japanese text -->
 
 ### 敬語體的使用場合
 
@@ -113,9 +102,6 @@ excerpt: 學習日語敬語的基礎，包括です・ます・だ・である�
 
 ## 情境 4: 普通體的使用場合
 
-![普通體場合](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese plain speech usage - casual situations, friends talking, family conversations, educational style with Japanese text -->
-
 ### 普通體的使用場合
 
 <div style="text-align: left">  
@@ -139,9 +125,6 @@ excerpt: 學習日語敬語的基礎，包括です・ます・だ・である�
 ---
 
 ## 情境 5: 敬語的轉換規則
-
-![轉換規則](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese polite speech conversion rules - transformation charts, formal to informal conversion, educational style with Japanese text -->
 
 ### 動詞的敬語轉換
 

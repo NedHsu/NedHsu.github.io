@@ -15,8 +15,6 @@ excerpt: 深入學習日語動詞的變化規則，包括五段動詞、一段�
 4. 動詞變化的基本規則
 5. 動詞變化的記憶技巧
 
-每個動詞變化都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
-
 ## 學習小提醒
 
 今天的動詞變化是日語語法的核心，建議您：
@@ -31,9 +29,6 @@ excerpt: 深入學習日語動詞的變化規則，包括五段動詞、一段�
 ---
 
 ## 情境 1: 五段動詞 - 詞尾變化
-
-![五段動詞](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese godan verbs - verb conjugation charts, five-row verb patterns, educational style with Japanese text -->
 
 ### 五段動詞的基本變化
 
@@ -62,9 +57,6 @@ excerpt: 深入學習日語動詞的變化規則，包括五段動詞、一段�
 
 ## 情境 2: 一段動詞 - 去る加變化
 
-![一段動詞](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese ichidan verbs - verb conjugation charts, one-row verb patterns, educational style with Japanese text -->
-
 ### 一段動詞的基本變化
 
 <div style="text-align: left">  
@@ -91,9 +83,6 @@ excerpt: 深入學習日語動詞的變化規則，包括五段動詞、一段�
 ---
 
 ## 情境 3: 不規則動詞 - 特殊變化
-
-![不規則動詞](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese irregular verbs - special verb conjugations, unique patterns, educational style with Japanese text -->
 
 ### 不規則動詞的變化
 
@@ -122,9 +111,6 @@ excerpt: 深入學習日語動詞的變化規則，包括五段動詞、一段�
 
 ## 情境 4: 動詞變化的基本規則
 
-![變化規則](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese verb conjugation rules - systematic patterns, transformation charts, educational style with Japanese text -->
-
 ### 動詞變化的系統規則
 
 <div style="text-align: left">  
@@ -151,9 +137,6 @@ excerpt: 深入學習日語動詞的變化規則，包括五段動詞、一段�
 ---
 
 ## 情境 5: 動詞變化的記憶技巧
-
-![記憶技巧](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese verb conjugation memory techniques - learning strategies, mnemonic devices, educational style with Japanese text -->
 
 ### 動詞變化的記憶方法
 

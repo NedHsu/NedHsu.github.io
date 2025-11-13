@@ -15,8 +15,6 @@ excerpt: 學習日語動詞的進階時態用法，包括進行時、完成時�
 4. 時態的區別與使用
 5. 時態的組合使用
 
-每個時態都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
-
 ## 學習小提醒
 
 今天的進階時態是日語語法的重要部分，建議您：
@@ -31,9 +29,6 @@ excerpt: 學習日語動詞的進階時態用法，包括進行時、完成時�
 ---
 
 ## 情境 1: 進行時 - ている形
-
-![進行時](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese progressive tense - people currently doing actions, ongoing activities, educational style with Japanese text -->
 
 ### 進行時的基本用法
 
@@ -59,9 +54,6 @@ excerpt: 學習日語動詞的進階時態用法，包括進行時、完成時�
 
 ## 情境 2: 完成時 - た形
 
-![完成時](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese perfect tense - people who have completed actions, finished activities, educational style with Japanese text -->
-
 ### 完成時的基本用法
 
 <div style="text-align: left">  
@@ -85,9 +77,6 @@ excerpt: 學習日語動詞的進階時態用法，包括進行時、完成時�
 ---
 
 ## 情境 3: 持續時 - ている形
-
-![持續時](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese continuous tense - ongoing states, continuous conditions, educational style with Japanese text -->
 
 ### 持續時的基本用法
 
@@ -113,9 +102,6 @@ excerpt: 學習日語動詞的進階時態用法，包括進行時、完成時�
 
 ## 情境 4: 時態的區別與使用
 
-![時態區別](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese tense distinctions - different time expressions, temporal relationships, educational style with Japanese text -->
-
 ### 時態的語義區別
 
 <div style="text-align: left">  
@@ -139,9 +125,6 @@ excerpt: 學習日語動詞的進階時態用法，包括進行時、完成時�
 ---
 
 ## 情境 5: 時態的組合使用
-
-![時態組合](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese tense combinations - complex time expressions, multiple temporal references, educational style with Japanese text -->
 
 ### 時態的組合表達
 

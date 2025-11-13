@@ -16,8 +16,6 @@ excerpt: 總結日語動詞變化的所有內容，包括動詞分類、時態�
 5. 複合形式 - 複合動詞・補助動詞
 6. 條件形式 - ば・たら・なら・と
 
-每個動詞變化都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
-
 ## 學習小提醒
 
 今天的動詞總結是日語語法的綜合複習，建議您：
@@ -32,9 +30,6 @@ excerpt: 總結日語動詞變化的所有內容，包括動詞分類、時態�
 ---
 
 ## 情境 1: 動詞分類總複習
-
-![動詞分類](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese verb classification summary - all verb types, comprehensive overview, educational style with Japanese text -->
 
 ### 動詞分類的系統總結
 
@@ -63,9 +58,6 @@ excerpt: 總結日語動詞變化的所有內容，包括動詞分類、時態�
 
 ## 情境 2: 動詞時態總複習
 
-![動詞時態](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese verb tenses summary - all tense forms, temporal expressions, educational style with Japanese text -->
-
 ### 動詞時態的系統總結
 
 <div style="text-align: left">  
@@ -92,9 +84,6 @@ excerpt: 總結日語動詞變化的所有內容，包括動詞分類、時態�
 ---
 
 ## 情境 3: 動詞語態總複習
-
-![動詞語態](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese verb voice summary - all voice forms, grammatical relationships, educational style with Japanese text -->
 
 ### 動詞語態的系統總結
 
@@ -123,9 +112,6 @@ excerpt: 總結日語動詞變化的所有內容，包括動詞分類、時態�
 
 ## 情境 4: 敬語動詞總複習
 
-![敬語動詞](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese honorific verbs summary - all honorific forms, polite expressions, educational style with Japanese text -->
-
 ### 敬語動詞的系統總結
 
 <div style="text-align: left">  
@@ -153,9 +139,6 @@ excerpt: 總結日語動詞變化的所有內容，包括動詞分類、時態�
 
 ## 情境 5: 複合形式總複習
 
-![複合形式](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese compound forms summary - all compound types, complex constructions, educational style with Japanese text -->
-
 ### 複合形式的系統總結
 
 <div style="text-align: left">  
@@ -181,9 +164,6 @@ excerpt: 總結日語動詞變化的所有內容，包括動詞分類、時態�
 ---
 
 ## 情境 6: 條件形式總複習
-
-![條件形式](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese conditional forms summary - all conditional types, conditional relationships, educational style with Japanese text -->
 
 ### 條件形式的系統總結
 

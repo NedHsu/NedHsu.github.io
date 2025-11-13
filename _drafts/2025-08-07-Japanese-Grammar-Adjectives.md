@@ -15,8 +15,6 @@ excerpt: 學習日語形容詞的用法，包括い形容詞和な形容詞的�
 4. 形容詞的使用場合
 5. 形容詞的比較級
 
-每個形容詞都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
-
 ## 學習小提醒
 
 今天的形容詞是日語語法的重要部分，建議您：
@@ -31,9 +29,6 @@ excerpt: 學習日語形容詞的用法，包括い形容詞和な形容詞的�
 ---
 
 ## 情境 1: い形容詞 - 以い結尾
-
-![い形容詞](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese i-adjectives - words ending with i, descriptive words, educational style with Japanese text -->
 
 ### い形容詞的基本用法
 
@@ -59,9 +54,6 @@ excerpt: 學習日語形容詞的用法，包括い形容詞和な形容詞的�
 
 ## 情境 2: な形容詞 - 需要な連接
 
-![な形容詞](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese na-adjectives - words requiring na connection, descriptive words, educational style with Japanese text -->
-
 ### な形容詞的基本用法
 
 <div style="text-align: left">  
@@ -85,9 +77,6 @@ excerpt: 學習日語形容詞的用法，包括い形容詞和な形容詞的�
 ---
 
 ## 情境 3: 形容詞的變化規則
-
-![變化規則](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese adjective conjugation rules - transformation charts, adjective patterns, educational style with Japanese text -->
 
 ### い形容詞的變化
 
@@ -113,9 +102,6 @@ excerpt: 學習日語形容詞的用法，包括い形容詞和な形容詞的�
 
 ## 情境 4: な形容詞的變化
 
-![な形容詞變化](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese na-adjective conjugation - transformation patterns, educational style with Japanese text -->
-
 ### な形容詞的變化規則
 
 <div style="text-align: left">  
@@ -139,9 +125,6 @@ excerpt: 學習日語形容詞的用法，包括い形容詞和な形容詞的�
 ---
 
 ## 情境 5: 形容詞的修飾功能
-
-![修飾功能](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese adjective modification - adjectives modifying nouns, descriptive relationships, educational style with Japanese text -->
 
 ### 形容詞修飾名詞
 

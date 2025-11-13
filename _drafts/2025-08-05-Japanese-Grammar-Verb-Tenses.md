@@ -15,8 +15,6 @@ excerpt: 學習日語動詞的時態變化，包括現在時、過去時、未�
 4. 動詞變化規則
 5. 時態的使用場合
 
-每個時態都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
-
 ## 學習小提醒
 
 今天的動詞時態是日語語法的核心，建議您：
@@ -31,9 +29,6 @@ excerpt: 學習日語動詞的時態變化，包括現在時、過去時、未�
 ---
 
 ## 情境 1: 現在時 - ます形
-
-![現在時](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese present tense - people doing current actions, present moment activities, educational style with Japanese text -->
 
 ### 現在時的基本用法
 
@@ -59,9 +54,6 @@ excerpt: 學習日語動詞的時態變化，包括現在時、過去時、未�
 
 ## 情境 2: 過去時 - ました形
 
-![過去時](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese past tense - people who have completed actions, past events, educational style with Japanese text -->
-
 ### 過去時的基本用法
 
 <div style="text-align: left">  
@@ -85,9 +77,6 @@ excerpt: 學習日語動詞的時態變化，包括現在時、過去時、未�
 ---
 
 ## 情境 3: 未來時 - ます形
-
-![未來時](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese future tense - people planning future actions, future events, educational style with Japanese text -->
 
 ### 未來時的基本用法
 
@@ -113,9 +102,6 @@ excerpt: 學習日語動詞的時態變化，包括現在時、過去時、未�
 
 ## 情境 4: 動詞變化規則
 
-![動詞變化](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese verb conjugation rules - verb transformation charts, conjugation patterns, educational style with Japanese text -->
-
 ### 五段動詞的變化
 
 <div style="text-align: left">  
@@ -139,9 +125,6 @@ excerpt: 學習日語動詞的時態變化，包括現在時、過去時、未�
 ---
 
 ## 情境 5: 一段動詞的變化
-
-![一段動詞](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese ichidan verbs - verb conjugation patterns, educational style with Japanese text -->
 
 ### 一段動詞的變化規則
 
