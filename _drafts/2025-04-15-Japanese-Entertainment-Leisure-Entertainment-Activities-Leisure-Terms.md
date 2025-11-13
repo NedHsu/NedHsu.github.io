@@ -393,8 +393,8 @@ excerpt: 學習日語中娛樂與休閒相關的表達方式，包括娛樂活�
 
 <div style="text-align: left">  
 **一緒に行きませんか？** (issho ni ikimasen ka?) - 一起去嗎？  <br>
-**Won't you go together?**  <br>
-*例句：一緒に行きませんか？- 一起去嗎？*  <br>
+**Won't you go to the movies together?**  <br>
+*例句：一緒に映画に行きませんか？- 一起去電影嗎？*  <br>
 </div>  
 
 <div style="text-align: left">  
