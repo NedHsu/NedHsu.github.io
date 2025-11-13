@@ -14,7 +14,6 @@ tags: [日語, Japanese, 日語對話]
 4. 計程車預約 - 如何預約計程車、告知目的地等
 5. 天氣變化 - 如何討論天氣變化、準備應對等
 
-每個情境都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，幫助您更好地理解和記憶。
 
 ## 學習小提醒
 
@@ -66,8 +65,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**病患:** 最近感到頭痛和疲倦。  <br>
-(saikin atama ga itakute, tsukareteimasu.)  <br>
+**病患:** 最近頭痛がして疲れを感じています。  <br>
+(Saikin zutsū ga shite tsukare o kanjite imasu.)  <br>
 最近感到頭痛和疲倦。  <br>
 **I've been experiencing headaches and fatigue lately.**  <br>
 </div>  
@@ -137,8 +136,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** 這個設計看起來很漂亮。需要多長時間？  <br>
-(kono dezain wa kirei desu. jikan wa dono kurai kakarimasu ka?)  <br>
+**顧客:** デザインは綺麗ですね。どれくらい時間がかかりますか？  <br>
+(Dezain wa kireidesu ne. Dorekurai jikan ga kakarimasu ka?)  <br>
 這個設計看起來很漂亮。需要多長時間？  <br>
 **This design looks beautiful. How long will it take?**  <br>
 </div>  
@@ -208,8 +207,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** 電腦開機後無法正常運行。  <br>
-(pasokon wa kaiki go ni seijou ni unkou shimasen.)  <br>
+**顧客:** コンピュータの電源をオンにしても正常に動作しません。  <br>
+(Konpyūta no dengen o on ni shite mo seijō ni dōsa shimasen.)  <br>
 電腦開機後無法正常運行。  <br>
 **The computer doesn't run properly after booting up.**  <br>
 </div>  
@@ -279,8 +278,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**乘客:** 我姓田中，地址是東京都新宿區。  <br>
-(watashi wa tanaka desu, juusho wa toukyou-to shinjuku-ku desu.)  <br>
+**乘客:** 私の名字は田中、住所は東京都新宿区です。  <br>
+(Watashi no myōji wa Tanaka, jūsho wa tōkyōtoshinjukukudesu.)  <br>
 我姓田中，地址是東京都新宿區。  <br>
 **My name is Tanaka, and my address is Shinjuku, Tokyo.**  <br>
 </div>  
@@ -350,16 +349,16 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**同事B:** 我們應該準備好暖和的衣服。  <br>
-(atatakai fuku o junbi shite okimashou.)  <br>
+**同事B:** 暖かい服を用意したほうがいいでしょう。  <br>
+(Attakai fuku o yōi shita hō ga īdeshou.)  <br>
 我們應該準備好暖和的衣服。  <br>
 **We should prepare warm clothes.**  <br>
 </div>  
 
 <div style="text-align: left">  
 
-**同事A:** 是的，這樣我們就不會感冒了。  <br>
-(hai, sou sureba kaze o hikimasen.)  <br>
+**同事A:** はい、風邪をひかないように。  <br>
+(Hai, kaze o hikanai yō ni.)  <br>
 是的，這樣我們就不會感冒了。  <br>
 **Yes, that way we won't catch a cold.**  <br>
 </div>  
@@ -388,12 +387,21 @@ tags: [日語, Japanese, 日語對話]
 
 ## 文化小知識
 
-在日本，醫院掛號是一個需要耐心的過程。預約初診時，清楚地描述症狀是非常重要的，這樣的細節讓人感受到日本的專業。醫院通常會根據您的症狀安排合適的時間，這樣的安排讓人感受到日本的周到。
+在日本，醫院掛號是一個需要耐心的過程。<br>
+預約初診時，清楚地描述症狀是非常重要的，這樣的細節讓人感受到日本的專業。<br>
+醫院通常會根據您的症狀安排合適的時間，這樣的安排讓人感受到日本的周到。<br>
 
-在美容院美甲時，選擇設計是一個充滿樂趣的過程。設計目錄的提供讓人感受到日本的創意。美甲的過程通常需要1個半小時，這樣的安排讓人感受到日本的細膩。
+在美容院美甲時，選擇設計是一個充滿樂趣的過程。<br>
+設計目錄的提供讓人感受到日本的創意。<br>
+美甲的過程通常需要1個半小時，這樣的安排讓人感受到日本的細膩。<br>
 
-在電器行維修時，清楚地描述故障情況是非常重要的，這樣的互動讓人感受到日本的貼心。維修時間的估算讓人感受到日本的效率。保固期的提供讓人感受到日本的誠信。
+在電器行維修時，清楚地描述故障情況是非常重要的，這樣的互動讓人感受到日本的貼心。<br>
+維修時間的估算讓人感受到日本的效率。<br>
+保固期的提供讓人感受到日本的誠信。<br>
 
-在計程車預約時，告知目的地和時間是非常重要的，這樣的開場讓人感受到您的友善。對於司機的服務表示感謝是對他人的尊重，這樣的互動讓人感受到日本的人情味。
+在計程車預約時，告知目的地和時間是非常重要的，這樣的開場讓人感受到您的友善。<br>
+對於司機的服務表示感謝是對他人的尊重，這樣的互動讓人感受到日本的人情味。<br>
 
-在討論天氣變化時，準備應對措施是非常重要的，這樣的習慣讓人感受到日本的周到。了解天氣變化能讓人更好地安排日常活動，這樣的習慣讓人感受到日本的細膩。 
+在討論天氣變化時，準備應對措施是非常重要的，這樣的習慣讓人感受到日本的周到。<br>
+了解天氣變化能讓人更好地安排日常活動，這樣的習慣讓人感受到日本的細膩。<br>
+ 

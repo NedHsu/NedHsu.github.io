@@ -15,7 +15,6 @@ excerpt: 學習日語中情感與感受相關的表達方式，包括基本情�
 4. 情感對話
 5. 情感文化
 
-每個表達都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
 
 ## 學習小提醒
 
@@ -39,26 +38,26 @@ excerpt: 學習日語中情感與感受相關的表達方式，包括基本情�
 
 <div style="text-align: left">  
 **嬉しい** (ureshii) - 高興的  <br>
-**Happy**  <br>
-*例句：とても嬉しいです。(totemo ureshii desu) - 我非常高興。*  <br>
+**Glad, Pleased**  <br>
+*例句：お会いできて嬉しいです。(o ai dekite ureshii desu) - 能見到你我很高興。*  <br>
 </div>  
 
 <div style="text-align: left">  
-**楽しい** (tanoshii) - 快樂的  <br>
-**Fun**  <br>
+**楽しい** (tanoshii) - 快樂的、有趣的  <br>
+**Enjoyable, Fun**  <br>
 *例句：楽しい時間を過ごしました。(tanoshii jikan wo sugoshimashita) - 我度過了快樂的時光。*  <br>
 </div>  
 
 <div style="text-align: left">  
-**幸せ** (shiawase) - 幸福的  <br>
-**Happy**  <br>
+**幸せ** (shiawase) - 幸福的、滿足的  <br>
+**Happy, Content**  <br>
 *例句：幸せな気持ちです。(shiawase na kimochi desu) - 我感到幸福。*  <br>
 </div>  
 
 <div style="text-align: left">  
-**満足** (manzoku) - 滿足的  <br>
+**満足** (manzoku) - 滿足的、滿意的  <br>
 **Satisfied**  <br>
-*例句：結果に満足しています。(kekka ni manzoku shite imasu) - 我對結果很滿意。*  <br>
+*例句：この結果に満足しています。(kono kekka ni manzoku shite imasu) - 我對這個結果很滿意。*  <br>
 </div>  
 
 ### 負面情感
@@ -135,14 +134,16 @@ excerpt: 學習日語中情感與感受相關的表達方式，包括基本情�
 
 <div style="text-align: left">  
 **疲れる** (tsukareru) - 疲勞  <br>
-**Tired**  <br>
+**To get tired**  <br>
 *例句：仕事で疲れました。(shigoto de tsukaremashita) - 我因為工作而疲勞。*  <br>
+*（現在進行式：疲れている tsukarete iru - 疲勞的）*  <br>
 </div>  
 
 <div style="text-align: left">  
 **リラックス** (rirakkusu) - 放鬆  <br>
 **Relaxed**  <br>
 *例句：温泉でリラックスしました。(onsen de rirakkusu shimashita) - 我在溫泉放鬆了。*  <br>
+*（註：外來語，來自英語"relax"）*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -173,8 +174,8 @@ excerpt: 學習日語中情感與感受相關的表達方式，包括基本情�
 
 <div style="text-align: left">  
 **感謝** (kansha) - 感謝  <br>
-**Grateful**  <br>
-*例句：親切に感謝しています。(shinsetsu ni kansha shite imasu) - 我感謝您的親切。*  <br>
+**Grateful, Thankful**  <br>
+*例句：ご親切に感謝しています。(go shinsetsu ni kansha shite imasu) - 我感謝您的親切。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -204,9 +205,10 @@ excerpt: 學習日語中情感與感受相關的表達方式，包括基本情�
 </div>  
 
 <div style="text-align: left">  
-**悩む** (nayamu) - 煩惱  <br>
-**Worried**  <br>
+**悩む** (nayamu) - 煩惱、苦惱  <br>
+**Worried, Troubled**  <br>
 *例句：将来のことで悩んでいます。(shourai no koto de nayande imasu) - 我為未來的事情煩惱。*  <br>
+*（註：與「心配」不同，「悩む」更強調內心的苦惱）*  <br>
 </div>  
 
 ### 重點句型
@@ -245,6 +247,7 @@ excerpt: 學習日語中情感與感受相關的表達方式，包括基本情�
 **怒る** (okoru) - 生氣  <br>
 **Get angry**  <br>
 *例句：約束を破られて怒りました。(yakusoku wo yaburarete okorimashita) - 我被爽約而生氣。*  <br>
+*（註：與情境1中的「怒る」相同，這裡強調情感表達的方式）*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -285,6 +288,7 @@ excerpt: 學習日語中情感與感受相關的表達方式，包括基本情�
 **気分がいい** (kibun ga ii) - 心情好  <br>
 **Good mood**  <br>
 *例句：今日は気分がいいです。(kyou wa kibun ga ii desu) - 今天心情很好。*  <br>
+*（註：「気分」指自己的心情，「機嫌」多用於描述他人的心情）*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -297,6 +301,7 @@ excerpt: 學習日語中情感與感受相關的表達方式，包括基本情�
 **機嫌がいい** (kigen ga ii) - 心情好  <br>
 **Good mood**  <br>
 *例句：機嫌がいいです。(kigen ga ii desu) - 心情很好。*  <br>
+*（註：多用於描述他人的心情狀態）*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -328,33 +333,37 @@ excerpt: 學習日語中情感與感受相關的表達方式，包括基本情�
 <div style="text-align: left">  
 **どうしましたか？** (dou shimashita ka?) - 怎麼了？  <br>
 **What's wrong?**  <br>
-*例句：どうしましたか？(dou shimashita ka?) - 怎麼了？*  <br>
+*例句：少し疲れています。(sukoshi tsukarete imasu) - 有點累。*  <br>
+*（問：どうしましたか？dou shimashita ka?）*  <br>
 </div>  
 
 <div style="text-align: left">  
 **気分はどうですか？** (kibun wa dou desu ka?) - 心情怎麼樣？  <br>
 **How are you feeling?**  <br>
-*例句：気分はどうですか？(kibun wa dou desu ka?) - 心情怎麼樣？*  <br>
+*例句：とてもいいです。(totemo ii desu) - 很好。*  <br>
+*（問：気分はどうですか？kibun wa dou desu ka?）*  <br>
 </div>  
 
 <div style="text-align: left">  
 **大丈夫ですか？** (daijoubu desu ka?) - 還好嗎？  <br>
 **Are you okay?**  <br>
-*例句：大丈夫ですか？(daijoubu desu ka?) - 還好嗎？*  <br>
+*例句：はい、大丈夫です。(hai, daijoubu desu) - 是的，沒問題。*  <br>
+*（問：大丈夫ですか？daijoubu desu ka?）*  <br>
 </div>  
 
 <div style="text-align: left">  
 **何か心配事がありますか？** (nanika shinpaigoto ga arimasu ka?) - 有什麼擔心的事嗎？  <br>
 **Is there anything worrying you?**  <br>
-*例句：何か心配事がありますか？(nanika shinpaigoto ga arimasu ka?) - 有什麼擔心的事嗎？*  <br>
+*例句：仕事のことが心配です。(shigoto no koto ga shinpai desu) - 我擔心工作的事。*  <br>
+*（問：何か心配事がありますか？nanika shinpaigoto ga arimasu ka?）*  <br>
 </div>  
 
 ### 情感回應
 
 <div style="text-align: left">  
-**元気です** (genki desu) - 很好  <br>
-**I'm fine**  <br>
-*例句：元気です。(genki desu) - 很好。*  <br>
+**元気です** (genki desu) - 很好、有精神  <br>
+**I'm fine, I'm energetic**  <br>
+*例句：おかげさまで元気です。(okagesama de genki desu) - 託您的福，我很好。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -428,9 +437,10 @@ excerpt: 學習日語中情感與感受相關的表達方式，包括基本情�
 </div>  
 
 <div style="text-align: left">  
-**遠慮** (enryo) - 客氣  <br>
-**Reserve**  <br>
+**遠慮** (enryo) - 客氣、推辭  <br>
+**Reserve, Hesitation**  <br>
 *例句：遠慮深い人です。(enryo bukai hito desu) - 是很客氣的人。*  <br>
+*（常用：遠慮しないでください。enryo shinaide kudasai - 請不要客氣）*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -512,14 +522,32 @@ excerpt: 學習日語中情感與感受相關的表達方式，包括基本情�
 
 ## 文化小知識
 
-在日本，情感與感受的表達不僅僅是語言的功能，更是一種文化的體現。當您學習日語情感表達時，會發現每個情感詞彙都承載著深厚的文化內涵。例如，「我慢」這個詞彙不僅表示「忍耐」，更體現了日本人對自我控制的重視和對社會和諧的追求。
+在日本，情感與感受的表達不僅僅是語言的功能，更是一種文化的體現。<br>
+當您學習日語情感表達時，會發現每個情感詞彙都承載著深厚的文化內涵。<br>
+例如，「我慢」這個詞彙不僅表示「忍耐」，更體現了日本人對自我控制的重視和對社會和諧的追求。<br>
 
-情感表達在日本文化中有其獨特的規則。當您說「控えめに話します」時，您不僅在表達謙虛，更在展現對他人的尊重。這種對情感表達的節制讓日本的社交文化充滿了優雅和禮貌。
 
-情感的文化內涵也反映了日本人的價值觀。當您說「和を大切にします」時，您不僅在表達對和諧的重視，更在展現對集體利益的考慮。這種對和諧的追求讓日本的社會文化充滿了團結和協作。
+情感表達在日本文化中有其獨特的規則。<br>
+當您說「控えめに話します」時，您不僅在表達謙虛，更在展現對他人的尊重。<br>
+這種對情感表達的節制讓日本的社交文化充滿了優雅和禮貌。<br>
 
-情感的社會功能也體現了日本人的人際關係觀。當您說「思いやりのある人です」時，您不僅在描述性格特徵，更在表達對他人關懷的重視。這種對體貼的重視讓日本的人際關係充滿了溫暖和關懷。
 
-情感的文化傳承也反映了日本人對傳統的尊重。當您說「義理を果たします」時，您不僅在表達責任感，更在展現對傳統價值觀的堅持。這種對傳統的尊重讓日本的文化充滿了深度和內涵。
+情感的文化內涵也反映了日本人的價值觀。<br>
+當您說「和を大切にします」時，您不僅在表達對和諧的重視，更在展現對集體利益的考慮。<br>
+這種對和諧的追求讓日本的社會文化充滿了團結和協作。<br>
 
-當您學習日語情感與感受表達時，記住每個情感詞彙都有其特定的文化背景和使用場合。通過正確使用這些情感表達，您不僅能夠準確地描述情感狀態，也能夠更好地理解日本人對情感和社會關係的態度。這種對情感的細膩掌握是學習日語的重要一步，也是體驗日本文化的美好途徑。
+
+情感的社會功能也體現了日本人的人際關係觀。<br>
+當您說「思いやりのある人です」時，您不僅在描述性格特徵，更在表達對他人關懷的重視。<br>
+這種對體貼的重視讓日本的人際關係充滿了溫暖和關懷。<br>
+
+
+情感的文化傳承也反映了日本人對傳統的尊重。<br>
+當您說「義理を果たします」時，您不僅在表達責任感，更在展現對傳統價值觀的堅持。<br>
+這種對傳統的尊重讓日本的文化充滿了深度和內涵。<br>
+
+
+當您學習日語情感與感受表達時，記住每個情感詞彙都有其特定的文化背景和使用場合。<br>
+通過正確使用這些情感表達，您不僅能夠準確地描述情感狀態，也能夠更好地理解日本人對情感和社會關係的態度。<br>
+這種對情感的細膩掌握是學習日語的重要一步，也是體驗日本文化的美好途徑。<br>
+

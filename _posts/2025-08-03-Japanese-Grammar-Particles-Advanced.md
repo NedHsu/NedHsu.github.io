@@ -15,8 +15,6 @@ excerpt: 學習日語中更多重要的助詞で・へ・と・から的用法�
 4. から (kara) - 起點、原因標記
 5. 助詞的組合使用
 
-每個助詞都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
-
 ## 學習小提醒
 
 今天的助詞擴展了我們的語法知識，建議您：
@@ -31,9 +29,6 @@ excerpt: 學習日語中更多重要的助詞で・へ・と・から的用法�
 ---
 
 ## 情境 1: で (de) - 場所、手段、原因標記
-
-![場所手段原因](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese particle de - location, means, cause marker, people in various locations, using tools, showing causes, educational style with Japanese text -->
 
 ### で的基本用法
 
@@ -59,9 +54,6 @@ excerpt: 學習日語中更多重要的助詞で・へ・と・から的用法�
 
 ## 情境 2: へ (e) - 方向標記
 
-![方向標記](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese particle e - direction marker, people moving towards destinations, arrows showing direction, educational style with Japanese text -->
-
 ### へ的基本用法
 
 <div style="text-align: left">  
@@ -85,9 +77,6 @@ excerpt: 學習日語中更多重要的助詞で・へ・と・から的用法�
 ---
 
 ## 情境 3: と (to) - 和、一起、引用標記
-
-![和一起引用](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese particle to - and, together, quotation marker, people together, conversations, educational style with Japanese text -->
 
 ### と的基本用法
 
@@ -113,9 +102,6 @@ excerpt: 學習日語中更多重要的助詞で・へ・と・から的用法�
 
 ## 情境 4: から (kara) - 起點、原因標記
 
-![起點原因](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese particle kara - starting point, cause marker, people starting from locations, showing causes, educational style with Japanese text -->
-
 ### から的基本用法
 
 <div style="text-align: left">  
@@ -139,9 +125,6 @@ excerpt: 學習日語中更多重要的助詞で・へ・と・から的用法�
 ---
 
 ## 情境 5: 助詞的組合使用
-
-![助詞組合](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese particles combination - multiple particles used together, complex sentence structures, educational style with Japanese text -->
 
 ### 助詞的組合例句
 
@@ -232,9 +215,9 @@ excerpt: 學習日語中更多重要的助詞で・へ・と・から的用法�
 
 ## 相關文章
 
-- [日語助詞 - は・が・を・に的用法](../2025-08-02-Japanese-Grammar-Particles-Basic/)
-- [日語敬語 - です・ます・だ・である](../2025-08-04-Japanese-Grammar-Polite-Speech/)
-- [日語語法基礎 - 基本句型結構](../2025-08-01-Japanese-Grammar-Basic-Sentence-Patterns/)
+- [日語助詞 - は・が・を・に的用法](/posts/Japanese-Grammar-Particles-Basic/)
+<!-- - [日語敬語 - です・ます・だ・である](/posts/Japanese-Grammar-Polite-Speech/) -->
+- [日語語法基礎 - 基本句型結構](/posts/Japanese-Grammar-Basic-Sentence-Patterns/)
 
 ---
 

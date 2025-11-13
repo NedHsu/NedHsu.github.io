@@ -32,9 +32,6 @@ excerpt: 學習日語副詞的用法，包括程度副詞、時間副詞、場�
 
 ## 情境 1: 程度副詞 - とても・非常に・かなり
 
-![程度副詞](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese degree adverbs - intensity expressions, degree modifiers, educational style with Japanese text -->
-
 ### 程度副詞的基本用法
 
 <div style="text-align: left">  
@@ -61,9 +58,6 @@ excerpt: 學習日語副詞的用法，包括程度副詞、時間副詞、場�
 ---
 
 ## 情境 2: 時間副詞 - いつも・時々・たまに
-
-![時間副詞](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese time adverbs - temporal expressions, frequency adverbs, educational style with Japanese text -->
 
 ### 時間副詞的基本用法
 
@@ -92,9 +86,6 @@ excerpt: 學習日語副詞的用法，包括程度副詞、時間副詞、場�
 
 ## 情境 3: 場所副詞 - ここ・そこ・あそこ
 
-![場所副詞](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese place adverbs - location expressions, spatial adverbs, educational style with Japanese text -->
-
 ### 場所副詞的基本用法
 
 <div style="text-align: left">  
@@ -122,9 +113,6 @@ excerpt: 學習日語副詞的用法，包括程度副詞、時間副詞、場�
 
 ## 情境 4: 方式副詞 - ゆっくり・急いで・静かに
 
-![方式副詞](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese manner adverbs - way expressions, manner modifiers, educational style with Japanese text -->
-
 ### 方式副詞的基本用法
 
 <div style="text-align: left">  
@@ -151,9 +139,6 @@ excerpt: 學習日語副詞的用法，包括程度副詞、時間副詞、場�
 ---
 
 ## 情境 5: 副詞的語義特點
-
-![語義特點](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese adverb semantics - meaning characteristics, semantic features, educational style with Japanese text -->
 
 ### 副詞的語義分類
 

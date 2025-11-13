@@ -15,7 +15,6 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 4. 付款方式
 5. 退換貨
 
-每個表達都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
 
 ## 學習小提醒
 
@@ -140,9 +139,9 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 </div>  
 
 <div style="text-align: left">  
-**品物** (shinamono) - 物品  <br>
-**Item**  <br>
-*例句：良い品物を選びます。(ii shinamono wo erabimasu) - 我選擇好的物品。*  <br>
+**品物** (shinamono) - 物品、商品  <br>
+**Item, Goods**  <br>
+*例句：良い品物を選びます。(ii shinamono wo erabimasu) - 我選擇好的商品。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -154,7 +153,7 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 <div style="text-align: left">  
 **新商品** (shinshouhin) - 新商品  <br>
 **New product**  <br>
-*例句：新商品が入りました。(shinshouhin ga hairimashita) - 新商品進貨了。*  <br>
+*例句：新商品が入荷しました。(shinshouhin ga nyuuka shimashita) - 新商品到貨了。*  <br>
 </div>  
 
 ### 價格表達
@@ -251,6 +250,7 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 **～を見せてください** (~wo misete kudasai) - 請給我看...  <br>
 **Please show me ...**  <br>
 *例句：この商品を見せてください。(kono shouhin wo misete kudasai) - 請給我看這個商品。*  <br>
+*（更禮貌：見せていただけますか？misete itadakemasu ka?）*  <br>
 </div>  
 
 ### 試穿與選擇
@@ -300,9 +300,9 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 </div>  
 
 <div style="text-align: left">  
-**やめます** (yamemasu) - 我不要了  <br>
-**I'll pass**  <br>
-*例句：買うのをやめます。(kau no wo yamemasu) - 我不要買了。*  <br>
+**やめます** (yamemasu) - 不要了、算了  <br>
+**I'll pass, I'll skip it**  <br>
+*例句：今回はやめます。(konkai wa yamemasu) - 這次就算了。*  <br>
 </div>  
 
 ### 重點句型
@@ -360,7 +360,8 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 <div style="text-align: left">  
 **レシート** (reshiito) - 收據  <br>
 **Receipt**  <br>
-*例句：レシートをください。(reshiito wo kudasai) - 請給我收據。*  <br>
+*例句：レシートをもらえますか？(reshiito wo moraemasu ka?) - 可以給我收據嗎？*  <br>
+*（也可以說：レシートをください。reshiito wo kudasai）*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -372,7 +373,7 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 <div style="text-align: left">  
 **おつり** (otsuri) - 找零  <br>
 **Change**  <br>
-*例句：おつりをください。(otsuri wo kudasai) - 請給我找零。*  <br>
+*例句：おつりは大丈夫です。(otsuri wa daijoubu desu) - 不用找零了。*  <br>
 </div>  
 
 ### 付款相關
@@ -380,7 +381,7 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 <div style="text-align: left">  
 **支払う** (shiharau) - 付款  <br>
 **To pay**  <br>
-*例句：代金を支払います。(daikin wo shiharaimasu) - 我付款。*  <br>
+*例句：現金で支払います。(genkin de shiharaimasu) - 我用現金付款。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -390,9 +391,9 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 </div>  
 
 <div style="text-align: left">  
-**代金** (daikin) - 費用  <br>
-**Payment**  <br>
-*例句：代金はいくらですか？(daikin wa ikura desu ka?) - 費用是多少？*  <br>
+**代金** (daikin) - 價格  <br>
+**Payment, Price**  <br>
+*例句：代金はいくらですか？(daikin wa ikura desu ka?) - 價格是多少？*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -409,7 +410,7 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 ### 相關單字
 - 決済 (kessai) - 結算
 - 支払い (shiharai) - 付款
-- 代金 (daikin) - 費用
+- 代金 (daikin) - 貨款
 - 計算 (keisan) - 計算
 
 ---
@@ -442,7 +443,7 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 <div style="text-align: left">  
 **レシート** (reshiito) - 收據  <br>
 **Receipt**  <br>
-*例句：レシートが必要です。(reshiito ga hitsuyou desu) - 需要收據。*  <br>
+*例句：返品にはレシートが必要です。(henpin ni wa reshiito ga hitsuyou desu) - 退貨需要收據。*  <br>
 </div>  
 
 ### 退貨原因
@@ -450,7 +451,7 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 <div style="text-align: left">  
 **サイズが合わない** (saizu ga awanai) - 尺寸不合  <br>
 **Size doesn't fit**  <br>
-*例句：サイズが合わないです。(saizu ga awanai desu) - 尺寸不合。*  <br>
+*例句：サイズが合いません。(saizu ga aimasen) - 尺寸不合。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -468,7 +469,7 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 <div style="text-align: left">  
 **気に入らない** (ki ni iranai) - 不喜歡  <br>
 **Don't like it**  <br>
-*例句：気に入りません。(ki ni irimasen) - 我不喜歡。*  <br>
+*例句：この商品は気に入りません。(kono shouhin wa ki ni irimasen) - 我不喜歡這個商品。*  <br>
 </div>  
 
 ### 退貨政策
@@ -512,14 +513,32 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 
 ## 文化小知識
 
-在日本，購物的表達不僅僅是語言的功能，更是一種文化的體現。當您學習日語購物表達時，會發現每個購物詞彙都承載著深厚的文化內涵。例如，「お会計」這個表達不僅表示「結帳」，更體現了日本人對服務的尊重和對顧客的禮貌。
+在日本，購物的表達不僅僅是語言的功能，更是一種文化的體現。<br>
+當您學習日語購物表達時，會發現每個購物詞彙都承載著深厚的文化內涵。<br>
+例如，「お会計」這個表達不僅表示「結帳」，更體現了日本人對服務的尊重和對顧客的禮貌。<br>
 
-購物禮儀在日本文化中非常重要。當您說「これをください」時，您不僅在表達購買意願，更在展現對店員的禮貌。這種對服務的尊重讓日本的購物體驗充滿了溫暖和專業。
 
-價格的討論也反映了日本人對價值的重視。當您說「いくらですか？」時，您不僅在詢問價格，更在評估商品的價值。這種對價值的細膩感受讓日本的商品充滿了品質保證。
+購物禮儀在日本文化中非常重要。<br>
+當您說「これをください」時，您不僅在表達購買意願，更在展現對店員的禮貌。<br>
+這種對服務的尊重讓日本的購物體驗充滿了溫暖和專業。<br>
 
-付款方式的選擇也體現了日本人對便利性的追求。當您說「電子マネーで払います」時，您不僅在選擇付款方式，更在體驗現代科技的便利。這種對便利性的重視讓日本的支付系統充滿了創新。
 
-退換貨的處理也反映了日本人對顧客服務的重視。當您說「返品したいです」時，您不僅在表達退貨需求，更在體驗優質的顧客服務。這種對顧客的關懷讓日本的零售業充滿了信賴。
+價格的討論也反映了日本人對價值的重視。<br>
+當您說「いくらですか？」時，您不僅在詢問價格，更在評估商品的價值。<br>
+這種對價值的細膩感受讓日本的商品充滿了品質保證。<br>
 
-當您學習日語購物表達時，記住每個購物詞彙都有其特定的使用場合和情感色彩。通過正確使用這些購物表達，您不僅能夠順利完成購物，也能夠更好地理解日本人對商業和服務的態度。這種對購物的細膩掌握是學習日語的重要一步，也是體驗日本文化的美好途徑。
+
+付款方式的選擇也體現了日本人對便利性的追求。<br>
+當您說「電子マネーで払います」時，您不僅在選擇付款方式，更在體驗現代科技的便利。<br>
+這種對便利性的重視讓日本的支付系統充滿了創新。<br>
+
+
+退換貨的處理也反映了日本人對顧客服務的重視。<br>
+當您說「返品したいです」時，您不僅在表達退貨需求，更在體驗優質的顧客服務。<br>
+這種對顧客的關懷讓日本的零售業充滿了信賴。<br>
+
+
+當您學習日語購物表達時，記住每個購物詞彙都有其特定的使用場合和情感色彩。<br>
+通過正確使用這些購物表達，您不僅能夠順利完成購物，也能夠更好地理解日本人對商業和服務的態度。<br>
+這種對購物的細膩掌握是學習日語的重要一步，也是體驗日本文化的美好途徑。<br>
+

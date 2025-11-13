@@ -15,8 +15,6 @@ excerpt: 學習日語中娛樂與休閒相關的表達方式，包括娛樂活�
 4. 運動健身
 5. 娛樂對話
 
-每個表達都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
-
 ## 學習小提醒
 
 今天的娛樂與休閒表達對日常社交和放鬆很重要，建議您：
@@ -31,9 +29,6 @@ excerpt: 學習日語中娛樂與休閒相關的表達方式，包括娛樂活�
 ---
 
 ## 情境 1: 娛樂活動
-
-![娛樂活動](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese entertainment activities visual diagram - various entertainment venues and activities with Japanese labels (映画, カラオケ, コンサート, テレビ, 音楽, ゲーム, パチンコ, 麻雀, トランプ, 祭り, 花火, 温泉), clean entertainment scene layout, educational diagram style, no text overlays, only activity labels positioned at corresponding entertainment venues and activities -->
 
 ### 視聽娛樂
 
@@ -90,7 +85,7 @@ excerpt: 學習日語中娛樂與休閒相關的表達方式，包括娛樂活�
 <div style="text-align: left">  
 **トランプ** (toranpu) - 撲克牌  <br>
 **Playing cards**  <br>
-*例句：トランプで遊びます。(toranpu de asobimasu) - 我用撲克牌玩。*  <br>
+*例句：トランプで遊びます。(toranpu de asobimasu) - 我玩撲克牌。*  <br>
 </div>  
 
 ### 傳統娛樂
@@ -127,9 +122,6 @@ excerpt: 學習日語中娛樂與休閒相關的表達方式，包括娛樂活�
 ---
 
 ## 情境 2: 休閒場所
-
-![休閒場所](https://images.unsplash.com/photo-1557683316-973673baf926?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese leisure venues layout diagram - different leisure locations with Japanese labels (公園, 海, 山, 川, カフェ, 本屋, ゲームセンター, ショッピングモール, 美術館, 博物館, 劇場), clean venue arrangement, educational diagram style, no text overlays, only venue labels positioned at corresponding leisure locations -->
 
 ### 戶外場所
 
@@ -218,8 +210,7 @@ excerpt: 學習日語中娛樂與休閒相關的表達方式，包括娛樂活�
 
 ## 情境 3: 興趣愛好
 
-![興趣愛好](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese hobbies and interests illustration - various hobby activities with Japanese labels (読書, 写真, 料理, 絵, 編み物, 陶芸, 折り紙, ピアノ, ギター, 歌), clean hobby activity scenes, educational illustration style, no text overlays, only hobby labels positioned near corresponding hobby activities and materials -->
+{% include embed/youtube.html id='N4i0-FqHnBs' %}
 
 ### 創作活動
 
@@ -302,9 +293,6 @@ excerpt: 學習日語中娛樂與休閒相關的表達方式，包括娛樂活�
 
 ## 情境 4: 運動健身
 
-![運動健身](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese sports and fitness activities diagram - various sports and fitness activities with Japanese labels (ジョギング, 水泳, ヨガ, 筋トレ, サッカー, バスケットボール, テニス, 柔道, 剣道, 空手), clean sports activity layout, educational diagram style, no text overlays, only sports labels positioned at corresponding sports activities and equipment -->
-
 ### 個人運動
 
 <div style="text-align: left">  
@@ -386,33 +374,44 @@ excerpt: 學習日語中娛樂與休閒相關的表達方式，包括娛樂活�
 
 ## 情境 5: 娛樂對話
 
-![娛樂對話](https://images.unsplash.com/photo-1541746972996-4e0b0f93e586?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese entertainment conversation scene - people enjoying leisure activities together with Japanese conversation labels (一緒に行きませんか, いいですね, 楽しみです, すみません都合が悪いです, 何をしますか, どこに行きますか, いつですか, 楽しかったです, 疲れました, またやりたいです), clean social interaction scenes, educational illustration style, no text overlays, only conversation phrase labels positioned near corresponding social interactions -->
+{% include embed/youtube.html id='_OnyY_DQQYA' %}
 
 ### 邀請與回應
 
 <div style="text-align: left">  
 **一緒に行きませんか？** (issho ni ikimasen ka?) - 一起去嗎？  <br>
-**Won't you go to the movies together?**  <br>
-*例句：一緒に映画に行きませんか？- 一起去電影嗎？*  <br>
+**Won't you go together?**  <br>
+*例句：*  <br>
+*• 今度の週末、映画館に一緒に行きませんか？(kondo no shuumatsu, eigakan ni issho ni ikimasen ka?) - 這個週末，要不要一起去電影院？*  <br>
+*• カラオケに一緒に行きませんか？(karaoke ni issho ni ikimasen ka?) - 要不要一起去卡拉OK？*  <br>
+*• 温泉に一緒に行きませんか？(onsen ni issho ni ikimasen ka?) - 要不要一起去泡溫泉？*  <br>
 </div>  
 
 <div style="text-align: left">  
 **いいですね** (ii desu ne) - 好啊  <br>
 **That sounds good**  <br>
-*例句：いいですね。- 好啊。*  <br>
+*例句：*  <br>
+*• A: 今度の日曜日、公園でピクニックしませんか？(kondo no nichiyoubi, kouen de pikunikku shimasen ka?) - 這個星期天，要不要在公園野餐？*  <br>
+*• B: いいですね！何時に行きますか？(ii desu ne! nanji ni ikimasu ka?) - 好啊！幾點去？*  <br>
+*• その計画、いいですね。楽しみです。(sono keikaku, ii desu ne. tanoshimi desu.) - 那個計劃很好呢。我很期待。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **楽しみです** (tanoshimi desu) - 很期待  <br>
 **I'm looking forward to it**  <br>
-*例句：楽しみです。- 很期待。*  <br>
+*例句：*  <br>
+*• 来週のコンサート、とても楽しみです。(raishuu no konsaato, totemo tanoshimi desu.) - 下週的演唱會，我非常期待。*  <br>
+*• 初めての温泉旅行、楽しみです。(hajimete no onsen ryokou, tanoshimi desu.) - 第一次的溫泉旅行，我很期待。*  <br>
+*• 週末の花火大会が楽しみです。(shuumatsu no hanabi taikai ga tanoshimi desu.) - 我很期待週末的煙火大會。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **すみません、都合が悪いです** (sumimasen, tsugou ga warui desu) - 抱歉，不方便  <br>
 **Sorry, I'm not available**  <br>
-*例句：すみません、都合が悪いです。- 抱歉，不方便。*  <br>
+*例句：*  <br>
+*• A: 今度の土曜日、一緒にカラオケに行きませんか？(kondo no doyoubi, issho ni karaoke ni ikimasen ka?) - 這個星期六，要不要一起去卡拉OK？*  <br>
+*• B: すみません、その日は都合が悪いです。別の日はどうですか？(sumimasen, sono hi wa tsugou ga warui desu. betsu no hi wa dou desu ka?) - 抱歉，那天不方便。其他日子可以嗎？*  <br>
+*• すみません、今週末は都合が悪いです。また今度お願いします。(sumimasen, konshuumatsu wa tsugou ga warui desu. mata kondo onegai shimasu.) - 抱歉，這個週末不方便。下次再約吧。*  <br>
 </div>  
 
 ### 活動討論
@@ -420,19 +419,31 @@ excerpt: 學習日語中娛樂與休閒相關的表達方式，包括娛樂活�
 <div style="text-align: left">  
 **何をしますか？** (nani wo shimasu ka?) - 要做什麼？  <br>
 **What will you do?**  <br>
-*例句：何をしますか？- 要做什麼？*  <br>
+*例句：*  <br>
+*• A: 週末、何をしますか？(shuumatsu, nani wo shimasu ka?) - 週末要做什麼？*  <br>
+*• B: 映画を見に行きます。一緒に行きませんか？(eiga wo mi ni ikimasu. issho ni ikimasen ka?) - 要去看電影。要不要一起去？*  <br>
+*• 今日の午後、何をしますか？(kyou no gogo, nani wo shimasu ka?) - 今天下午要做什麼？*  <br>
+*• 休みの日は何をしますか？(yasumi no hi wa nani wo shimasu ka?) - 休息日都做什麼？*  <br>
 </div>  
 
 <div style="text-align: left">  
 **どこに行きますか？** (doko ni ikimasu ka?) - 要去哪裡？  <br>
 **Where will you go?**  <br>
-*例句：どこに行きますか？- 要去哪裡？*  <br>
+*例句：*  <br>
+*• A: 今度の日曜日、どこに行きますか？(kondo no nichiyoubi, doko ni ikimasu ka?) - 這個星期天要去哪裡？*  <br>
+*• B: 美術館に行きます。あなたも一緒に来ませんか？(bijutsukan ni ikimasu. anata mo issho ni kimasen ka?) - 要去美術館。你也要一起來嗎？*  <br>
+*• 温泉旅行でどこに行きますか？(onsen ryokou de doko ni ikimasu ka?) - 溫泉旅行要去哪裡？*  <br>
+*• カラオケはどこに行きますか？(karaoke wa doko ni ikimasu ka?) - 卡拉OK要去哪裡？*  <br>
 </div>  
 
 <div style="text-align: left">  
 **いつですか？** (itsu desu ka?) - 什麼時候？  <br>
 **When is it?**  <br>
-*例句：いつですか？- 什麼時候？*  <br>
+*例句：*  <br>
+*• A: 今度のコンサート、いつですか？(kondo no konsaato, itsu desu ka?) - 下場演唱會是什麼時候？*  <br>
+*• B: 来週の土曜日の夜7時です。(raishuu no doyoubi no yoru shichi ji desu.) - 下週六晚上7點。*  <br>
+*• 花火大会はいつですか？(hanabi taikai wa itsu desu ka?) - 煙火大會是什麼時候？*  <br>
+*• その約束、いつですか？(sono yakusoku, itsu desu ka?) - 那個約定是什麼時候？*  <br>
 </div>  
 
 ### 感受表達
@@ -440,19 +451,28 @@ excerpt: 學習日語中娛樂與休閒相關的表達方式，包括娛樂活�
 <div style="text-align: left">  
 **楽しかったです** (tanoshikatta desu) - 很開心  <br>
 **It was fun**  <br>
-*例句：楽しかったです。- 很開心。*  <br>
+*例句：*  <br>
+*• 今日のカラオケ、とても楽しかったです。ありがとうございました。(kyou no karaoke, totemo tanoshikatta desu. arigatou gozaimashita.) - 今天的卡拉OK很開心。謝謝你。*  <br>
+*• 昨日の花火大会は楽しかったです。また来年も行きたいです。(kinou no hanabi taikai wa tanoshikatta desu. mata rainen mo ikitai desu.) - 昨天的煙火大會很開心。明年還想再去。*  <br>
+*• 温泉旅行、楽しかったです。また一緒に行きましょう。(onsen ryokou, tanoshikatta desu. mata issho ni ikimashou.) - 溫泉旅行很開心。下次再一起去吧。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **疲れました** (tsukaremashita) - 累了  <br>
 **I'm tired**  <br>
-*例句：疲れました。- 累了。*  <br>
+*例句：*  <br>
+*• 今日は一日中歩いて、とても疲れました。(kyou wa ichinichijuu aruite, totemo tsukaremashita.) - 今天走了一整天，很累。*  <br>
+*• ジョギングをして疲れました。でも気持ちよかったです。(jogingu wo shite tsukaremashita. demo kimochi yokatta desu.) - 慢跑後累了。但感覺很好。*  <br>
+*• カラオケで3時間歌って、声が疲れました。(karaoke de san jikan utatte, koe ga tsukaremashita.) - 在卡拉OK唱了3小時，聲音累了。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **またやりたいです** (mata yaritai desu) - 還想再做  <br>
 **I want to do it again**  <br>
-*例句：またやりたいです。- 還想再做。*  <br>
+*例句：*  <br>
+*• 今日のカラオケ、とても楽しかったです。またやりたいです。(kyou no karaoke, totemo tanoshikatta desu. mata yaritai desu.) - 今天的卡拉OK很開心。還想再去。*  <br>
+*• 温泉旅行、またやりたいです。今度は違う温泉に行きましょう。(onsen ryokou, mata yaritai desu. kondo wa chigau onsen ni ikimashou.) - 溫泉旅行還想再去。下次去不同的溫泉吧。*  <br>
+*• このゲーム、面白かったです。またやりたいです。(kono geemu, omoshirokatta desu. mata yaritai desu.) - 這個遊戲很有趣。還想再玩。*  <br>
 </div>  
 
 ### 重點句型
@@ -470,4 +490,44 @@ excerpt: 學習日語中娛樂與休閒相關的表達方式，包括娛樂活�
 
 ## 文化小知識
 
-在日本，娛樂與休閒活動不僅是放鬆的方式，更是社交與文化體驗的重要途徑。卡拉OK是日本獨特的社交文化，朋友同事聚會常選擇此活動；溫泉文化體現了日本人對自然與放鬆的重視；祭典活動則展現了傳統文化與社區凝聚力。在邀請他人時，日本人通常會先確認對方的時間安排，並尊重對方的選擇。理解這些文化背景，能讓您在日本的娛樂活動中更好地融入當地生活。
+### 卡拉OK文化
+
+卡拉OK（カラオケ）是日本最具代表性的社交娛樂活動之一，起源於1970年代的日本。<br>
+它不僅是唱歌的場所，更是職場、朋友間建立關係的重要社交空間。<br>
+在日本，卡拉OK包廂通常按小時計費，可以點飲料和食物，是下班後（飲み会）或週末聚會的熱門選擇。<br>
+值得注意的是，即使不擅長唱歌，參與卡拉OK活動也被視為重要的社交禮儀，因為重點在於與他人共度時光，而非歌唱技巧。
+
+### 溫泉文化
+
+溫泉（温泉）在日本文化中佔有特殊地位，不僅是放鬆身心的方式，更是體驗日本傳統文化的重要途徑。<br>
+日本有超過3,000個溫泉地，每個地區的溫泉都有其獨特的礦物質成分和療效。<br>
+泡溫泉時需要注意的禮儀包括：入浴前必須先清洗身體、不能穿著泳衣入浴、長髮需要綁起來、有刺青的人可能被禁止進入某些公共溫泉等。<br>
+溫泉旅行（温泉旅行）是日本人喜愛的休閒方式，通常會選擇溫泉旅館（温泉旅館），享受傳統日式料理和溫泉的結合體驗。
+
+### 祭典文化
+
+日本的祭典（祭り）活動是傳統文化與社區凝聚力的重要體現。<br>
+從地方性的小祭典到全國知名的大型祭典（如京都的祇園祭、東京的神田祭等），這些活動不僅是宗教儀式，更是社區居民交流互動的重要場合。<br>
+祭典通常包括傳統舞蹈、音樂表演、美食攤位（屋台）和煙火（花火）等元素。<br>
+參加祭典時，穿著浴衣（浴衣）是常見的傳統服飾，也是體驗日本文化的好機會。
+
+### 社交邀請的禮儀
+
+在日本文化中，邀請他人參與娛樂活動時有特定的社交禮儀。首先，邀請者通常會提前確認對方的時間安排（都合），並提供多個時間選項讓對方選擇。<br>
+使用「一緒に行きませんか？」（要不要一起去？）這種委婉的邀請方式，比直接命令更符合日本人的溝通習慣。<br>
+如果被邀請者無法參加，通常會先表達歉意（すみません），然後說明原因，並可能提出替代方案（如「別の日はどうですか？」- 其他日子可以嗎？）。<br>
+這種尊重他人時間和選擇的態度，是日本社交文化的重要特徵。
+
+### 職場娛樂文化
+
+在日本職場，下班後的娛樂活動（飲み会）是建立同事關係的重要方式。<br>
+這些活動通常由上司或資深同事發起，參與被視為融入團隊的重要途徑。<br>
+雖然理論上可以拒絕，但頻繁拒絕可能會影響職場關係。<br>
+週末的娛樂活動則更為隨意，朋友間的聚會通常會提前一週左右約定，並尊重每個人的時間安排。
+
+### 季節性娛樂活動
+
+日本人的娛樂活動往往與季節緊密相關。<br>
+春天有賞櫻（花見）活動，夏天有煙火大會和祭典，秋天有賞楓（紅葉狩り），冬天則有溫泉和滑雪等活動。<br>
+這些季節性的娛樂活動不僅是放鬆的方式，更是體驗日本四季變化和傳統文化的重要途徑。<br>
+了解這些季節性活動，能讓您更好地規劃在日本的娛樂行程，並深入體驗當地文化。

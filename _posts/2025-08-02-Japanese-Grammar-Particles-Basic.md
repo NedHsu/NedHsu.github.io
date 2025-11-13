@@ -15,8 +15,6 @@ excerpt: 學習日語中最常用的助詞は・が・を・に的用法，包�
 4. に (ni) - 方向、時間標記
 5. 助詞的區別與使用
 
-每個助詞都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
-
 ## 學習小提醒
 
 今天的助詞是日語語法的核心，建議您：
@@ -31,9 +29,6 @@ excerpt: 學習日語中最常用的助詞は・が・を・に的用法，包�
 ---
 
 ## 情境 1: は (wa) - 主題標記
-
-![主題標記](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese particle wa - topic marker, people introducing topics, conversation scenes, educational style with Japanese text showing topic emphasis -->
 
 ### は的基本用法
 
@@ -59,9 +54,6 @@ excerpt: 學習日語中最常用的助詞は・が・を・に的用法，包�
 
 ## 情境 2: が (ga) - 主語標記
 
-![主語標記](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese particle ga - subject marker, people performing actions, clear subject-verb relationships, educational style with Japanese text -->
-
 ### が的基本用法
 
 <div style="text-align: left">  
@@ -85,9 +77,6 @@ excerpt: 學習日語中最常用的助詞は・が・を・に的用法，包�
 ---
 
 ## 情境 3: を (wo) - 賓語標記
-
-![賓語標記](https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese particle wo - object marker, people interacting with objects, clear object relationships, educational style with Japanese text -->
 
 ### を的基本用法
 
@@ -113,9 +102,6 @@ excerpt: 學習日語中最常用的助詞は・が・を・に的用法，包�
 
 ## 情境 4: に (ni) - 方向、時間標記
 
-![方向時間標記](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese particle ni - direction and time marker, people moving to locations, clocks showing time, educational style with Japanese text -->
-
 ### に的基本用法
 
 <div style="text-align: left">  
@@ -139,9 +125,6 @@ excerpt: 學習日語中最常用的助詞は・が・を・に的用法，包�
 ---
 
 ## 情境 5: 助詞的區別與使用
-
-![助詞區別](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese particles comparison - side-by-side examples showing wa vs ga, wo vs ni, educational charts, clear visual distinctions -->
 
 ### は vs が的區別
 
@@ -182,13 +165,13 @@ excerpt: 學習日語中最常用的助詞は・が・を・に的用法，包�
 ### 3. を (wo) 的特點
 - 表示動作的對象
 - 用於他動詞的賓語
-- 表示移動的起點
+- 表示移動的路径（如：橋を渡る）
 - 發音為"o"但寫作"を"
 
 ### 4. に (ni) 的特點
 - 表示方向、目的地
 - 表示時間
-- 表示動作的對象
+- 表示動作的接受者或目標（如：友達に会う）
 - 表示存在的地點
 
 ---
@@ -232,9 +215,8 @@ excerpt: 學習日語中最常用的助詞は・が・を・に的用法，包�
 
 ## 相關文章
 
-- [日語語法基礎 - 基本句型結構](../2025-08-01-Japanese-Grammar-Basic-Sentence-Patterns/)
-- [日語助詞 - で・へ・と・から的用法](../2025-08-03-Japanese-Grammar-Particles-Advanced/)
-- [日語動詞 - 基本動作動詞](../2025-04-02-Japanese-Verbs-Basic-Action-Verbs/)
+- [日語語法基礎 - 基本句型結構](/posts/Japanese-Grammar-Basic-Sentence-Patterns/)
+- [日語動詞 - 基本動作動詞](/posts/Japanese-Verbs-Basic-Action-Verbs/)
 
 ---
 

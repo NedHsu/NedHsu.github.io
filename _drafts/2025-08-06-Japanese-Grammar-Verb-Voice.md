@@ -15,8 +15,6 @@ excerpt: 學習日語動詞的語態變化，包括主動語態、被動語態�
 4. 語態的變化規則
 5. 語態的使用場合
 
-每個語態都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
-
 ## 學習小提醒
 
 今天的動詞語態是日語語法的高級部分，建議您：
@@ -31,9 +29,6 @@ excerpt: 學習日語動詞的語態變化，包括主動語態、被動語態�
 ---
 
 ## 情境 1: 主動語態 - 基本形
-
-![主動語態](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese active voice - people performing actions actively, clear subject-action relationships, educational style with Japanese text -->
 
 ### 主動語態的基本用法
 
@@ -59,9 +54,6 @@ excerpt: 學習日語動詞的語態變化，包括主動語態、被動語態�
 
 ## 情境 2: 被動語態 - られる・れる
 
-![被動語態](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese passive voice - people receiving actions, being acted upon, educational style with Japanese text -->
-
 ### 被動語態的基本用法
 
 <div style="text-align: left">  
@@ -85,9 +77,6 @@ excerpt: 學習日語動詞的語態變化，包括主動語態、被動語態�
 ---
 
 ## 情境 3: 使役語態 - させる・せる
-
-![使役語態](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese causative voice - people making others do actions, causing actions, educational style with Japanese text -->
 
 ### 使役語態的基本用法
 
@@ -113,9 +102,6 @@ excerpt: 學習日語動詞的語態變化，包括主動語態、被動語態�
 
 ## 情境 4: 語態的變化規則
 
-![變化規則](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese voice conjugation rules - verb transformation charts, voice patterns, educational style with Japanese text -->
-
 ### 五段動詞的語態變化
 
 <div style="text-align: left">  
@@ -139,9 +125,6 @@ excerpt: 學習日語動詞的語態變化，包括主動語態、被動語態�
 ---
 
 ## 情境 5: 一段動詞的語態變化
-
-![一段動詞語態](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese ichidan verb voice - verb conjugation patterns, educational style with Japanese text -->
 
 ### 一段動詞的語態變化規則
 

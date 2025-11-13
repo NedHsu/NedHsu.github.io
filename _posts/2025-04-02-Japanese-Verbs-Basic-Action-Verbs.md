@@ -15,8 +15,6 @@ excerpt: 學習日常生活中常用的日語動詞，包括基本動作、日�
 4. 感官動詞
 5. 情感動詞
 
-每個動詞都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
-
 ## 學習小提醒
 
 今天的動詞是日常生活的基礎，建議您：
@@ -32,8 +30,7 @@ excerpt: 學習日常生活中常用的日語動詞，包括基本動作、日�
 
 ## 情境 1: 基本動作動詞
 
-![基本動作](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese basic action verbs and daily activities diagram - basic action verbs and daily routines with Japanese labels (食べる, 飲む, 寝る, 起きる, 歩く, 走る, 座る, 立つ, 動作, 生活, 習慣, 日常), clean action verb layout, educational diagram style, no text overlays, only action verb labels positioned at corresponding daily activity elements -->
+{% include embed/youtube.html id='E9SnwoqTWsQ' %}
 
 ### 生活基本動作
 
@@ -102,9 +99,6 @@ excerpt: 學習日常生活中常用的日語動詞，包括基本動作、日�
 
 ## 情境 2: 日常活動動詞
 
-![日常活動](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese daily activity verbs and routine tasks diagram - daily activity verbs and routine work with Japanese labels (勉強する, 働く, 読む, 書く, 料理する, 掃除する, 洗う, 買い物する, 活動, 仕事, 家事, 趣味), clean daily activity layout, educational diagram style, no text overlays, only daily activity labels positioned at corresponding routine task elements -->
-
 ### 學習與工作
 
 <div style="text-align: left">  
@@ -171,9 +165,6 @@ excerpt: 學習日常生活中常用的日語動詞，包括基本動作、日�
 ---
 
 ## 情境 3: 移動動詞
-
-![移動動詞](https://images.unsplash.com/photo-1541746972996-4e0b0f93e586?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese movement verbs and transportation methods diagram - movement verbs and transportation systems with Japanese labels (行く, 来る, 帰る, 出る, 乗る, 降りる, 運転する, 飛ぶ, 移動, 交通, 乗り物, 旅行), clean movement verb layout, educational diagram style, no text overlays, only movement verb labels positioned at corresponding transportation method elements -->
 
 ### 基本移動
 
@@ -242,9 +233,6 @@ excerpt: 學習日常生活中常用的日語動詞，包括基本動作、日�
 
 ## 情境 4: 感官動詞
 
-![感官動詞](https://images.unsplash.com/photo-1557683316-973673baf926?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese sensory verbs and perception experiences diagram - sensory verbs and sensory experiences with Japanese labels (見る, 聞く, 見える, 聞こえる, 触る, 味わう, 嗅ぐ, 感じる, 感覚, 五感, 体験, 印象), clean sensory verb layout, educational diagram style, no text overlays, only sensory verb labels positioned at corresponding perception experience elements -->
-
 ### 視覺與聽覺
 
 <div style="text-align: left">  
@@ -311,9 +299,6 @@ excerpt: 學習日常生活中常用的日語動詞，包括基本動作、日�
 ---
 
 ## 情境 5: 情感動詞
-
-![情感動詞](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese emotional verbs and psychological states diagram - emotional verbs and psychological experiences with Japanese labels (笑う, 喜ぶ, 楽しむ, 愛する, 泣く, 怒る, 心配する, 困る, 考える, 覚える, 忘れる, 思い出す, 感情, 気持ち, 心, 精神), clean emotional verb layout, educational diagram style, no text overlays, only emotional verb labels positioned at corresponding psychological state elements -->
 
 ### 正面情感
 
@@ -408,14 +393,26 @@ excerpt: 學習日常生活中常用的日語動詞，包括基本動作、日�
 
 ## 文化小知識
 
-在日本，動詞的使用不僅僅是語言的表達，更是一種文化的體現。當您學習日語動詞時，會發現每個動詞都承載著深厚的文化內涵。例如，「食べる」這個動詞不僅表示「吃」，更體現了日本人對食物的尊重和感激之情。
+在日本，動詞的使用不僅僅是語言的表達，更是一種文化的體現。<br>
+當您學習日語動詞時，會發現每個動詞都承載著深厚的文化內涵。<br>
+例如，「食べる」這個動詞不僅表示「吃」，更體現了日本人對食物的尊重和感激之情。
 
-動詞的敬語形式也反映了日本社會的階層關係。當您說「食べます」時，您在使用敬語形式，這不僅是語言的規範，更是對他人的尊重。這種細膩的語言表達讓日語充滿了禮貌和溫暖。
+動詞的敬語形式也反映了日本社會的階層關係。<br>
+當你說「食べます」時，你在使用敬語形式，這不僅是語言的規範，更是對他人的尊重。<br>
+這種細膩的語言表達讓日語充滿了禮貌和溫暖。
 
-感官動詞的使用也體現了日本人對細節的關注。當您說「見えます」時，您不僅在描述視覺感受，更在表達對美的欣賞。這種對感官體驗的細膩描述讓日語充滿了詩意和美感。
+感官動詞的使用也體現了日本人對細節的關注。<br>
+「見えます」不僅在描述視覺感受，更在表達對美的欣賞。<br>
+這種對感官體驗的細膩描述讓日語充滿了詩意和美感。
 
-情感動詞的使用也反映了日本人的情感表達方式。當您說「喜びます」時，您不僅在表達高興，更在分享這份喜悅。這種情感的表達方式讓日語充滿了人情味和溫暖。
+情感動詞的使用也反映了日本人的情感表達方式。<br>
+「喜びます」不僅在表達高興，更在分享這份喜悅。<br>
+這種情感的表達方式讓日語充滿了人情味和溫暖。
 
-移動動詞的使用也體現了日本人對空間和時間的敏感。當您說「行きます」時，您不僅在表達移動，更在表達對目的地的期待。這種對移動的細膩感受讓日語充滿了動感和活力。
+移動動詞的使用也體現了日本人對空間和時間的敏感。<br>
+「行きます」不僅在表達移動，更在表達對目的地的期待。<br>
+這種對移動的細膩感受讓日語充滿了動感和活力。
 
-當您學習日語動詞時，記住每個動詞都有其特定的使用場合和情感色彩。通過正確使用這些動詞，您不僅能夠準確地表達自己的意思，也能夠更好地理解日本文化的精髓。這種對動詞的細膩掌握是學習日語的重要一步，也是體驗日本文化的美好途徑。
+記住！每個動詞都有其特定的使用場合和情感色彩<br>
+通過正確使用這些動詞，不僅能夠準確地表達自己的意思，也能夠更好地理解日本文化的精髓。<br>
+這種對動詞的細膩掌握是學習日語重要的一步，也是體驗日本文化的美好途徑。

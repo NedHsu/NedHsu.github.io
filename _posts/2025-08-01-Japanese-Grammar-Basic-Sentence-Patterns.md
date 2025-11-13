@@ -15,8 +15,6 @@ excerpt: 學習日語的基本句型結構，包括主語、謂語、賓語的�
 4. 存在句型
 5. 疑問句型
 
-每個句型都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
-
 ## 學習小提醒
 
 今天的句型是日語語法的基礎，建議您：
@@ -31,9 +29,6 @@ excerpt: 學習日語的基本句型結構，包括主語、謂語、賓語的�
 ---
 
 ## 情境 1: 基本語序
-
-![基本語序](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese grammar basics - sentence structure diagram showing subject, object, verb order, educational materials with Japanese text, clean modern classroom setting, grammar charts and examples -->
 
 ### 日語語序特點
 
@@ -59,15 +54,12 @@ excerpt: 學習日語的基本句型結構，包括主語、謂語、賓語的�
 
 ## 情境 2: 主語+謂語句型
 
-![主語謂語](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese subject-predicate sentences - people performing actions like walking, eating, sleeping, clear subject-verb relationships, educational style with Japanese text labels -->
-
 ### 基本主謂句型
 
 <div style="text-align: left">  
 **私は歩きます** (watashi wa arukimasu) - 我走路  <br>
 **I walk**  <br>
-*例句：毎日公園を歩きます。(mainichi kouen wo arukimasu) - 每天在公園走路。*  <br>
+*例句：私は毎日公園を歩きます。(watashi wa mainichi kouen wo arukimasu) - 我每天在公園走路。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -78,7 +70,7 @@ excerpt: 學習日語的基本句型結構，包括主語、謂語、賓語的�
 
 <div style="text-align: left">  
 **子供は遊びます** (kodomo wa asobimasu) - 孩子玩耍  <br>
-**Children play**  <br>
+**A child plays**  <br>
 *例句：子供たちは庭で遊びます。(kodomotachi wa niwa de asobimasu) - 孩子們在院子裡玩耍。*  <br>
 </div>  
 
@@ -86,15 +78,12 @@ excerpt: 學習日語的基本句型結構，包括主語、謂語、賓語的�
 
 ## 情境 3: 主語+賓語+謂語句型
 
-![主語賓語謂語](https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese subject-object-verb sentences - people interacting with objects like reading books, eating food, drinking water, clear object relationships, educational style -->
-
 ### 完整句型結構
 
 <div style="text-align: left">  
 **私は本を読みます** (watashi wa hon wo yomimasu) - 我讀書  <br>
 **I read a book**  <br>
-*例句：毎晩本を読みます。(maiban hon wo yomimasu) - 每晚讀書。*  <br>
+*例句：私は毎晩本を読みます。(watashi wa maiban hon wo yomimasu) - 我每晚讀書。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -105,16 +94,13 @@ excerpt: 學習日語的基本句型結構，包括主語、謂語、賓語的�
 
 <div style="text-align: left">  
 **母は料理を作ります** (haha wa ryouri wo tsukurimasu) - 媽媽做菜  <br>
-**Mother cooks**  <br>
+**Mother makes food**  <br>
 *例句：母は美味しい料理を作ります。(haha wa oishii ryouri wo tsukurimasu) - 媽媽做美味的菜。*  <br>
 </div>  
 
 ---
 
 ## 情境 4: 存在句型
-
-![存在句型](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese existence sentences - objects and people in various locations, showing "there is/are" concepts, clean modern spaces with clear positioning -->
 
 ### ある・いる句型
 
@@ -139,9 +125,6 @@ excerpt: 學習日語的基本句型結構，包括主語、謂語、賓語的�
 ---
 
 ## 情境 5: 疑問句型
-
-![疑問句型](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese question sentences - people asking questions, question marks, interrogative expressions, educational style with Japanese text -->
 
 ### 疑問詞句型
 
@@ -195,8 +178,8 @@ excerpt: 學習日語的基本句型結構，包括主語、謂語、賓語的�
 ### 練習2: 填空練習
 請填入適當的助詞：
 1. 私（　）本（　）読みます。
-2. 机（　）上（　）本（　）あります。
-3. 公園（　）子供（　）います。
+2. 机（　）上（　）本（　）あります。*提示：需要填入「の」「に」「が」*
+3. 公園（　）子供（　）います。*提示：需要填入「に」「が」*
 
 ### 練習3: 翻譯練習
 請翻譯以下句子：
@@ -224,9 +207,9 @@ excerpt: 學習日語的基本句型結構，包括主語、謂語、賓語的�
 
 ## 相關文章
 
-- [日語詞彙 - 常見物品、地點、形容詞](../2025-04-01-Japanese-Vocabulary-Common-Items-Places-Adjectives/)
-- [日語動詞 - 基本動作動詞](../2025-04-02-Japanese-Verbs-Basic-Action-Verbs/)
-- [日語助詞 - は・が・を・に的用法](../2025-08-02-Japanese-Grammar-Particles-Basic/)
+- [日語詞彙 - 常見物品、地點、形容詞](/posts/Japanese-Vocabulary-Common-Items-Places-Adjectives/)
+- [日語動詞 - 基本動作動詞](/posts/Japanese-Verbs-Basic-Action-Verbs/)
+- [日語助詞 - は・が・を・に的用法](/posts/Japanese-Grammar-Particles-Basic/)
 
 ---
 

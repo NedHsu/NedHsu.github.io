@@ -32,9 +32,6 @@ excerpt: 深入學習日語副詞的修飾功能和語義特點，包括副詞�
 
 ## 情境 1: 副詞的修飾範圍
 
-![修飾範圍](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese adverb modification scope - what adverbs modify, modification relationships, educational style with Japanese text -->
-
 ### 副詞修飾動詞
 
 <div style="text-align: left">  
@@ -61,9 +58,6 @@ excerpt: 深入學習日語副詞的修飾功能和語義特點，包括副詞�
 ---
 
 ## 情境 2: 副詞的語義強度
-
-![語義強度](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese adverb intensity - semantic strength, intensity levels, educational style with Japanese text -->
 
 ### 副詞的強度等級
 
@@ -92,9 +86,6 @@ excerpt: 深入學習日語副詞的修飾功能和語義特點，包括副詞�
 
 ## 情境 3: 副詞的位置變化
 
-![位置變化](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese adverb position - placement variations, word order, educational style with Japanese text -->
-
 ### 副詞的位置規則
 
 <div style="text-align: left">  
@@ -122,9 +113,6 @@ excerpt: 深入學習日語副詞的修飾功能和語義特點，包括副詞�
 
 ## 情境 4: 副詞與其他詞類的關係
 
-![詞類關係](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese adverb relationships - connections with other word classes, grammatical relationships, educational style with Japanese text -->
-
 ### 副詞與其他詞類的關係
 
 <div style="text-align: left">  
@@ -151,9 +139,6 @@ excerpt: 深入學習日語副詞的修飾功能和語義特點，包括副詞�
 ---
 
 ## 情境 5: 副詞的語義變化
-
-![語義變化](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese adverb semantic change - meaning variations, semantic shifts, educational style with Japanese text -->
 
 ### 副詞的語義變化
 

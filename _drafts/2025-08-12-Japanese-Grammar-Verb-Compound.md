@@ -15,8 +15,6 @@ excerpt: 學習日語動詞的複合形式，包括複合動詞和補助動詞�
 4. 複合形式的變化規則
 5. 複合形式的使用場合
 
-每個複合形式都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
-
 ## 學習小提醒
 
 今天的動詞複合形式是日語語法的重要部分，建議您：
@@ -31,9 +29,6 @@ excerpt: 學習日語動詞的複合形式，包括複合動詞和補助動詞�
 ---
 
 ## 情境 1: 複合動詞 - 動詞+動詞
-
-![複合動詞](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese compound verbs - verb combinations, complex actions, educational style with Japanese text -->
 
 ### 複合動詞的基本用法
 
@@ -59,9 +54,6 @@ excerpt: 學習日語動詞的複合形式，包括複合動詞和補助動詞�
 
 ## 情境 2: 補助動詞 - 動詞+補助動詞
 
-![補助動詞](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese auxiliary verbs - helping verbs, grammatical support, educational style with Japanese text -->
-
 ### 補助動詞的基本用法
 
 <div style="text-align: left">  
@@ -85,9 +77,6 @@ excerpt: 學習日語動詞的複合形式，包括複合動詞和補助動詞�
 ---
 
 ## 情境 3: 複合形式的語義
-
-![語義](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese compound verb semantics - meaning relationships, semantic connections, educational style with Japanese text -->
 
 ### 複合形式的語義關係
 
@@ -113,9 +102,6 @@ excerpt: 學習日語動詞的複合形式，包括複合動詞和補助動詞�
 
 ## 情境 4: 複合形式的變化規則
 
-![變化規則](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese compound verb conjugation - transformation rules, complex patterns, educational style with Japanese text -->
-
 ### 複合形式的變化模式
 
 <div style="text-align: left">  
@@ -139,9 +125,6 @@ excerpt: 學習日語動詞的複合形式，包括複合動詞和補助動詞�
 ---
 
 ## 情境 5: 複合形式的使用場合
-
-![使用場合](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese compound verb usage - practical applications, real-world usage, educational style with Japanese text -->
 
 ### 複合形式的使用場合
 

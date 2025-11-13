@@ -15,8 +15,6 @@ excerpt: 學習日語動詞的條件形式，包括ば・たら・なら・と�
 4. と - 自然條件形
 5. 條件形式的區別與使用
 
-每個條件形式都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
-
 ## 學習小提醒
 
 今天的動詞條件形式是日語語法的重要部分，建議您：
@@ -31,9 +29,6 @@ excerpt: 學習日語動詞的條件形式，包括ば・たら・なら・と�
 ---
 
 ## 情境 1: ば - 條件形
-
-![條件形](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese conditional form ba - conditional expressions, if-then relationships, educational style with Japanese text -->
 
 ### ば的基本用法
 
@@ -59,9 +54,6 @@ excerpt: 學習日語動詞的條件形式，包括ば・たら・なら・と�
 
 ## 情境 2: たら - 過去條件形
 
-![過去條件形](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese conditional form tara - past conditional expressions, hypothetical situations, educational style with Japanese text -->
-
 ### たら的基本用法
 
 <div style="text-align: left">  
@@ -85,9 +77,6 @@ excerpt: 學習日語動詞的條件形式，包括ば・たら・なら・と�
 ---
 
 ## 情境 3: なら - 假定條件形
-
-![假定條件形](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese conditional form nara - hypothetical conditional expressions, assumption-based conditions, educational style with Japanese text -->
 
 ### なら的基本用法
 
@@ -113,9 +102,6 @@ excerpt: 學習日語動詞的條件形式，包括ば・たら・なら・と�
 
 ## 情境 4: と - 自然條件形
 
-![自然條件形](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese conditional form to - natural conditional expressions, automatic consequences, educational style with Japanese text -->
-
 ### と的基本用法
 
 <div style="text-align: left">  
@@ -139,9 +125,6 @@ excerpt: 學習日語動詞的條件形式，包括ば・たら・なら・と�
 ---
 
 ## 情境 5: 條件形式的區別與使用
-
-![區別使用](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese conditional form distinctions - different conditional types, usage differences, educational style with Japanese text -->
 
 ### 條件形式的語義區別
 

@@ -15,7 +15,6 @@ excerpt: 學習日語中健康與身體相關的表達方式，包括身體部�
 4. 醫院對話
 5. 健康建議
 
-每個表達都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
 
 ## 學習小提醒
 
@@ -70,7 +69,7 @@ excerpt: 學習日語中健康與身體相關的表達方式，包括身體部�
 <div style="text-align: left">  
 **耳** (mimi) - 耳朵  <br>
 **Ear**  <br>
-*例句：耳が聞こえません。(mimi ga kikoemasen) - 我聽不見。*  <br>
+*例句：耳が聞こえません。(mimi ga kikoemasen) - 我聽不到。*  <br>
 </div>  
 
 ### 軀幹部位
@@ -126,9 +125,10 @@ excerpt: 學習日語中健康與身體相關的表達方式，包括身體部�
 </div>  
 
 <div style="text-align: left">  
-**足** (ashi) - 腳  <br>
-**Leg/Foot**  <br>
+**足** (ashi) - 腳、腿  <br>
+**Foot/Leg**  <br>
 *例句：足が疲れています。(ashi ga tsukarete imasu) - 我腳累了。*  <br>
+*（註：日語中「足」可指腳或腿，視上下文而定）*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -147,6 +147,7 @@ excerpt: 學習日語中健康與身體相關的表達方式，包括身體部�
 - 部位 (buui) - 部位
 - 器官 (kikan) - 器官
 - 解剖 (kaibou) - 解剖
+- 脚 (ashi) - 腿（與「足」區分時使用）
 
 ---
 
@@ -160,13 +161,13 @@ excerpt: 學習日語中健康與身體相關的表達方式，包括身體部�
 <div style="text-align: left">  
 **元気** (genki) - 健康/有精神  <br>
 **Healthy/Energetic**  <br>
-*例句：今日は元気です。(kyou wa genki desu) - 今天很健康。*  <br>
+*例句：今日は元気です。(kyou wa genki desu) - 今天很有精神。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **健康** (kenkou) - 健康  <br>
 **Health**  <br>
-*例句：健康に気をつけます。(kenkou ni ki wo tsukemasu) - 我注意健康。*  <br>
+*例句：健康に気をつけます。(kenkou ni ki wo tsukemasu) - 我注意身體健康。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -236,7 +237,7 @@ excerpt: 學習日語中健康與身體相關的表達方式，包括身體部�
 <div style="text-align: left">  
 **アレルギー** (arerugii) - 過敏  <br>
 **Allergy**  <br>
-*例句：アレルギーがあります。(arerugii ga arimasu) - 我有過敏。*  <br>
+*例句：アレルギーがあります。(arerugii ga arimasu) - 我有過敏症。*  <br>
 </div>  
 
 ### 重點句型
@@ -262,13 +263,13 @@ excerpt: 學習日語中健康與身體相關的表達方式，包括身體部�
 <div style="text-align: left">  
 **医者** (isha) - 醫生  <br>
 **Doctor**  <br>
-*例句：医者に診てもらいます。(isha ni mite moraimasu) - 我請醫生診斷。*  <br>
+*例句：医者に診てもらいます。(isha ni mite moraimasu) - 我請醫生看診。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **看護師** (kangoshi) - 護士  <br>
 **Nurse**  <br>
-*例句：看護師が手伝います。(kangoshi ga tetsudaimasu) - 護士幫忙。*  <br>
+*例句：看護師が手伝ってくれます。(kangoshi ga tetsudatte kuremasu) - 護士會幫忙。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -332,7 +333,8 @@ excerpt: 學習日語中健康與身體相關的表達方式，包括身體部�
 <div style="text-align: left">  
 **注射** (chuusha) - 注射  <br>
 **Injection**  <br>
-*例句：注射を打ちます。(chuusha wo uchimasu) - 我打針。*  <br>
+*例句：注射を打ちます。(chuusha wo uchimasu) - 我接受注射。*  <br>
+*（也可以說：注射をしてもらいます。chuusha wo shite moraimasu）*  <br>
 </div>  
 
 ### 重點句型
@@ -358,25 +360,29 @@ excerpt: 學習日語中健康與身體相關的表達方式，包括身體部�
 <div style="text-align: left">  
 **どこが痛いですか？** (doko ga itai desu ka?) - 哪裡痛？  <br>
 **Where does it hurt?**  <br>
-*例句：どこが痛いですか？(doko ga itai desu ka?) - 哪裡痛？*  <br>
+*例句：頭が痛いです。(atama ga itai desu) - 我頭痛。*  <br>
+*（醫生問：どこが痛いですか？doko ga itai desu ka?）*  <br>
 </div>  
 
 <div style="text-align: left">  
 **いつからですか？** (itsu kara desu ka?) - 什麼時候開始的？  <br>
 **Since when?**  <br>
-*例句：いつから痛いですか？(itsu kara itai desu ka?) - 什麼時候開始痛的？*  <br>
+*例句：昨日から痛いです。(kinou kara itai desu) - 從昨天開始痛。*  <br>
+*（醫生問：いつからですか？itsu kara desu ka?）*  <br>
 </div>  
 
 <div style="text-align: left">  
 **どのくらい痛いですか？** (dono kurai itai desu ka?) - 有多痛？  <br>
 **How much does it hurt?**  <br>
-*例句：どのくらい痛いですか？(dono kurai itai desu ka?) - 有多痛？*  <br>
+*例句：とても痛いです。(totemo itai desu) - 很痛。*  <br>
+*（醫生問：どのくらい痛いですか？dono kurai itai desu ka?）*  <br>
 </div>  
 
 <div style="text-align: left">  
 **他に症状はありますか？** (hoka ni shoujou wa arimasu ka?) - 有其他症狀嗎？  <br>
 **Are there any other symptoms?**  <br>
-*例句：他に症状はありますか？(hoka ni shoujou wa arimasu ka?) - 有其他症狀嗎？*  <br>
+*例句：熱もあります。(netsu mo arimasu) - 也有發燒。*  <br>
+*（醫生問：他に症状はありますか？hoka ni shoujou wa arimasu ka?）*  <br>
 </div>  
 
 ### 醫生建議
@@ -420,9 +426,10 @@ excerpt: 學習日語中健康與身體相關的表達方式，包括身體部�
 </div>  
 
 <div style="text-align: left">  
-**お疲れ様でした** (otsukaresama deshita) - 辛苦了  <br>
+**お世話になりました** (osewa ni narimashita) - 辛苦了  <br>
 **Thank you for your hard work**  <br>
-*例句：お疲れ様でした。(otsukaresama deshita) - 辛苦了。*  <br>
+*例句：お世話になりました。(osewa ni narimashita) - 謝謝您的照顧。*  <br>
+*（註：在醫院通常說「お世話になりました」更合適）*  <br>
 </div>  
 
 ### 重點句型
@@ -452,15 +459,15 @@ excerpt: 學習日語中健康與身體相關的表達方式，包括身體部�
 </div>  
 
 <div style="text-align: left">  
-**食事** (shokuji) - 飲食  <br>
-**Diet**  <br>
+**食事** (shokuji) - 飲食、用餐  <br>
+**Diet, Meal**  <br>
 *例句：バランスの良い食事をします。(baransu no ii shokuji wo shimasu) - 我吃均衡的飲食。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **睡眠** (suimin) - 睡眠  <br>
 **Sleep**  <br>
-*例句：十分な睡眠を取ります。(juubun na suimin wo torimasu) - 我充分睡眠。*  <br>
+*例句：十分な睡眠を取ります。(juubun na suimin wo torimasu) - 我獲得充足的睡眠。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -493,6 +500,7 @@ excerpt: 學習日語中健康與身體相關的表達方式，包括身體部�
 **うがい** (ugai) - 漱口  <br>
 **Gargling**  <br>
 *例句：うがいをします。(ugai wo shimasu) - 我漱口。*  <br>
+*（註：日本人在預防感冒時常用「うがい」）*  <br>
 </div>  
 
 ### 健康習慣
@@ -536,14 +544,27 @@ excerpt: 學習日語中健康與身體相關的表達方式，包括身體部�
 
 ## 文化小知識
 
-在日本，健康與身體的表達不僅僅是語言的功能，更是一種文化的體現。當您學習日語健康表達時，會發現每個健康詞彙都承載著深厚的文化內涵。例如，「元気」這個詞彙不僅表示「健康」，更體現了日本人對積極生活態度的重視。
+在日本，健康與身體的表達不僅僅是語言的功能，更是一種文化的體現。<br>
+當您學習日語健康表達時，會發現每個健康詞彙都承載著深厚的文化內涵。<br>
+例如，「元気」這個詞彙不僅表示「健康」，更體現了日本人對積極生活態度的重視。<br>
 
-健康管理在日本文化中非常重要。當您說「健康に気をつけます」時，您不僅在表達對健康的關注，更在展現對生活的責任感。這種對健康的重視讓日本的醫療文化充滿了預防和保健的觀念。
+健康管理在日本文化中非常重要。<br>
+當您說「健康に気をつけます」時，您不僅在表達對健康的關注，更在展現對生活的責任感。<br>
+這種對健康的重視讓日本的醫療文化充滿了預防和保健的觀念。<br>
 
-身體部位的表達也反映了日本人對身體的細膩感受。當您說「頭が痛いです」時，您不僅在描述症狀，更在表達對身體狀況的敏感。這種對身體的細膩感受讓日本的醫療服務充滿了人性化。
+身體部位的表達也反映了日本人對身體的細膩感受。<br>
+當您說「頭が痛いです」時，您不僅在描述症狀，更在表達對身體狀況的敏感。<br>
+這種對身體的細膩感受讓日本的醫療服務充滿了人性化。<br>
 
-醫療對話的表達也體現了日本人對醫患關係的重視。當您說「医者に診てもらいます」時，您不僅在尋求醫療幫助，更在表達對醫生的信任。這種對醫患關係的重視讓日本的醫療文化充滿了尊重和信任。
+醫療對話的表達也體現了日本人對醫患關係的重視。<br>
+當您說「医者に診てもらいます」時，您不僅在尋求醫療幫助，更在表達對醫生的信任。<br>
+這種對醫患關係的重視讓日本的醫療文化充滿了尊重和信任。<br>
 
-健康建議的表達也反映了日本人對生活品質的追求。當您說「規則正しい生活をします」時，您不僅在表達生活態度，更在展現對健康的承諾。這種對生活品質的追求讓日本的健康文化充滿了自律和堅持。
+健康建議的表達也反映了日本人對生活品質的追求。<br>
+當您說「規則正しい生活をします」時，您不僅在表達生活態度，更在展現對健康的承諾。<br>
+這種對生活品質的追求讓日本的健康文化充滿了自律和堅持。<br>
 
-當您學習日語健康與身體表達時，記住每個健康詞彙都有其特定的使用場合和情感色彩。通過正確使用這些健康表達，您不僅能夠準確地描述身體狀況，也能夠更好地理解日本人對健康和生活的態度。這種對健康的細膩掌握是學習日語的重要一步，也是體驗日本文化的美好途徑。
+當您學習日語健康與身體表達時，記住每個健康詞彙都有其特定的使用場合和情感色彩。<br>
+通過正確使用這些健康表達，您不僅能夠準確地描述身體狀況，也能夠更好地理解日本人對健康和生活的態度。<br>
+這種對健康的細膩掌握是學習日語的重要一步，也是體驗日本文化的美好途徑。<br>
+
