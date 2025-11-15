@@ -216,7 +216,7 @@ excerpt: 學習日語中更多重要的助詞で・へ・と・から的用法�
 ## 相關文章
 
 - [日語助詞 - は・が・を・に的用法](/posts/Japanese-Grammar-Particles-Basic/)
-<!-- - [日語敬語 - です・ます・だ・である](/posts/Japanese-Grammar-Polite-Speech/) -->
+- [日語敬語 - です・ます・だ・である](/posts/Japanese-Grammar-Polite-Speech/)
 - [日語語法基礎 - 基本句型結構](/posts/Japanese-Grammar-Basic-Sentence-Patterns/)
 
 ---
