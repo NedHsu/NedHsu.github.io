@@ -11,7 +11,7 @@ excerpt: 學習日語中最常用的助詞は・が・を・に的用法，包�
 今天我們將學習日語中最常用的助詞：
 1. は (wa) - 主題標記
 2. が (ga) - 主語標記
-3. を (wo) - 賓語標記
+3. を (o) - 賓語標記
 4. に (ni) - 方向、時間標記
 5. 助詞的區別與使用
 
@@ -25,6 +25,8 @@ excerpt: 學習日語中最常用的助詞は・が・を・に的用法，包�
 - 注意助詞的發音變化
 
 讓我們一起開始今天的學習吧！
+
+{% include embed/youtube.html id='dK6GNIVaET0' %}
 
 ---
 
@@ -76,26 +78,26 @@ excerpt: 學習日語中最常用的助詞は・が・を・に的用法，包�
 
 ---
 
-## 情境 3: を (wo) - 賓語標記
+## 情境 3: を (o) - 賓語標記
 
 ### を的基本用法
 
 <div style="text-align: left">  
-**本を読みます** (hon wo yomimasu) - 讀書  <br>
+**本を読みます** (hon o yomimasu) - 讀書  <br>
 **Read a book**  <br>
-*例句：新聞を読みます。(shinbun wo yomimasu) - 讀報紙。*  <br>
+*例句：新聞を読みます。(shinbun o yomimasu) - 讀報紙。*  <br>
 </div>  
 
 <div style="text-align: left">  
-**ご飯を食べます** (gohan wo tabemasu) - 吃飯  <br>
+**ご飯を食べます** (gohan o tabemasu) - 吃飯  <br>
 **Eat rice**  <br>
-*例句：パンを食べます。(pan wo tabemasu) - 吃麵包。*  <br>
+*例句：パンを食べます。(pan o tabemasu) - 吃麵包。*  <br>
 </div>  
 
 <div style="text-align: left">  
-**音楽を聞きます** (ongaku wo kikimasu) - 聽音樂  <br>
+**音楽を聞きます** (ongaku o kikimasu) - 聽音樂  <br>
 **Listen to music**  <br>
-*例句：ラジオを聞きます。(rajio wo kikimasu) - 聽收音機。*  <br>
+*例句：ラジオを聞きます。(rajio o kikimasu) - 聽收音機。*  <br>
 </div>  
 
 ---
@@ -204,7 +206,7 @@ excerpt: 學習日語中最常用的助詞は・が・を・に的用法，包�
 
 ✅ **は (wa)**：主題標記，用於強調話題
 ✅ **が (ga)**：主語標記，用於疑問句和存在句
-✅ **を (wo)**：賓語標記，用於動作的對象
+✅ **を (o)**：賓語標記，用於動作的對象
 ✅ **に (ni)**：方向、時間標記，用於目的地和時間
 
 這些助詞是日語語法的核心，正確使用它們對表達意思非常重要。建議您多練習這些助詞的用法，注意它們的區別。
