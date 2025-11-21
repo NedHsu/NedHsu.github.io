@@ -142,34 +142,34 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 
 <div style="text-align: left">  
 
-**顧客:** 税込みですか？  <br>
-(zeikomi desu ka?)  <br>
-含稅嗎？  <br>
-**Is that including tax?**  <br>
+**顧客:** お弁当を温めてもらえますか？  <br>
+(obentou o atatamete moraemasu ka?)  <br>
+可以幫我微波加熱便當嗎？  <br>
+**Could you heat up this bento box?**  <br>
 </div>  
 
 <div style="text-align: right">  
 
-**店員:** はい、税込みの価格です。  <br>
-(hai, zeikomi no kakaku desu.)  <br>
-是的，這是含稅價格。  <br>
-**Yes, that's the price including tax.**  <br>
+**店員:** 温めますか？  <br>
+(atatamemasu ka?)  <br>
+要加熱嗎？  <br>
+**Would you like it heated?**  <br>
 </div>  
 
 <div style="text-align: left">  
 
-**顧客:** 割引はありますか？  <br>
-(waribiki wa arimasu ka?)  <br>
-有折扣嗎？  <br>
-**Is there a discount?**  <br>
+**顧客:** はい、お願いします。  <br>
+(hai, onegai shimasu.)  <br>
+是的，麻煩你了。  <br>
+**Yes, please.**  <br>
 </div>  
 
 <div style="text-align: right">  
 
-**店員:** 申し訳ありませんが、現在は割引はございません。  <br>
-(moushiwake arimasen ga, genzai wa waribiki wa gozaimasen.)  <br>
-很抱歉，目前沒有折扣。  <br>
-**I'm sorry, but there are no discounts at the moment.**  <br>
+**店員:** 少々お待ちください。  <br>
+(shoushou omachi kudasai.)  <br>
+請稍等一下。  <br>
+**Please wait a moment.**  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -310,42 +310,42 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 
 <div style="text-align: right">  
 
-**店員:** 合計で1,280円になります。  <br>
-(goukei de sen nihyaku hachijuu en ni narimasu.)  <br>
-總共是1,280日圓。  <br>
-**That will be 1,280 yen in total.**  <br>
+**店員:** レジ袋にお入れしますか？  <br>
+(rejibukuro ni oire shimasu ka?)  <br>
+需要裝塑膠袋嗎？  <br>
+**Would you like a plastic bag?**  <br>
 </div>  
 
 <div style="text-align: left">  
 
-**顧客:** カードで支払えますか？  <br>
-(kaado de shiharaemasu ka?)  <br>
-可以刷卡嗎？  <br>
-**Can I pay by card?**  <br>
+**顧客:** 大丈夫です。  <br>
+(daijoubu desu.)  <br>
+不用了。  <br>
+**I'm fine.**  <br>
 </div>  
 
 <div style="text-align: right">  
 
-**店員:** はい、クレジットカードも電子マネーも使えます。  <br>
-(hai, kurejitto kaado mo denshi manee mo tsukaemasu.)  <br>
-是的，可以使用信用卡和電子錢包。  <br>
-**Yes, you can use credit cards and electronic money.**  <br>
+**店員:** 合計で1,280円になります。お支払いはどうされますか？  <br>
+(goukei de sen nihyaku hachijuu en ni narimasu. oshiharai wa dou saremasu ka?)  <br>
+總共是1,280日圓。請問您要怎麼付款？  <br>
+**That will be 1,280 yen in total. How would you like to pay?**  <br>
 </div>  
 
 <div style="text-align: left">  
 
-**顧客:** 領収書をいただけますか？  <br>
-(ryoushuusho o itadakemasu ka?)  <br>
-可以給我收據嗎？  <br>
-**Could I have a receipt?**  <br>
+**顧客:** 交通系ICカードでお願いします。  <br>
+(koutsuu kei aishii kaado de onegai shimasu.)  <br>
+我要用交通IC卡付款。  <br>
+**I'd like to pay with a transportation IC card.**  <br>
 </div>  
 
 <div style="text-align: right">  
 
-**店員:** はい、こちらが領収書です。  <br>
-(hai, kochira ga ryoushuusho desu.)  <br>
-好的，這是收據。  <br>
-**Yes, here is your receipt.**  <br>
+**店員:** タッチをお願いします。……ありがとうございます。レシートはご利用ですか？  <br>
+(tacchi o onegai shimasu. ... arigatou gozaimasu. reshiito wa go riyou desu ka?)  <br>
+請感應。……謝謝您。需要收據嗎？  <br>
+**Please touch the card reader. ... Thank you. Do you need a receipt?**  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -365,9 +365,9 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>
 
 ### 重點句型
-- お会計をお願いします。(okaikei o onegai shimasu) - 請幫我結帳
-- 合計で～円になります。(goukei de ~en ni narimasu) - 總共是...日圓
-- カードで支払えますか？(kaado de shiharaemasu ka?) - 可以刷卡嗎？
+- お弁当を温めてもらえますか？(obentou o atatamete moraemasu ka?) - 可以幫我加熱便當嗎？
+- レジ袋にお入れしますか？(rejibukuro ni oire shimasu ka?) - 需要裝塑膠袋嗎？
+- 大丈夫です。(daijoubu desu) - 不用了
 - 領収書をいただけますか？(ryoushuusho o itadakemasu ka?) - 可以給我收據嗎？
 - どういたしまして。(dou itashimashite) - 不客氣
 
@@ -389,10 +389,10 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 
 <div style="text-align: left">  
 
-**顧客:** この商品を返品したいのですが。  <br>
-(kono shouhin o henpin shitai no desu ga.)  <br>
-我想退這件商品。  <br>
-**I'd like to return this product.**  <br>
+**顧客:** これを返品したいのですが。  <br>
+(kore o henpin shitai no desu ga.)  <br>
+我想退這個。  <br>
+**I'd like to return this.**  <br>
 </div>  
 
 <br>  
@@ -465,7 +465,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 - 交換 (koukan) - 換貨
 - 可能 (kanou) - 可能
 - 期間 (kikan) - 期間
-- 生鮮食品 (sensei shokuhin) - 生鮮食品
+- 生鮮食品 (seisen shokuhin) - 生鮮食品
 - 未開封 (mikaifuu) - 未開封
 - どういたしまして (dou itashimashite) - 不客氣
 
@@ -481,7 +481,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 田中さんはおにぎりを探すために、スタッフに「おにぎりはどこにありますか？」と尋ねました。スタッフは「冷蔵コーナーの奥にあります」と教えてくれました。
 
 **価格の確認：**
-田中さんはお弁当の価格を知るために、「このお弁当はいくらですか？」と尋ねました。スタッフは「580円です」と答えました。
+田中さんはお弁当を温めてもらうために、「お弁当を温めてもらえますか？」と尋ねました。スタッフは「温めますか？」と答えました。
 
 **サービスの利用：**
 田中さんはコピー機を使用するために、「コピー機を使いたいのですが」と尋ねました。スタッフは使用方法を丁寧に説明してくれました。

@@ -56,7 +56,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 **顧客:** 咳にも効きますか？  <br>
 (seki ni mo kikimasu ka?)  <br>
 對咳嗽也有效嗎？  <br>
-**Is it also effective for cough?**  <br>
+**Is it also effective for coughing?**  <br>
 </div>  
 
 <div style="text-align: right">  
@@ -64,7 +64,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 **藥師:** はい、咳や喉の痛みにも効果があります。  <br>
 (hai, seki ya nodo no itami ni mo kouka ga arimasu.)  <br>
 是的，對咳嗽和喉嚨痛也有效。  <br>
-**Yes, it's effective for cough and sore throat as well.**  <br>
+**Yes, it's effective for coughing and sore throats as well.**  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -139,7 +139,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 
 **顧客:** どのくらいの期間飲めばいいですか？  <br>
 (dono kurai no kikan nomeba ii desu ka?)  <br>
-要服用多久？  <br>
+要吃多久？  <br>
 **How long should I take it?**  <br>
 </div>  
 
@@ -154,7 +154,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 ### 重點句型
 - この薬の使い方を教えていただけますか？(kono kusuri no tsukaikata o oshiete itadakemasu ka?) - 可以告訴我這個藥的使用方法嗎？
 - 1日3回、食後に飲んでください。(ichinichi sankai, shokugo ni nonde kudasai) - 一天三次，飯後服用
-- どのくらいの期間飲めばいいですか？(dono kurai no kikan nomeba ii desu ka?) - 要服用多久？
+- どのくらいの期間飲めばいいですか？(dono kurai no kikan nomeba ii desu ka?) - 要吃多久？
 
 ### 相關單字
 - 使い方 (tsukaikata) - 使用方法
@@ -192,15 +192,15 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 **顧客:** 他の薬と一緒に飲んでも大丈夫ですか？  <br>
 (hoka no kusuri to issho ni nonde mo daijoubu desu ka?)  <br>
 可以和其他藥一起吃嗎？  <br>
-**Can I take it with other medicine?**  <br>
+**Is it okay to take it with other medicines?**  <br>
 </div>  
 
 <div style="text-align: right">  
 
 **藥師:** 併用する場合はご相談ください。  <br>
 (heiyou suru baai wa go soudan kudasai.)  <br>
-如需併用請先諮詢我們。  <br>
-**Please consult us if you need to take it with other medicine.**  <br>
+如果要併用的話，請先諮詢我們。  <br>
+**Please consult us if you need to take it with other medicines.**  <br>
 </div>  
 
 ### 重點句型
@@ -233,10 +233,10 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 
 <div style="text-align: right">  
 
-**藥師:** 健康保険証もお願いします。  <br>
-(kenkou hokenshou mo onegai shimasu.)  <br>
-請也出示健保卡。  <br>
-**Please show your health insurance card as well.**  <br>
+**藥師:** お薬手帳はお持ちですか？  <br>
+(okusuri techou wa omochi desu ka?)  <br>
+您有帶用藥手冊嗎？  <br>
+**Do you have your medication notebook?**  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -257,14 +257,14 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 
 ### 重點句型
 - 処方箋を持ってきました。(shohousen o motte kimashita) - 我帶了處方箋
-- 健康保険証もお願いします。(kenkou hokenshou mo onegai shimasu) - 請也出示健保卡
+- お薬手帳はお持ちですか？(okusuri techou wa omochi desu ka?) - 您有帶用藥手冊嗎？
 - お薬はいつできますか？(okusuri wa itsu dekimasu ka?) - 藥什麼時候可以拿？
 
 ### 相關單字
 - 処方箋 (shohousen) - 處方箋
 - 健康保険証 (kenkou hokenshou) - 健保卡
 - お薬 (okusuri) - 藥
-- 調剤 (chouzai) - 調劑
+- お薬手帳 (okusuri techou) - 用藥手冊
 - 領収書 (ryoushuusho) - 收據
 
 ---
@@ -331,7 +331,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 田中さんは風邪薬を探すために、薬剤師に「風邪薬を探しています」と尋ねました。薬剤師は「こちらが人気の風邪薬です」と教えてくれました。
 
 **価格の確認：**
-田中さんは薬の価格を知るために、「この薬はいくらですか？」と尋ねました。薬剤師は「500円です」と答えました。
+田中さんは価格を知るために、「この薬はいくらですか？」と尋ねました。薬剤師は「1,280円です」と答えました。
 
 **サービスの利用：**
 田中さんは薬の使い方を知るために、「この薬の使い方を教えていただけますか？」と尋ねました。薬剤師は使用方法を丁寧に説明してくれました。

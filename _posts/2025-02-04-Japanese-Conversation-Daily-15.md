@@ -61,18 +61,18 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 
 <div style="text-align: right">  
 
-**郵局職員:** ありがとうございます。料金はいくらになりますか？  <br>
-(arigatou gozaimasu. ryoukin wa ikura ni narimasu ka?)  <br>
-謝謝您。費用是多少？  <br>
-**Thank you. How much will it cost?**  <br>
+**郵局職員:** ありがとうございます。料金は1500円になります。  <br>
+(arigatou gozaimasu. ryoukin wa sen gohyaku en ni narimasu.)  <br>
+謝謝您。費用是1500日圓。  <br>
+**Thank you. That will be 1500 yen.**  <br>
 </div>  
 
 <div style="text-align: left">  
 
-**顧客:** それはどのくらいかかりますか？  <br>
-(sore wa dono kurai kakarimasu ka?)  <br>
-大約需要多少時間？  <br>
-**How long will it take?**  <br>
+**顧客:** 届くまでどのくらいかかりますか？  <br>
+(todoku made dono kurai kakarimasu ka?)  <br>
+寄到那邊要多久？  <br>
+**How long will it take to arrive?**  <br>
 </div>  
 
 <div style="text-align: right">  
@@ -204,7 +204,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 <div style="text-align: left">  
 
 **顧客:** 切手を5枚ください。  <br>
-(kitte o go-mai kudasai.)  <br>
+(kitte o gomai kudasai.)  <br>
 請給我5張郵票。  <br>
 **Please give me 5 stamps.**  <br>
 </div>  
@@ -271,36 +271,36 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 
 <div style="text-align: left">  
 
-**顧客:** 荷物の追跡番号を教えていただけますか？  <br>
-(nimotsu no tsuiseki bangou o oshiete itadakemasu ka?)  <br>
-請告訴我包裹的追蹤號碼。  <br>
-**Could you tell me the tracking number for the package?**  <br>
+**顧客:** 荷物の配送状況を確認したいのですが。  <br>
+(nimotsu no haisou joukyou o kakunin shitai no desu ga.)  <br>
+我想確認包裹的配送狀況。  <br>
+**I'd like to check the delivery status of my package.**  <br>
 </div>  
 
 <br>  
 
 <div style="text-align: right">  
 
-**郵局職員:** はい、こちらが追跡番号です。  <br>
-(hai, kochira ga tsuiseki bangou desu.)  <br>
-好的，這是追蹤號碼。  <br>
-**Yes, here's the tracking number.**  <br>
+**郵局職員:** 追跡番号をお願いします。  <br>
+(tsuiseki bangou o onegai shimasu.)  <br>
+請給我追蹤號碼。  <br>
+**Please give me the tracking number.**  <br>
 </div>  
 
 <div style="text-align: left">  
 
-**顧客:** 配達状況を確認できますか？  <br>
-(haitatsu joukyou o kakunin dekimasu ka?)  <br>
-可以確認配送狀況嗎？  <br>
-**Can you check the delivery status?**  <br>
+**顧客:** はい、こちらです。  <br>
+(hai, kochira desu.)  <br>
+好的，在這裡。  <br>
+**Here it is.**  <br>
 </div>  
 
 <div style="text-align: right">  
 
-**郵局職員:** はい、現在配送中です。  <br>
-(hai, genzai haisouchuu desu.)  <br>
-好的，目前正在配送中。  <br>
-**Yes, it's currently out for delivery.**  <br>
+**郵局職員:** 確認いたします。……現在、配送中です。  <br>
+(kakunin itashimasu. ... genzai, haisouchuu desu.)  <br>
+我確認一下……目前正在配送中。  <br>
+**Let me check... It is currently out for delivery.**  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -320,8 +320,8 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 </div>
 
 ### 重點句型
-- 荷物の追跡番号を教えていただけますか？(nimotsu no tsuiseki bangou o oshiete itadakemasu ka?) - 請告訴我包裹的追蹤號碼
-- 配達状況を確認できますか？(haitatsu joukyou o kakunin dekimasu ka?) - 可以確認配送狀況嗎？
+- 荷物の配送状況を確認したいのですが。(nimotsu no haisou joukyou o kakunin shitai no desu ga) - 我想確認包裹的配送狀況
+- 追跡番号をお願いします。(tsuiseki bangou o onegai shimasu) - 請給我追蹤號碼
 - いつ届きますか？(itsu todokimasu ka?) - 什麼時候會送到？
 
 ### 相關單字
@@ -365,18 +365,18 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 
 <div style="text-align: right">  
 
-**郵局職員:** ありがとうございます。利率はいくらですか？  <br>
-(arigatou gozaimasu. riritsu wa ikura desu ka?)  <br>
-謝謝您。利率是多少？  <br>
-**Thank you. What is the interest rate?**  <br>
+**郵局職員:** ありがとうございます。少々お待ちください。  <br>
+(arigatou gozaimasu. shoushou omachi kudasai.)  <br>
+謝謝您。請稍等。  <br>
+**Thank you. Please wait a moment.**  <br>
 </div>  
 
 <div style="text-align: left">  
 
-**顧客:** それはどのくらいですか？  <br>
-(sore wa dono kurai desu ka?)  <br>
-大約是多少？  <br>
-**How much is it approximately?**  <br>
+**顧客:** 今の利率はどのくらいですか？  <br>
+(ima no riritsu wa dono kurai desu ka?)  <br>
+現在的利率是多少？  <br>
+**What is the current interest rate?**  <br>
 </div>  
 
 <div style="text-align: right">  

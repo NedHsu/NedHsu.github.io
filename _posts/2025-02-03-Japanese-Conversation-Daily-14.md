@@ -186,7 +186,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 ### 重點句型
 - ～円を預け入れたいです。(~en o azukeire tai desu) - 我想存入...日圓
 - 通帳と印鑑をお願いします。(tsuuchou to inkan o onegai shimasu) - 請出示存摺和印章
-- ～円をお引き出ししたいです。(~en o o-hikidashi shitai desu) - 我想提領...日圓
+- ～円をお引き出ししたいです。(~en o o-hikidashi shitai desu) - 我想提款...日圓
 
 ### 相關單字
 - 預金 (yokin) - 存款
@@ -444,8 +444,8 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 - 資産運用 (shisan unyou) - 資產運用
 - 投資 (toushi) - 投資
 - リスク (risuku) - 風險
-- リターン (rita-n) - 報酬
-- ポートフォリオ (po-toforio) - 投資組合
+- リターン (ritaan) - 報酬
+- ポートフォリオ (pootoforio) - 投資組合
 
 ---
 

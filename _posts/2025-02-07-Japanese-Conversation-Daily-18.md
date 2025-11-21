@@ -35,10 +35,10 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: left">  
 
-**乘客:** タクシーを呼びたいのですが。  <br>
-(takushii o yobitai no desu ga.)  <br>
-我想叫計程車。  <br>
-**I'd like to call a taxi.**  <br>
+**乘客:** すみません、空車ですか？  <br>
+(sumimasen, kuusha desu ka?)  <br>
+不好意思，是空車嗎？  <br>
+**Excuse me, are you free?**  <br>
 </div>  
 
 <br>  
@@ -145,10 +145,10 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: right">  
 
-**接線員:** かしこまりました。お名前とご連絡先をお願いします。  <br>
-(kashikomarimashita. onamae to go renrakusaki o onegai shimasu.)  <br>
-好的，請提供您的姓名和聯絡方式。  <br>
-**Certainly. May I have your name and contact information?**  <br>
+**接線員:** かしこまりました。お名前と電話番号をお願いします。  <br>
+(kashikomarimashita. onamae to denwa bangou o onegai shimasu.)  <br>
+好的，請提供您的姓名和電話號碼。  <br>
+**Certainly. May I have your name and phone number?**  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -221,10 +221,10 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: left">  
 
-**乘客:** どのくらい時間がかかりますか？  <br>
-(dono kurai jikan ga kakarimasu ka?)  <br>
-大約需要多久？  <br>
-**How long will it take?**  <br>
+**乘客:** 東京駅までどのくらいかかりますか？  <br>
+(toukyou eki made dono kurai kakarimasu ka?)  <br>
+到東京站大約需要多久？  <br>
+**How long will it take to get to Tokyo Station?**  <br>
 </div>  
 
 <div style="text-align: right">  
@@ -245,10 +245,10 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: right">  
 
-**司機:** 大体2,000円くらいです。  <br>
-(daitai nisen en kurai desu.)  <br>
-大概2,000日圓左右。  <br>
-**It will be around 2,000 yen.**  <br>
+**司機:** メーターは2,000円です。  <br>
+(meetaa wa nisen en desu.)  <br>
+跳表顯示是2,000日圓。  <br>
+**The meter reads 2,000 yen.**  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -287,20 +287,20 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: left">  
 
-**乘客:** 料金はいくらになりますか？  <br>
-(ryoukin wa ikura ni narimasu ka?)  <br>
-車資大概多少？  <br>
-**How much will the fare be?**  <br>
+**乘客:** ここまででお願いします。  <br>
+(koko made de onegai shimasu.)  <br>
+請在這裡停。  <br>
+**Please stop here.**  <br>
 </div>  
 
 <br>  
 
 <div style="text-align: right">  
 
-**司機:** 大体2,000円くらいです。  <br>
-(daitai nisen en kurai desu.)  <br>
-大概2,000日圓左右。  <br>
-**It will be around 2,000 yen.**  <br>
+**司機:** メーターは2,000円です。  <br>
+(meetaa wa nisen en desu.)  <br>
+跳表顯示是2,000日圓。  <br>
+**The meter reads 2,000 yen.**  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -313,10 +313,10 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: right">  
 
-**司機:** 深夜や高速道路利用時は追加料金がかかります。  <br>
-(shinya ya kousoku douro riyouji wa tsuika ryoukin ga kakarimasu.)  <br>
-深夜或使用高速公路時會有額外費用。  <br>
-**There are extra charges for late night or highway use.**  <br>
+**司機:** 深夜料金や高速道路料金は別途かかります。  <br>
+(shinya ryoukin ya kousoku douro ryoukin wa betto kakarimasu.)  <br>
+深夜加成和高速公路過路費是另外算的。  <br>
+**Late night surcharges and highway tolls are extra.**  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -336,8 +336,8 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 </div>
 
 ### 重點句型
-- 料金はいくらになりますか？(ryoukin wa ikura ni narimasu ka?) - 車資大概多少？
-- 大体～円くらいです。(daitai ~en kurai desu) - 大概...日圓左右
+- ここまででお願いします。(koko made de onegai shimasu) - 請在這裡停
+- メーターは～円です。(meetaa wa ~en desu) - 跳表顯示是...日圓
 - 追加料金はありますか？(tsuika ryoukin wa arimasu ka?) - 有額外費用嗎？
 
 ### 相關單字
@@ -424,7 +424,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 田中太郎さんは、初めて日本でタクシーを利用しました。少し緊張していましたが、運転手の親切な対応で安心しました。
 
 **タクシーの呼び方：**
-田中さんは路上でタクシーを呼び、「タクシーを呼びたいのですが」と伝えました。運転手は「はい、お乗りください」と答えました。
+田中さんは路上でタクシーを呼び、「すみません、空車ですか？」と尋ねました。運転手は「はい、お乗りください」と答えました。
 
 **目的地の告知：**
 田中さんは「東京駅までお願いします」と伝え、運転手は「承知しました」と答えました。

@@ -61,10 +61,10 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 
 <div style="text-align: right">  
 
-**美容師:** はい、ご予約できます。  <br>
-(hai, go yoyaku dekimasu.)  <br>
-是的，可以預約。  <br>
-**Yes, we can make that appointment.**  <br>
+**美容師:** はい、空いております。  <br>
+(hai, aite orimasu.)  <br>
+是的，有空位。  <br>
+**Yes, we have an opening.**  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -153,8 +153,8 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 
 <div style="text-align: left">  
 
-**顧客:** 横髪も少し整えてください。  <br>
-(yokogami mo sukoshi totonoete kudasai.)  <br>
+**顧客:** サイドも少し整えてください。  <br>
+(saido mo sukoshi totonoete kudasai.)  <br>
 也請幫我整理一下側邊的頭髮。  <br>
 **Please also trim the sides a bit.**  <br>
 </div>  
@@ -213,8 +213,8 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 
 <div style="text-align: right">  
 
-**美容師:** トリートメントも一緒にしますか？  <br>
-(toriitomento mo issho ni shimasu ka?)  <br>
+**美容師:** トリートメントも一緒にいかがですか？  <br>
+(toriitomento mo issho ni ikaga desu ka?)  <br>
 要一起做護髮嗎？  <br>
 **Would you like a treatment as well?**  <br>
 </div>  
@@ -237,16 +237,16 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 
 <div style="text-align: left">  
 
-**顧客:** 染めた後はどのくらい持続しますか？  <br>
-(someta ato wa dono kurai jizoku shimasu ka?)  <br>
-染完後可以維持多久？  <br>
+**顧客:** 色はどのくらい持ちますか？  <br>
+(iro wa dono kurai mochimasu ka?)  <br>
+顏色可以維持多久？  <br>
 **How long will the color last?**  <br>
 </div>  
 
 <div style="text-align: right">  
 
-**美容師:** 約2ヶ月ほど持続します。  <br>
-(yaku nikagetsu hodo jizoku shimasu.)  <br>
+**美容師:** 約2ヶ月ほど持ちます。  <br>
+(yaku nikagetsu hodo mochimasu.)  <br>
 大約可以維持2個月。  <br>
 **It will last for about 2 months.**  <br>
 </div>  
@@ -269,8 +269,8 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 
 ### 重點句型
 - この色に染めたいです。(kono iro ni sometai desu) - 我想染這個顏色
-- トリートメントも一緒にしますか？(toriitomento mo issho ni shimasu ka?) - 要一起做護髮嗎？
-- 色持ちはどのくらいですか？(iromochi wa dono kurai desu ka?) - 顏色可以維持多久？
+- トリートメントも一緒にいかがですか？(toriitomento mo issho ni ikaga desu ka?) - 要一起做護髮嗎？
+- 色はどのくらい持ちますか？(iro wa dono kurai mochimasu ka?) - 顏色可以維持多久？
 
 ### 相關單字
 - カラー (karaa) - 染髮
@@ -468,7 +468,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 施術が終わり、田中さんは「お会計をお願いします」と伝え、美容師は「合計で8,500円になります」と答えました。
 
 **次回の予約：**
-田中さんは「次回の予約もお願いします」と伝え、美容師は「来週の土曜日の午後は空いていますか？」と提案しました。
+田中さんは「次回の予約もお願いします」と伝え、「来週の土曜日の午後は空いていますか？」と尋ねました。美容師は「はい、空いています」と答え、予約を承りました。
 
 ### 小故事：山田さんの美容院文化体験
 

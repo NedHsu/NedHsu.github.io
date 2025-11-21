@@ -238,26 +238,26 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 
 <div style="text-align: right">  
 
-**店員:** いいえ、無料です。  <br>
-(iie, muryou desu.)  <br>
-不用，是免費的。  <br>
-**No, it's free.**  <br>
+**店員:** はい、100円玉を入れると使えます。  <br>
+(hai, hyaku en dama o ireru to tsukaemasu.)  <br>
+是的，需要投入100日圓硬幣才能使用。  <br>
+**Yes, you need to insert a 100 yen coin.**  <br>
 </div>  
 
 <div style="text-align: left">  
 
-**顧客:** 使い方を教えていただけますか？  <br>
-(tsukaikata o oshiete itadakemasu ka?)  <br>
-可以教我使用方法嗎？  <br>
-**Could you show me how to use it?**  <br>
+**顧客:** 使い終わったら戻ってきますか？  <br>
+(tsukai owattara modotte kimasu ka?)  <br>
+用完後會退還嗎？  <br>
+**Will it be returned after use?**  <br>
 </div>  
 
 <div style="text-align: right">  
 
-**店員:** はい、こちらのレバーを押すと動きます。  <br>
-(hai, kochira no rebaa o osu to ugokimasu.)  <br>
-好的，按下這個把手就可以移動。  <br>
-**Yes, just press this lever to move it.**  <br>
+**店員:** はい、元の場所に戻すと返却されます。  <br>
+(hai, moto no basho ni modosu to henkyaku saremasu.)  <br>
+是的，放回原處時會退還。  <br>
+**Yes, it will be returned when you put it back.**  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -280,7 +280,8 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 - カートはどこにありますか？(kaato wa doko ni arimasu ka?) - 購物車在哪裡？
 - 入口の右側にあります。(iriguchi no migigawa ni arimasu) - 在入口的右側
 - カートの使用料金はかかりますか？(kaato no shiyou ryoukin wa kakarimasu ka?) - 使用購物車要收費嗎？
-- 使い方を教えていただけますか？(tsukaikata o oshiete itadakemasu ka?) - 可以教我使用方法嗎？
+- 100円玉を入れると使えます。(hyaku en dama o ireru to tsukaemasu) - 需要投入100日圓硬幣才能使用
+- 使い終わったら戻ってきますか？(tsukai owattara modotte kimasu ka?) - 用完後會退還嗎？
 - どういたしまして。(dou itashimashite) - 不客氣
 
 ### 相關單字
@@ -300,44 +301,44 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 
 <div style="text-align: left">  
 
-**顧客:** お会計をお願いします。  <br>
-(okaikei o onegai shimasu.)  <br>
-請幫我結帳。  <br>
-**I'd like to pay, please.**  <br>
+**店員:** レジ袋は有料ですが、ご利用になりますか？  <br>
+(rejibukuro wa yuuryou desu ga, go riyou ni narimasu ka?)  <br>
+塑膠袋要收費，您需要嗎？  <br>
+**Plastic bags cost extra. Would you like one?**  <br>
 </div>  
 
 <br>  
 
 <div style="text-align: right">  
 
-**店員:** 合計で3,280円になります。  <br>
-(goukei de sanzen nihyaku hachijuu en ni narimasu.)  <br>
-總共是3,280日圓。  <br>
-**That will be 3,280 yen in total.**  <br>
+**顧客:** はい、お願いします。  <br>
+(hai, onegai shimasu.)  <br>
+好的，麻煩給我一個。  <br>
+**Yes, please.**  <br>
 </div>  
 
 <div style="text-align: left">  
 
-**顧客:** ポイントカードは使えますか？  <br>
-(pointo kaado wa tsukaemasu ka?)  <br>
-可以使用點數卡嗎？  <br>
-**Can I use my points card?**  <br>
+**店員:** かしこまりました。お会計は3,280円です。  <br>
+(kashikomarimashita. okaikei wa sanzen nihyaku hachijuu en desu.)  <br>
+好的。總共是3,280日圓。  <br>
+**Certainly. The total is 3,280 yen.**  <br>
 </div>  
 
 <div style="text-align: right">  
 
-**店員:** はい、お持ちでしたらお使いいただけます。  <br>
-(hai, omochi deshitara otsukai itadakemasu.)  <br>
-是的，如果您有帶的話可以使用。  <br>
-**Yes, you can use it if you have it with you.**  <br>
+**顧客:** 支払いはクレジットカードで。  <br>
+(shiharai wa kurejitto kaado de.)  <br>
+我要用信用卡付。  <br>
+**I'll pay by credit card.**  <br>
 </div>  
 
 <div style="text-align: left">  
 
-**顧客:** カードで支払えますか？  <br>
-(kaado de shiharaemasu ka?)  <br>
-可以刷卡嗎？  <br>
-**Can I pay by card?**  <br>
+**店員:** 承知いたしました。カードを挿入してください。  <br>
+(shouchi itashimashita. kaado o sounyuu shite kudasai.)  <br>
+好的，請插入卡片。  <br>
+**Certainly. Please insert your card.**  <br>
 </div>  
 
 <div style="text-align: right">  
@@ -365,10 +366,9 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>
 
 ### 重點句型
-- お会計をお願いします。(okaikei o onegai shimasu) - 請幫我結帳
-- 合計で～円になります。(goukei de ~en ni narimasu) - 總共是...日圓
-- ポイントカードは使えますか？(pointo kaado wa tsukaemasu ka?) - 可以使用點數卡嗎？
-- カードで支払えますか？(kaado de shiharaemasu ka?) - 可以刷卡嗎？
+- レジ袋は有料ですが、ご利用になりますか？(rejibukuro wa yuuryou desu ga, go riyou ni narimasu ka?) - 塑膠袋要收費，您需要嗎？
+- お会計は～円です。(okaikei wa ~en desu) - 總共是...日圓
+- 支払いは～で。(shiharai wa ~de) - 我要用...付
 - どういたしまして。(dou itashimashite) - 不客氣
 
 ### 相關單字
@@ -465,7 +465,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 - 交換 (koukan) - 換貨
 - 可能 (kanou) - 可能
 - 期間 (kikan) - 期間
-- 生鮮食品 (sensei shokuhin) - 生鮮食品
+- 生鮮食品 (seisen shokuhin) - 生鮮食品
 - 未開封 (mikaifuu) - 未開封
 - どういたしまして (dou itashimashite) - 不客氣
 
@@ -484,10 +484,10 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 田中さんはお肉の価格を知るために、「このお肉はいくらですか？」と尋ねました。スタッフは「1,280円です」と答えました。
 
 **カートの使用：**
-田中さんはカートを使用するために、「カートはどこにありますか？」と尋ねました。スタッフはカートの場所と使用方法を丁寧に説明してくれました。
+田中さんはカートを使用するために、「カートの使用料金はかかりますか？」と尋ねました。スタッフは「100円玉を入れると使えます」と説明してくれました。
 
 **お会計：**
-楽しい一日が終わり、田中さんは「お会計をお願いします」と伝え、カードで支払いを済ませました。スタッフは「またのお越しをお待ちしております」と笑顔で送り出しました。
+田中さんはレジで「レジ袋は有料ですが、ご利用になりますか？」と聞かれ、「はい、お願いします」と答えました。そして「支払いはクレジットカードで」と伝えました。
 
 **返品の確認：**
 田中さんは「この商品を返品したいのですが」と尋ね、スタッフは返品条件を丁寧に説明してくれました。田中さんは日本のサービスの細やかさに感心しました。

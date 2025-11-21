@@ -185,18 +185,18 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 
 <div style="text-align: left">  
 
-**顧客:** もう少し考えさせてください。  <br>
-(mou sukoshi kangaesasete kudasai.)  <br>
-讓我再考慮一下。  <br>
-**Let me think about it a little more.**  <br>
+**顧客:** もう少し考えます。  <br>
+(mou sukoshi kangaemasu.)  <br>
+我再考慮一下。  <br>
+**I'll think about it a little more.**  <br>
 </div>  
 
 <div style="text-align: right">  
 
-**店員:** もちろんです。  <br>
-(mochiron desu.)  <br>
-當然可以。  <br>
-**Of course.**  <br>
+**店員:** かしこまりました。  <br>
+(kashikomarimashita.)  <br>
+好的，我知道了。  <br>
+**Understood.**  <br>
 </div>
 
 ### 重點句型
@@ -253,10 +253,10 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 
 <div style="text-align: left">  
 
-**顧客:** 音声認識機能はありますか？  <br>
-(onsei ninshiki kinou wa arimasu ka?)  <br>
-有語音辨識功能嗎？  <br>
-**Does it have voice recognition?**  <br>
+**顧客:** 音声認識機能は付いていますか？  <br>
+(onsei ninshiki kinou wa tsuite imasu ka?)  <br>
+有附語音辨識功能嗎？  <br>
+**Does it come with voice recognition?**  <br>
 </div>  
 
 <div style="text-align: right">  
@@ -353,18 +353,18 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 
 <div style="text-align: left">  
 
-**顧客:** 修理費用はいくらですか？  <br>
-(shuuri hiyou wa ikura desu ka?)  <br>
-修理費用是多少？  <br>
+**顧客:** 修理にはいくらかかりますか？  <br>
+(shuuri ni wa ikura kakarimasu ka?)  <br>
+修理要花多少錢？  <br>
 **How much will the repair cost?**  <br>
 </div>  
 
 <div style="text-align: right">  
 
-**店員:** 保証期間内ですので、無料で修理いたします。  <br>
-(hoshou kikan nai desu node, muryou de shuuri itashimasu.)  <br>
-因為在保固期內，所以免費維修。  <br>
-**Since it's within the warranty period, the repair is free.**  <br>
+**店員:** 今回は保証期間内ですので、無料で修理いたします。  <br>
+(konkai wa hoshou kikan nai desu node, muryou de shuuri itashimasu.)  <br>
+這次因為在保固期內，所以免費維修。  <br>
+**Since it's within the warranty period this time, the repair is free.**  <br>
 </div>
 
 ### 重點句型
@@ -421,10 +421,10 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 
 <div style="text-align: left">  
 
-**顧客:** 商品に傷がありました。  <br>
-(shouhin ni kizu ga arimashita.)  <br>
-商品有瑕疵。  <br>
-**The product was damaged.**  <br>
+**顧客:** 商品に傷があったので。  <br>
+(shouhin ni kizu ga atta node.)  <br>
+因為商品有瑕疵。  <br>
+**Because the product was damaged.**  <br>
 </div>  
 
 <div style="text-align: right">  

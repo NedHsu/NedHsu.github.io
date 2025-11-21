@@ -77,26 +77,26 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 
 <div style="text-align: right">  
 
-**櫃台人員:** はい、診察券も必要です。  <br>
-(hai, shinsatsuken mo hitsuyou desu.)  <br>
-是的，也需要診察券。  <br>
-**Yes, a consultation ticket is also needed.**  <br>
+**櫃台人員:** はい、診察券をお作りします。  <br>
+(hai, shinsatsuken o otsukuri shimasu.)  <br>
+好的，我們會為您製作診察券。  <br>
+**Yes, we will make a consultation ticket for you.**  <br>
 </div>  
 
 <div style="text-align: left">  
 
-**患者:** ありがとうございます。  <br>
-(arigatou gozaimasu.)  <br>
-謝謝您。  <br>
-**Thank you.**  <br>
+**患者:** どうぞよろしくお願いします。  <br>
+(douzo yoroshiku onegai shimasu.)  <br>
+那就麻煩您了。  <br>
+**Please go ahead.**  <br>
 </div>  
 
 <div style="text-align: right">  
 
-**櫃台人員:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
-不客氣。  <br>
-**You're welcome.**  <br>
+**櫃台人員:** では、あちらの待合室でお待ちください。  <br>
+(dewa, achira no machiaishitsu de omachi kudasai.)  <br>
+那麼，請在那邊的候診室稍候。  <br>
+**Please wait in the waiting room over there.**  <br>
 </div>
 
 ### 重點句型
@@ -197,10 +197,10 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 
 <div style="text-align: right">  
 
-**醫生:** 本日中にご案内できます。  <br>
-(honjitsu chuu ni goannai dekimasu.)  <br>
-今天之內會通知您。  <br>
-**We can inform you within today.**  <br>
+**醫生:** 検査結果は今日中に出ますので、少しお待ちください。  <br>
+(kensa kekka wa kyoujuu ni demasu node, sukoshi omachi kudasai.)  <br>
+檢查結果今天就會出來，請稍等一下。  <br>
+**The results will be ready today, so please wait a moment.**  <br>
 </div>  
 
 ### 重點句型
@@ -331,10 +331,10 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 田中さんは初診のため、受付で「初診ですが、受付をお願いします」と伝えました。スタッフは「健康保険証をお持ちですか？」と尋ね、田中さんは「はい、こちらです」と答えました。
 
 **問診票の記入：**
-田中さんは問診票を記入するように指示され、「診察券は必要ですか？」と尋ねました。スタッフは「はい、診察券も必要です」と答えました。
+田中さんは問診票を記入するように指示され、「診察券は必要ですか？」と尋ねました。スタッフは「はい、診察券をお作りします」と答えました。
 
 **診察の準備：**
-田中さんは診察を受けるために、待合室で待ちました。スタッフは「どういたしまして」と笑顔で送り出しました。
+田中さんは診察を受けるために、待合室で待ちました。スタッフは「では、あちらの待合室でお待ちください」と案内しました。
 
 **診察の流れ：**
 田中さんは診察室に入り、医師に症状を説明しました。医師は「いつから症状が出始めましたか？」と尋ね、田中さんは「昨日の夜からです」と答えました。
