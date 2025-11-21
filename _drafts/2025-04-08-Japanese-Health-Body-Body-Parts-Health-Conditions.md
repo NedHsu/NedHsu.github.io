@@ -115,7 +115,7 @@ excerpt: 學習日語中健康與身體相關的表達方式，包括身體部�
 <div style="text-align: left">  
 **手** (te) - 手  <br>
 **Hand**  <br>
-*例句：手を洗います。(te wo araimasu) - 我洗手。*  <br>
+*例句：手を洗います。(te wo araimasu) - 洗手。*  <br>
 </div>  
 
 <div style="text-align: left">  

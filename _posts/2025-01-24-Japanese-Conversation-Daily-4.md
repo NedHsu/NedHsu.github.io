@@ -232,10 +232,10 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** シングルルームをお願いします。温泉はありますか？  <br>
-(shinguru ruumu o onegai shimasu. onsen wa arimasu ka?)  <br>
-請給我單人房。有溫泉嗎？  <br>
-**I'd like a single room. Do you have hot springs?**  <br>
+**顧客:** シングルルームをお願いします。大浴場はありますか？  <br>
+(shinguru ruumu o onegai shimasu. daiyokujou wa arimasu ka?)  <br>
+請給我單人房。有大浴場嗎？  <br>
+**I'd like a single room. Do you have a large public bath?**  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -419,10 +419,10 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**視聴者:** リマインダーありがとうございます。  <br>
-(Rimaindā arigatōgozaimasu.)  <br>
-謝謝您的提醒。  <br>
-**Thank you for the reminder.**  <br>
+**視聴者:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -447,7 +447,7 @@ tags: [日語, Japanese, 日語對話]
 - お願いします。(onegai shimasu) - 麻煩您了
 
 ### 相關單字
-- 天氣予報 (tenki yohou) - 天氣預報
+- 天気予報 (tenki yohou) - 天氣預報
 - 晴れ (hare) - 晴天
 - 曇り (kumori) - 陰天
 - 雨 (ame) - 雨

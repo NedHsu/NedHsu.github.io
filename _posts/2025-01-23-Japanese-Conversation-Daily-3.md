@@ -83,10 +83,10 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** この小包を台湾まで送りたいです。  <br>
-(kono kozutsumi o taiwan made okuritai desu.)  <br>
-我想把這個包裹寄到台灣。  <br>
-**I'd like to send this package to Taiwan.**  <br>
+**顧客:** はい、どうぞ。  <br>
+(hai, douzo.)  <br>
+好的，給您。  <br>
+**Here you are.**  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -257,10 +257,10 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** 大変ありがとうございます！  <br>
-(taihen arigatou gozaimasu!)  <br>
-太好了，謝謝！  <br>
-**Great, thank you!**  <br>
+**顧客:** ありがとうございます。よろしくお願いします。  <br>
+(arigatou gozaimasu. yoroshiku onegai shimasu.)  <br>
+謝謝。那就麻煩您了。  <br>
+**Thank you. Please take care of it.**  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -344,8 +344,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** 聽起來不錯，我會考慮的。  <br>
-(kangaete mimasu.)  <br>
+**顧客:** いいですね。考えてみます。  <br>
+(ii desu ne. kangaete mimasu.)  <br>
 聽起來不錯，我會考慮的。  <br>
 **Sounds good, I'll think about it.**  <br>
 </div>  
@@ -431,10 +431,10 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**乗客:** 大変ありがとうございます！  <br>
-(taihen arigatou gozaimasu!)  <br>
-太好了，謝謝！  <br>
-**Great, thank you!**  <br>
+**乗客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
 </div>  
 
 <div style="text-align: left">  

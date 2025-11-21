@@ -45,7 +45,7 @@ excerpt: 學習日語中時間相關的表達方式，包括日期、時間、�
 <div style="text-align: left">  
 **分** (fun/pun) - 分鐘  <br>
 **Minute**  <br>
-*例句：10分待ってください。(juu pun matte kudasai) - 請等10分鐘。*  <br>
+*例句：10分待ってください。(juppun matte kudasai) - 請等10分鐘。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -165,13 +165,13 @@ excerpt: 學習日語中時間相關的表達方式，包括日期、時間、�
 <div style="text-align: left">  
 **明後日** (asatte) - 後天  <br>
 **Day after tomorrow**  <br>
-*例句：明後日に旅行に行きます。(asatte ni ryokou ni ikimasu) - 後天去旅行。*  <br>
+*例句：明後日旅行に行きます。(asatte ryokou ni ikimasu) - 後天去旅行。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **一昨日** (ototoi) - 前天  <br>
 **Day before yesterday**  <br>
-*例句：一昨日に病院に行きました。(ototoi ni byouin ni ikimashita) - 前天去了醫院。*  <br>
+*例句：一昨日病院に行きました。(ototoi byouin ni ikimashita) - 前天去了醫院。*  <br>
 </div>  
 
 ### 重點句型
@@ -447,7 +447,7 @@ excerpt: 學習日語中時間相關的表達方式，包括日期、時間、�
 <div style="text-align: left">  
 **～分** (~fun/pun) - ...分鐘  <br>
 **... minutes**  <br>
-*例句：30分待ってください。(sanjuu pun matte kudasai) - 請等30分鐘。*  <br>
+*例句：30分待ってください。(sanjuppun matte kudasai) - 請等30分鐘。*  <br>
 </div>  
 
 <div style="text-align: left">  

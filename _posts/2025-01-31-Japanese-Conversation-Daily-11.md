@@ -217,7 +217,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 
 **旅館スタッフ:** はい、夕食は18時から20時までで、予約が必要です。  <br>
 (hai, yuushoku wa juuhachiji kara nijiji made de, yoyaku ga hitsuyou desu.)  <br>
-是的，晚餐從6點到8點，需要預約。  <br>
+是的，晚餐從18點到20點，需要預約。  <br>
 **Yes, dinner is from 6 to 8 PM, and reservations are required.**  <br>
 </div>  
 
@@ -381,7 +381,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 **顧客:** お世話になりました。とても快適でした。  <br>
 (o-sewa ni narimashita. totemo kaiteki deshita.)  <br>
 謝謝照顧。住得很舒服。  <br>
-**Thank you for your hospitality. It was very comfortable.**  <br>
+**Thank you for everything. It was very comfortable.**  <br>
 </div>  
 
 <div style="text-align: right">  

@@ -294,10 +294,10 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**路人:** 大変ありがとうございます！  <br>
-(taihen arigatou gozaimasu!)  <br>
-太好了，謝謝！  <br>
-**Great, thank you!**  <br>
+**路人:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
 </div>  
 
 ### 重點句型
@@ -350,7 +350,7 @@ tags: [日語, Japanese, 日語對話]
 <div style="text-align: right">  
 
 **觀眾:** 明日の天気はどうでしょうか？  <br>
-(Asunotenki wa dōdeshou ka?)  <br>
+(ashita no tenki wa dou deshou ka?)  <br>
 明天的天氣如何？  <br>
 **How about tomorrow's weather?**  <br>
 </div>  
@@ -365,10 +365,10 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**觀眾:** 情報をいただきありがとうございます。  <br>
-(Jōhō o itadaki arigatōgozaimasu.)  <br>
-謝謝您的資訊。  <br>
-**Thank you for the information.**  <br>
+**觀眾:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
 </div>  
 
 ### 重點句型
@@ -377,7 +377,7 @@ tags: [日語, Japanese, 日語對話]
 - お願いします。(onegai shimasu) - 麻煩您了
 
 ### 相關單字
-- 天氣予報 (tenki yohou) - 天氣預報
+- 天気予報 (tenki yohou) - 天氣預報
 - 晴れ (hare) - 晴天
 - 曇り (kumori) - 陰天
 - 雨 (ame) - 雨

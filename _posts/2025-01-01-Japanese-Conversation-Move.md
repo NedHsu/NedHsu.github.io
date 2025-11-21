@@ -218,10 +218,10 @@ image:
 
 <div style="text-align: left">  
 
-**乘客:** すみません、新宿までお願いします。<br>  
-翻譯：不好意思，請帶我到新宿。<br>  
-音標：すみません、しんじゅくまでおねがいします。<br>  
-拼音：Sumimasen, Shinjuku made onegaishimasu.<br>  
+**乘客:** すみません、新宿駅までお願いします。<br>  
+翻譯：不好意思，請載我到新宿站。<br>  
+音標：すみません、しんじゅくえきまでおねがいします。<br>  
+拼音：Sumimasen, Shinjuku eki made onegai shimasu.<br>  
 </div>
 
 <div style="text-align: right">  
@@ -235,7 +235,7 @@ image:
 <div style="text-align: left">  
 
 **乘客:** 新宿駅の東口でお願いします。<br>  
-翻譯：請在新宿站的東口。<br>  
+翻譯：請在新宿站的東口停。<br>  
 音標：しんじゅくえきのひがしぐちでおねがいします。<br>  
 拼音：Shinjuku eki no higashiguchi de onegai shimasu.<br>  
 </div>
@@ -456,10 +456,10 @@ image:
 
 <div style="text-align: right">  
 
-**售票員:** 車は片道3,500円です。乗船時刻は30分前までにご来場ください。<br>  
-翻譯：車子單程3,500日圓。請在開船前30分鐘到場。<br>  
-音標：くるまはかたみちさんぜんごひゃくえんです。じょうせんじこくはさんじゅっぷんまえまでにごらいじょうください。<br>  
-拼音：Kuruma wa katamichi sanzen gohyaku en desu. Jousen jikoku wa sanjuppun mae made ni gorai jou kudasai.<br>  
+**售票員:** 車は片道3,500円です。出航時刻の30分前までにご来場ください。<br>  
+翻譯：車子單程3,500日圓。請在開船時刻前30分鐘到場。<br>  
+音標：くるまはかたみちさんぜんごひゃくえんです。しゅっこうじこくのさんじゅっぷんまえまでにごらいじょうください。<br>  
+拼音：Kuruma wa katamichi sanzen gohyaku en desu. Shukkou jikoku no sanjuppun mae made ni goraijou kudasai.<br>  
 </div>
 
 <div style="text-align: left">  
@@ -474,8 +474,8 @@ image:
 
 **售票員:** はい、船内にレストランと売店がございます。約45分で到着いたします。<br>  
 翻譯：是的，船內有餐廳和商店。約45分鐘到達。<br>  
-音標：はい、せんないにレストランとうりてんがございます。やくよんじゅうごふんでとうちゃくいたします。<br>  
-拼音：Hai, sennai ni resutoran to uriten ga gozaimasu. Yaku yonjuu gofun de touchaku itashimasu.<br>  
+音標：はい、せんないにレストランとばいてんがございます。やくよんじゅうごふんでとうちゃくいたします。<br>  
+拼音：Hai, sennai ni resutoran to baiten ga gozaimasu. Yaku yonjuu gofun de touchaku itashimasu.<br>  
 </div>
 
 ---

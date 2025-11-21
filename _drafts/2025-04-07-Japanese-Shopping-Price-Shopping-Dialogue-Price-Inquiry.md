@@ -141,7 +141,7 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 <div style="text-align: left">  
 **品物** (shinamono) - 物品、商品  <br>
 **Item, Goods**  <br>
-*例句：良い品物を選びます。(ii shinamono wo erabimasu) - 我選擇好的商品。*  <br>
+*例句：これにします。(Kore ni shimasu) -我選這個。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -190,11 +190,6 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 *例句：これはいくらですか？(kore wa ikura desu ka?) - 這個多少錢？*  <br>
 </div>  
 
-<div style="text-align: left">  
-**値段はいくらですか？** (nedan wa ikura desu ka?) - 價格是多少？  <br>
-**What is the price?**  <br>
-*例句：値段はいくらですか？(nedan wa ikura desu ka?) - 價格是多少？*  <br>
-</div>  
 
 <div style="text-align: left">  
 **～円です** (~en desu) - ...日圓  <br>
@@ -393,7 +388,7 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 <div style="text-align: left">  
 **代金** (daikin) - 價格  <br>
 **Payment, Price**  <br>
-*例句：代金はいくらですか？(daikin wa ikura desu ka?) - 價格是多少？*  <br>
+*例句：代金を支払います。(daikin wo shiharaimasu) - 我會支付這筆費用。*  <br>
 </div>  
 
 <div style="text-align: left">  

@@ -403,7 +403,7 @@ excerpt: 學習日語中天氣和自然相關的表達方式，包括天氣狀�
 - 季節 (kisetsu) - 季節
 - 変化 (henka) - 變化
 - 行事 (gyouji) - 活動
-- 伝統 (dento) - 傳統
+- 伝統 (dentou) - 傳統
 
 ---
 

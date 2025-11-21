@@ -81,10 +81,10 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**病患:** ありがとうございます。  <br>
-(arigatou gozaimasu.)  <br>
-謝謝。  <br>
-**Thank you.**  <br>
+**病患:** ありがとうございます。よろしくお願いします。  <br>
+(arigatou gozaimasu. yoroshiku onegai shimasu.)  <br>
+謝謝。麻煩您了。  <br>
+**Thank you. Please take care of it.**  <br>
 </div>  
 
 ### 重點句型
@@ -215,7 +215,7 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: left">  
 
-**維修人員:** かしこまりました。診斷には約1時間かかります。  <br>
+**維修人員:** かしこまりました。診断には約1時間かかります。  <br>
 (kashikomarimashita. shindan ni wa yaku ichijikan kakarimasu.)  <br>
 好的，診斷需要大約1小時。  <br>
 **Understood. The diagnosis will take about an hour.**  <br>
@@ -350,25 +350,25 @@ tags: [日語, Japanese, 日語對話]
 <div style="text-align: right">  
 
 **同事B:** 暖かい服を用意したほうがいいでしょう。  <br>
-(Attakai fuku o yōi shita hō ga īdeshou.)  <br>
-我們應該準備好暖和的衣服。  <br>
+(atatakai fuku o youi shita hou ga ii deshou.)  <br>
+我們應該準備好保暖的衣服。  <br>
 **We should prepare warm clothes.**  <br>
 </div>  
 
 <div style="text-align: left">  
 
-**同事A:** はい、風邪をひかないように。  <br>
-(Hai, kaze o hikanai yō ni.)  <br>
-是的，這樣我們就不會感冒了。  <br>
-**Yes, that way we won't catch a cold.**  <br>
+**同事A:** はい、風邪をひかないように気をつけましょう。  <br>
+(hai, kaze o hikanai you ni ki o tsukemashou.)  <br>
+是的，我們要小心不要感冒了。  <br>
+**Yes, let's be careful not to catch a cold.**  <br>
 </div>  
 
 <div style="text-align: right">  
 
-**同事B:** ありがとうございます。  <br>
-(arigatou gozaimasu.)  <br>
-謝謝。  <br>
-**Thank you.**  <br>
+**同事B:** お互い気をつけましょう。  <br>
+(otagai ki o tsukemashou.)  <br>
+大家都要注意保重。  <br>
+**Let's take care of ourselves.**  <br>
 </div>  
 
 ### 重點句型

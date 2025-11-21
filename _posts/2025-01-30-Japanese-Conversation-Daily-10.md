@@ -79,7 +79,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 <div style="text-align: right">  
 
 **顧客:** このシャツは他の素材でも入手可能でしょうか?  <br>
-(Kono shatsu wa hoka no sozai demo nyūshu kanōdeshou ka?)  <br>
+(kono shatsu wa hoka no sozai de mo nyuushu kanou deshou ka?)  <br>
 這件襯衫有其他材質嗎？  <br>
 **Does this shirt come in other materials?**  <br>
 </div>  
@@ -94,10 +94,10 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 
 <div style="text-align: right">  
 
-**顧客:** 大変ありがとうございます！  <br>
-(taihen arigatou gozaimasu!)  <br>
-太好了，謝謝！  <br>
-**Great, thank you!**  <br>
+**顧客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
 </div>  
 
 ### 重點句型
@@ -164,7 +164,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 <div style="text-align: right">  
 
 **顧客:** この色は褪せますか？  <br>
-(Kono-iro wa asemasu ka?)  <br>
+(kono iro wa asemasu ka?)  <br>
 這個顏色會褪色嗎？  <br>
 **Will this color fade?**  <br>
 </div>  
@@ -179,10 +179,10 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 
 <div style="text-align: right">  
 
-**顧客:** 大変ありがとうございます！  <br>
-(taihen arigatou gozaimasu!)  <br>
-太好了，謝謝！  <br>
-**Great, thank you!**  <br>
+**顧客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
 </div>  
 
 ### 重點句型
@@ -249,7 +249,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 <div style="text-align: right">  
 
 **顧客:** 会員割引はありますか？  <br>
-(Kaiin waribiki wa arimasu ka?)  <br>
+(kaiin waribiki wa arimasu ka?)  <br>
 有會員折扣嗎？  <br>
 **Is there a membership discount?**  <br>
 </div>  
@@ -264,10 +264,10 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 
 <div style="text-align: right">  
 
-**顧客:** 大変ありがとうございます！  <br>
-(taihen arigatou gozaimasu!)  <br>
-太好了，謝謝！  <br>
-**Great, thank you!**  <br>
+**顧客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
 </div>  
 
 ### 重點句型

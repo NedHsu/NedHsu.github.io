@@ -415,7 +415,7 @@ excerpt: 學習日語中家庭成員和人物相關的表達方式，包括家�
 </div>  
 
 ### 重點句型
-- ～が～ています。(~ga ~te imasu) - ...正在...
+- ～は～が～です。(~wa ~ga ~desu) - ...的...是... (描述特徵)
 - ～な人です。(~na hito desu) - 是...的人
 - ～を助けます。(~wo tasukemasu) - 幫助...
 
@@ -521,7 +521,7 @@ excerpt: 學習日語中家庭成員和人物相關的表達方式，包括家�
 <div style="text-align: left">  
 **配偶者** (haiguusha) - 配偶  <br>
 **Spouse**  <br>
-*例句：配偶者と結婚しました。(haiguusha to kekkon shimashita) - 我和配偶結婚了。*  <br>
+*例句：配偶者と旅行に行きます。(haiguusha to ryokou ni ikimasu) - 我和配偶去旅行。*  <br>
 </div>  
 
 ### 重點句型

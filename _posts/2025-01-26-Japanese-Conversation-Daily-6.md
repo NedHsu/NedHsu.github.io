@@ -279,7 +279,7 @@ tags: [日語, Japanese, 日語對話]
 <div style="text-align: right">  
 
 **顧客:** この製品には何か特別な機能がありますか?  <br>
-(Kono seihin ni wa nani ka tokubetsuna kinō ga arimasu ka?)  <br>
+(Kono seihin ni wa nanika tokubetsuna kinou ga arimasu ka?)  <br>
 這款有什麼特別功能嗎？  <br>
 **Does this model have any special features?**  <br>
 </div>  
@@ -294,10 +294,10 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** 大変ありがとうございます！  <br>
-(taihen arigatou gozaimasu!)  <br>
-太好了，謝謝！  <br>
-**Great, thank you!**  <br>
+**顧客:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝。  <br>
+**Thank you.**  <br>
 </div>  
 
 ### 重點句型
@@ -350,7 +350,7 @@ tags: [日語, Japanese, 日語對話]
 <div style="text-align: right">  
 
 **乘客:** おおよそどのくらい時間がかかりますか?  <br>
-(dono kurai jikan ga kakarimasu ka?)  <br>
+(ooyoso dono kurai jikan ga kakarimasu ka?)  <br>
 大約需要多長時間？  <br>
 **How long will it take?**  <br>
 </div>  

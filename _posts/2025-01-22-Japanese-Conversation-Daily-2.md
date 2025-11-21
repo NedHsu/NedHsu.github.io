@@ -130,8 +130,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**B:** 今晩7時、4名様で予約をお願いしたいのですが。  <br>
-(konban shichiji, yonmeisama de yoyaku o onegai shitai no desu ga.)  <br>
+**B:** 今晩7時、4人で予約をお願いしたいのですが。  <br>
+(konban shichiji, yonin de yoyaku o onegai shitai no desu ga.)  <br>
 我想預約今晚7點，4位。  <br>
 **I'd like to make a reservation for 4 people at 7 PM tonight.**  <br>
 </div>  
@@ -160,10 +160,10 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: left">  
 
-**A:** ありがとうございます。ご予約をお待ちしております。  <br>
-(arigatou gozaimasu. go-yoyaku o omachi shite orimasu.)  <br>
+**A:** ありがとうございます。ご来店をお待ちしております。  <br>
+(arigatou gozaimasu. go-raiten o omachi shite orimasu.)  <br>
 謝謝。我們期待您的光臨。  <br>
-**Thank you. We look forward to your reservation.**  <br>
+**Thank you. We look forward to seeing you.**  <br>
 </div>  
 
 <div style="text-align: right">  
@@ -194,7 +194,7 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: left">  
 
-**A:** 今日はいい天氣ですね。  <br>
+**A:** 今日はいい天気ですね。  <br>
 (kyou wa ii tenki desu ne.)  <br>
 今天天氣真好啊。  <br>
 **It's nice weather today, isn't it?**  <br>
@@ -249,12 +249,12 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 ### 重點句型
-- ～はいい天氣ですね。(~wa ii tenki desu ne) - ...天氣真好啊
+- ～はいい天気ですね。(~wa ii tenki desu ne) - ...天氣真好啊
 - ～そうですよ。(~sou desu yo) - 聽說...
 - ～した方がいいですね。(~shita hou ga ii desu ne) - 最好...
 
 ### 相關單字
-- 天氣 (tenki) - 天氣
+- 天気 (tenki) - 天氣
 - 雨 (ame) - 雨
 - 晴れ (hare) - 晴天
 - 曇り (kumori) - 陰天

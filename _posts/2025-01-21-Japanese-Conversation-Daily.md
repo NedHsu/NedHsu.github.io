@@ -219,10 +219,10 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: left">  
 
-**收銀員:** かしこまりました。またお越しくださいませ！  <br>
-(kashikomarimashita. mata o-koshi kudasaimase!)  <br>
-好的，歡迎再來！  <br>
-**Got it. Please visit us again!**  <br>
+**店員:** かしこまりました。500円のお返しです。またお越しくださいませ！  <br>
+(kashikomarimashita. gohyaku en no o-kaeshi desu. mata o-koshi kudasaimase!)  <br>
+好的。找您500日圓。歡迎再來！  <br>
+**Got it. Here is 500 yen change. Please visit us again!**  <br>
 </div>  
 
 <div style="text-align: right">  

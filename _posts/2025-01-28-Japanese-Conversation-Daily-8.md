@@ -100,7 +100,7 @@ tags: [日語, Japanese, 日語對話]
 <div style="text-align: left">
 
 **田中:** それはいいですね、楽しみにしています。 <br>
-(Sore wa īdesu ne, tanoshiminishiteimasu.) <br>
+(sore wa ii desu ne, tanoshimi ni shite imasu.) <br>
 太好了，我很期待。 <br>
 **Great, I'm looking forward to it.** <br>
 
@@ -185,7 +185,7 @@ tags: [日語, Japanese, 日語對話]
 <div style="text-align: left">
 
 **田中:** 訪問する機会があれば幸いです。 <br>
-(Hōmon suru kikai ga areba saiwaidesu.) <br>
+(houmon suru kikai ga areba saiwai desu.) <br>
 我希望有機會去看看。 <br>
 **I hope to visit someday.** <br>
 
@@ -261,7 +261,7 @@ tags: [日語, Japanese, 日語對話]
 <div style="text-align: right">
 
 **山田:** ありがとうございます。仕事は楽しいです。 <br>
-(Arigatōgozaimasu. Shigoto wa tanoshīdesu.) <br>
+(arigatou gozaimasu. shigoto wa tanoshii desu.) <br>
 謝謝，我很喜歡我的工作。 <br>
 **Thank you, I love my job.** <br>
 
@@ -270,7 +270,7 @@ tags: [日語, Japanese, 日語對話]
 <div style="text-align: left">
 
 **田中:** それは素晴らしいことです。 <br>
-(Sore wa subarashī kotodesu.) <br>
+(sore wa subarashii koto desu.) <br>
 那真是太好了。 <br>
 **That's good to hear.** <br>
 
@@ -346,7 +346,7 @@ tags: [日語, Japanese, 日語對話]
 <div style="text-align: right">
 
 **田中:** 次回は友達を連れて来ます。 <br>
-(Jikai wa tomodachi o tsuretekimasu.) <br>
+(jikai wa tomodachi o tsurete kimasu.) <br>
 下次我會帶朋友來。 <br>
 **Next time, I'll bring my friends.** <br>
 
@@ -363,8 +363,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">
 
-**田中:** さよなら！ <br>
-(Sayonara!) <br>
+**田中:** さようなら！ <br>
+(sayounara!) <br>
 再見！ <br>
 **Goodbye!** <br>
 
@@ -439,8 +439,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">
 
-**山田:** はい、仕事と生活のバランスです。 <br>
-(Hai, shigoto to seikatsu no baransudesu.) <br>
+**山田:** はい、仕事と生活のバランスが取れています。 <br>
+(hai, shigoto to seikatsu no baransu ga torete imasu.) <br>
 是的，工作和生活都很平衡。 <br>
 **Yes, work and life are well balanced.** <br>
 
