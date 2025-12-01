@@ -1,0 +1,16 @@
+<!-- Table of Contents with Buy Me a Coffee integrated below -->
+
+{% if page.toc %}
+  <section id="toc-wrapper" class="ps-0 pe-4 mb-4">
+    <h2 class="panel-heading ps-4 pt-3 mb-2">
+      {% if include.lang %}
+        {{- site.data.locales[include.lang].panel.toc | default: "Table of Contents" -}}
+      {% else %}
+        {% include lang.html %}
+        {{- site.data.locales[lang].panel.toc | default: "Table of Contents" -}}
+      {% endif %}
+    </h2>
+    <nav id="toc"></nav>
+    {% include buy-me-a-coffee.html %}
+  </section>
+{% endif %}
