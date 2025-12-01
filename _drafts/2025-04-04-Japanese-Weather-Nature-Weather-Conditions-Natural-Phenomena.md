@@ -32,7 +32,7 @@ excerpt: 學習日語中天氣和自然相關的表達方式，包括天氣狀�
 ## 情境 1: 基本天氣狀況
 
 ![基本天氣](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese weather conditions and meteorological phenomena diagram - weather conditions and weather patterns with Japanese labels (晴れ, 曇り, 雨, 雪, 風, 嵐, 霧, 雷, 天気, 気象, 予報, 観測), clean weather condition layout, educational diagram style, no text overlays, only weather condition labels positioned at corresponding meteorological phenomenon elements -->
+<!-- Image Prompt: Japanese weather conditions and meteorological phenomena diagram - weather conditions and weather patterns (晴れ, 曇り, 雨, 雪, 風, 嵐, 霧, 雷, 天気, 気象, 予報, 観測), clean weather condition layout, educational diagram style, no text overlays, only weather condition labels positioned at corresponding meteorological phenomenon elements -->
 
 ### 晴天與陰天
 
@@ -102,7 +102,7 @@ excerpt: 學習日語中天氣和自然相關的表達方式，包括天氣狀�
 ## 情境 2: 溫度與氣候
 
 ![溫度氣候](https://images.unsplash.com/photo-1557683316-973673baf926?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese temperature and climate system diagram - temperature expressions and climate types with Japanese labels (暑い, 寒い, 暖かい, 涼しい, 蒸し暑い, 乾燥, 湿気, 快適, 熱帯, 温帯, 寒帯, 温度, 湿度, 気候, 環境), clean temperature climate layout, educational diagram style, no text overlays, only temperature climate labels positioned at corresponding climate system elements -->
+<!-- Image Prompt: Japanese temperature and climate system diagram - temperature expressions and climate types (暑い, 寒い, 暖かい, 涼しい, 蒸し暑い, 乾燥, 湿気, 快適, 熱帯, 温帯, 寒帯, 温度, 湿度, 気候, 環境), clean temperature climate layout, educational diagram style, no text overlays, only temperature climate labels positioned at corresponding climate system elements -->
 
 ### 溫度表達
 
@@ -192,7 +192,7 @@ excerpt: 學習日語中天氣和自然相關的表達方式，包括天氣狀�
 ## 情境 3: 自然現象
 
 ![自然現象](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese natural phenomena and astronomical events diagram - natural phenomena and astronomical occurrences with Japanese labels (日の出, 日の入り, 月, 星, 地震, 津波, 台風, 洪水, 虹, オーロラ, 日食, 月食, 現象, 災害, 警報, 観測), clean natural phenomena layout, educational diagram style, no text overlays, only natural phenomena labels positioned at corresponding astronomical event elements -->
+<!-- Image Prompt: Japanese natural phenomena and astronomical events diagram - natural phenomena and astronomical occurrences (日の出, 日の入り, 月, 星, 地震, 津波, 台風, 洪水, 虹, オーロラ, 日食, 月食, 現象, 災害, 警報, 観測), clean natural phenomena layout, educational diagram style, no text overlays, only natural phenomena labels positioned at corresponding astronomical event elements -->
 
 ### 天文現象
 
@@ -288,7 +288,7 @@ excerpt: 學習日語中天氣和自然相關的表達方式，包括天氣狀�
 ## 情境 4: 季節變化
 
 ![季節變化](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese seasonal changes and seasonal activities diagram - seasonal characteristics and seasonal events with Japanese labels (桜, 新緑, 花粉症, 入学式, 夏祭り, 花火, 海水浴, 暑中見舞い, 紅葉, 食欲の秋, 運動会, 文化祭, 雪景色, スキー, 正月, 年賀状, 季節, 変化, 行事, 伝統), clean seasonal change layout, educational diagram style, no text overlays, only seasonal change labels positioned at corresponding seasonal activity elements -->
+<!-- Image Prompt: Japanese seasonal changes and seasonal activities diagram - seasonal characteristics and seasonal events (桜, 新緑, 花粉症, 入学式, 夏祭り, 花火, 海水浴, 暑中見舞い, 紅葉, 食欲の秋, 運動会, 文化祭, 雪景色, スキー, 正月, 年賀状, 季節, 変化, 行事, 伝統), clean seasonal change layout, educational diagram style, no text overlays, only seasonal change labels positioned at corresponding seasonal activity elements -->
 
 ### 春季特徵
 
@@ -410,7 +410,7 @@ excerpt: 學習日語中天氣和自然相關的表達方式，包括天氣狀�
 ## 情境 5: 天氣相關對話
 
 ![天氣對話](https://images.unsplash.com/photo-1541746972996-4e0b0f93e586?w=800&h=400&fit=crop&crop=center)
-<!-- Image Prompt: Japanese weather conversation and meteorological dialogue scene - weather conversation and weather discussion with Japanese labels (今日の天気はどうですか, 明日は雨が降りますか, 気温は何度ですか, 傘は必要ですか, 晴れです, 雨が降っています, 25度です, 傘を持って行ってください, 天気予報, 降水確率, 最高気温, 最低気温, 洗濯物, 外出, 体調, 気分, 会話, 質問, 回答, 影響), clean weather conversation setting, educational illustration style, no text overlays, only weather conversation phrase labels positioned near corresponding meteorological dialogue elements -->
+<!-- Image Prompt: Japanese weather conversation and meteorological dialogue scene - weather conversation and weather discussion (今日の天気はどうですか, 明日は雨が降りますか, 気温は何度ですか, 傘は必要ですか, 晴れです, 雨が降っています, 25度です, 傘を持って行ってください, 天気予報, 降水確率, 最高気温, 最低気温, 洗濯物, 外出, 体調, 気分, 会話, 質問, 回答, 影響), clean weather conversation setting, educational illustration style, no text overlays, only weather conversation phrase labels positioned near corresponding meteorological dialogue elements -->
 
 ### 天氣詢問
 
@@ -434,7 +434,7 @@ excerpt: 學習日語中天氣和自然相關的表達方式，包括天氣狀�
 
 <div style="text-align: left">  
 **傘は必要ですか？** (kasa wa hitsuyou desu ka?) - 需要雨傘嗎？  <br>
-**Do I need an umbrella?**  <br>
+**Do you need an umbrella?**  <br>
 *例句：傘は必要ですか？(kasa wa hitsuyou desu ka?) - 需要雨傘嗎？*  <br>
 </div>  
 
