@@ -60,7 +60,7 @@ excerpt: 學習日語敬語的基礎，包括です・ます・だ・である�
 </div>  
 
 <div style="text-align: left">  
-**本を読みます** (hon wo yomimasu) - 讀書  <br>
+**本を読みます** (hon wo yomimasu) - 讀一本書  <br>
 **Read a book**  <br>
 *例句：毎日勉強します。(mainichi benkyou shimasu) - 每天學習。*  <br>
 </div>  
