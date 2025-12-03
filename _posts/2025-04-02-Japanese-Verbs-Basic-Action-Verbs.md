@@ -250,7 +250,7 @@ excerpt: 學習日常生活中常用的日語動詞，包括基本動作、日�
 <div style="text-align: left">  
 **見える** (mieru) - 看得見  <br>
 **To be visible**  <br>
-*例句：富士山が見えます。(fujisan ga miemasu) - 富士山看得見。*  <br>
+*例句：富士山が見えます。(fujisan ga miemasu) - 可以看到富士山。*  <br>
 </div>  
 
 <div style="text-align: left">  
