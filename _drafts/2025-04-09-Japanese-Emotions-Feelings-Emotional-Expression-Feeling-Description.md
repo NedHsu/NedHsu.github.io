@@ -91,7 +91,7 @@ excerpt: 學習日語中情感與感受相關的表達方式，包括基本情�
 <div style="text-align: left">  
 **怒る** (okoru) - 生氣  <br>
 **Angry**  <br>
-*例句：約束を破られて怒りました。(yakusoku wo yaburarete okorimashita) - 我被爽約而生氣。*  <br>
+*例句：約束を破られて怒りました。(yakusoku wo yaburarete okorimashita) - 因為被爽約，所以我很生氣。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -109,7 +109,7 @@ excerpt: 學習日語中情感與感受相關的表達方式，包括基本情�
 <div style="text-align: left">  
 **怖い** (kowai) - 害怕的  <br>
 **Scared**  <br>
-*例句：暗い道が怖いです。(kurai michi ga kowai desu) - 我害怕黑暗的道路。*  <br>
+*例句：暗い道が怖いです。(kurai michi ga kowai desu) - 我害怕黑暗的路。*  <br>
 </div>  
 
 ### 重點句型
@@ -142,7 +142,7 @@ excerpt: 學習日語中情感與感受相關的表達方式，包括基本情�
 <div style="text-align: left">  
 **リラックス** (rirakkusu) - 放鬆  <br>
 **Relaxed**  <br>
-*例句：温泉でリラックスしました。(onsen de rirakkusu shimashita) - 我在溫泉放鬆了。*  <br>
+*例句：温泉でリラックスしました。(onsen de rirakkusu shimashita) - 我在溫泉裡放鬆了。*  <br>
 *（註：外來語，來自英語"relax"）*  <br>
 </div>  
 
@@ -163,7 +163,7 @@ excerpt: 學習日語中情感與感受相關的表達方式，包括基本情�
 <div style="text-align: left">  
 **安心** (anshin) - 安心  <br>
 **Relieved**  <br>
-*例句：無事で安心しました。(buji de anshin shimashita) - 平安無事讓我安心。*  <br>
+*例句：無事で安心しました。(buji de anshin shimashita) - 因為平安無事而安心。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -175,7 +175,7 @@ excerpt: 學習日語中情感與感受相關的表達方式，包括基本情�
 <div style="text-align: left">  
 **感謝** (kansha) - 感謝  <br>
 **Grateful, Thankful**  <br>
-*例句：ご親切に感謝しています。(go shinsetsu ni kansha shite imasu) - 我感謝您的親切。*  <br>
+*例句：ご親切に感謝しています。(go shinsetsu ni kansha shite imasu) - 感謝您的親切。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -189,7 +189,7 @@ excerpt: 學習日語中情感與感受相關的表達方式，包括基本情�
 <div style="text-align: left">  
 **複雑** (fukuzatsu) - 複雜的  <br>
 **Complex**  <br>
-*例句：複雑な気持ちです。(fukuzatsu na kimochi desu) - 我感到複雜的心情。*  <br>
+*例句：複雑な気持ちです。(fukuzatsu na kimochi desu) - 我的心情很複雜。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -207,7 +207,7 @@ excerpt: 學習日語中情感與感受相關的表達方式，包括基本情�
 <div style="text-align: left">  
 **悩む** (nayamu) - 煩惱、苦惱  <br>
 **Worried, Troubled**  <br>
-*例句：将来のことで悩んでいます。(shourai no koto de nayande imasu) - 我為未來的事情煩惱。*  <br>
+*例句：将来のことで悩んでいます。(shourai no koto de nayande imasu) - 我為未來的事煩惱。*  <br>
 *（註：與「心配」不同，「悩む」更強調內心的苦惱）*  <br>
 </div>  
 
@@ -246,7 +246,7 @@ excerpt: 學習日語中情感與感受相關的表達方式，包括基本情�
 <div style="text-align: left">  
 **怒る** (okoru) - 生氣  <br>
 **Get angry**  <br>
-*例句：約束を破られて怒りました。(yakusoku wo yaburarete okorimashita) - 我被爽約而生氣。*  <br>
+*例句：約束を破られて怒りました。(yakusoku wo yaburarete okorimashita) - 因為被爽約，所以我很生氣。*  <br>
 *（註：與情境1中的「怒る」相同，這裡強調情感表達的方式）*  <br>
 </div>  
 
@@ -466,19 +466,19 @@ excerpt: 學習日語中情感與感受相關的表達方式，包括基本情�
 <div style="text-align: left">  
 **奥ゆかしい** (okuyukashii) - 優雅  <br>
 **Graceful**  <br>
-*例句：奥ゆかしい人です。(okuyukashii hito desu) - 是優雅的人。*  <br>
+*例句：奥ゆかしい人です。(okuyukashii hito desu) - 他是個優雅的人。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **慎み深い** (tsutsushimi bukai) - 謹慎  <br>
 **Prudent**  <br>
-*例句：慎み深い態度です。(tsutsushimi bukai taido desu) - 是謹慎的態度。*  <br>
+*例句：慎み深い態度です。(tsutsushimi bukai taido desu) - 這是謹慎的態度。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **思いやり** (omoiyari) - 體貼  <br>
 **Consideration**  <br>
-*例句：思いやりのある人です。(omoiyari no aru hito desu) - 是體貼的人。*  <br>
+*例句：思いやりのある人です。(omoiyari no aru hito desu) - 他是個體貼的人。*  <br>
 </div>  
 
 ### 社會情感
