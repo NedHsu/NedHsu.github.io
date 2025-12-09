@@ -244,9 +244,9 @@ image:
 </div>  
 
 <div style="text-align: left">  
-**海水浴** (kaisuiyoku) - 海水浴  <br>
+**海水浴** (kaisuiyoku) - 在海裡游泳  <br>
 **Sea bathing**  <br>
-*例句：夏に海水浴をします。(natsu ni kaisuiyoku wo shimasu) - 夏天海水浴。*  <br>
+*例句：夏に海水浴をします。(natsu ni kaisuiyoku wo shimasu) - 夏天我常去海裡游泳。*  <br>
 </div>  
 
 <div style="text-align: left">  
