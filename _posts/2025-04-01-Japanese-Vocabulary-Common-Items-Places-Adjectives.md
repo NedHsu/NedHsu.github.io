@@ -4,6 +4,8 @@ date: 2025-04-01 19:00:00 +0800
 categories: [Language, Japanese]
 tags: [日語, Japanese, 詞彙, Vocabulary] 
 excerpt: 學習日常生活中常見的日語詞彙，包括物品、地點和形容詞。每個詞彙都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
+image:
+  path: /assets/img/jp/2025-04-01-Japanese-Vocabulary-Common-Items-Places-Adjectives/日常物品.webp
 ---
 
 ## 課程預覽
@@ -28,7 +30,8 @@ excerpt: 學習日常生活中常見的日語詞彙，包括物品、地點和�
 
 ## 情境 1: 常見物品
 
-![日常物品](/assets/img/jp/日常物品.webp)
+![日常物品](/assets/img/jp/2025-04-01-Japanese-Vocabulary-Common-Items-Places-Adjectives/日常物品.webp)
+<!-- Image Prompt: Japanese daily items vocabulary diagram - household appliances and electronics with Japanese labels (テレビ, 冷蔵庫, 洗濯機, エアコン, スマートフォン, パソコン, カメラ, 本, ペン), clean object illustration style, educational diagram, no text overlays, only item labels positioned near corresponding objects -->
 
 ### 家庭用品
 
@@ -121,7 +124,8 @@ excerpt: 學習日常生活中常見的日語詞彙，包括物品、地點和�
 
 ## 情境 2: 重要地點
 
-![重要地點](/assets/img/jp/重要地點.webp)
+![重要地點](/assets/img/jp/2025-04-01-Japanese-Vocabulary-Common-Items-Places-Adjectives/重要地點.webp)
+<!-- Image Prompt: Japanese places vocabulary diagram - public and commercial buildings with Japanese labels (学校, 病院, 銀行, 郵便局, デパート, スーパー, コンビニ, レストラン, 公園, 図書館), clean city map illustration style, educational diagram, no text overlays, only place labels positioned near corresponding buildings -->
 
 ### 公共場所
 
@@ -223,7 +227,8 @@ excerpt: 學習日常生活中常見的日語詞彙，包括物品、地點和�
 
 ### 大小形容詞
 
-![大小形容詞](/assets/img/jp/基本形容詞-大小.webp)
+![大小形容詞](/assets/img/jp/2025-04-01-Japanese-Vocabulary-Common-Items-Places-Adjectives/大小形容詞.webp)
+<!-- Image Prompt: Japanese size and length adjectives diagram - comparison of objects showing different sizes with Japanese labels (大きい, 小さい, 長い, 短い), clean comparison illustration style, educational diagram, no text overlays, only adjective labels positioned near corresponding objects -->
 
 <div style="text-align: left">  
 
@@ -255,7 +260,8 @@ excerpt: 學習日常生活中常見的日語詞彙，包括物品、地點和�
 
 ### 溫度形容詞
 
-![大小形容詞](/assets/img/jp/基本形容詞-溫度.webp)
+![溫度形容詞](/assets/img/jp/2025-04-01-Japanese-Vocabulary-Common-Items-Places-Adjectives/溫度形容詞.webp)
+<!-- Image Prompt: Japanese temperature adjectives diagram - hot and cold objects with Japanese labels (熱い, 冷たい, 暖かい, 涼しい), clean temperature illustration style, educational diagram, no text overlays, only adjective labels positioned near corresponding objects -->
 
 <div style="text-align: left">  
 
@@ -287,7 +293,8 @@ excerpt: 學習日常生活中常見的日語詞彙，包括物品、地點和�
 
 ### 感覺形容詞
 
-![大小形容詞](/assets/img/jp/基本形容詞-感覺.webp)
+![感覺形容詞](/assets/img/jp/2025-04-01-Japanese-Vocabulary-Common-Items-Places-Adjectives/感覺形容詞.webp)
+<!-- Image Prompt: Japanese sensory adjectives diagram - delicious food and clean/dirty rooms with Japanese labels (美味しい, きれい, 汚い, 新しい), clean sensory illustration style, educational diagram, no text overlays, only adjective labels positioned near corresponding objects -->
 
 <div style="text-align: left">  
 
@@ -332,7 +339,8 @@ excerpt: 學習日常生活中常見的日語詞彙，包括物品、地點和�
 
 ## 情境 4: 顏色與形狀
 
-![顏色形狀](/assets/img/jp/顏色與形狀.webp)
+![顏色形狀](/assets/img/jp/2025-04-01-Japanese-Vocabulary-Common-Items-Places-Adjectives/顏色形狀.webp)
+<!-- Image Prompt: Japanese colors and shapes vocabulary diagram - basic geometric shapes in different colors with Japanese labels (赤, 青, 黄色, 緑, 黒, 白, 丸い, 四角い, 三角), clean colorful illustration style, educational diagram, no text overlays, only color and shape labels positioned near corresponding elements -->
 
 ### 基本顏色
 
@@ -423,7 +431,8 @@ excerpt: 學習日常生活中常見的日語詞彙，包括物品、地點和�
 
 ## 情境 5: 大小與數量
 
-![大小數量](/assets/img/jp/大小與數量.webp)
+![大小數量](/assets/img/jp/2025-04-01-Japanese-Vocabulary-Common-Items-Places-Adjectives/大小數量.webp)
+<!-- Image Prompt: Japanese quantity and degree vocabulary diagram - counting objects and degree indicators with Japanese labels (一つ, 二つ, 三つ, たくさん, とても, 少し, 全然, かなり), clean infographic style, educational diagram, no text overlays, only quantity labels positioned near corresponding elements -->
 
 ### 數量詞
 

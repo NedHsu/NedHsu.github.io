@@ -4,6 +4,8 @@ date: 2025-04-02 19:00:00 +0800
 categories: [Language, Japanese]
 tags: [日語, Japanese, 動詞, Verbs] 
 excerpt: 學習日常生活中常用的日語動詞，包括基本動作、日常活動、移動動詞、感官動詞和情感動詞。每個動詞都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
+image:
+  path: /assets/img/jp/2025-04-02-Japanese-Verbs-Basic-Action-Verbs/基本動作.webp
 ---
 
 ## 課程預覽
@@ -23,8 +25,6 @@ excerpt: 學習日常生活中常用的日語動詞，包括基本動作、日�
 - 掌握動詞的搭配使用
 - 練習動詞的發音
 - 注意敬語動詞的使用場合
-
-讓我們一起開始今天的學習吧！
 
 ---
 
@@ -99,6 +99,9 @@ excerpt: 學習日常生活中常用的日語動詞，包括基本動作、日�
 
 ## 情境 2: 日常活動動詞
 
+![日常活動](/assets/img/jp/2025-04-02-Japanese-Verbs-Basic-Action-Verbs/日常活動.webp)
+<!-- Image Prompt: Japanese daily activity verbs diagram - scenes of study work and housework with Japanese labels (勉強する, 働く, 読む, 書く, 料理する, 掃除する, 洗う, 買い物する, 家事, 仕事), clean daily life illustration style, educational diagram, no text overlays, only activity verb labels positioned near corresponding activity scenes -->
+
 ### 學習與工作
 
 <div style="text-align: left">  
@@ -165,6 +168,9 @@ excerpt: 學習日常生活中常用的日語動詞，包括基本動作、日�
 ---
 
 ## 情境 3: 移動動詞
+
+![移動動詞](/assets/img/jp/2025-04-02-Japanese-Verbs-Basic-Action-Verbs/移動動詞.webp)
+<!-- Image Prompt: Japanese movement and transportation verbs diagram - people moving and using transport with Japanese labels (行く, 来る, 帰る, 出る, 乗る, 降りる, 運転する, 飛ぶ, 移動, 交通), clean transportation illustration style, educational diagram, no text overlays, only movement verb labels positioned near corresponding movement actions -->
 
 ### 基本移動
 
@@ -233,6 +239,9 @@ excerpt: 學習日常生活中常用的日語動詞，包括基本動作、日�
 
 ## 情境 4: 感官動詞
 
+![感官動詞](/assets/img/jp/2025-04-02-Japanese-Verbs-Basic-Action-Verbs/感官動詞.webp)
+<!-- Image Prompt: Japanese sensory verbs diagram - characters using five senses with Japanese labels (見る, 聞く, 見える, 聞こえる, 触る, 味わう, 嗅ぐ, 感じる, 感覚, 五感), clean sensory illustration style, educational diagram, no text overlays, only sensory verb labels positioned near corresponding sensory actions -->
+
 ### 視覺與聽覺
 
 <div style="text-align: left">  
@@ -299,6 +308,9 @@ excerpt: 學習日常生活中常用的日語動詞，包括基本動作、日�
 ---
 
 ## 情境 5: 情感動詞
+
+![情感動詞](/assets/img/jp/2025-04-02-Japanese-Verbs-Basic-Action-Verbs/情感動詞.webp)
+<!-- Image Prompt: Japanese emotional verbs diagram - facial expressions showing various emotions with Japanese labels (笑う, 喜ぶ, 楽しむ, 愛する, 泣く, 怒る, 心配する, 困る, 感情, 気持ち), clean emotion illustration style, educational diagram, no text overlays, only emotional verb labels positioned near corresponding facial expressions -->
 
 ### 正面情感
 
