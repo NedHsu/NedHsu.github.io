@@ -4,7 +4,10 @@ date: 2025-08-02 19:00:00 +0800
 categories: [Language, Japanese]
 tags: [日語, Japanese, 語法, Grammar, 助詞, Particles] 
 excerpt: 學習日語中最常用的助詞は・が・を・に的用法，包括它們的區別、使用場合和常見錯誤。每個助詞都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
+pin: true
 ---
+
+{% include embed/youtube.html id='dK6GNIVaET0' %}
 
 ## 課程預覽
 
@@ -23,10 +26,6 @@ excerpt: 學習日語中最常用的助詞は・が・を・に的用法，包�
 - 熟悉を・に的使用場合
 - 練習助詞的正確使用
 - 注意助詞的發音變化
-
-讓我們一起開始今天的學習吧！
-
-{% include embed/youtube.html id='dK6GNIVaET0' %}
 
 ---
 
