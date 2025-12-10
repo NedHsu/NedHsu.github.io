@@ -6,6 +6,10 @@ tags: [日語, Japanese, 日語基礎]
 excerpt: "日語有五個基本母音，分別是「あ（a）」「い（i）」「う（u）」「え（e）」「お（o）」。這些母音的發音非常穩定，不會像某些語言一樣因環境不同而變化。"
 ---
 
+{% include embed/youtube.html id='1jKPTpNNEhY' %}
+
+{% include embed/youtube.html id='iJk_JqWLrQ8' %}
+
 **日語的發音規則相對簡單，且每個假名基本上對應一個固定的音節。**
 **掌握發音規則是正確發音和聽懂日語的關鍵。**
 以下是日語發音的基本規則：
@@ -39,10 +43,6 @@ excerpt: "日語有五個基本母音，分別是「あ（a）」「い（i）�
 - **ん (n)**: 發音類似英文的「n」，根據後續發音位置的不同，可能會稍有變化。例如：在「ま、ば、ぱ」前會發成[m]音，在「か、が」前會發成[ŋ]音。
 
 ### 日語五十音發音練習
-
-{% include embed/youtube.html id='1jKPTpNNEhY' %}
-
-{% include embed/youtube.html id='iJk_JqWLrQ8' %}
 
 ## **2.1 濁音（Dakuon）**
 濁音是在清音基礎上加濁點（゛）形成的音節，發音時聲帶震動，聲音較重。濁音是日語音節系統的重要組成部分。
