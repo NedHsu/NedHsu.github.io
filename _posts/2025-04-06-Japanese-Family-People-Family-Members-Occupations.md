@@ -30,7 +30,7 @@ excerpt: 學習日語中家庭成員和人物相關的表達方式，包括家�
 
 ## 情境 1: 家庭成員
 
-![家庭成員](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
+![家庭成員](/assets/img/jp/2025-04-06-Japanese-Family-People-Family-Members-Occupations/家庭成員.webp)
 <!-- Image Prompt: Japanese family members and family relationships diagram - family members and family structure with Japanese labels (父, 母, 息子, 娘, 兄, 弟, 姉, 妹, 祖父, 祖母, 孫, 家族, 親戚, 血縁, 関係), clean family relationship layout, educational diagram style, no text overlays, only family member labels positioned at corresponding family structure elements -->
 
 ### 核心家庭成員
@@ -120,7 +120,7 @@ excerpt: 學習日語中家庭成員和人物相關的表達方式，包括家�
 
 ## 情境 2: 親戚關係
 
-![親戚關係](https://images.unsplash.com/photo-1557683316-973673baf926?w=800&h=400&fit=crop&crop=center)
+![親戚關係](/assets/img/jp/2025-04-06-Japanese-Family-People-Family-Members-Occupations/親戚關係.webp)
 <!-- Image Prompt: Japanese extended family and kinship relationships diagram - extended family members and kinship connections with Japanese labels (おじ, おば, いとこ, 義理の父, 義理の母, 義理の兄, 義理の姉, 甥, 姪, 曾祖父, 曾祖母, 親族, 姻戚, 血縁, 家系), clean extended family layout, educational diagram style, no text overlays, only extended family labels positioned at corresponding kinship relationship elements -->
 
 ### 叔伯姑姨
@@ -210,7 +210,7 @@ excerpt: 學習日語中家庭成員和人物相關的表達方式，包括家�
 
 ## 情境 3: 職業與工作
 
-![職業工作](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
+![職業工作](/assets/img/jp/2025-04-06-Japanese-Family-People-Family-Members-Occupations/職業工作.webp)
 <!-- Image Prompt: Japanese professions and occupational categories diagram - professional occupations and work categories with Japanese labels (医者, 看護師, 教師, 弁護士, 会社員, 営業, 経理, 秘書, 料理人, 店員, 運転手, 清掃員, 画家, 音楽家, 作家, デザイナー, 職業, 仕事, 職場, 働く), clean profession layout, educational diagram style, no text overlays, only profession labels positioned at corresponding occupational category elements -->
 
 ### 專業職業
@@ -332,7 +332,7 @@ excerpt: 學習日語中家庭成員和人物相關的表達方式，包括家�
 
 ## 情境 4: 人物描述
 
-![人物描述](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=400&fit=crop&crop=center)
+![人物描述](/assets/img/jp/2025-04-06-Japanese-Family-People-Family-Members-Occupations/人物描述.webp)
 <!-- Image Prompt: Japanese people descriptions and characteristics diagram - people descriptions and personal characteristics with Japanese labels (子供, 大人, 老人, 若者, 背が高い, 背が低い, 髪が長い, 髪が短い, 優しい, 親切, 面白い, 真面目, 外見, 性格, 特徴, 印象), clean people description layout, educational diagram style, no text overlays, only people description labels positioned at corresponding characteristic elements -->
 
 ### 年齡描述
@@ -428,7 +428,7 @@ excerpt: 學習日語中家庭成員和人物相關的表達方式，包括家�
 
 ## 情境 5: 人際關係
 
-![人際關係](https://images.unsplash.com/photo-1541746972996-4e0b0f93e586?w=800&h=400&fit=crop&crop=center)
+![人際關係](/assets/img/jp/2025-04-06-Japanese-Family-People-Family-Members-Occupations/人際關係.webp)
 <!-- Image Prompt: Japanese social relationships and interpersonal connections diagram - social relationships and interpersonal bonds with Japanese labels (友達, 親友, 同級生, 先輩, 同僚, 上司, 部下, 後輩, 隣人, 近所の人, 知り合い, 仲間, 恋人, 配偶者, 関係, 交流, 絆, 信頼), clean social relationship layout, educational diagram style, no text overlays, only social relationship labels positioned at corresponding interpersonal connection elements -->
 
 ### 朋友關係
