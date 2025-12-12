@@ -30,7 +30,7 @@ excerpt: 學習日語中健康與身體相關的表達方式，包括身體部�
 
 ## 情境 1: 身體部位
 
-![身體部位](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
+![身體部位](/assets/img/jp/2025-04-08-Japanese-Health-Body-Body-Parts-Health-Conditions/身體部位.webp)
 <!-- Image Prompt: Japanese body parts and anatomical diagram - human body parts and anatomical structure with Japanese labels (頭, 顔, 目, 鼻, 口, 耳, 首, 肩, 胸, 背中, お腹, 腕, 手, 指, 足, 膝, 体, 部位, 器官, 解剖), clean body parts layout, educational diagram style, no text overlays, only body part labels positioned at corresponding anatomical structure elements -->
 
 ### 頭部與臉部
@@ -152,7 +152,7 @@ excerpt: 學習日語中健康與身體相關的表達方式，包括身體部�
 
 ## 情境 2: 健康狀況
 
-![健康狀況](https://images.unsplash.com/photo-1557683316-973673baf926?w=800&h=400&fit=crop&crop=center)
+![健康狀況](/assets/img/jp/2025-04-08-Japanese-Health-Body-Body-Parts-Health-Conditions/健康狀況.webp)
 <!-- Image Prompt: Japanese health conditions and symptoms diagram - health conditions and symptom expressions with Japanese labels (元気, 健康, 疲れている, 眠い, 熱, 咳, 頭痛, 腹痛, 吐き気, 風邪, 病気, 怪我, アレルギー, 症状, 状態, 不調, 体調), clean health condition layout, educational diagram style, no text overlays, only health condition labels positioned at corresponding symptom expression elements -->
 
 ### 基本健康狀態
@@ -254,7 +254,7 @@ excerpt: 學習日語中健康與身體相關的表達方式，包括身體部�
 
 ## 情境 3: 醫療用語
 
-![醫療用語](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
+![醫療用語](/assets/img/jp/2025-04-08-Japanese-Health-Body-Body-Parts-Health-Conditions/醫療用語.webp)
 <!-- Image Prompt: Japanese medical terminology and healthcare system diagram - medical terms and healthcare facilities with Japanese labels (医者, 看護師, 薬剤師, 歯医者, 病院, 診療所, 薬局, 救急車, 診察, 検査, レントゲン, 注射, 医療, 治療, 診断, 処置), clean medical terminology layout, educational diagram style, no text overlays, only medical terminology labels positioned at corresponding healthcare system elements -->
 
 ### 醫療人員
@@ -351,7 +351,7 @@ excerpt: 學習日語中健康與身體相關的表達方式，包括身體部�
 
 ## 情境 4: 醫院對話
 
-![醫院對話](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=400&fit=crop&crop=center)
+![醫院對話](/assets/img/jp/2025-04-08-Japanese-Health-Body-Body-Parts-Health-Conditions/醫院對話.webp)
 <!-- Image Prompt: Japanese medical consultation and doctor-patient dialogue scene - medical consultation and healthcare communication with Japanese labels (どこが痛いですか, いつからですか, どのくらい痛いですか, 他に症状はありますか, 薬を飲んでください, 安静にしてください, 水分をたくさん取ってください, また来てください, 分かりました, ありがとうございました, お疲れ様でした, 相談, 説明, 指示, 注意), clean medical consultation setting, educational illustration style, no text overlays, only medical dialogue phrase labels positioned near corresponding consultation elements -->
 
 ### 症狀描述
@@ -446,7 +446,7 @@ excerpt: 學習日語中健康與身體相關的表達方式，包括身體部�
 
 ## 情境 5: 健康建議
 
-![健康建議](https://images.unsplash.com/photo-1541746972996-4e0b0f93e586?w=800&h=400&fit=crop&crop=center)
+![健康建議](/assets/img/jp/2025-04-08-Japanese-Health-Body-Body-Parts-Health-Conditions/健康建議.webp)
 <!-- Image Prompt: Japanese health advice and wellness activities diagram - health recommendations and wellness practices with Japanese labels (運動, 食事, 睡眠, ストレス, 予防, 健康診断, 手洗い, うがい, 規則正しい, 禁煙, 節酒, リラックス, 生活習慣, 予防, 維持, 改善), clean health advice layout, educational diagram style, no text overlays, only health advice labels positioned at corresponding wellness activity elements -->
 
 ### 日常保健

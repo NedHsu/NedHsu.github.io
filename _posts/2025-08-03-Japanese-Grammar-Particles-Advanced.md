@@ -6,6 +6,8 @@ tags: [日語, Japanese, 語法, Grammar, 助詞, Particles]
 excerpt: 學習日語中更多重要的助詞で・へ・と・から的用法，包括它們的區別、使用場合和常見錯誤。每個助詞都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
 ---
 
+{% include embed/youtube.html id='mjXeo9dqAKU' %}
+
 ## 課程預覽
 
 今天我們將學習更多重要的助詞：
