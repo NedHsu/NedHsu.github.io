@@ -29,7 +29,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 1: 醫院掛號
 
-![醫院掛號](https://images.pexels.com/photos/7108318/pexels-photo-7108318.jpeg?auto=compress&cs=tinysrgb&h=350)
+![醫院掛號](/assets/img/jp/2025-01-25-Japanese-Conversation-Daily-5/醫院掛號.webp)
 
 <div style="text-align: left">  
 
@@ -100,7 +100,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 2: 美容院美甲
 
-![美容院美甲](https://images.pexels.com/photos/9212718/pexels-photo-9212718.jpeg?auto=compress&cs=tinysrgb&h=350)
+![美容院美甲](/assets/img/jp/2025-01-25-Japanese-Conversation-Daily-5/美容院美甲.webp)
 
 <div style="text-align: left">  
 
@@ -171,7 +171,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 3: 電器行維修
 
-![電器行維修](https://images.pexels.com/photos/5243989/pexels-photo-5243989.jpeg?auto=compress&cs=tinysrgb&h=350)
+![電器行維修](/assets/img/jp/2025-01-25-Japanese-Conversation-Daily-5/電器行維修.webp)
 
 <div style="text-align: left">  
 
@@ -242,7 +242,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 4: 計程車預約
 
-![計程車預約](https://images.pexels.com/photos/29432312/pexels-photo-29432312.jpeg?auto=compress&cs=tinysrgb&h=350)
+![計程車預約](/assets/img/jp/2025-01-25-Japanese-Conversation-Daily-5/計程車預約.webp)
 
 <div style="text-align: left">  
 
@@ -313,7 +313,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 5: 天氣變化
 
-![天氣變化](https://images.pexels.com/photos/32096975/pexels-photo-32096975.jpeg?auto=compress&cs=tinysrgb&h=350)
+![天氣變化](/assets/img/jp/2025-01-25-Japanese-Conversation-Daily-5/天氣變化.webp)
 
 <div style="text-align: left">  
 

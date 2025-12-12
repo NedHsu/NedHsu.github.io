@@ -30,7 +30,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 
 ## 情境 1: 點飲料
 
-![飲料](https://images.pexels.com/photos/29499773/pexels-photo-29499773.jpeg?auto=compress&cs=tinysrgb&h=350)
+![飲料](/assets/img/jp/2025-02-14-Japanese-Conversation-Daily-25/點飲料.webp)
 
 <div style="text-align: left">  
 
@@ -101,7 +101,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 
 ## 情境 2: 點甜點
 
-![甜點](https://images.pexels.com/photos/7214783/pexels-photo-7214783.jpeg?auto=compress&cs=tinysrgb&h=350)
+![甜點](/assets/img/jp/2025-02-14-Japanese-Conversation-Daily-25/點甜點.webp)
 
 <div style="text-align: left">  
 
@@ -173,7 +173,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 
 ## 情境 3: 詢問菜單
 
-![菜單](https://images.pexels.com/photos/32132443/pexels-photo-32132443.jpeg?auto=compress&cs=tinysrgb&h=350)
+![菜單](/assets/img/jp/2025-02-14-Japanese-Conversation-Daily-25/詢問菜單.webp)
 
 <div style="text-align: left">  
 
@@ -245,7 +245,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 
 ## 情境 4: 結帳付款
 
-![結帳](https://images.pexels.com/photos/7621136/pexels-photo-7621136.jpeg?auto=compress&cs=tinysrgb&h=350)
+![結帳](/assets/img/jp/2025-02-14-Japanese-Conversation-Daily-25/結帳付款.webp)
 
 <div style="text-align: left">  
 
@@ -333,7 +333,7 @@ excerpt: 學習在日本咖啡廳和甜點店時常用的日語對話，包括�
 
 ## 情境 5: 打包
 
-![打包](https://images.pexels.com/photos/1301373/pexels-photo-1301373.jpeg?auto=compress&cs=tinysrgb&h=350)
+![打包](/assets/img/jp/2025-02-14-Japanese-Conversation-Daily-25/打包.webp)
 
 <div style="text-align: left">  
 

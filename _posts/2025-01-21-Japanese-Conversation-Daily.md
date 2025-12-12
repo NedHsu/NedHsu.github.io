@@ -11,7 +11,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 1: 在咖啡店點餐
 
-![在咖啡店點餐](https://images.pexels.com/photos/1545399/pexels-photo-1545399.jpeg?auto=compress&cs=tinysrgb&h=350)
+![在咖啡店點餐](/assets/img/jp/2025-01-21-Japanese-Conversation-Daily/在咖啡店點餐.webp)
 
 <div style="text-align: left">  
 
@@ -89,7 +89,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 2: 問路
 
-![問路](https://images.pexels.com/photos/29786884/pexels-photo-29786884.jpeg?auto=compress&cs=tinysrgb&h=350)
+![問路](/assets/img/jp/2025-01-21-Japanese-Conversation-Daily/問路.webp)
 
 <div style="text-align: left">  
 
@@ -159,7 +159,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 3: 在超市結帳
 
-![在超市結帳](https://images.pexels.com/photos/32150477/pexels-photo-32150477.jpeg?auto=compress&cs=tinysrgb&h=350)
+![在超市結帳](/assets/img/jp/2025-01-21-Japanese-Conversation-Daily/在超市結帳.webp)
 
 <div style="text-align: left">  
 

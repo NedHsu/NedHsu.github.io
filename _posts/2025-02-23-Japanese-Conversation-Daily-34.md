@@ -30,7 +30,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 
 ## 情境 1: 預約服務
 
-![預約](https://images.pexels.com/photos/19109102/pexels-photo-19109102.jpeg?auto=compress&cs=tinysrgb&h=350)
+![預約](/assets/img/jp/2025-02-23-Japanese-Conversation-Daily-34/預約服務.webp)
 
 <div style="text-align: left">  
 
@@ -121,7 +121,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 
 ## 情境 2: 選擇服務項目
 
-![服務](https://images.pexels.com/photos/30342381/pexels-photo-30342381.jpeg?auto=compress&cs=tinysrgb&h=350)
+![服務](/assets/img/jp/2025-02-23-Japanese-Conversation-Daily-34/選擇服務項目.webp)
 
 <div style="text-align: left">  
 
@@ -195,7 +195,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 
 ## 情境 3: 詢問價格
 
-![價格](https://images.pexels.com/photos/24032931/pexels-photo-24032931.jpeg?auto=compress&cs=tinysrgb&h=350)
+![價格](/assets/img/jp/2025-02-23-Japanese-Conversation-Daily-34/詢問價格.webp)
 
 <div style="text-align: left">  
 
@@ -269,7 +269,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 
 ## 情境 4: 服務過程
 
-![服務過程](https://images.pexels.com/photos/29967130/pexels-photo-29967130.jpeg?auto=compress&cs=tinysrgb&h=350)
+![服務過程](/assets/img/jp/2025-02-23-Japanese-Conversation-Daily-34/服務過程.webp)
 
 <div style="text-align: left">  
 
@@ -342,7 +342,7 @@ excerpt: 學習在日本寵物美容店和寵物醫院時常用的日語對話�
 
 ## 情境 5: 結帳付款
 
-![結帳](https://images.pexels.com/photos/7621136/pexels-photo-7621136.jpeg?auto=compress&cs=tinysrgb&h=350)
+![結帳](/assets/img/jp/2025-02-23-Japanese-Conversation-Daily-34/結帳付款.webp)
 
 <div style="text-align: left">  
 

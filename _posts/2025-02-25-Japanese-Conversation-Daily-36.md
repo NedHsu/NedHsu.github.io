@@ -30,7 +30,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 
 ## 情境 1: 詢問租借
 
-![租借](https://images.pexels.com/photos/7415122/pexels-photo-7415122.jpeg?auto=compress&cs=tinysrgb&h=350)
+![租借](/assets/img/jp/2025-02-25-Japanese-Conversation-Daily-36/詢問租借.webp)
 
 <div style="text-align: left">  
 
@@ -122,7 +122,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 
 ## 情境 2: 選擇車型
 
-![車型](https://images.pexels.com/photos/30732285/pexels-photo-30732285.jpeg?auto=compress&cs=tinysrgb&h=350)
+![車型](/assets/img/jp/2025-02-25-Japanese-Conversation-Daily-36/選擇車型.webp)
 
 <div style="text-align: left">  
 
@@ -214,7 +214,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 
 ## 情境 3: 確認規則
 
-![規則](https://images.pexels.com/photos/8850706/pexels-photo-8850706.jpeg?auto=compress&cs=tinysrgb&h=350)
+![規則](/assets/img/jp/2025-02-25-Japanese-Conversation-Daily-36/確認規則.webp)
 
 <div style="text-align: left">  
 
@@ -303,7 +303,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 
 ## 情境 4: 使用說明
 
-![使用說明](https://images.pexels.com/photos/18245895/pexels-photo-18245895.jpeg?auto=compress&cs=tinysrgb&h=350)
+![使用說明](/assets/img/jp/2025-02-25-Japanese-Conversation-Daily-36/使用說明.webp)
 
 <div style="text-align: left">  
 
@@ -387,7 +387,7 @@ excerpt: 學習在日本租借自行車時常用的日語對話，包括詢問�
 
 ## 情境 5: 歸還付款
 
-![歸還](https://images.pexels.com/photos/6863336/pexels-photo-6863336.jpeg?auto=compress&cs=tinysrgb&h=350)
+![歸還](/assets/img/jp/2025-02-25-Japanese-Conversation-Daily-36/歸還付款.webp)
 
 <div style="text-align: left">  
 

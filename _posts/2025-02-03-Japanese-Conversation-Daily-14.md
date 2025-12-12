@@ -30,7 +30,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 
 ## 情境 1: 開戶申請
 
-![開戶](https://images.pexels.com/photos/7621536/pexels-photo-7621536.jpeg?auto=compress&cs=tinysrgb&h=350)
+![開戶](/assets/img/jp/2025-02-03-Japanese-Conversation-Daily-14/開戶申請.webp)
 
 <div style="text-align: left">  
 
@@ -114,7 +114,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 
 ## 情境 2: 存款與提款
 
-![存款](https://images.pexels.com/photos/3943726/pexels-photo-3943726.jpeg?auto=compress&cs=tinysrgb&h=350)
+![存款](/assets/img/jp/2025-02-03-Japanese-Conversation-Daily-14/存款與提款.webp)
 
 <div style="text-align: left">  
 
@@ -198,7 +198,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 
 ## 情境 3: 匯款業務
 
-![匯款](https://images.pexels.com/photos/4968380/pexels-photo-4968380.jpeg?auto=compress&cs=tinysrgb&h=350)
+![匯款](/assets/img/jp/2025-02-03-Japanese-Conversation-Daily-14/匯款業務.webp)
 
 <div style="text-align: left">  
 
@@ -282,7 +282,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 
 ## 情境 4: 信用卡申請
 
-![信用卡](https://images.pexels.com/photos/32093661/pexels-photo-32093661.jpeg?auto=compress&cs=tinysrgb&h=350)
+![信用卡](/assets/img/jp/2025-02-03-Japanese-Conversation-Daily-14/信用卡申請.webp)
 
 <div style="text-align: left">  
 
@@ -366,7 +366,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 
 ## 情境 5: 理財諮詢
 
-![理財](https://images.pexels.com/photos/32027904/pexels-photo-32027904.jpeg?auto=compress&cs=tinysrgb&h=350)
+![理財](/assets/img/jp/2025-02-03-Japanese-Conversation-Daily-14/理財諮詢.webp)
 
 <div style="text-align: left">  
 

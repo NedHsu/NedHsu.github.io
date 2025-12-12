@@ -39,7 +39,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 1: 初次見面的問候
 
-![初次見面的問候](https://images.pexels.com/photos/31416984/pexels-photo-31416984.jpeg?auto=compress&cs=tinysrgb&h=350)
+![初次見面的問候](/assets/img/jp/2025-01-28-Japanese-Conversation-Daily-8/初次見面的問候.webp)
 
 <div style="text-align: left">
 
@@ -124,7 +124,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 2: 自我介紹
 
-![自我介紹](https://images.pexels.com/photos/186976/pexels-photo-186976.jpeg?auto=compress&cs=tinysrgb&h=350)
+![自我介紹](/assets/img/jp/2025-01-28-Japanese-Conversation-Daily-8/自我介紹.webp)
 
 <div style="text-align: left">
 
@@ -209,7 +209,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 3: 詢問基本資訊
 
-![詢問基本資訊](https://images.pexels.com/photos/32151403/pexels-photo-32151403.jpeg?auto=compress&cs=tinysrgb&h=350)
+![詢問基本資訊](/assets/img/jp/2025-01-28-Japanese-Conversation-Daily-8/詢問基本資訊.webp)
 
 <div style="text-align: left">
 
@@ -294,7 +294,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 4: 表達感謝與再見
 
-![表達感謝與再見](https://images.pexels.com/photos/6249257/pexels-photo-6249257.jpeg?auto=compress&cs=tinysrgb&h=350)
+![表達感謝與再見](/assets/img/jp/2025-01-28-Japanese-Conversation-Daily-8/表達感謝與再見.webp)
 
 <div style="text-align: left">
 
@@ -388,7 +388,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 5: 日常寒暄
 
-![日常寒暄](https://images.pexels.com/photos/32136341/pexels-photo-32136341.jpeg?auto=compress&cs=tinysrgb&h=350)
+![日常寒暄](/assets/img/jp/2025-01-28-Japanese-Conversation-Daily-8/日常寒暄.webp)
 
 <div style="text-align: left">
 

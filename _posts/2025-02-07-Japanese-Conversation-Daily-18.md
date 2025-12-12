@@ -30,7 +30,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 ## 情境 1: 路邊叫車
 
-![叫車](https://images.pexels.com/photos/15204022/pexels-photo-15204022.jpeg?auto=compress&cs=tinysrgb&h=350)
+![叫車](/assets/img/jp/2025-02-07-Japanese-Conversation-Daily-18/路邊叫車.webp)
 
 <div style="text-align: left">  
 
@@ -114,7 +114,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 ## 情境 2: 電話預約
 
-![預約](https://images.pexels.com/photos/19702166/pexels-photo-19702166.jpeg?auto=compress&cs=tinysrgb&h=350)
+![預約](/assets/img/jp/2025-02-07-Japanese-Conversation-Daily-18/電話預約.webp)
 
 <div style="text-align: left">  
 
@@ -198,7 +198,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 ## 情境 3: 告知目的地
 
-![目的地](https://images.pexels.com/photos/31826531/pexels-photo-31826531.jpeg?auto=compress&cs=tinysrgb&h=350)
+![目的地](/assets/img/jp/2025-02-07-Japanese-Conversation-Daily-18/告知目的地.webp)
 
 <div style="text-align: left">  
 
@@ -282,7 +282,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 ## 情境 4: 詢問價格
 
-![價格](https://images.pexels.com/photos/24032931/pexels-photo-24032931.jpeg?auto=compress&cs=tinysrgb&h=350)
+![價格](/assets/img/jp/2025-02-07-Japanese-Conversation-Daily-18/詢問價格.webp)
 
 <div style="text-align: left">  
 
@@ -350,7 +350,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 ## 情境 5: 付款下車
 
-![付款](https://images.pexels.com/photos/31078811/pexels-photo-31078811.jpeg?auto=compress&cs=tinysrgb&h=350)
+![付款](/assets/img/jp/2025-02-07-Japanese-Conversation-Daily-18/付款下車.webp)
 
 <div style="text-align: left">  
 

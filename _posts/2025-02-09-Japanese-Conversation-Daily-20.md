@@ -30,7 +30,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 
 ## 情境 1: 購買成藥
 
-![成藥](https://images.pexels.com/photos/13835498/pexels-photo-13835498.jpeg?auto=compress&cs=tinysrgb&h=350)
+![成藥](/assets/img/jp/2025-02-09-Japanese-Conversation-Daily-20/購買成藥.webp)
 
 <div style="text-align: left">  
 
@@ -114,7 +114,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 
 ## 情境 2: 諮詢用藥
 
-![諮詢](https://images.pexels.com/photos/4226256/pexels-photo-4226256.jpeg?auto=compress&cs=tinysrgb&h=350)
+![諮詢](/assets/img/jp/2025-02-09-Japanese-Conversation-Daily-20/諮詢用藥.webp)
 
 <div style="text-align: left">  
 
@@ -166,7 +166,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 
 ## 情境 3: 詢問副作用
 
-![副作用](https://images.pexels.com/photos/8961701/pexels-photo-8961701.jpeg?auto=compress&cs=tinysrgb&h=350)
+![副作用](/assets/img/jp/2025-02-09-Japanese-Conversation-Daily-20/詢問副作用.webp)
 
 <div style="text-align: left">  
 
@@ -218,7 +218,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 
 ## 情境 4: 領取處方藥
 
-![處方藥](https://images.pexels.com/photos/13835498/pexels-photo-13835498.jpeg?auto=compress&cs=tinysrgb&h=350)
+![處方藥](/assets/img/jp/2025-02-09-Japanese-Conversation-Daily-20/領取處方藥.webp)
 
 <div style="text-align: left">  
 
@@ -270,7 +270,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 
 ## 情境 5: 健康諮詢
 
-![諮詢](https://images.pexels.com/photos/4226256/pexels-photo-4226256.jpeg?auto=compress&cs=tinysrgb&h=350)
+![諮詢](/assets/img/jp/2025-02-09-Japanese-Conversation-Daily-20/健康諮詢.webp)
 
 <div style="text-align: left">  
 

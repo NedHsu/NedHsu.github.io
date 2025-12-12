@@ -29,7 +29,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 1: 銀行開戶
 
-![銀行開戶](https://images.pexels.com/photos/28176070/pexels-photo-28176070.jpeg?auto=compress&cs=tinysrgb&h=350)
+![銀行開戶](/assets/img/jp/2025-01-26-Japanese-Conversation-Daily-6/銀行開戶.webp)
 
 <div style="text-align: left">  
 
@@ -100,7 +100,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 2: 郵局寄包裹
 
-![郵局寄包裹](https://images.pexels.com/photos/6169021/pexels-photo-6169021.jpeg?auto=compress&cs=tinysrgb&h=350)
+![郵局寄包裹](/assets/img/jp/2025-01-26-Japanese-Conversation-Daily-6/郵局寄包裹.webp)
 
 <div style="text-align: left">  
 
@@ -171,7 +171,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 3: 美容院染髮
 
-![美容院染髮](https://images.pexels.com/photos/32008401/pexels-photo-32008401.jpeg?auto=compress&cs=tinysrgb&h=350)
+![美容院染髮](/assets/img/jp/2025-01-26-Japanese-Conversation-Daily-6/美容院染髮.webp)
 
 <div style="text-align: left">  
 
@@ -242,7 +242,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 4: 電器行購買
 
-![電器行購買](https://images.pexels.com/photos/28608383/pexels-photo-28608383.jpeg?auto=compress&cs=tinysrgb&h=350)
+![電器行購買](/assets/img/jp/2025-01-26-Japanese-Conversation-Daily-6/電器行購買.webp)
 
 <div style="text-align: left">  
 
@@ -313,7 +313,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 5: 計程車叫車
 
-![計程車叫車](https://images.pexels.com/photos/18201732/pexels-photo-18201732.jpeg?auto=compress&cs=tinysrgb&h=350)
+![計程車叫車](/assets/img/jp/2025-01-26-Japanese-Conversation-Daily-6/計程車叫車.webp)
 
 <div style="text-align: left">  
 

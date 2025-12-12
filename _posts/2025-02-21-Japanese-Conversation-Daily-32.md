@@ -30,7 +30,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 
 ## 情境 1: 入場
 
-![入場](https://images.pexels.com/photos/2258339/pexels-photo-2258339.jpeg?auto=compress&cs=tinysrgb&h=350)
+![入場](/assets/img/jp/2025-02-21-Japanese-Conversation-Daily-32/入場.webp)
 
 <div style="text-align: left">  
 
@@ -118,7 +118,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 
 ## 情境 2: 使用設施
 
-![設施](https://images.pexels.com/photos/31413052/pexels-photo-31413052.jpeg?auto=compress&cs=tinysrgb&h=350)
+![設施](/assets/img/jp/2025-02-21-Japanese-Conversation-Daily-32/使用設施.webp)
 
 <div style="text-align: left">  
 
@@ -206,7 +206,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 
 ## 情境 3: 詢問課程
 
-![課程](https://images.pexels.com/photos/9159054/pexels-photo-9159054.jpeg?auto=compress&cs=tinysrgb&h=350)
+![課程](/assets/img/jp/2025-02-21-Japanese-Conversation-Daily-32/詢問課程.webp)
 
 <div style="text-align: left">  
 
@@ -294,7 +294,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 
 ## 情境 4: 請教教練
 
-![教練](https://images.pexels.com/photos/5745684/pexels-photo-5745684.jpeg?auto=compress&cs=tinysrgb&h=350)
+![教練](/assets/img/jp/2025-02-21-Japanese-Conversation-Daily-32/請教教練.webp)
 
 <div style="text-align: left">  
 
@@ -382,7 +382,7 @@ excerpt: 學習在日本游泳池和水上活動場所時常用的日語對話�
 
 ## 情境 5: 結帳付款
 
-![結帳](https://images.pexels.com/photos/7621136/pexels-photo-7621136.jpeg?auto=compress&cs=tinysrgb&h=350)
+![結帳](/assets/img/jp/2025-02-21-Japanese-Conversation-Daily-32/結帳付款.webp)
 
 <div style="text-align: left">  
 

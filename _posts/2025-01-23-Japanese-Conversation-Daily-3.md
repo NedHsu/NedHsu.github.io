@@ -29,7 +29,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 1: 在銀行辦理業務
 
-![在銀行辦理業務](https://images.pexels.com/photos/32151758/pexels-photo-32151758.jpeg?auto=compress&cs=tinysrgb&h=350)
+![在銀行辦理業務](/assets/img/jp/2025-01-23-Japanese-Conversation-Daily-3/在銀行辦理業務.webp)
 
 <div style="text-align: left">  
 
@@ -118,7 +118,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 2: 在郵局寄包裹
 
-![在郵局寄包裹](https://images.pexels.com/photos/6348094/pexels-photo-6348094.jpeg?auto=compress&cs=tinysrgb&h=350)
+![在郵局寄包裹](/assets/img/jp/2025-01-23-Japanese-Conversation-Daily-3/在郵局寄包裹.webp)
 
 <div style="text-align: left">  
 
@@ -205,7 +205,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 3: 在美容院預約
 
-![在美容院預約](https://images.pexels.com/photos/6953777/pexels-photo-6953777.jpeg?auto=compress&cs=tinysrgb&h=350)
+![在美容院預約](/assets/img/jp/2025-01-23-Japanese-Conversation-Daily-3/在美容院預約.webp)
 
 <div style="text-align: left">  
 
@@ -292,7 +292,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 4: 在電器行購買商品
 
-![在電器行購買商品](https://images.pexels.com/photos/32150471/pexels-photo-32150471.jpeg?auto=compress&cs=tinysrgb&h=350)
+![在電器行購買商品](/assets/img/jp/2025-01-23-Japanese-Conversation-Daily-3/在電器行購買商品.webp)
 
 <div style="text-align: left">  
 
@@ -379,7 +379,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 5: 搭乘計程車
 
-![搭乘計程車](https://images.pexels.com/photos/6801872/pexels-photo-6801872.jpeg?auto=compress&cs=tinysrgb&h=350)
+![搭乘計程車](/assets/img/jp/2025-01-23-Japanese-Conversation-Daily-3/搭乘計程車.webp)
 
 <div style="text-align: left">  
 

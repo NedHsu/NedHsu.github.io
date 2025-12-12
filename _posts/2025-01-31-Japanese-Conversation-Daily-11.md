@@ -30,7 +30,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 
 ## 情境 1: 預約房間
 
-![預約](https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&h=350)
+![預約](/assets/img/jp/2025-01-31-Japanese-Conversation-Daily-11/預約房間.webp)
 
 <div style="text-align: left">  
 
@@ -107,7 +107,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 
 ## 情境 2: 辦理入住
 
-![入住](https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&h=350)
+![入住](/assets/img/jp/2025-01-31-Japanese-Conversation-Daily-11/辦理入住.webp)
 
 <div style="text-align: left">  
 
@@ -184,7 +184,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 
 ## 情境 3: 詢問設施與服務
 
-![設施](https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&h=350)
+![設施](/assets/img/jp/2025-01-31-Japanese-Conversation-Daily-11/詢問設施與服務.webp)
 
 <div style="text-align: left">  
 
@@ -261,7 +261,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 
 ## 情境 4: 要求客房服務
 
-![客房服務](https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&h=350)
+![客房服務](/assets/img/jp/2025-01-31-Japanese-Conversation-Daily-11/要求客房服務.webp)
 
 <div style="text-align: left">  
 
@@ -338,7 +338,7 @@ excerpt: 學習在日本旅館預約和入住時常用的日語對話，包括�
 
 ## 情境 5: 辦理退房
 
-![退房](https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&h=350)
+![退房](/assets/img/jp/2025-01-31-Japanese-Conversation-Daily-11/辦理退房.webp)
 
 <div style="text-align: left">  
 

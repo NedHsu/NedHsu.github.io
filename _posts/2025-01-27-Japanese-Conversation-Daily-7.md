@@ -29,7 +29,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 1: 餐廳預約
 
-![餐廳預約](https://images.pexels.com/photos/30413176/pexels-photo-30413176.jpeg?auto=compress&cs=tinysrgb&h=350)
+![餐廳預約](/assets/img/jp/2025-01-27-Japanese-Conversation-Daily-7/餐廳預約.webp)
 
 <div style="text-align: left">  
 
@@ -100,7 +100,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 2: 購物退換貨
 
-![購物退換貨](https://images.pexels.com/photos/6863180/pexels-photo-6863180.jpeg?auto=compress&cs=tinysrgb&h=350)
+![購物退換貨](/assets/img/jp/2025-01-27-Japanese-Conversation-Daily-7/購物退換貨.webp)
 
 <div style="text-align: left">  
 
@@ -171,7 +171,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 3: 旅館入住
 
-![旅館入住](https://images.pexels.com/photos/7095765/pexels-photo-7095765.jpeg?auto=compress&cs=tinysrgb&h=350)
+![旅館入住](/assets/img/jp/2025-01-27-Japanese-Conversation-Daily-7/旅館入住.webp)
 
 <div style="text-align: left">  
 
@@ -242,7 +242,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 4: 問路
 
-![問路](https://images.pexels.com/photos/27299109/pexels-photo-27299109.jpeg?auto=compress&cs=tinysrgb&h=350)
+![問路](/assets/img/jp/2025-01-27-Japanese-Conversation-Daily-7/問路.webp)
 
 <div style="text-align: left">  
 
@@ -313,7 +313,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 5: 天氣預報
 
-![天氣預報](https://images.pexels.com/photos/3091117/pexels-photo-3091117.jpeg?auto=compress&cs=tinysrgb&h=350)
+![天氣預報](/assets/img/jp/2025-01-27-Japanese-Conversation-Daily-7/天氣預報.webp)
 
 <div style="text-align: left">  
 

@@ -30,7 +30,7 @@ excerpt: 學習在日本滑雪場和雪上活動場所時常用的日語對話�
 
 ## 情境 1: 租借裝備
 
-![租借](https://images.pexels.com/photos/376697/pexels-photo-376697.jpeg?auto=compress&cs=tinysrgb&h=350)
+![租借](/assets/img/jp/2025-02-22-Japanese-Conversation-Daily-33/租借裝備.webp)
 
 <div style="text-align: left">  
 
@@ -134,7 +134,7 @@ excerpt: 學習在日本滑雪場和雪上活動場所時常用的日語對話�
 
 ## 情境 2: 使用設施
 
-![設施](https://images.pexels.com/photos/21715257/pexels-photo-21715257.jpeg?auto=compress&cs=tinysrgb&h=350)
+![設施](/assets/img/jp/2025-02-22-Japanese-Conversation-Daily-33/使用設施.webp)
 
 <div style="text-align: left">  
 
@@ -222,7 +222,7 @@ excerpt: 學習在日本滑雪場和雪上活動場所時常用的日語對話�
 
 ## 情境 3: 詢問課程
 
-![課程](https://images.pexels.com/photos/9159054/pexels-photo-9159054.jpeg?auto=compress&cs=tinysrgb&h=350)
+![課程](/assets/img/jp/2025-02-22-Japanese-Conversation-Daily-33/詢問課程.webp)
 
 <div style="text-align: left">  
 
@@ -310,7 +310,7 @@ excerpt: 學習在日本滑雪場和雪上活動場所時常用的日語對話�
 
 ## 情境 4: 請教教練
 
-![教練](https://images.pexels.com/photos/5745684/pexels-photo-5745684.jpeg?auto=compress&cs=tinysrgb&h=350)
+![教練](/assets/img/jp/2025-02-22-Japanese-Conversation-Daily-33/請教教練.webp)
 
 <div style="text-align: left">  
 
@@ -398,7 +398,7 @@ excerpt: 學習在日本滑雪場和雪上活動場所時常用的日語對話�
 
 ## 情境 5: 結帳付款
 
-![結帳](https://images.pexels.com/photos/4386366/pexels-photo-4386366.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![結帳](/assets/img/jp/2025-02-22-Japanese-Conversation-Daily-33/結帳付款.webp)
 
 <div style="text-align: left">  
 

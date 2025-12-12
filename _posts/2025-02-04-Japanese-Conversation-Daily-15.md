@@ -30,7 +30,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 
 ## 情境 1: 寄包裹
 
-![包裹](https://images.pexels.com/photos/4464887/pexels-photo-4464887.jpeg?auto=compress&cs=tinysrgb&h=350)
+![包裹](/assets/img/jp/2025-02-04-Japanese-Conversation-Daily-15/寄包裹.webp)
 
 <div style="text-align: left">  
 
@@ -114,7 +114,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 
 ## 情境 2: 寄信與明信片
 
-![信件](https://images.pexels.com/photos/16361644/pexels-photo-16361644.jpeg?auto=compress&cs=tinysrgb&h=350)
+![信件](/assets/img/jp/2025-02-04-Japanese-Conversation-Daily-15/寄信與明信片.webp)
 
 <div style="text-align: left">  
 
@@ -198,7 +198,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 
 ## 情境 3: 購買郵票
 
-![郵票](https://images.pexels.com/photos/32116848/pexels-photo-32116848.jpeg?auto=compress&cs=tinysrgb&h=350)
+![郵票](/assets/img/jp/2025-02-04-Japanese-Conversation-Daily-15/購買郵票.webp)
 
 <div style="text-align: left">  
 
@@ -266,7 +266,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 
 ## 情境 4: 查詢郵件
 
-![查詢](https://images.pexels.com/photos/4065624/pexels-photo-4065624.jpeg?auto=compress&cs=tinysrgb&h=350)
+![查詢](/assets/img/jp/2025-02-04-Japanese-Conversation-Daily-15/查詢郵件.webp)
 
 <div style="text-align: left">  
 
@@ -334,7 +334,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 
 ## 情境 5: 郵政儲蓄
 
-![儲蓄](https://images.pexels.com/photos/7821726/pexels-photo-7821726.jpeg?auto=compress&cs=tinysrgb&h=350)
+![儲蓄](/assets/img/jp/2025-02-04-Japanese-Conversation-Daily-15/郵政儲蓄.webp)
 
 <div style="text-align: left">  
 

@@ -29,7 +29,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 1: 進入餐廳與找座位
 
-![進入餐廳與找座位](https://images.pexels.com/photos/10165535/pexels-photo-10165535.jpeg?auto=compress&cs=tinysrgb&h=350)
+![進入餐廳與找座位](/assets/img/jp/2025-01-29-Japanese-Conversation-Daily-9/進入餐廳與找座位.webp)
 
 <div style="text-align: left">  
 
@@ -114,7 +114,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 2: 點餐與詢問推薦
 
-![點餐與詢問推薦](https://images.pexels.com/photos/28041846/pexels-photo-28041846.jpeg?auto=compress&cs=tinysrgb&h=350)
+![點餐與詢問推薦](/assets/img/jp/2025-01-29-Japanese-Conversation-Daily-9/點餐與詢問推薦.webp)
 
 <div style="text-align: left">  
 
@@ -199,7 +199,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 3: 要求服務與加點
 
-![要求服務與加點](https://images.pexels.com/photos/31196726/pexels-photo-31196726.jpeg?auto=compress&cs=tinysrgb&h=350)
+![要求服務與加點](/assets/img/jp/2025-01-29-Japanese-Conversation-Daily-9/要求服務與加點.webp)
 
 <div style="text-align: left">  
 
@@ -284,7 +284,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 4: 結帳與付款
 
-![結帳與付款](https://images.pexels.com/photos/7621136/pexels-photo-7621136.jpeg?auto=compress&cs=tinysrgb&h=350)
+![結帳與付款](/assets/img/jp/2025-01-29-Japanese-Conversation-Daily-9/結帳與付款.webp)
 
 <div style="text-align: left">  
 
@@ -369,7 +369,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 5: 離開餐廳
 
-![離開餐廳](https://images.pexels.com/photos/31767966/pexels-photo-31767966.jpeg?auto=compress&cs=tinysrgb&h=350)
+![離開餐廳](/assets/img/jp/2025-01-29-Japanese-Conversation-Daily-9/離開餐廳.webp)
 
 <div style="text-align: left">  
 

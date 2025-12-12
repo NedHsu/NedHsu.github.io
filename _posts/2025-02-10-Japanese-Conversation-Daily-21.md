@@ -30,7 +30,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 
 ## 情境 1: 購買商品
 
-![商品](https://images.pexels.com/photos/8921573/pexels-photo-8921573.jpeg?auto=compress&cs=tinysrgb&h=350)
+![商品](/assets/img/jp/2025-02-10-Japanese-Conversation-Daily-21/購買商品.webp)
 
 <div style="text-align: left">  
 
@@ -119,7 +119,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 
 ## 情境 2: 詢問價格
 
-![價格](https://images.pexels.com/photos/22021193/pexels-photo-22021193.jpeg?auto=compress&cs=tinysrgb&h=350)
+![價格](/assets/img/jp/2025-02-10-Japanese-Conversation-Daily-21/詢問價格.webp)
 
 <div style="text-align: left">  
 
@@ -206,7 +206,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 
 ## 情境 3: 使用服務
 
-![服務](https://images.pexels.com/photos/32156379/pexels-photo-32156379.png?auto=compress&cs=tinysrgb&h=350)
+![服務](/assets/img/jp/2025-02-10-Japanese-Conversation-Daily-21/使用服務.webp)
 
 <div style="text-align: left">  
 
@@ -295,7 +295,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 
 ## 情境 4: 結帳付款
 
-![結帳](https://images.pexels.com/photos/7820359/pexels-photo-7820359.jpeg?auto=compress&cs=tinysrgb&h=350)
+![結帳](/assets/img/jp/2025-02-10-Japanese-Conversation-Daily-21/結帳付款.webp)
 
 <div style="text-align: left">  
 
@@ -384,7 +384,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 
 ## 情境 5: 退換貨
 
-![退換](https://images.pexels.com/photos/8927657/pexels-photo-8927657.jpeg?auto=compress&cs=tinysrgb&h=350)
+![退換](/assets/img/jp/2025-02-10-Japanese-Conversation-Daily-21/退換貨.webp)
 
 <div style="text-align: left">  
 

@@ -114,7 +114,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 2: 預約餐廳
 
-![預約餐廳](https://images.pexels.com/photos/30604824/pexels-photo-30604824.jpeg?auto=compress&cs=tinysrgb&h=350)
+![預約餐廳](/assets/img/jp/2025-01-22-Japanese-Conversation-Daily-2/預約餐廳.webp)
 
 <div style="text-align: left">  
 
@@ -188,7 +188,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 3: 談論天氣
 
-![談論天氣](https://images.pexels.com/photos/15113966/pexels-photo-15113966.jpeg?auto=compress&cs=tinysrgb&h=350)
+![談論天氣](/assets/img/jp/2025-01-22-Japanese-Conversation-Daily-2/談論天氣.webp)
 
 <div style="text-align: left">  
 
@@ -262,7 +262,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 4: 在醫院看診
 
-![在醫院看診](https://images.pexels.com/photos/32160038/pexels-photo-32160038.jpeg?auto=compress&cs=tinysrgb&h=350)
+![在醫院看診](/assets/img/jp/2025-01-22-Japanese-Conversation-Daily-2/在醫院看診.webp)
 
 <div style="text-align: left">  
 
@@ -337,7 +337,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 情境 5: 飯店辦理入住
 
-![飯店辦理入住](https://images.pexels.com/photos/32118818/pexels-photo-32118818.jpeg?auto=compress&cs=tinysrgb&h=350)
+![飯店辦理入住](/assets/img/jp/2025-01-22-Japanese-Conversation-Daily-2/飯店辦理入住.webp)
 
 <div style="text-align: left">  
 

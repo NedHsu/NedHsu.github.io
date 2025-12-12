@@ -30,7 +30,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 
 ## 情境 1: 預約包廂
 
-![預約](https://images.pexels.com/photos/32112649/pexels-photo-32112649.jpeg?auto=compress&cs=tinysrgb&h=350)
+![預約](/assets/img/jp/2025-02-27-Japanese-Conversation-Daily-38/預約包廂.webp)
 
 <div style="text-align: left">  
 
@@ -124,7 +124,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 
 ## 情境 2: 選擇歌曲
 
-![歌曲](https://images.pexels.com/photos/5077069/pexels-photo-5077069.jpeg?auto=compress&cs=tinysrgb&h=350)
+![歌曲](/assets/img/jp/2025-02-27-Japanese-Conversation-Daily-38/選擇歌曲.webp)
 
 <div style="text-align: left">  
 
@@ -222,7 +222,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 
 ## 情境 3: 點餐服務
 
-![點餐](https://images.pexels.com/photos/14040414/pexels-photo-14040414.jpeg?auto=compress&cs=tinysrgb&h=350)
+![點餐](/assets/img/jp/2025-02-27-Japanese-Conversation-Daily-38/點餐服務.webp)
 
 <div style="text-align: left">  
 
@@ -320,7 +320,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 
 ## 情境 4: 設備使用
 
-![設備](https://images.pexels.com/photos/21620915/pexels-photo-21620915.jpeg?auto=compress&cs=tinysrgb&h=350)
+![設備](/assets/img/jp/2025-02-27-Japanese-Conversation-Daily-38/設備使用.webp)
 
 <div style="text-align: left">  
 
@@ -419,7 +419,7 @@ excerpt: 學習在日本卡拉OK和娛樂場所時常用的日語對話，包括
 
 ## 情境 5: 結帳付款
 
-![結帳](https://images.pexels.com/photos/7621136/pexels-photo-7621136.jpeg?auto=compress&cs=tinysrgb&h=350)
+![結帳](/assets/img/jp/2025-02-27-Japanese-Conversation-Daily-38/結帳付款.webp)
 
 <div style="text-align: left">  
 

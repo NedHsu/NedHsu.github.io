@@ -30,7 +30,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 
 ## 情境 1: 預約美髮服務
 
-![預約](https://images.pexels.com/photos/7928388/pexels-photo-7928388.jpeg?auto=compress&cs=tinysrgb&h=350)
+![預約](/assets/img/jp/2025-02-05-Japanese-Conversation-Daily-16/預約美髮服務.webp)
 
 <div style="text-align: left">  
 
@@ -114,7 +114,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 
 ## 情境 2: 剪髮與造型
 
-![剪髮](https://images.pexels.com/photos/30326073/pexels-photo-30326073.jpeg?auto=compress&cs=tinysrgb&h=350)
+![剪髮](/assets/img/jp/2025-02-05-Japanese-Conversation-Daily-16/剪髮與造型.webp)
 
 <div style="text-align: left">  
 
@@ -198,7 +198,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 
 ## 情境 3: 染髮與護髮
 
-![染髮](https://images.pexels.com/photos/8467963/pexels-photo-8467963.jpeg?auto=compress&cs=tinysrgb&h=350)
+![染髮](/assets/img/jp/2025-02-05-Japanese-Conversation-Daily-16/染髮與護髮.webp)
 
 <div style="text-align: left">  
 
@@ -282,7 +282,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 
 ## 情境 4: 美甲服務
 
-![美甲](https://images.pexels.com/photos/29189916/pexels-photo-29189916.jpeg?auto=compress&cs=tinysrgb&h=350)
+![美甲](/assets/img/jp/2025-02-05-Japanese-Conversation-Daily-16/美甲服務.webp)
 
 <div style="text-align: left">  
 
@@ -366,7 +366,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 
 ## 情境 5: 結帳付款
 
-![結帳](https://images.pexels.com/photos/7820359/pexels-photo-7820359.jpeg?auto=compress&cs=tinysrgb&h=350)
+![結帳](/assets/img/jp/2025-02-05-Japanese-Conversation-Daily-16/結帳付款.webp)
 
 <div style="text-align: left">  
 

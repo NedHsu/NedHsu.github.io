@@ -30,7 +30,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 
 ## 情境 1: 購票
 
-![購票](https://images.pexels.com/photos/8261829/pexels-photo-8261829.jpeg?auto=compress&cs=tinysrgb&h=350)
+![購票](/assets/img/jp/2025-02-26-Japanese-Conversation-Daily-37/電影院購票.webp)
 
 <div style="text-align: left">  
 
@@ -125,7 +125,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 
 ## 情境 2: 選擇座位
 
-![座位](https://images.pexels.com/photos/6827254/pexels-photo-6827254.jpeg?auto=compress&cs=tinysrgb&h=350)
+![座位](/assets/img/jp/2025-02-26-Japanese-Conversation-Daily-37/電影院選擇座位.webp)
 
 <div style="text-align: left">  
 
@@ -223,7 +223,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 
 ## 情境 3: 購買零食
 
-![零食](https://images.pexels.com/photos/31194556/pexels-photo-31194556.jpeg?auto=compress&cs=tinysrgb&h=350)
+![零食](/assets/img/jp/2025-02-26-Japanese-Conversation-Daily-37/電影院購買零食.webp)
 
 <div style="text-align: left">  
 
@@ -323,7 +323,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 
 ## 情境 4: 觀影禮儀
 
-![禮儀](https://images.pexels.com/photos/4592083/pexels-photo-4592083.jpeg?auto=compress&cs=tinysrgb&h=350)
+![禮儀](/assets/img/jp/2025-02-26-Japanese-Conversation-Daily-37/電影院觀影禮儀.webp)
 
 <div style="text-align: left">  
 
@@ -426,7 +426,7 @@ excerpt: 學習在日本電影院和劇場時常用的日語對話，包括購�
 
 ## 情境 5: 退票
 
-![退票](https://images.pexels.com/photos/20720265/pexels-photo-20720265.jpeg?auto=compress&cs=tinysrgb&h=350)
+![退票](/assets/img/jp/2025-02-26-Japanese-Conversation-Daily-37/電影院退票.webp)
 
 <div style="text-align: left">  
 

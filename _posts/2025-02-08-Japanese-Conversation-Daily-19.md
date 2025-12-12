@@ -30,7 +30,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 
 ## 情境 1: 掛號登記
 
-![掛號](https://images.pexels.com/photos/3771110/pexels-photo-3771110.jpeg?auto=compress&cs=tinysrgb&h=350)
+![掛號](/assets/img/jp/2025-02-08-Japanese-Conversation-Daily-19/掛號登記.webp)
 
 <div style="text-align: left">  
 
@@ -114,7 +114,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 
 ## 情境 2: 看診問診
 
-![看診](https://images.pexels.com/photos/4226256/pexels-photo-4226256.jpeg?auto=compress&cs=tinysrgb&h=350)
+![看診](/assets/img/jp/2025-02-08-Japanese-Conversation-Daily-19/看診問診.webp)
 
 <div style="text-align: left">  
 
@@ -166,7 +166,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 
 ## 情境 3: 檢查說明
 
-![檢查](https://images.pexels.com/photos/8961701/pexels-photo-8961701.jpeg?auto=compress&cs=tinysrgb&h=350)
+![檢查](/assets/img/jp/2025-02-08-Japanese-Conversation-Daily-19/檢查說明.webp)
 
 <div style="text-align: left">  
 
@@ -218,7 +218,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 
 ## 情境 4: 領取藥品
 
-![領藥](https://images.pexels.com/photos/13835498/pexels-photo-13835498.jpeg?auto=compress&cs=tinysrgb&h=350)
+![領藥](/assets/img/jp/2025-02-08-Japanese-Conversation-Daily-19/領取藥品.webp)
 
 <div style="text-align: left">  
 
@@ -270,7 +270,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 
 ## 情境 5: 預約複診
 
-![複診](https://images.pexels.com/photos/6812532/pexels-photo-6812532.jpeg?auto=compress&cs=tinysrgb&h=350)
+![複診](/assets/img/jp/2025-02-08-Japanese-Conversation-Daily-19/預約複診.webp)
 
 <div style="text-align: left">  
 

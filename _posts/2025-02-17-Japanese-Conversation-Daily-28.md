@@ -30,7 +30,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 
 ## 情境 1: 預約
 
-![預約](https://images.pexels.com/photos/32112649/pexels-photo-32112649.jpeg?auto=compress&cs=tinysrgb&h=350)
+![預約](/assets/img/jp/2025-02-17-Japanese-Conversation-Daily-28/預約.webp)
 
 <div style="text-align: left">  
 
@@ -102,7 +102,7 @@ excerpt: 學習在日本美容院和美髮店時常用的日語對話，包括�
 
 ## 情境 2: 剪髮
 
-![剪髮](https://images.pexels.com/photos/1319460/pexels-photo-1319460.jpeg?auto=compress&cs=tinysrgb&h=350)
+![剪髮](/assets/img/jp/2025-02-17-Japanese-Conversation-Daily-28/剪髮.webp)
 
 <div style="text-align: left">  
 

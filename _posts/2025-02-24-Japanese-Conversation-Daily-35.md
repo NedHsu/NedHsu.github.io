@@ -30,7 +30,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 
 ## 情境 1: 預約車輛
 
-![預約](https://images.pexels.com/photos/5269708/pexels-photo-5269708.jpeg?auto=compress&cs=tinysrgb&h=350)
+![預約](/assets/img/jp/2025-02-24-Japanese-Conversation-Daily-35/租車預約車輛.webp)
 
 <div style="text-align: left">  
 
@@ -122,7 +122,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 
 ## 情境 2: 選擇車型
 
-![車型](https://images.pexels.com/photos/18569462/pexels-photo-18569462.jpeg?auto=compress&cs=tinysrgb&h=350)
+![車型](/assets/img/jp/2025-02-24-Japanese-Conversation-Daily-35/租車選擇車型.webp)
 
 <div style="text-align: left">  
 
@@ -214,7 +214,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 
 ## 情境 3: 確認保險
 
-![保險](https://images.pexels.com/photos/16747158/pexels-photo-16747158.jpeg?auto=compress&cs=tinysrgb&h=350)
+![保險](/assets/img/jp/2025-02-24-Japanese-Conversation-Daily-35/租車確認保險.webp)
 
 <div style="text-align: left">  
 
@@ -306,7 +306,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 
 ## 情境 4: 取還車
 
-![取還車](https://images.pexels.com/photos/7415122/pexels-photo-7415122.jpeg?auto=compress&cs=tinysrgb&h=350)
+![取還車](/assets/img/jp/2025-02-24-Japanese-Conversation-Daily-35/租車取還車.webp)
 
 <div style="text-align: left">  
 
@@ -402,7 +402,7 @@ excerpt: 學習在日本租車和自駕時常用的日語對話，包括預約�
 
 ## 情境 5: 結帳付款
 
-![結帳](https://images.pexels.com/photos/6863336/pexels-photo-6863336.jpeg?auto=compress&cs=tinysrgb&h=350)
+![結帳](/assets/img/jp/2025-02-24-Japanese-Conversation-Daily-35/結帳付款.webp)
 
 <div style="text-align: left">  
 

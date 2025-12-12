@@ -30,7 +30,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 
 ## 情境 1: 詢問天氣
 
-![天氣](https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg?auto=compress&cs=tinysrgb&h=350)
+![天氣](/assets/img/jp/2025-02-02-Japanese-Conversation-Daily-13/詢問天氣.webp)
 
 <div style="text-align: left">  
 
@@ -114,7 +114,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 
 ## 情境 2: 談論季節
 
-![季節](https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg?auto=compress&cs=tinysrgb&h=350)
+![季節](/assets/img/jp/2025-02-02-Japanese-Conversation-Daily-13/談論季節.webp)
 
 <div style="text-align: left">  
 
@@ -198,7 +198,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 
 ## 情境 3: 溫度變化
 
-![溫度](https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg?auto=compress&cs=tinysrgb&h=350)
+![溫度](/assets/img/jp/2025-02-02-Japanese-Conversation-Daily-13/溫度變化.webp)
 
 <div style="text-align: left">  
 
@@ -282,7 +282,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 
 ## 情境 4: 天氣預報
 
-![預報](https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg?auto=compress&cs=tinysrgb&h=350)
+![預報](/assets/img/jp/2025-02-02-Japanese-Conversation-Daily-13/天氣預報.webp)
 
 <div style="text-align: left">  
 
@@ -366,7 +366,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 
 ## 情境 5: 天氣對生活的影響
 
-![生活](https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg?auto=compress&cs=tinysrgb&h=350)
+![生活](/assets/img/jp/2025-02-02-Japanese-Conversation-Daily-13/天氣對生活的影響.webp)
 
 <div style="text-align: left">  
 

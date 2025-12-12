@@ -30,7 +30,7 @@ excerpt: 學習在日本溫泉和澡堂時常用的日語對話，包括詢問�
 
 ## 情境 1: 詢問價格
 
-![價格](https://images.pexels.com/photos/24032931/pexels-photo-24032931.jpeg?auto=compress&cs=tinysrgb&h=350)
+![價格](/assets/img/jp/2025-02-16-Japanese-Conversation-Daily-27/詢問價格.webp)
 
 <div style="text-align: left">  
 
@@ -118,7 +118,7 @@ excerpt: 學習在日本溫泉和澡堂時常用的日語對話，包括詢問�
 
 ## 情境 2: 使用設施
 
-![設施](https://images.pexels.com/photos/21715257/pexels-photo-21715257.jpeg?auto=compress&cs=tinysrgb&h=350)
+![設施](/assets/img/jp/2025-02-16-Japanese-Conversation-Daily-27/使用設施.webp)
 
 <div style="text-align: left">  
 
@@ -206,7 +206,7 @@ excerpt: 學習在日本溫泉和澡堂時常用的日語對話，包括詢問�
 
 ## 情境 3: 購買用品
 
-![用品](https://images.pexels.com/photos/30329884/pexels-photo-30329884.jpeg?auto=compress&cs=tinysrgb&h=350)
+![用品](/assets/img/jp/2025-02-16-Japanese-Conversation-Daily-27/購買用品.webp)
 
 <div style="text-align: left">  
 
@@ -278,7 +278,7 @@ excerpt: 學習在日本溫泉和澡堂時常用的日語對話，包括詢問�
 
 ## 情境 4: 結帳付款
 
-![結帳](https://images.pexels.com/photos/7621136/pexels-photo-7621136.jpeg?auto=compress&cs=tinysrgb&h=350)
+![結帳](/assets/img/jp/2025-02-16-Japanese-Conversation-Daily-27/結帳付款.webp)
 
 <div style="text-align: left">  
 
@@ -366,7 +366,7 @@ excerpt: 學習在日本溫泉和澡堂時常用的日語對話，包括詢問�
 
 ## 情境 5: 注意事項
 
-![注意](https://images.pexels.com/photos/3970339/pexels-photo-3970339.jpeg?auto=compress&cs=tinysrgb&h=350)
+![注意](/assets/img/jp/2025-02-16-Japanese-Conversation-Daily-27/注意事項.webp)
 
 <div style="text-align: left">  
 

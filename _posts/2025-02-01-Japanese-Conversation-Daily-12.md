@@ -30,7 +30,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 ## 情境 1: 詢問方向
 
-![問路](https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg?auto=compress&cs=tinysrgb&h=350)
+![問路](/assets/img/jp/2025-02-01-Japanese-Conversation-Daily-12/詢問方向.webp)
 
 <div style="text-align: left">  
 
@@ -135,7 +135,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 ## 情境 2: 搭乘電車
 
-![電車](https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg?auto=compress&cs=tinysrgb&h=350)
+![電車](/assets/img/jp/2025-02-01-Japanese-Conversation-Daily-12/搭乘電車.webp)
 
 <div style="text-align: left">  
 
@@ -238,7 +238,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 ## 情境 3: 購買車票
 
-![車票](https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg?auto=compress&cs=tinysrgb&h=350)
+![車票](/assets/img/jp/2025-02-01-Japanese-Conversation-Daily-12/購買車票.webp)
 
 <div style="text-align: left">  
 
@@ -346,7 +346,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 ## 情境 4: 轉乘與換車
 
-![轉乘](https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg?auto=compress&cs=tinysrgb&h=350)
+![轉乘](/assets/img/jp/2025-02-01-Japanese-Conversation-Daily-12/轉乘與換車.webp)
 
 <div style="text-align: left">  
 
@@ -449,7 +449,7 @@ excerpt: 學習在日本問路和搭乘交通工具時常用的日語對話，�
 
 ## 情境 5: 搭乘計程車
 
-![計程車](https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg?auto=compress&cs=tinysrgb&h=350)
+![計程車](/assets/img/jp/2025-02-01-Japanese-Conversation-Daily-12/搭乘計程車.webp)
 
 <div style="text-align: left">  
 

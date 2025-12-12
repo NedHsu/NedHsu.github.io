@@ -30,7 +30,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 
 ## 情境 1: 進入商店與詢問商品
 
-![商店入口](https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg?auto=compress&cs=tinysrgb&h=350)
+![商店入口](/assets/img/jp/2025-01-30-Japanese-Conversation-Daily-10/進入商店與詢問商品.webp)
 
 <div style="text-align: left">  
 
@@ -115,7 +115,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 
 ## 情境 2: 試穿與詢問尺寸
 
-![試穿](https://images.pexels.com/photos/934070/pexels-photo-934070.jpeg?auto=compress&cs=tinysrgb&h=350)
+![試穿](/assets/img/jp/2025-01-30-Japanese-Conversation-Daily-10/試穿與詢問尺寸.webp)
 
 <div style="text-align: left">  
 
@@ -200,7 +200,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 
 ## 情境 3: 詢問價格與折扣
 
-![價格](https://images.pexels.com/photos/4386366/pexels-photo-4386366.jpeg?auto=compress&cs=tinysrgb&h=350)
+![價格](/assets/img/jp/2025-01-30-Japanese-Conversation-Daily-10/詢問價格與折扣.webp)
 
 <div style="text-align: left">  
 
@@ -285,7 +285,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 
 ## 情境 4: 退換貨與退款
 
-![退換貨](https://images.pexels.com/photos/4386366/pexels-photo-4386366.jpeg?auto=compress&cs=tinysrgb&h=350)
+![退換貨](/assets/img/jp/2025-01-30-Japanese-Conversation-Daily-10/退換貨與退款.webp)
 
 <div style="text-align: left">  
 
@@ -378,7 +378,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 
 ## 情境 5: 包裝與送貨
 
-![包裝](https://images.pexels.com/photos/4386366/pexels-photo-4386366.jpeg?auto=compress&cs=tinysrgb&h=350)
+![包裝](/assets/img/jp/2025-01-30-Japanese-Conversation-Daily-10/包裝與送貨.webp)
 
 <div style="text-align: left">  
 

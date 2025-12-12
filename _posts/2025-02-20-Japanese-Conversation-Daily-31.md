@@ -30,7 +30,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 
 ## 情境 1: 入會
 
-![入會](https://images.pexels.com/photos/32133930/pexels-photo-32133930.jpeg?auto=compress&cs=tinysrgb&h=350)
+![入會](/assets/img/jp/2025-02-20-Japanese-Conversation-Daily-31/入會.webp)
 
 <div style="text-align: left">  
 
@@ -118,7 +118,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 
 ## 情境 2: 使用設施
 
-![設施](https://images.pexels.com/photos/21715257/pexels-photo-21715257.jpeg?auto=compress&cs=tinysrgb&h=350)
+![設施](/assets/img/jp/2025-02-20-Japanese-Conversation-Daily-31/使用設施.webp)
 
 <div style="text-align: left">  
 
@@ -206,7 +206,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 
 ## 情境 3: 詢問課程
 
-![課程](https://images.pexels.com/photos/9159054/pexels-photo-9159054.jpeg?auto=compress&cs=tinysrgb&h=350)
+![課程](/assets/img/jp/2025-02-20-Japanese-Conversation-Daily-31/詢問課程.webp)
 
 <div style="text-align: left">  
 
@@ -294,7 +294,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 
 ## 情境 4: 請教教練
 
-![教練](https://images.pexels.com/photos/5745684/pexels-photo-5745684.jpeg?auto=compress&cs=tinysrgb&h=350)
+![教練](/assets/img/jp/2025-02-20-Japanese-Conversation-Daily-31/請教教練.webp)
 
 <div style="text-align: left">  
 
@@ -382,7 +382,7 @@ excerpt: 學習在日本健身房和運動場所時常用的日語對話，包�
 
 ## 情境 5: 結帳付款
 
-![結帳](https://images.pexels.com/photos/7621136/pexels-photo-7621136.jpeg?auto=compress&cs=tinysrgb&h=350)
+![結帳](/assets/img/jp/2025-02-20-Japanese-Conversation-Daily-31/結帳付款.webp)
 
 <div style="text-align: left">  
 

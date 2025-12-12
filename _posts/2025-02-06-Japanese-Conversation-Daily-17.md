@@ -30,7 +30,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 
 ## 情境 1: 詢問商品
 
-![詢問](https://images.pexels.com/photos/8921573/pexels-photo-8921573.jpeg?auto=compress&cs=tinysrgb&h=350)
+![詢問](/assets/img/jp/2025-02-06-Japanese-Conversation-Daily-17/詢問商品.webp)
 
 <div style="text-align: left">  
 
@@ -130,7 +130,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 
 ## 情境 2: 比較價格
 
-![價格](https://images.pexels.com/photos/22021193/pexels-photo-22021193.jpeg?auto=compress&cs=tinysrgb&h=350)
+![價格](/assets/img/jp/2025-02-06-Japanese-Conversation-Daily-17/比較價格.webp)
 
 <div style="text-align: left">  
 
@@ -214,7 +214,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 
 ## 情境 3: 詢問功能
 
-![功能](https://images.pexels.com/photos/32156379/pexels-photo-32156379.png?auto=compress&cs=tinysrgb&h=350)
+![功能](/assets/img/jp/2025-02-06-Japanese-Conversation-Daily-17/詢問功能.webp)
 
 <div style="text-align: left">  
 
@@ -298,7 +298,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 
 ## 情境 4: 維修服務
 
-![維修](https://images.pexels.com/photos/18483564/pexels-photo-18483564.jpeg?auto=compress&cs=tinysrgb&h=350)
+![維修](/assets/img/jp/2025-02-06-Japanese-Conversation-Daily-17/維修服務.webp)
 
 <div style="text-align: left">  
 
@@ -382,7 +382,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 
 ## 情境 5: 退換貨
 
-![退換](https://images.pexels.com/photos/8927657/pexels-photo-8927657.jpeg?auto=compress&cs=tinysrgb&h=350)
+![退換](/assets/img/jp/2025-02-06-Japanese-Conversation-Daily-17/退換貨.webp)
 
 <div style="text-align: left">  
 

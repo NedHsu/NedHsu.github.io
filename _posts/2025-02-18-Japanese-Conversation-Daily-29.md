@@ -30,7 +30,7 @@ excerpt: 學習在日本美甲和美睫店時常用的日語對話，包括預�
 
 ## 情境 1: 預約
 
-![預約](https://images.pexels.com/photos/32112649/pexels-photo-32112649.jpeg?auto=compress&cs=tinysrgb&h=350)
+![預約](/assets/img/jp/2025-02-18-Japanese-Conversation-Daily-29/預約.webp)
 
 <div style="text-align: left">  
 
@@ -102,7 +102,7 @@ excerpt: 學習在日本美甲和美睫店時常用的日語對話，包括預�
 
 ## 情境 2: 選擇款式
 
-![款式](https://images.pexels.com/photos/19364191/pexels-photo-19364191.jpeg?auto=compress&cs=tinysrgb&h=350)
+![款式](/assets/img/jp/2025-02-18-Japanese-Conversation-Daily-29/選擇款式.webp)
 
 <div style="text-align: left">  
 
@@ -174,7 +174,7 @@ excerpt: 學習在日本美甲和美睫店時常用的日語對話，包括預�
 
 ## 情境 3: 詢問價格
 
-![價格](https://images.pexels.com/photos/24032931/pexels-photo-24032931.jpeg?auto=compress&cs=tinysrgb&h=350)
+![價格](/assets/img/jp/2025-02-18-Japanese-Conversation-Daily-29/詢問價格.webp)
 
 <div style="text-align: left">  
 
@@ -262,7 +262,7 @@ excerpt: 學習在日本美甲和美睫店時常用的日語對話，包括預�
 
 ## 情境 4: 服務過程
 
-![服務](https://images.pexels.com/photos/29189916/pexels-photo-29189916.jpeg?auto=compress&cs=tinysrgb&h=350)
+![服務](/assets/img/jp/2025-02-18-Japanese-Conversation-Daily-29/服務過程.webp)
 
 <div style="text-align: left">  
 
@@ -350,7 +350,7 @@ excerpt: 學習在日本美甲和美睫店時常用的日語對話，包括預�
 
 ## 情境 5: 結帳付款
 
-![結帳](https://images.pexels.com/photos/7621136/pexels-photo-7621136.jpeg?auto=compress&cs=tinysrgb&h=350)
+![結帳](/assets/img/jp/2025-02-18-Japanese-Conversation-Daily-29/結帳付款.webp)
 
 <div style="text-align: left">  
 
