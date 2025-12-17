@@ -5,7 +5,7 @@ categories: [Language, Japanese]
 tags: [日語, Japanese, 情感, Emotions, 感受, Feelings] 
 excerpt: 學習日語中情感與感受相關的表達方式，包括基本情感、感受描述、情感表達等。每個表達都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
 image:
-  path: /assets/img/jp/2025-04-09-Japanese-Emotions-Feelings-Emotional-Expression-Feeling-Description/基本情感.png
+  path: /assets/img/jp/2025-04-09-Japanese-Emotions-Feelings-Emotional-Expression-Feeling-Description/基本情感.webp
 ---
 
 ## 課程預覽
@@ -116,7 +116,7 @@ image:
 
 ## 情境 2: 感受描述
 
-![感受描述](/assets/img/jp/2025-04-09-Japanese-Emotions-Feelings-Emotional-Expression-Feeling-Description/感受描述.png)
+![感受描述](/assets/img/jp/2025-04-09-Japanese-Emotions-Feelings-Emotional-Expression-Feeling-Description/感受描述.webp)
 <!-- Image Prompt: Japanese feeling descriptions and physical sensations diagram - feeling descriptions and physical states with Japanese labels (疲れる, リラックス, 緊張, 興奮, 安心, 感動, 感謝, 後悔, 複雑, 混乱, 迷う, 悩む, 感覚, 体験, 反応, 状態), clean feeling description layout, educational diagram style, no text overlays, only feeling description labels positioned at corresponding physical sensation elements -->
 
 ### 身體感受
@@ -215,7 +215,7 @@ image:
 
 ## 情境 3: 情感表達
 
-![情感表達](/assets/img/jp/2025-04-09-Japanese-Emotions-Feelings-Emotional-Expression-Feeling-Description/情感表達.png)
+![情感表達](/assets/img/jp/2025-04-09-Japanese-Emotions-Feelings-Emotional-Expression-Feeling-Description/情感表達.webp)
 <!-- Image Prompt: Japanese emotional expression methods and intensity diagram - emotional expression methods and intensity levels with Japanese labels (笑う, 泣く, 怒る, 驚く, とても, すごく, 少し, かなり, 気分がいい, 気分が悪い, 機嫌がいい, 機嫌が悪い, 表現, 反応, 変化, 強度), clean emotional expression layout, educational diagram style, no text overlays, only emotional expression labels positioned at corresponding intensity level elements -->
 
 ### 情感表達方式
@@ -314,7 +314,7 @@ image:
 
 ## 情境 4: 情感對話
 
-![情感對話](/assets/img/jp/2025-04-09-Japanese-Emotions-Feelings-Emotional-Expression-Feeling-Description/情感對話.png)
+![情感對話](/assets/img/jp/2025-04-09-Japanese-Emotions-Feelings-Emotional-Expression-Feeling-Description/情感對話.webp)
 <!-- Image Prompt: Japanese emotional dialogue and conversation scene - emotional conversation and emotional support with Japanese labels (どうしましたか, 気分はどうですか, 大丈夫ですか, 何か心配事がありますか, 元気です, 調子が悪いです, 心配しています, 嬉しいです, 心配しないでください, 大丈夫です, 一緒にいます, 応援しています, 会話, 相談, 慰め, 支援), clean emotional dialogue setting, educational illustration style, no text overlays, only emotional dialogue phrase labels positioned near corresponding conversation elements -->
 
 ### 情感詢問
@@ -414,7 +414,7 @@ image:
 
 ## 情境 5: 情感文化
 
-![情感文化](/assets/img/jp/2025-04-09-Japanese-Emotions-Feelings-Emotional-Expression-Feeling-Description/情感文化.png)
+![情感文化](/assets/img/jp/2025-04-09-Japanese-Emotions-Feelings-Emotional-Expression-Feeling-Description/情感文化.webp)
 <!-- Image Prompt: Japanese emotional culture and social expressions diagram - emotional culture and social interaction with Japanese labels (我慢, 遠慮, 恥, 義理, 控えめ, 奥ゆかしい, 慎み深い, 思いやり, 和, 絆, 信頼, 尊敬, 文化, 社会, 価値観, 伝統), clean emotional culture layout, educational diagram style, no text overlays, only emotional culture labels positioned at corresponding social expression elements -->
 
 ### 日本情感文化

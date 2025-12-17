@@ -4,6 +4,8 @@ date: 2025-04-07 19:00:00 +0800
 categories: [Language, Japanese]
 tags: [日語, Japanese, 購物, Shopping, 價格, Price] 
 excerpt: 學習日語中購物和價格相關的表達方式，包括購物對話、價格詢問、付款方式等。每個表達都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
+image:
+  path: /assets/img/jp/2025-04-07-Japanese-Shopping-Price-Shopping-Dialogue-Price-Inquiry/購物場所.webp
 ---
 
 ## 課程預覽
@@ -19,7 +21,6 @@ excerpt: 學習日語中購物和價格相關的表達方式，包括購物對�
 
 ## 情境 1: 購物場所
 
-![購物場所](/assets/img/jp/2025-04-07-Japanese-Shopping-Price-Shopping-Dialogue-Price-Inquiry/購物場所.webp)
 <!-- Image Prompt: Japanese shopping venues and retail locations diagram - shopping venues and retail establishments with Japanese labels (デパート, ショッピングモール, スーパー, コンビニ, 服屋, 靴屋, 本屋, 薬局, 市場, 魚市場, 花屋, 八百屋, 店, 商業, 小売, 販売), clean shopping venue layout, educational diagram style, no text overlays, only shopping venue labels positioned at corresponding retail establishment elements -->
 
 ### 大型購物場所
