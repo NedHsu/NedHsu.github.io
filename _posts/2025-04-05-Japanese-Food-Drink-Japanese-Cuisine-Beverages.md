@@ -4,6 +4,8 @@ date: 2025-04-05 19:00:00 +0800
 categories: [Language, Japanese]
 tags: [日語, Japanese, 食物, Food, 飲料, Drinks] 
 excerpt: 學習日語中食物和飲料相關的表達方式，包括日式料理、飲品、用餐禮儀等。每個表達都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
+image:
+  path: /assets/img/jp/2025-04-05-Japanese-Food-Drink-Japanese-Cuisine-Beverages/基本食物.webp
 ---
 
 {% include embed/youtube.html id='CDwTtCODRDY' %}
@@ -166,6 +168,7 @@ excerpt: 學習日語中食物和飲料相關的表達方式，包括日式料�
 
 ## 情境 2: 日式料理
 
+![日式料理](/assets/img/jp/2025-04-05-Japanese-Food-Drink-Japanese-Cuisine-Beverages/日式料理.webp)
 <!-- Image Prompt: Japanese traditional cuisine and cooking methods diagram - traditional Japanese dishes and cooking techniques with Japanese labels (寿司, 天ぷら, 刺身, 焼き鳥, 味噌汁, 鍋物, しゃぶしゃぶ, すき焼き, 弁当, 漬物, おにぎり, 茶碗蒸し, 和食, 伝統, 調理法, 盛り付け), clean traditional cuisine layout, educational diagram style, no text overlays, only traditional cuisine labels positioned at corresponding cooking method elements -->
 
 ### 傳統料理
@@ -310,6 +313,7 @@ excerpt: 學習日語中食物和飲料相關的表達方式，包括日式料�
 
 ## 情境 3: 飲品與酒類
 
+![飲品酒類](/assets/img/jp/2025-04-05-Japanese-Food-Drink-Japanese-Cuisine-Beverages/飲品酒類.webp)
 <!-- Image Prompt: Japanese beverages and drink categories diagram - beverages and drink types with Japanese labels (お茶, 緑茶, 抹茶, 玄米茶, 日本酒, ビール, 焼酎, 梅酒, 水, ジュース, コーヒー, 牛乳, 飲み物, 酒類, 茶道, 乾杯), clean beverage category layout, educational diagram style, no text overlays, only beverage labels positioned at corresponding drink type elements -->
 
 ### 茶類
@@ -455,6 +459,7 @@ excerpt: 學習日語中食物和飲料相關的表達方式，包括日式料�
 
 ## 情境 4: 用餐表達
 
+![用餐表達](/assets/img/jp/2025-04-05-Japanese-Food-Drink-Japanese-Cuisine-Beverages/用餐表達.webp)
 <!-- Image Prompt: Japanese dining etiquette and meal customs diagram - dining etiquette and meal traditions with Japanese labels (いただきます, ごちそうさまでした, 箸, 茶碗, 食べる, 飲む, 噛む, 味わう, 美味しい, 甘い, 辛い, 酸っぱい, 食事, 礼儀, 作法, 感謝), clean dining etiquette layout, educational diagram style, no text overlays, only dining etiquette labels positioned at corresponding meal custom elements -->
 
 ### 用餐禮儀
@@ -599,6 +604,7 @@ excerpt: 學習日語中食物和飲料相關的表達方式，包括日式料�
 
 ## 情境 5: 食物相關對話
 
+![食物對話](/assets/img/jp/2025-04-05-Japanese-Food-Drink-Japanese-Cuisine-Beverages/食物對話.webp)
 <!-- Image Prompt: Japanese food conversation and culinary dialogue scene - food conversation and culinary discussion with Japanese labels (メニューを見せてください, これを注文します, おすすめは何ですか, お会計お願いします, これは何ですか, 辛いですか, アレルギーがあります, ベジタリアンです, 好きです, 嫌いです, 苦手です, 美味しいです, 料理を作ります, 手伝ってください, 材料を買います, レシピを見ます, 注文, 会話, 好み, 調理), clean food conversation setting, educational illustration style, no text overlays, only food conversation phrase labels positioned near corresponding culinary dialogue elements -->
 
 ### 點餐對話
