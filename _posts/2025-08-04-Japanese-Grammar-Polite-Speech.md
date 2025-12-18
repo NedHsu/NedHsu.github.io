@@ -242,7 +242,7 @@ excerpt: 學習日語敬語的基礎，包括です・ます・だ・である�
 ## 相關文章
 
 - [日語助詞 - で・へ・と・から的用法](/posts/Japanese-Grammar-Particles-Advanced/)
-<!-- - [日語動詞時態 - 現在・過去・未來](/posts/Japanese-Grammar-Verb-Tenses/) -->
+- [日語動詞時態 - 現在・過去・未來](/posts/Japanese-Grammar-Verb-Tenses/)
 - [日語助詞 - は・が・を・に的用法](/posts/Japanese-Grammar-Particles-Basic/)
 
 ---
