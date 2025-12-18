@@ -19,7 +19,7 @@ excerpt: 學習日語中方向與位置相關的表達方式，包括基本方�
 
 ## 情境 1: 基本方位
 
-![基本方位](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
+![基本方位](/assets/img/jp/2025-04-11-Japanese-Direction-Position-Direction-Position-Relationship/基本方位.webp)
 <!-- Image Prompt: Japanese compass directions visual diagram - compass rose with cardinal points labeled in Japanese (北, 南, 東, 西) and intermediate directions (北東, 南東, 北西, 南西), directional arrows pointing to each direction, clean educational diagram style, no text overlays, only directional labels positioned at compass points -->
 
 ### 基本方向
@@ -115,7 +115,7 @@ excerpt: 學習日語中方向與位置相關的表達方式，包括基本方�
 
 ## 情境 2: 位置關係
 
-![位置關係](https://images.unsplash.com/photo-1557683316-973673baf926?w=800&h=400&fit=crop&crop=center)
+![位置關係](/assets/img/jp/2025-04-11-Japanese-Direction-Position-Direction-Position-Relationship/位置關係.webp)
 <!-- Image Prompt: Japanese spatial relationship diagram - objects positioned to show relative locations (中, 外, 前, 後, 隣, 間, 向かい, 近く), clean geometric shapes representing different objects, arrows and lines showing spatial relationships, educational diagram style, no text overlays, only position labels placed at appropriate locations -->
 
 ### 基本位置
@@ -211,7 +211,7 @@ excerpt: 學習日語中方向與位置相關的表達方式，包括基本方�
 
 ## 情境 3: 方向指示
 
-![方向指示](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
+![方向指示](/assets/img/jp/2025-04-11-Japanese-Direction-Position-Direction-Position-Relationship/方向指示.webp)
 <!-- Image Prompt: Japanese directional instruction scene - person pointing in different directions, street layout with arrows showing movement directions (まっすぐ, 曲がる, 渡る, 戻る), clean urban environment, educational illustration style, no text overlays, only directional action labels positioned near corresponding gestures and movements -->
 
 ### 方向詢問
@@ -307,7 +307,7 @@ excerpt: 學習日語中方向與位置相關的表達方式，包括基本方�
 
 ## 情境 4: 位置描述
 
-![位置描述](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=400&fit=crop&crop=center)
+![位置描述](/assets/img/jp/2025-04-11-Japanese-Direction-Position-Direction-Position-Relationship/位置描述.webp)
 <!-- Image Prompt: Japanese location reference diagram - building layout showing architectural positions (角, 入口, 出口, 階段), street elements (交差点, 信号, 歩道, 横断歩道), landmarks (駅, 銀行, 郵便局, 病院), clean architectural diagram style, no text overlays, only location labels positioned at corresponding architectural and street features -->
 
 ### 建築物位置
@@ -403,7 +403,7 @@ excerpt: 學習日語中方向與位置相關的表達方式，包括基本方�
 
 ## 情境 5: 方向文化
 
-![方向文化](https://images.unsplash.com/photo-1541746972996-4e0b0f93e586?w=800&h=400&fit=crop&crop=center)
+![方向文化](/assets/img/jp/2025-04-11-Japanese-Direction-Position-Direction-Position-Relationship/方向文化.webp)
 <!-- Image Prompt: Japanese directional culture illustration - traditional building orientation showing directional concepts (南向き, 北向き, 東向き, 西向き), seating arrangement showing hierarchy (上座, 下座), walking etiquette (右側, 左側), clean traditional Japanese architectural style, no text overlays, only cultural direction labels positioned at relevant cultural elements -->
 
 ### 日本方向文化
