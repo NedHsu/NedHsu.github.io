@@ -231,9 +231,9 @@ excerpt: 學習日語形容詞與副詞的比較表達，包括比較級、最�
 
 ## 相關文章
 
-- [日語形容詞與副詞組合 - 修飾關係和語義](../2025-08-18-Japanese-Grammar-Adjective-Adverb-Combination/)
-- [日語形容詞與副詞總結 - 總複習](../2025-08-20-Japanese-Grammar-Adjective-Adverb-Summary/)
-- [日語副詞進階 - 副詞的修飾功能和語義](../2025-08-17-Japanese-Grammar-Adverbs-Advanced/)
+- [日語形容詞與副詞組合 - 修飾關係和語義](/posts/Japanese-Grammar-Adjective-Adverb-Combination/)
+- [日語形容詞與副詞總結 - 總複習](/posts/Japanese-Grammar-Adjective-Adverb-Summary/)
+- [日語副詞進階 - 副詞的修飾功能和語義](/posts/Japanese-Grammar-Adverbs-Advanced/)
 
 ---
 

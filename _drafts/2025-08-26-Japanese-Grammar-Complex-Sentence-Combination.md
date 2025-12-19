@@ -228,9 +228,9 @@ excerpt: 學習日語複合句型的組合使用，包括條件句、因果句�
 
 ## 相關文章
 
-- [日語比較句詳細 - より・ほど・くらい的區別](../2025-08-25-Japanese-Grammar-Comparative-Sentences/)
-- [日語複合句型總結 - 總複習](../2025-08-27-Japanese-Grammar-Complex-Sentence-Summary/)
-- [日語複合句型 - 條件句・因果句・比較句](../2025-08-22-Japanese-Grammar-Complex-Sentences/)
+- [日語比較句詳細 - より・ほど・くらい的區別](/posts/Japanese-Grammar-Comparative-Sentences/)
+- [日語複合句型總結 - 總複習](/posts/Japanese-Grammar-Complex-Sentence-Summary/)
+- [日語複合句型 - 條件句・因果句・比較句](/posts/Japanese-Grammar-Complex-Sentences/)
 
 ---
 

@@ -234,9 +234,9 @@ excerpt: 深入學習日語條件句的詳細用法，包括ば・たら・な�
 
 ## 相關文章
 
-- [日語複合句型 - 條件句・因果句・比較句](../2025-08-22-Japanese-Grammar-Complex-Sentences/)
-- [日語因果句詳細 - から・ので・ための區別](../2025-08-24-Japanese-Grammar-Causal-Sentences/)
-- [日語動詞條件形式 - ば・たら・なら・と](../2025-08-13-Japanese-Grammar-Verb-Conditional/)
+- [日語複合句型 - 條件句・因果句・比較句](/posts/Japanese-Grammar-Complex-Sentences/)
+- [日語因果句詳細 - から・ので・ための區別](/posts/Japanese-Grammar-Causal-Sentences/)
+- [日語動詞條件形式 - ば・たら・なら・と](/posts/Japanese-Grammar-Verb-Conditional/)
 
 ---
 

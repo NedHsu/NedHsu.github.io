@@ -231,9 +231,9 @@ excerpt: 深入學習日語比較句的詳細用法，包括より・ほど・�
 
 ## 相關文章
 
-- [日語因果句詳細 - から・ので・ための區別](../2025-08-24-Japanese-Grammar-Causal-Sentences/)
-- [日語複合句型組合 - 條件・因果・比較的組合](../2025-08-26-Japanese-Grammar-Complex-Sentence-Combination/)
-- [日語複合句型 - 條件句・因果句・比較句](../2025-08-22-Japanese-Grammar-Complex-Sentences/)
+- [日語因果句詳細 - から・ので・ための區別](/posts/Japanese-Grammar-Causal-Sentences/)
+- [日語複合句型組合 - 條件・因果・比較的組合](/posts/Japanese-Grammar-Complex-Sentence-Combination/)
+- [日語複合句型 - 條件句・因果句・比較句](/posts/Japanese-Grammar-Complex-Sentences/)
 
 ---
 

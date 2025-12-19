@@ -247,9 +247,9 @@ excerpt: 總結日語動詞變化的所有內容，包括動詞分類、時態�
 
 ## 相關文章
 
-- [日語動詞條件形式 - ば・たら・なら・と](../2025-08-13-Japanese-Grammar-Verb-Conditional/)
-- [日語形容詞與副詞 - い形容詞・な形容詞・副詞](../2025-08-15-Japanese-Grammar-Adjectives-Adverbs/)
-- [日語動詞變化 - 五段動詞・一段動詞・不規則動詞](../2025-08-08-Japanese-Grammar-Verb-Conjugation/)
+- [日語動詞條件形式 - ば・たら・なら・と](/posts/Japanese-Grammar-Verb-Conditional/)
+- [日語形容詞與副詞 - い形容詞・な形容詞・副詞](/posts/Japanese-Grammar-Adjectives-Adverbs/)
+- [日語動詞變化 - 五段動詞・一段動詞・不規則動詞](/posts/Japanese-Grammar-Verb-Conjugation/)
 
 ---
 

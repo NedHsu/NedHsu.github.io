@@ -231,9 +231,9 @@ excerpt: 深入學習日語因果句的詳細用法，包括から・ので・�
 
 ## 相關文章
 
-- [日語條件句詳細 - ば・たら・なら・と的區別](../2025-08-23-Japanese-Grammar-Conditional-Sentences/)
-- [日語比較句詳細 - より・ほど・くらい的區別](../2025-08-25-Japanese-Grammar-Comparative-Sentences/)
-- [日語複合句型 - 條件句・因果句・比較句](../2025-08-22-Japanese-Grammar-Complex-Sentences/)
+- [日語條件句詳細 - ば・たら・なら・と的區別](/posts/Japanese-Grammar-Conditional-Sentences/)
+- [日語比較句詳細 - より・ほど・くらい的區別](/posts/Japanese-Grammar-Comparative-Sentences/)
+- [日語複合句型 - 條件句・因果句・比較句](/posts/Japanese-Grammar-Complex-Sentences/)
 
 ---
 

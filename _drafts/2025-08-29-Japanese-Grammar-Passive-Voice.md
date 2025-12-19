@@ -231,9 +231,9 @@ excerpt: 學習日語被動語態的用法，包括受身・被害・間接受�
 
 ## 相關文章
 
-- [日語複合句型實用練習 - 綜合應用](../2025-08-28-Japanese-Grammar-Complex-Sentence-Practice/)
-- [日語使役語態 - 使役・使役受身・使役被動](../2025-08-30-Japanese-Grammar-Causative-Voice/)
-- [日語動詞語態 - 主動・被動・使役](../2025-08-10-Japanese-Grammar-Verb-Voice-Advanced/)
+- [日語複合句型實用練習 - 綜合應用](/posts/Japanese-Grammar-Complex-Sentence-Practice/)
+- [日語使役語態 - 使役・使役受身・使役被動](/posts/Japanese-Grammar-Causative-Voice/)
+- [日語動詞語態 - 主動・被動・使役](/posts/Japanese-Grammar-Verb-Voice-Advanced/)
 
 ---
 

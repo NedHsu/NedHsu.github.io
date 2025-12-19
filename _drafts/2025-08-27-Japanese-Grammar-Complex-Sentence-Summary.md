@@ -241,9 +241,9 @@ excerpt: 總結日語複合句型的所有內容，包括條件句、因果句�
 
 ## 相關文章
 
-- [日語複合句型組合 - 條件・因果・比較的組合](../2025-08-26-Japanese-Grammar-Complex-Sentence-Combination/)
-- [日語複合句型實用練習 - 綜合應用](../2025-08-28-Japanese-Grammar-Complex-Sentence-Practice/)
-- [日語複合句型 - 條件句・因果句・比較句](../2025-08-22-Japanese-Grammar-Complex-Sentences/)
+- [日語複合句型組合 - 條件・因果・比較的組合](/posts/Japanese-Grammar-Complex-Sentence-Combination/)
+- [日語複合句型實用練習 - 綜合應用](/posts/Japanese-Grammar-Complex-Sentence-Practice/)
+- [日語複合句型 - 條件句・因果句・比較句](/posts/Japanese-Grammar-Complex-Sentences/)
 
 ---
 

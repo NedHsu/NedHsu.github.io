@@ -201,9 +201,9 @@ excerpt: 學習日語動詞的複合形式，包括複合動詞和補助動詞�
 
 ## 相關文章
 
-- [日語敬語動詞 - 尊敬語・謙讓語・丁寧語](../2025-08-11-Japanese-Grammar-Honorific-Verbs/)
-- [日語動詞條件形式 - ば・たら・なら・と](../2025-08-13-Japanese-Grammar-Verb-Conditional/)
-- [日語動詞變化 - 五段動詞・一段動詞・不規則動詞](../2025-08-08-Japanese-Grammar-Verb-Conjugation/)
+- [日語敬語動詞 - 尊敬語・謙讓語・丁寧語](/posts/Japanese-Grammar-Honorific-Verbs/)
+- [日語動詞條件形式 - ば・たら・なら・と](/posts/Japanese-Grammar-Verb-Conditional/)
+- [日語動詞變化 - 五段動詞・一段動詞・不規則動詞](/posts/Japanese-Grammar-Verb-Conjugation/)
 
 ---
 

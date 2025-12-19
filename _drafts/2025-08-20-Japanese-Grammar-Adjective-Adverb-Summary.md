@@ -233,9 +233,9 @@ excerpt: 總結日語形容詞與副詞的所有內容，包括形容詞變化�
 
 ## 相關文章
 
-- [日語形容詞與副詞比較 - 比較級和最高級](../2025-08-19-Japanese-Grammar-Adjective-Adverb-Comparison/)
-- [日語複合句型 - 條件句・因果句・比較句](../2025-08-22-Japanese-Grammar-Complex-Sentences/)
-- [日語形容詞進階 - い形容詞・な形容詞的詳細變化](../2025-08-15-Japanese-Grammar-Adjectives-Advanced/)
+- [日語形容詞與副詞比較 - 比較級和最高級](/posts/Japanese-Grammar-Adjective-Adverb-Comparison/)
+- [日語複合句型 - 條件句・因果句・比較句](/posts/Japanese-Grammar-Complex-Sentences/)
+- [日語形容詞進階 - い形容詞・な形容詞的詳細變化](/posts/Japanese-Grammar-Adjectives-Advanced/)
 
 ---
 

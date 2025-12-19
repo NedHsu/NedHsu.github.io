@@ -229,9 +229,9 @@ excerpt: 學習日語形容詞與副詞的組合使用，包括形容詞修飾�
 
 ## 相關文章
 
-- [日語副詞進階 - 副詞的修飾功能和語義](../2025-08-17-Japanese-Grammar-Adverbs-Advanced/)
-- [日語形容詞與副詞比較 - 比較級和最高級](../2025-08-19-Japanese-Grammar-Adjective-Adverb-Comparison/)
-- [日語形容詞進階 - い形容詞・な形容詞的詳細變化](../2025-08-15-Japanese-Grammar-Adjectives-Advanced/)
+- [日語副詞進階 - 副詞的修飾功能和語義](/posts/Japanese-Grammar-Adverbs-Advanced/)
+- [日語形容詞與副詞比較 - 比較級和最高級](/posts/Japanese-Grammar-Adjective-Adverb-Comparison/)
+- [日語形容詞進階 - い形容詞・な形容詞的詳細變化](/posts/Japanese-Grammar-Adjectives-Advanced/)
 
 ---
 

@@ -241,9 +241,9 @@ excerpt: 提供日語形容詞與副詞的實用練習，包括綜合應用、�
 
 ## 相關文章
 
-- [日語形容詞與副詞總結 - 總複習](../2025-08-20-Japanese-Grammar-Adjective-Adverb-Summary/)
-- [日語複合句型 - 條件句・因果句・比較句](../2025-08-22-Japanese-Grammar-Complex-Sentences/)
-- [日語形容詞進階 - い形容詞・な形容詞的詳細變化](../2025-08-15-Japanese-Grammar-Adjectives-Advanced/)
+- [日語形容詞與副詞總結 - 總複習](/posts/Japanese-Grammar-Adjective-Adverb-Summary/)
+- [日語複合句型 - 條件句・因果句・比較句](/posts/Japanese-Grammar-Complex-Sentences/)
+- [日語形容詞進階 - い形容詞・な形容詞的詳細變化](/posts/Japanese-Grammar-Adjectives-Advanced/)
 
 ---
 

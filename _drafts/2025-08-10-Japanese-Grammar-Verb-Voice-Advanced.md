@@ -201,9 +201,9 @@ excerpt: 深入學習日語動詞的進階語態用法，包括被動語態、�
 
 ## 相關文章
 
-- [日語動詞語態進階 - 被動・使役・可能](../2025-08-10-Japanese-Grammar-Verb-Voice-Advanced/)
-- [日語敬語動詞 - 尊敬語・謙讓語・丁寧語](../2025-08-11-Japanese-Grammar-Honorific-Verbs/)
-- [日語動詞變化 - 五段動詞・一段動詞・不規則動詞](../2025-08-08-Japanese-Grammar-Verb-Conjugation/)
+- [日語動詞語態進階 - 被動・使役・可能](/posts/Japanese-Grammar-Verb-Voice-Advanced/)
+- [日語敬語動詞 - 尊敬語・謙讓語・丁寧語](/posts/Japanese-Grammar-Honorific-Verbs/)
+- [日語動詞變化 - 五段動詞・一段動詞・不規則動詞](/posts/Japanese-Grammar-Verb-Conjugation/)
 
 ---
 

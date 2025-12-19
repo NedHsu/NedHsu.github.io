@@ -232,9 +232,9 @@ excerpt: 學習日語複合句型的基本概念，包括條件句、因果句�
 
 ## 相關文章
 
-- [日語形容詞與副詞實用練習 - 綜合應用](../2025-08-21-Japanese-Grammar-Adjective-Adverb-Practice/)
-- [日語條件句詳細 - ば・たら・なら・と的區別](../2025-08-23-Japanese-Grammar-Conditional-Sentences/)
-- [日語動詞條件形式 - ば・たら・なら・と](../2025-08-13-Japanese-Grammar-Verb-Conditional/)
+- [日語形容詞與副詞實用練習 - 綜合應用](/posts/Japanese-Grammar-Adjective-Adverb-Practice/)
+- [日語條件句詳細 - ば・たら・なら・と的區別](/posts/Japanese-Grammar-Conditional-Sentences/)
+- [日語動詞條件形式 - ば・たら・なら・と](/posts/Japanese-Grammar-Verb-Conditional/)
 
 ---
 

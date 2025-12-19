@@ -244,9 +244,9 @@ excerpt: 提供日語複合句型的實用練習，包括綜合應用、實際�
 
 ## 相關文章
 
-- [日語複合句型總結 - 總複習](../2025-08-27-Japanese-Grammar-Complex-Sentence-Summary/)
-- [日語高級語法 - 被動語態・使役語態・可能語態](../2025-08-29-Japanese-Grammar-Advanced/)
-- [日語複合句型 - 條件句・因果句・比較句](../2025-08-22-Japanese-Grammar-Complex-Sentences/)
+- [日語複合句型總結 - 總複習](/posts/Japanese-Grammar-Complex-Sentence-Summary/)
+- [日語高級語法 - 被動語態・使役語態・可能語態](/posts/Japanese-Grammar-Advanced/)
+- [日語複合句型 - 條件句・因果句・比較句](/posts/Japanese-Grammar-Complex-Sentences/)
 
 ---
 

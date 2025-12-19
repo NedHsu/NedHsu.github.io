@@ -231,9 +231,9 @@ excerpt: 學習日語複雜句型的用法，包括複合語態・複合時態�
 
 ## 相關文章
 
-- [日語使役語態 - 使役・使役受身・使役被動](../2025-08-30-Japanese-Grammar-Causative-Voice/)
-- [日語被動語態 - 受身・被害・間接受身](../2025-08-29-Japanese-Grammar-Passive-Voice/)
-- [日語複合句型實用練習 - 綜合應用](../2025-08-28-Japanese-Grammar-Complex-Sentence-Practice/)
+- [日語使役語態 - 使役・使役受身・使役被動](/posts/Japanese-Grammar-Causative-Voice/)
+- [日語被動語態 - 受身・被害・間接受身](/posts/Japanese-Grammar-Passive-Voice/)
+- [日語複合句型實用練習 - 綜合應用](/posts/Japanese-Grammar-Complex-Sentence-Practice/)
 
 ---
 
