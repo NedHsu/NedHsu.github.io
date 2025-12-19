@@ -15,20 +15,11 @@ excerpt: 學習日語中交通與旅行相關的表達方式，包括交通工�
 4. 旅行與住宿
 5. 旅行對話實戰
 
-
-## 學習小提醒
-
-今天的交通與旅行表達非常實用，建議您：
-- 記住常見交通工具名稱與讀音
-- 熟悉購票、轉乘、月台相關用語
-- 練習問路與方向指示句型
-- 掌握訂房、入住、觀光相關表達
-
 ---
 
 ## 情境 1: 交通工具
 
-![交通工具](https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800&h=400&fit=crop&crop=center)
+![交通工具](/assets/img/jp/2025-04-12-Japanese-Transportation-Travel-Transportation-Travel-Dialogue/交通工具.webp)
 <!-- Image Prompt: Various transportation modes in Japan — trains (including shinkansen), buses, taxis, bicycles, airplanes, ships in realistic city and travel settings, modern style, natural lighting -->
 
 ### 常見交通
@@ -96,7 +87,7 @@ excerpt: 學習日語中交通與旅行相關的表達方式，包括交通工�
 
 ## 情境 2: 乘車與購票
 
-![乘車與購票](https://images.unsplash.com/photo-1516483638261-f4dbaf036963?w=800&h=400&fit=crop&crop=center)
+![乘車與購票](/assets/img/jp/2025-04-12-Japanese-Transportation-Travel-Transportation-Travel-Dialogue/乘車與購票.webp)
 <!-- Image Prompt: Ticket machines, IC cards (Suica/PASMO), station gates, platforms, transfer signs, realistic Japanese station scene -->
 
 ### 購票與進站
@@ -166,7 +157,7 @@ excerpt: 學習日語中交通與旅行相關的表達方式，包括交通工�
 
 ## 情境 3: 問路與導航
 
-![問路與導航](https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800&h=400&fit=crop&crop=center)
+![問路與導航](/assets/img/jp/2025-04-12-Japanese-Transportation-Travel-Transportation-Travel-Dialogue/問路與導航.webp)
 <!-- Image Prompt: Travelers asking for directions, locals pointing, street maps, navigation apps, clear city context in Japan -->
 
 ### 問路常用句
@@ -221,7 +212,7 @@ excerpt: 學習日語中交通與旅行相關的表達方式，包括交通工�
 
 ## 情境 4: 旅行與住宿
 
-![旅行與住宿](https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&h=400&fit=crop&crop=center)
+![旅行與住宿](/assets/img/jp/2025-04-12-Japanese-Transportation-Travel-Transportation-Travel-Dialogue/旅行與住宿.webp)
 <!-- Image Prompt: Hotel front desk, check-in, reservation, sightseeing brochures, Japanese ryokan and modern hotels, tidy and welcoming -->
 
 ### 訂房入住
@@ -285,7 +276,7 @@ excerpt: 學習日語中交通與旅行相關的表達方式，包括交通工�
 
 ## 情境 5: 旅行對話實戰
 
-![旅行對話](https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&h=400&fit=crop&crop=center)
+![旅行對話](/assets/img/jp/2025-04-12-Japanese-Transportation-Travel-Transportation-Travel-Dialogue/旅行對話.webp)
 <!-- Image Prompt: Realistic travel dialogues in scenes — at station, on train, in taxi, at hotel front desk, with bilingual signage, friendly atmosphere -->
 
 ### 在車站
