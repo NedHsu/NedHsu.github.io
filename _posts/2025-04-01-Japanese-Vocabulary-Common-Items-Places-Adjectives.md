@@ -3,7 +3,7 @@ title: 日語詞彙 - 常見物品、地點、形容詞
 date: 2025-04-01 19:00:00 +0800
 categories: [Language, Japanese]
 tags: [日語, Japanese, 詞彙, Vocabulary] 
-excerpt: 學習日常生活中常見的日語詞彙，包括物品、地點和形容詞。每個詞彙都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
+excerpt: 學習日常生活中常見的日語詞彙，包括物品、地點和形容詞。
 image:
   path: /assets/img/jp/2025-04-01-Japanese-Vocabulary-Common-Items-Places-Adjectives/日常物品.webp
 ---

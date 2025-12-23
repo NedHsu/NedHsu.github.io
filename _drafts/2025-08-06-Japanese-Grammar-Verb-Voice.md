@@ -3,7 +3,7 @@ title: 日語動詞語態 - 主動・被動・使役
 date: 2025-08-06 19:00:00 +0800
 categories: [Language, Japanese]
 tags: [日語, Japanese, 語法, Grammar, 動詞, Verbs, 語態, Voice] 
-excerpt: 學習日語動詞的語態變化，包括主動語態、被動語態、使役語態的表達方式，以及語態的變化規則。每個語態都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
+excerpt: 學習日語動詞的語態變化，包括主動語態、被動語態、使役語態的表達方式，以及語態的變化規則。
 ---
 
 ## 課程預覽
@@ -200,7 +200,7 @@ excerpt: 學習日語動詞的語態變化，包括主動語態、被動語態�
 ## 相關文章
 
 - [日語動詞時態 - 現在・過去・未來](/posts/Japanese-Grammar-Verb-Tenses/)
-- [日語形容詞 - い形容詞・な形容詞](/posts/Japanese-Grammar-Adjectives/)
+<!-- - [日語形容詞 - い形容詞・な形容詞](/posts/Japanese-Grammar-Adjectives/) -->
 - [日語敬語 - です・ます・だ・である](/posts/Japanese-Grammar-Polite-Speech/)
 
 ---

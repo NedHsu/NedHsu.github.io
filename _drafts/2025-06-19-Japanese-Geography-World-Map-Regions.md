@@ -3,7 +3,7 @@ title: 日語地理與世界地圖 - 國家區域、氣候特徵
 date: 2025-06-19 19:00:00 +0800
 categories: [Language, Japanese]
 tags: [日語, Japanese, 地理, Geography, 世界, World, 地圖, Map, 國家, Country]
-excerpt: 學習日語地理與世界地圖相關單字，掌握國家區域、大陸名稱以及氣候特徵的詞彙。包含地理、世界、地図與大陸。
+excerpt: 學習日語地理與世界地圖相關單字，掌握國家區域、大陸名稱以及氣候特徵的詞彙。包含地理、世界、地圖與大陸。
 ---
 
 ## 課程預覽

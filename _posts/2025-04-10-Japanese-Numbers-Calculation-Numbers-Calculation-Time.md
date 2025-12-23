@@ -3,7 +3,7 @@ title: 日語數字與計算 - 數字、計算、時間
 date: 2025-04-10 19:00:00 +0800
 categories: [Language, Japanese]
 tags: [日語, Japanese, 數字, Numbers, 計算, Calculation] 
-excerpt: 學習日語中數字與計算相關的表達方式，包括基本數字、計算用語、時間表達等。每個表達都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
+excerpt: 學習日語中數字與計算相關的表達方式，包括基本數字、計算用語、時間表達等。
 image:
   path: /assets/img/jp/2025-04-10-Japanese-Numbers-Calculation-Numbers-Calculation-Time/基本數字.webp
 ---

@@ -3,7 +3,7 @@ title: 日語動詞 - 基本動作動詞
 date: 2025-04-02 19:00:00 +0800
 categories: [Language, Japanese]
 tags: [日語, Japanese, 動詞, Verbs] 
-excerpt: 學習日常生活中常用的日語動詞，包括基本動作、日常活動、移動動詞、感官動詞和情感動詞。每個動詞都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
+excerpt: 學習日常生活中常用的日語動詞，包括基本動作、日常活動、移動動詞、感官動詞和情感動詞。
 image:
   path: /assets/img/jp/2025-04-02-Japanese-Verbs-Basic-Action-Verbs/基本動作.webp
 ---

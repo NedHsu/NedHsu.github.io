@@ -3,7 +3,7 @@ title: 日語購物與價格 - 購物對話、價格詢問
 date: 2025-04-07 19:00:00 +0800
 categories: [Language, Japanese]
 tags: [日語, Japanese, 購物, Shopping, 價格, Price] 
-excerpt: 學習日語中購物和價格相關的表達方式，包括購物對話、價格詢問、付款方式等。每個表達都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
+excerpt: 學習日語中購物和價格相關的表達方式，包括購物對話、價格詢問、付款方式等。
 image:
   path: /assets/img/jp/2025-04-07-Japanese-Shopping-Price-Shopping-Dialogue-Price-Inquiry/購物場所.webp
 ---

@@ -3,7 +3,7 @@ title: 日語時間表達 - 日期、時間、季節
 date: 2025-04-03 19:00:00 +0800
 categories: [Language, Japanese]
 tags: [日語, Japanese, 時間, Time] 
-excerpt: 學習日語中時間相關的表達方式，包括日期、時間、季節、星期等。每個表達都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
+excerpt: 學習日語中時間相關的表達方式，包括日期、時間、季節、星期等。
 pin: true
 image:
   path: /assets/img/jp/2025-04-03-Japanese-Time-Expressions-Date-Time-Seasons/季節月份.webp

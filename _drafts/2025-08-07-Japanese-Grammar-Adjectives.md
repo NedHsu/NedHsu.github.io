@@ -3,7 +3,7 @@ title: 日語形容詞 - い形容詞・な形容詞
 date: 2025-08-07 19:00:00 +0800
 categories: [Language, Japanese]
 tags: [日語, Japanese, 語法, Grammar, 形容詞, Adjectives] 
-excerpt: 學習日語形容詞的用法，包括い形容詞和な形容詞的區別、變化規則和使用場合。每個形容詞都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，並提供實用例句幫助您更好地理解和記憶。
+excerpt: 學習日語形容詞的用法，包括い形容詞和な形容詞的區別、變化規則和使用場合。
 ---
 
 ## 課程預覽
@@ -204,7 +204,7 @@ excerpt: 學習日語形容詞的用法，包括い形容詞和な形容詞的�
 ## 相關文章
 
 - [日語動詞語態 - 主動・被動・使役](/posts/Japanese-Grammar-Verb-Voice/)
-- [日語副詞 - 程度・時間・場所](/posts/Japanese-Grammar-Adverbs/)
+<!-- - [日語副詞 - 程度・時間・場所](/posts/Japanese-Grammar-Adverbs/) -->
 - [日語動詞時態 - 現在・過去・未來](/posts/Japanese-Grammar-Verb-Tenses/)
 
 ---
