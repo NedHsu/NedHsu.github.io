@@ -5,6 +5,7 @@ categories: [Legal]
 tags: [服務條款, Terms of Service] 
 excerpt: "本服務條款規定使用本網站的條件和限制。"
 layout: page
+permalink: /terms-of-service/
 ---
 
 # 服務條款
