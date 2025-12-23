@@ -4,6 +4,8 @@ date: 2025-04-11 19:00:00 +0800
 categories: [Language, Japanese]
 tags: [日語, Japanese, 方向, Direction, 位置, Position] 
 excerpt: 學習日語中方向與位置相關的表達方式，包括基本方位、位置關係、方向指示等。
+image:
+  path: /assets/img/jp/2025-04-11-Japanese-Direction-Position-Direction-Position-Relationship/基本方位.webp
 ---
 
 ## 課程預覽

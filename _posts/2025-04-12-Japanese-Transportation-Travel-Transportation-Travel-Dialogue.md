@@ -4,6 +4,8 @@ date: 2025-04-12 19:00:00 +0800
 categories: [Language, Japanese]
 tags: [日語, Japanese, 交通, Transportation, 旅行, Travel]
 excerpt: 學習日語中交通與旅行相關的表達方式，包括交通工具、購票搭乘、問路導航、旅行與住宿，以及實用旅行對話。
+image:
+  path: /assets/img/jp/2025-04-12-Japanese-Transportation-Travel-Transportation-Travel-Dialogue/交通工具.webp
 ---
 
 ## 課程預覽
@@ -19,7 +21,6 @@ excerpt: 學習日語中交通與旅行相關的表達方式，包括交通工�
 
 ## 情境 1: 交通工具
 
-![交通工具](/assets/img/jp/2025-04-12-Japanese-Transportation-Travel-Transportation-Travel-Dialogue/交通工具.webp)
 <!-- Image Prompt: Various transportation modes in Japan — trains (including shinkansen), buses, taxis, bicycles, airplanes, ships in realistic city and travel settings, modern style, natural lighting -->
 
 ### 常見交通
