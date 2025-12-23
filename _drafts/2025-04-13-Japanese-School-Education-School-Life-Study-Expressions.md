@@ -19,7 +19,7 @@ excerpt: 學習日語中學校與教育相關的表達方式，包括學校設�
 
 ## 情境 1: 學校設施
 
-![學校設施](https://images.unsplash.com/photo-1529148482759-b35b25c5f217?w=800&h=400&fit=crop&crop=center)
+![學校設施](/assets/img/jp/2025-04-13-Japanese-School-Education-School-Life-Study-Expressions/學校設施.webp)
 <!-- Image Prompt: Japanese school campus with classrooms, library, gym, staff office, clean corridors, neat desks, and signage in Japanese, bright daylight -->
 
 ### 校園空間
@@ -95,7 +95,7 @@ excerpt: 學習日語中學校與教育相關的表達方式，包括學校設�
 
 ## 情境 2: 課堂活動
 
-![課堂活動](https://images.unsplash.com/photo-1509062522246-3755977927d7?w=800&h=400&fit=crop&crop=center)
+![課堂活動](/assets/img/jp/2025-04-13-Japanese-School-Education-School-Life-Study-Expressions/課堂活動.webp)
 <!-- Image Prompt: Classroom scenes with teacher explaining, students raising hands, taking notes, group work, clean Japanese classroom environment -->
 
 ### 課堂常用
@@ -156,7 +156,7 @@ excerpt: 學習日語中學校與教育相關的表達方式，包括學校設�
 
 ## 情境 3: 學習用語
 
-![學習用語](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&h=400&fit=crop&crop=center)
+![學習用語](/assets/img/jp/2025-04-13-Japanese-School-Education-School-Life-Study-Expressions/學習用語.webp)
 <!-- Image Prompt: Study materials and tools — textbooks, notebooks, pens, laptop, dictionary, kanji practice sheets, quiet study space -->
 
 ### 學習動作
@@ -220,7 +220,7 @@ excerpt: 學習日語中學校與教育相關的表達方式，包括學校設�
 
 ## 情境 4: 課外活動
 
-![課外活動](https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800&h=400&fit=crop&crop=center)
+![課外活動](/assets/img/jp/2025-04-13-Japanese-School-Education-School-Life-Study-Expressions/課外活動.webp)
 <!-- Image Prompt: Japanese school club activities — sports clubs, culture clubs (tea ceremony, calligraphy, music), after-school practice, club rooms -->
 
 ### 社團類型
@@ -278,7 +278,7 @@ excerpt: 學習日語中學校與教育相關的表達方式，包括學校設�
 
 ## 情境 5: 校園對話
 
-![校園對話](https://images.unsplash.com/photo-1519452575417-564c1401ecc0?w=800&h=400&fit=crop&crop=center)
+![校園對話](/assets/img/jp/2025-04-13-Japanese-School-Education-School-Life-Study-Expressions/校園對話.webp)
 <!-- Image Prompt: Students and teachers talking politely in school corridors, asking questions, giving instructions, friendly atmosphere -->
 
 ### 常用對話
