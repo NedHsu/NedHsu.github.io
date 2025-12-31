@@ -2,7 +2,7 @@
 title: 日語建築與營造 - 空間設計、構造材料
 date: 2025-06-10 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 建築, Architecture, 設計, Design, 建設, Construction, 住宅, Housing]
+tags: [日語, Japanese, 日語單字, 建築, Architecture, 設計, Design, 建設, Construction, 住宅, Housing]
 excerpt: 學習日語建築與營造相關單字，掌握空間設計、建築構造以及裝修材料的詞彙。包含建設、設計、材料與階段。
 ---
 

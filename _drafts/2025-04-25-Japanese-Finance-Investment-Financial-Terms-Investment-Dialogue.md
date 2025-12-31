@@ -2,7 +2,7 @@
 title: 日語金融與投資 - 金融用語、投資對話
 date: 2025-04-25 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 金融, Finance, 投資, Investment] 
+tags: [日語, Japanese, 日語單字, 金融, Finance, 投資, Investment] 
 excerpt: 學習日語中金融與投資相關的表達方式，包括銀行服務、投資理財、保險業務、金融產品與投資對話。
 ---
 

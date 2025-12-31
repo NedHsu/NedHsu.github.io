@@ -2,7 +2,7 @@
 title: 日語旅遊與觀光 - 旅遊用語、觀光對話
 date: 2025-04-24 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 旅遊, Travel, 觀光, Tourism] 
+tags: [日語, Japanese, 日語單字, 旅遊, Travel, 觀光, Tourism] 
 excerpt: 學習日語中旅遊與觀光相關的表達方式，包括旅遊準備、觀光景點、住宿服務、旅遊活動與觀光對話。
 ---
 

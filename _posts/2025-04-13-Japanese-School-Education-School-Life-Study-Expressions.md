@@ -2,7 +2,7 @@
 title: 日語學校與教育 - 學校生活、學習用語
 date: 2025-04-13 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 學校, School, 教育, Education]
+tags: [日語, Japanese, 日語單字, 學校, School, 教育, Education]
 excerpt: 學習日語中學校與教育相關的表達方式，包括學校設施、課堂活動、學習用語、課外活動與校園對話。
 description: 完整學習日語學校與教育相關詞彙，涵蓋教室、圖書館等學校設施名稱，上課、考試等課堂活動表達，學習方法與學科名稱，社團活動與課外活動用語，以及實用的校園生活對話範例，幫助您掌握學校生活的日語溝通。
 ---

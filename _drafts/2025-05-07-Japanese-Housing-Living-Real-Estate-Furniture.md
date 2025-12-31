@@ -2,7 +2,7 @@
 title: 日語住家與生活 - 尋找住處、家具家電
 date: 2025-05-07 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 住家, Housing, 生活, Life, 家具, Furniture]
+tags: [日語, Japanese, 日語單字, 住家, Housing, 生活, Life, 家具, Furniture]
 excerpt: 學習日語中住家與生活相關的表達方式，包括尋找住處、居家空間、家具家電、家務生活與鄰里關係。
 ---
 

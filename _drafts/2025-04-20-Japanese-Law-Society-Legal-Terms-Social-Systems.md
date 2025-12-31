@@ -2,7 +2,7 @@
 title: 日語法律與社會 - 法律用語、社會制度
 date: 2025-04-20 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 法律, Law, 社會, Society] 
+tags: [日語, Japanese, 日語單字, 法律, Law, 社會, Society] 
 excerpt: 學習日語中法律與社會相關的表達方式，包括法律概念、社會制度、權利義務、法律程序與社會對話。
 ---
 

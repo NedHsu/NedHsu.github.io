@@ -2,7 +2,7 @@
 title: 日語科學與技術 - 科學概念、技術術語
 date: 2025-04-30 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 科學, Science, 技術, Technology] 
+tags: [日語, Japanese, 日語單字, 科學, Science, 技術, Technology] 
 excerpt: 學習日語中科學與技術相關的表達方式，包括科學概念、技術術語、創新表達、科技發展與科學對話。
 ---
 

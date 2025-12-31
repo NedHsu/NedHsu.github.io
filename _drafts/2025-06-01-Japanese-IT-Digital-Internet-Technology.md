@@ -2,7 +2,7 @@
 title: 日語 IT 與數位生活 - 網路科技、電腦操作
 date: 2025-06-01 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, IT, Technology, 數位, Digital, 網路, Internet, 電腦, Computer]
+tags: [日語, Japanese, 日語單字, IT, Technology, 數位, Digital, 網路, Internet, 電腦, Computer]
 excerpt: 學習日語 IT 與數位生活相關單字，掌握網路科技、電腦操作以及智慧型手機的詞彙。包含検索、画面、接続與共有。
 ---
 

@@ -2,7 +2,7 @@
 title: 日語抽象概念與思考 - 邏輯表達、社會議題
 date: 2025-05-20 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 思考, Thinking, 邏輯, Logic, N3單字]
+tags: [日語, Japanese, 日語單字, 思考, Thinking, 邏輯, Logic, N3單字]
 excerpt: 學習 N3 級別的日語抽象概念與思考相關單字，掌握表達觀點、分析因果以及討論社會議題的詞彙。包含意識、影響、解決等邏輯性表達。
 ---
 

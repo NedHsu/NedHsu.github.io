@@ -2,7 +2,7 @@
 title: 日語方向與位置 - 方位、位置關係
 date: 2025-04-11 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 方向, Direction, 位置, Position] 
+tags: [日語, Japanese, 日語單字, 方向, Direction, 位置, Position] 
 excerpt: 學習日語中方向與位置相關的表達方式，包括基本方位、位置關係、方向指示等。
 description: 完整學習日語方向與位置相關詞彙，涵蓋東西南北等基本方位表達，上下左右、前後等位置關係，內外、旁邊、對面等空間位置描述，以及實用的方向指示與位置說明對話，幫助您準確描述地點與方向。
 image:

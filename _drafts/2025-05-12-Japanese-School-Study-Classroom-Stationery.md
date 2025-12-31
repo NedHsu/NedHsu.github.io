@@ -2,7 +2,7 @@
 title: 日語學校與學習 - 教室用品、學習動詞
 date: 2025-05-12 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 學校, School, 學習, Study, N5單字]
+tags: [日語, Japanese, 日語單字, 學校, School, 學習, Study, N5單字]
 excerpt: 學習 N5 級別的日語學校與學習相關單字，掌握教室內的物品名稱以及學習相關的動詞（勉強する、習う等）。
 ---
 

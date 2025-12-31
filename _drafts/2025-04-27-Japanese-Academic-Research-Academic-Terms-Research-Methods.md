@@ -2,7 +2,7 @@
 title: 日語學術與研究 - 學術用語、研究方法
 date: 2025-04-27 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 學術, Academic, 研究, Research] 
+tags: [日語, Japanese, 日語單字, 學術, Academic, 研究, Research] 
 excerpt: 學習日語中學術與研究相關的表達方式，包括學術用語、研究方法、論文寫作、學術討論與研究對話。
 ---
 

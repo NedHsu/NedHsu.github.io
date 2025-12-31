@@ -2,7 +2,7 @@
 title: 日語宗教與信仰 - 宗教概念、信仰表達
 date: 2025-05-02 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 宗教, Religion, 信仰, Faith] 
+tags: [日語, Japanese, 日語單字, 宗教, Religion, 信仰, Faith] 
 excerpt: 學習日語中宗教與信仰相關的表達方式，包括宗教概念、信仰表達、精神追求、宗教文化與宗教對話。
 ---
 

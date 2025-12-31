@@ -2,7 +2,7 @@
 title: 日語戀愛與感情 - 告白交往、浪漫約會
 date: 2025-06-13 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 戀愛, Love, 感情, Romance, 約會, Date, 結婚, Marriage]
+tags: [日語, Japanese, 日語單字, 戀愛, Love, 感情, Romance, 約會, Date, 結婚, Marriage]
 excerpt: 學習日語戀愛與感情相關單字，掌握告白交往、浪漫約會以及結婚成家的詞彙。包含恋、愛、デート與結婚。
 ---
 

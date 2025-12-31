@@ -2,7 +2,7 @@
 title: 日語環境與環保 - 環境保護、永續發展
 date: 2025-04-17 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 環境, Environment, 環保, Ecology] 
+tags: [日語, Japanese, 日語單字, 環境, Environment, 環保, Ecology, 日語單字] 
 excerpt: 學習日語中環境與環保相關的表達方式，包括環境問題、環保行動、永續發展、自然保護與環保對話。
 ---
 

@@ -2,7 +2,7 @@
 title: 日語傳統文化與節慶 - 神社參拜、四季行事
 date: 2025-06-03 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 文化, Culture, 傳統, Tradition, 節慶, Festival, 神社, Shrine]
+tags: [日語, Japanese, 日語單字, 文化, Culture, 傳統, Tradition, 節慶, Festival, 神社, Shrine]
 excerpt: 學習日語傳統文化與節慶相關單字，掌握神社參拜、和服穿著以及四季行事的詞彙。包含祭り、神社、着物與伝統。
 ---
 

@@ -2,7 +2,7 @@
 title: 日語興趣與娛樂 - 運動休閒、藝文活動
 date: 2025-05-17 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 興趣, Hobbies, 娛樂, Entertainment, N4單字]
+tags: [日語, Japanese, 日語單字, 興趣, Hobbies, 娛樂, Entertainment, N4單字]
 excerpt: 學習 N4 級別的日語興趣與娛樂相關單字，掌握描述運動比賽、藝術欣賞以及各種休閒活動的詞彙。包含游泳、演奏樂器、閱讀等實用表達。
 ---
 

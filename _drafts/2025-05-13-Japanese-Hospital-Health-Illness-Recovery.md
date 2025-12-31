@@ -2,7 +2,7 @@
 title: 日語醫院與健康 - 症狀描述、就醫流程
 date: 2025-05-13 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 醫院, Hospital, 健康, Health, N4單字]
+tags: [日語, Japanese, 日語單字, 醫院, Hospital, 健康, Health, N4單字]
 excerpt: 學習 N4 級別的日語醫院與健康相關單字，掌握描述身體狀況、症狀以及就醫流程的表達方式。包含醫護人員稱呼、常見治療行為及康復相關動詞。
 ---
 

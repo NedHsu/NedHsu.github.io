@@ -2,7 +2,7 @@
 title: 日語天氣與自然 - 天氣狀況、自然現象
 date: 2025-04-04 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 天氣, Weather, 自然, Nature] 
+tags: [日語, Japanese, 日語單字, 天氣, Weather, 自然, Nature] 
 excerpt: 學習日語中天氣和自然相關的表達方式，包括天氣狀況、自然現象、季節變化等。
 description: 完整學習日語天氣與自然相關詞彙，涵蓋晴天、雨天、雪天等基本天氣狀況，溫度與氣候表達，颱風、地震等自然現象，春夏秋冬四季變化，以及實用的天氣對話範例，幫助您掌握日常天氣交流的日語表達。
 pin: true

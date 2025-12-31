@@ -2,7 +2,7 @@
 title: 日語科學與技術 - 科技發展、自然奧秘
 date: 2025-05-22 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 科學, Science, 技術, Technology, 自然, Nature, N3單字]
+tags: [日語, Japanese, 日語單字, 科學, Science, 技術, Technology, 自然, Nature, N3單字]
 excerpt: 學習 N3 級別的日語科學與技術相關單字，掌握描述科技創新、實驗研究以及自然現象的詞彙。包含宇宙、機械、能源與環境議題。
 ---
 

@@ -2,7 +2,7 @@
 title: 日語動漫與流行文化 - 御宅族、二次元用語
 date: 2025-06-04 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 動漫, Anime, 漫畫, Manga, 流行文化, Pop Culture, 御宅族, Otaku]
+tags: [日語, Japanese, 日語單字, 動漫, Anime, 漫畫, Manga, 流行文化, Pop Culture, 御宅族, Otaku]
 excerpt: 學習日語動漫與流行文化相關單字，掌握御宅族、二次元以及粉絲活動的詞彙。包含アニメ、漫画、推し與聖地巡礼。
 ---
 

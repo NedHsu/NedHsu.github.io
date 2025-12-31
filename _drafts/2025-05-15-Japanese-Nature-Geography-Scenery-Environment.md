@@ -2,7 +2,7 @@
 title: 日語自然與地理 - 景色描寫、環境名詞
 date: 2025-05-15 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 自然, Nature, 地理, Geography, N4單字]
+tags: [日語, Japanese, 日語單字, 自然, Nature, 地理, Geography, N4單字]
 excerpt: 學習 N4 級別的日語自然與地理相關單字，掌握描寫風景、自然現象以及各種地理環境的詞彙。包含山川、海洋、氣候與季節變化。
 ---
 

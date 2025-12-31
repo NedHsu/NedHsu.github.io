@@ -2,7 +2,7 @@
 title: 日語藝術與文化 - 文學創作、展演活動
 date: 2025-05-24 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 藝術, Arts, 文化, Culture, 文學, Literature, N3單字]
+tags: [日語, Japanese, 日語單字, 藝術, Arts, 文化, Culture, 文學, Literature, N3單字]
 excerpt: 學習 N3 級別的日語藝術與文化相關單字，掌握欣賞繪畫、音樂演奏以及文學作品的詞彙。包含劇場、傑作、詩歌與傳統文化。
 ---
 

@@ -2,7 +2,7 @@
 title: 日語運動與競技 - 賽事規則、健身鍛鍊
 date: 2025-06-06 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 運動, Sports, 競技, Competition, 奧運, Olympics, 健身, Fitness]
+tags: [日語, Japanese, 日語單字, 運動, Sports, 競技, Competition, 奧運, Olympics, 健身, Fitness]
 excerpt: 學習日語運動與競技相關單字，掌握賽事規則、健身鍛鍊以及觀賽加油的詞彙。包含試合、優勝、選手與筋肉。
 ---
 

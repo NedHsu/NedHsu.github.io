@@ -2,7 +2,7 @@
 title: 日語政治與社會 - 選舉制度、政府運作
 date: 2025-06-02 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 政治, Politics, 社會, Society, 選舉, Election, 法律, Law]
+tags: [日語, Japanese, 日語單字, 政治, Politics, 社會, Society, 選舉, Election, 法律, Law]
 excerpt: 學習日語政治與社會相關單字，掌握選舉制度、政府運作以及國際關係的詞彙。包含選挙、投票、政府與法律。
 ---
 

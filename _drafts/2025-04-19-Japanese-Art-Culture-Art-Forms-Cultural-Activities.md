@@ -2,7 +2,7 @@
 title: 日語藝術與文化 - 藝術形式、文化活動
 date: 2025-04-19 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 藝術, Art, 文化, Culture] 
+tags: [日語, Japanese, 日語單字, 藝術, Art, 文化, Culture] 
 excerpt: 學習日語中藝術與文化相關的表達方式，包括傳統藝術、現代藝術、文化活動、藝術欣賞與文化對話。
 ---
 

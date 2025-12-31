@@ -2,7 +2,7 @@
 title: 日語社會與公共事務 - 新聞時事、法律制度
 date: 2025-05-21 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 社會, Society, 新聞, News, 法律, Law, N3單字]
+tags: [日語, Japanese, 日語單字, 社會, Society, 新聞, News, 法律, Law, N3單字]
 excerpt: 學習 N3 級別的日語社會與公共事務相關單字，掌握閱讀新聞時事、討論社會問題以及理解法律制度的詞彙。包含政府、經濟、事件與權利等議題。
 ---
 

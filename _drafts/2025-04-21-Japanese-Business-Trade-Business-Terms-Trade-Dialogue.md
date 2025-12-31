@@ -2,7 +2,7 @@
 title: 日語商務與貿易 - 商業用語、貿易對話
 date: 2025-04-21 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 商務, Business, 貿易, Trade] 
+tags: [日語, Japanese, 日語單字, 商務, Business, 貿易, Trade] 
 excerpt: 學習日語中商務與貿易相關的表達方式，包括商業活動、貿易往來、商務會議、商業談判與貿易對話。
 ---
 

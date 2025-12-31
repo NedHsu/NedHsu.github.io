@@ -2,7 +2,7 @@
 title: 日語購物與金融 - 商店消費、經濟理財
 date: 2025-05-18 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 購物, Shopping, 金融, Finance, 經濟, Economy, N4單字]
+tags: [日語, Japanese, 日語單字, 購物, Shopping, 金融, Finance, 經濟, Economy, N4單字]
 excerpt: 學習 N4 級別的日語購物與金融相關單字，掌握商店消費、付款方式以及基礎經濟理財詞彙。包含價格談判、銀行業務與貿易概念。
 ---
 

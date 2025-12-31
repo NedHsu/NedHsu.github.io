@@ -2,7 +2,7 @@
 title: 日語寵物與動物 - 寵物照顧、動物對話
 date: 2025-05-06 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 寵物, Pet, 動物, Animal] 
+tags: [日語, Japanese, 日語單字, 寵物, Pet, 動物, Animal] 
 excerpt: 學習日語中寵物與動物相關的表達方式，包括寵物種類、寵物照顧、動物行為、寵物健康與動物對話。
 ---
 

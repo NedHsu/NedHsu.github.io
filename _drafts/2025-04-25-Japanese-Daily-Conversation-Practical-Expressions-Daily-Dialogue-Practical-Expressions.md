@@ -2,7 +2,7 @@
 title: 日語日常對話與實用表達
 date: 2025-04-25 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 對話, Conversation, 實用表達, Practical Expressions] 
+tags: [日語, Japanese, 日語單字, 對話, Conversation, 實用表達, Practical Expressions] 
 excerpt: 學習日常生活中最實用的日語對話和表達方式。包含問候、請求、感謝、道歉等基本社交用語，以及購物、用餐、問路等實用場景對話。
 ---
 

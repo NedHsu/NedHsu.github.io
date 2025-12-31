@@ -2,7 +2,7 @@
 title: 日語防災與緊急應變 - 地震、避難、安全對策
 date: 2025-05-31 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 防災, Disaster Prevention, 地震, Earthquake, 安全, Safety, 緊急, Emergency]
+tags: [日語, Japanese, 日語單字, 防災, Disaster Prevention, 地震, Earthquake, 安全, Safety, 緊急, Emergency]
 excerpt: 學習日語防災與緊急應變相關單字，掌握地震、避難以及安全對策的詞彙。包含地震、津波、避難與非常口。
 ---
 

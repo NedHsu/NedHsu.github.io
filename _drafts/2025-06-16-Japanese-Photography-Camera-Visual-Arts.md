@@ -2,7 +2,7 @@
 title: 日語攝影與影像 - 相機操作、拍照技巧
 date: 2025-06-16 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 攝影, Photography, 相機, Camera, 照片, Photo, 影像, Image]
+tags: [日語, Japanese, 日語單字, 攝影, Photography, 相機, Camera, 照片, Photo, 影像, Image]
 excerpt: 學習日語攝影與影像相關單字，掌握相機操作、拍照技巧以及照片分享的詞彙。包含写真、カメラ、撮影與レンズ。
 ---
 

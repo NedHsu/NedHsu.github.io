@@ -2,7 +2,7 @@
 title: 日語時尚與美容 - 時尚穿搭、美容護理
 date: 2025-05-05 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 時尚, Fashion, 美容, Beauty] 
+tags: [日語, Japanese, 日語單字, 時尚, Fashion, 美容, Beauty] 
 excerpt: 學習日語中時尚與美容相關的表達方式，包括時尚穿搭、美容護理、個人形象、時尚購物與美容對話。
 ---
 

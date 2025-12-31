@@ -2,7 +2,7 @@
 title: 日語新聞與媒體 - 新聞用語、媒體表達
 date: 2025-04-26 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 新聞, News, 媒體, Media] 
+tags: [日語, Japanese, 日語單字, 新聞, News, 媒體, Media] 
 excerpt: 學習日語中新聞與媒體相關的表達方式，包括新聞報導、媒體用語、時事討論、新聞分析與媒體對話。
 ---
 

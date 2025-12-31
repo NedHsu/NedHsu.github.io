@@ -2,7 +2,7 @@
 title: 日語交通與出行 - 交通工具、移動動詞
 date: 2025-05-11 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 交通, Transportation, 旅行, Travel, N5單字]
+tags: [日語, Japanese, 日語單字, 交通, Transportation, 旅行, Travel, N5單字]
 excerpt: 學習 N5 級別的日語交通與出行相關單字，掌握各種交通工具名稱以及移動相關的動詞（乗る、降りる等）。
 ---
 

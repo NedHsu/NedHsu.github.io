@@ -2,7 +2,7 @@
 title: 日語歷史與文明 - 時代變遷、戰爭和平
 date: 2025-06-09 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 歷史, History, 戰爭, War, 文明, Civilization, 時代, Era]
+tags: [日語, Japanese, 日語單字, 歷史, History, 戰爭, War, 文明, Civilization, 時代, Era]
 excerpt: 學習日語歷史與文明相關單字，掌握時代變遷、戰爭和平以及文化發展的詞彙。包含歴史、時代、平和與世紀。
 ---
 

@@ -2,7 +2,7 @@
 title: 日語情感與個性 - 情緒表達、性格描述
 date: 2025-05-16 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 情感, Emotions, 個性, Personality, N4單字]
+tags: [日語, Japanese, 日語單字, 情感, Emotions, 個性, Personality, N4單字]
 excerpt: 學習 N4 級別的日語情感與個性相關單字，掌握表達喜怒哀樂以及描述人物性格的形容詞與動詞。包含開心、悲傷、認真、溫柔等實用詞彙。
 ---
 

@@ -2,7 +2,7 @@
 title: 日語人際關係與情感 - 信任合作、心情表達
 date: 2025-05-19 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 人際關係, Relationships, 情感, Emotions, N3單字]
+tags: [日語, Japanese, 日語單字, 人際關係, Relationships, 情感, Emotions, N3單字]
 excerpt: 學習 N3 級別的日語人際關係與情感相關單字，掌握建立信任、表達感謝以及描述複雜心情的詞彙。包含合作、誤會、羨慕等進階表達。
 ---
 

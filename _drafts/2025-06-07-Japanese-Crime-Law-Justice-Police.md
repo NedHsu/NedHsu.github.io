@@ -2,7 +2,7 @@
 title: 日語犯罪與法律 - 社會案件、司法正義
 date: 2025-06-07 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 犯罪, Crime, 法律, Law, 警察, Police, 事件, Incident]
+tags: [日語, Japanese, 日語單字, 犯罪, Crime, 法律, Law, 警察, Police, 事件, Incident]
 excerpt: 學習日語犯罪與法律相關單字，掌握社會案件、司法審判以及警察搜查的詞彙。包含事件、犯人、裁判與警察。
 ---
 

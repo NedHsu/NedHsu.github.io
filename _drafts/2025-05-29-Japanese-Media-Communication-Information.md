@@ -2,7 +2,7 @@
 title: 日語媒體與資訊 - 新聞傳播、數據情報
 date: 2025-05-29 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 媒體, Media, 資訊, Information, 新聞, News, N3單字]
+tags: [日語, Japanese, 日語單字, 媒體, Media, 資訊, Information, 新聞, News, N3單字]
 excerpt: 學習 N3 級別的日語媒體與資訊相關單字，掌握新聞傳播、數據處理以及訊息發布的詞彙。包含情報、記事、放送與広告。
 ---
 

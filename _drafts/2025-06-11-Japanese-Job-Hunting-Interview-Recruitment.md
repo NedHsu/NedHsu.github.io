@@ -2,7 +2,7 @@
 title: 日語求職與面試 - 履歷撰寫、職場禮儀
 date: 2025-06-11 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 求職, Job Hunting, 面試, Interview, 工作, Work, 履歷, Resume]
+tags: [日語, Japanese, 日語單字, 求職, Job Hunting, 面試, Interview, 工作, Work, 履歷, Resume]
 excerpt: 學習日語求職與面試相關單字，掌握履歷撰寫、自我介紹以及職場禮儀的詞彙。包含面接、履歴書、志望與経験。
 ---
 

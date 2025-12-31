@@ -2,7 +2,7 @@
 title: 日語天文與宇宙 - 星空觀測、太空探索
 date: 2025-06-12 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 天文, Astronomy, 宇宙, Space, 星空, Stars, 星座, Constellation]
+tags: [日語, Japanese, 日語單字, 天文, Astronomy, 宇宙, Space, 星空, Stars, 星座, Constellation]
 excerpt: 學習日語天文與宇宙相關單字，掌握星空觀測、太空探索以及行星名稱的詞彙。包含宇宙、星、地球與月。
 ---
 

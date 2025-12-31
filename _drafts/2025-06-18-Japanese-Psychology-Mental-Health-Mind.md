@@ -2,7 +2,7 @@
 title: 日語心理與精神健康 - 情緒管理、諮商輔導
 date: 2025-06-18 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 心理, Psychology, 精神健康, Mental Health, 情緒, Emotion, 壓力, Stress]
+tags: [日語, Japanese, 日語單字, 心理, Psychology, 精神健康, Mental Health, 情緒, Emotion, 壓力, Stress]
 excerpt: 學習日語心理與精神健康相關單字，掌握情緒管理、壓力調適以及諮商輔導的詞彙。包含心理、ストレス、悩み與相談。
 ---
 

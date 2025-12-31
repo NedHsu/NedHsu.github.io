@@ -2,7 +2,7 @@
 title: 日語時尚與美容 - 流行穿搭、妝容保養
 date: 2025-06-05 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 時尚, Fashion, 美容, Beauty, 穿搭, Outfit, 流行, Trend, 化妝, Makeup]
+tags: [日語, Japanese, 日語單字, 時尚, Fashion, 美容, Beauty, 穿搭, Outfit, 流行, Trend, 化妝, Makeup]
 excerpt: 學習日語時尚與美容相關單字，掌握流行穿搭、妝容保養以及購物試穿的詞彙。包含ファッション、化粧品、似合う與流行。
 ---
 

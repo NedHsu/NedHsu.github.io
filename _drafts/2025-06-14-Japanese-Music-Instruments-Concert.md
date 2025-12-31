@@ -2,7 +2,7 @@
 title: 日語音樂與演奏 - 樂器、演唱會、音樂類型
 date: 2025-06-14 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 音樂, Music, 樂器, Instrument, 演奏, Performance, 演唱會, Concert]
+tags: [日語, Japanese, 日語單字, 音樂, Music, 樂器, Instrument, 演奏, Performance, 演唱會, Concert]
 excerpt: 學習日語音樂與演奏相關單字，掌握樂器名稱、演唱會活動以及音樂類型的詞彙。包含音楽、楽器、歌手與ライブ。
 ---
 

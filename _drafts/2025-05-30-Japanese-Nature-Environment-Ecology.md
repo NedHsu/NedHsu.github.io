@@ -2,7 +2,7 @@
 title: 日語自然與環境 - 生態保護、資源永續
 date: 2025-05-30 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 自然, Nature, 環境, Environment, 生態, Ecology, N3單字]
+tags: [日語, Japanese, 日語單字, 自然, Nature, 環境, Environment, 生態, Ecology, N3單字]
 excerpt: 學習 N3 級別的日語自然與環境相關單字，掌握生態保護、資源利用以及環境問題的詞彙。包含環境、資源、植物與汚染。
 ---
 

@@ -2,7 +2,7 @@
 title: 日語商業與職涯 - 企業經營、職場發展
 date: 2025-05-25 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 商業, Business, 職涯, Career, 工作, Work, N3單字]
+tags: [日語, Japanese, 日語單字, 商業, Business, 職涯, Career, 工作, Work, N3單字]
 excerpt: 學習 N3 級別的日語商業與職涯相關單字，掌握企業經營、業務往來以及職業發展的詞彙。包含契約、給料、經營與職業。
 ---
 

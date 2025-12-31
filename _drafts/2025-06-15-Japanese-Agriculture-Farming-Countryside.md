@@ -2,7 +2,7 @@
 title: 日語農業與耕作 - 田園生活、作物栽培
 date: 2025-06-15 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 農業, Agriculture, 耕作, Farming, 田園, Countryside, 蔬菜, Vegetables]
+tags: [日語, Japanese, 日語單字, 農業, Agriculture, 耕作, Farming, 田園, Countryside, 蔬菜, Vegetables]
 excerpt: 學習日語農業與耕作相關單字，掌握田園生活、作物栽培以及收穫季節的詞彙。包含農業、田んぼ、畑與収穫。
 ---
 

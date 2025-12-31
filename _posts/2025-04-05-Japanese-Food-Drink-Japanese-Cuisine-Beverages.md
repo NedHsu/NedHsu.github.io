@@ -2,7 +2,7 @@
 title: 日語食物與飲料 - 日式料理、飲品
 date: 2025-04-05 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 食物, Food, 飲料, Drinks] 
+tags: [日語, Japanese, 日語單字, 食物, Food, 飲料, Drinks] 
 excerpt: 學習日語中食物和飲料相關的表達方式，包括日式料理、飲品、用餐禮儀等。
 description: 深入學習日語食物與飲料相關詞彙，包含壽司、拉麵等日式料理名稱，茶、咖啡等飲品表達，餐廳點餐與用餐禮儀用語，味道描述與飲食偏好表達，以及實用的餐廳對話與美食分享範例，讓您輕鬆享受日本美食文化的日語溝通。
 image:

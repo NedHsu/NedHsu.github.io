@@ -2,7 +2,7 @@
 title: 日語城市與場所 - 設施名稱、位置方向
 date: 2025-05-10 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 城市, City, 場所, Places, N5單字]
+tags: [日語, Japanese, 日語單字, 城市, City, 場所, Places, N5單字]
 excerpt: 學習 N5 級別的日語城市設施與場所單字，掌握位置方向的表達方式以及在不同場所的常見動作。
 ---
 

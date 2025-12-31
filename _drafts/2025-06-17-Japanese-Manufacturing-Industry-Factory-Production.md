@@ -2,7 +2,7 @@
 title: 日語製造與工業 - 工廠生產、品質管理
 date: 2025-06-17 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 製造, Manufacturing, 工業, Industry, 工廠, Factory, 生產, Production]
+tags: [日語, Japanese, 日語單字, 製造, Manufacturing, 工業, Industry, 工廠, Factory, 生產, Production]
 excerpt: 學習日語製造與工業相關單字，掌握工廠生產、機械操作以及品質管理的詞彙。包含工場、製品、機械與安全。
 ---
 

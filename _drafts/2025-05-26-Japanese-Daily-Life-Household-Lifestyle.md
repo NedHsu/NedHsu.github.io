@@ -2,7 +2,7 @@
 title: 日語生活與家務 - 居家環境、日常瑣事
 date: 2025-05-26 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 生活, Lifestyle, 家務, Housework, 居家, Home, N3單字]
+tags: [日語, Japanese, 日語單字, 生活, Lifestyle, 家務, Housework, 居家, Home, N3單字]
 excerpt: 學習 N3 級別的日語生活與家務相關單字，掌握描述居家環境、育兒生活以及日常瑣事的詞彙。包含家事、家具、貯金與園藝。
 ---
 

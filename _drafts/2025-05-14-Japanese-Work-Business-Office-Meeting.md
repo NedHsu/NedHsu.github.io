@@ -2,7 +2,7 @@
 title: 日語工作與商務 - 職場職稱、辦公室用語
 date: 2025-05-14 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 工作, Work, 商務, Business, N4單字]
+tags: [日語, Japanese, 日語單字, 工作, Work, 商務, Business, N4單字]
 excerpt: 學習 N4 級別的日語工作與商務相關單字，掌握常見的職場職稱、辦公室設施以及商務溝通中常用的動詞。包含會議、報告、聯絡等實用表達。
 ---
 

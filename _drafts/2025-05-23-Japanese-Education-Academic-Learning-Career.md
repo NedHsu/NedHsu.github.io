@@ -2,7 +2,7 @@
 title: 日語教育與學術 - 校園生活、學習歷程
 date: 2025-05-23 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 教育, Education, 學術, Academic, N3單字]
+tags: [日語, Japanese, 日語單字, 教育, Education, 學術, Academic, N3單字]
 excerpt: 學習 N3 級別的日語教育與學術相關單字，掌握大學校園生活、專業學習以及學術研究的詞彙。包含講義、成績、學部與專門領域。
 ---
 

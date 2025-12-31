@@ -2,7 +2,7 @@
 title: 日語汽車與駕駛 - 交通規則、車輛維護
 date: 2025-06-08 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 汽車, Car, 駕駛, Driving, 交通, Traffic, 免許, License]
+tags: [日語, Japanese, 日語單字, 汽車, Car, 駕駛, Driving, 交通, Traffic, 免許, License]
 excerpt: 學習日語汽車與駕駛相關單字，掌握交通規則、車輛維護以及考取駕照的詞彙。包含運転、駐車場、信号與ブレーキ。
 ---
 

@@ -2,7 +2,7 @@
 title: 日語旅遊與觀光 - 住宿預約、行程規劃
 date: 2025-05-27 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 旅遊, Travel, 觀光, Tourism, 住宿, Accommodation, N3單字]
+tags: [日語, Japanese, 日語單字, 旅遊, Travel, 觀光, Tourism, 住宿, Accommodation, N3單字]
 excerpt: 學習 N3 級別的日語旅遊與觀光相關單字，掌握住宿預約、景點遊覽以及行程規劃的詞彙。包含宿泊、滞在、観光與予算。
 ---
 

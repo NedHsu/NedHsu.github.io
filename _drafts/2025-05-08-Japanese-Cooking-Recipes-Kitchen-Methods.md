@@ -2,7 +2,7 @@
 title: 日語烹飪與食譜 - 廚房用具、料理方法
 date: 2025-05-08 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 烹飪, Cooking, 食譜, Recipe, 廚房, Kitchen]
+tags: [日語, Japanese, 日語單字, 烹飪, Cooking, 食譜, Recipe, 廚房, Kitchen]
 excerpt: 學習日語中烹飪與食譜相關的表達方式，包括廚房用具、基本調味、烹飪方法、料理步驟與食譜對話。
 ---
 

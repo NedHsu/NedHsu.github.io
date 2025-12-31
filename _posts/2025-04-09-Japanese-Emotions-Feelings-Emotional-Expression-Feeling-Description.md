@@ -2,7 +2,7 @@
 title: 日語情感與感受 - 情感表達、感受描述
 date: 2025-04-09 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 情感, Emotions, 感受, Feelings] 
+tags: [日語, Japanese, 日語單字, 情感, Emotions, 感受, Feelings] 
 excerpt: 學習日語中情感與感受相關的表達方式，包括基本情感、感受描述、情感表達等。
 description: 深入學習日語情感與感受相關詞彙，包含開心、難過、生氣等基本情感表達，緊張、興奮、疲累等感受描述，喜歡、討厭等情感動詞，以及實用的情感表達與感受分享對話，讓您能夠自然地表達內心情緒與感受。
 image:

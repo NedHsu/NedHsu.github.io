@@ -2,7 +2,7 @@
 title: 日語醫療與健康 - 身體檢查、治療預防
 date: 2025-05-28 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 醫療, Medical, 健康, Health, 治療, Treatment, N3單字]
+tags: [日語, Japanese, 日語單字, 醫療, Medical, 健康, Health, 治療, Treatment, N3單字]
 excerpt: 學習 N3 級別的日語醫療與健康相關單字，掌握身體檢查、疾病治療以及健康預防的詞彙。包含検査、手術、予防與痛み。
 ---
 

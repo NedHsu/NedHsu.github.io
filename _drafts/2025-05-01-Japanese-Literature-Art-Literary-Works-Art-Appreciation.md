@@ -2,7 +2,7 @@
 title: 日語文學與藝術 - 文學作品、藝術欣賞
 date: 2025-05-01 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 文學, Literature, 藝術, Art] 
+tags: [日語, Japanese, 日語單字, 文學, Literature, 藝術, Art] 
 excerpt: 學習日語中文學與藝術相關的表達方式，包括文學作品、藝術欣賞、創作表達、美學概念與文學對話。
 ---
 

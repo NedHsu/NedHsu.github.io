@@ -2,7 +2,7 @@
 title: 日語哲學與思想 - 哲學概念、思想表達
 date: 2025-04-29 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 哲學, Philosophy, 思想, Thought] 
+tags: [日語, Japanese, 日語單字, 哲學, Philosophy, 思想, Thought] 
 excerpt: 學習日語中哲學與思想相關的表達方式，包括哲學概念、思想表達、人生觀、價值觀與哲學對話。
 ---
 

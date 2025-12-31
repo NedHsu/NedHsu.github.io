@@ -2,7 +2,7 @@
 title: 日語運動與健身 - 運動項目、健身用語
 date: 2025-04-23 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 運動, Sports, 健身, Fitness] 
+tags: [日語, Japanese, 日語單字, 運動, Sports, 健身, Fitness] 
 excerpt: 學習日語中運動與健身相關的表達方式，包括運動項目、健身設施、運動動作、運動競賽與健身對話。
 ---
 

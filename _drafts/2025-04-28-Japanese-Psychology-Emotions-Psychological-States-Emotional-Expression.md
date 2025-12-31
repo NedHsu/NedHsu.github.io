@@ -2,7 +2,7 @@
 title: 日語心理與情感 - 心理狀態、情感表達
 date: 2025-04-28 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 心理, Psychology, 情感, Emotions] 
+tags: [日語, Japanese, 日語單字, 心理, Psychology, 情感, Emotions] 
 excerpt: 學習日語中心理與情感相關的表達方式，包括心理狀態、情感表達、心理諮詢、情感管理與心理對話。
 ---
 

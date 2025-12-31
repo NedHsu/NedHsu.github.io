@@ -2,7 +2,7 @@
 title: 日語醫療與健康 - 醫療用語、健康諮詢
 date: 2025-04-22 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 醫療, Medical, 健康, Health] 
+tags: [日語, Japanese, 日語單字, 醫療, Medical, 健康, Health] 
 excerpt: 學習日語中醫療與健康相關的表達方式，包括醫療機構、醫療服務、健康狀況、醫療對話與健康管理。
 ---
 

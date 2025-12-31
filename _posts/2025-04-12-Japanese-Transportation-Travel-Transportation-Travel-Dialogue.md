@@ -2,7 +2,7 @@
 title: 日語交通與旅行 - 交通工具、旅行對話
 date: 2025-04-12 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 交通, Transportation, 旅行, Travel]
+tags: [日語, Japanese, 日語單字, 交通, Transportation, 旅行, Travel]
 excerpt: 學習日語中交通與旅行相關的表達方式，包括交通工具、購票搭乘、問路導航、旅行與住宿，以及實用旅行對話。
 description: 深入學習日語交通與旅行相關詞彙，包含電車、巴士、計程車等交通工具名稱，購票、搭乘、轉乘等交通用語，問路與導航表達，飯店預訂與住宿相關對話，以及實用的旅行情境對話，讓您輕鬆應對日本旅行時的交通與住宿需求。
 image:

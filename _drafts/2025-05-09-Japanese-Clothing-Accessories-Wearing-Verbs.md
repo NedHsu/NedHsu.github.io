@@ -2,7 +2,7 @@
 title: 日語穿著與飾品 - 衣物名稱、穿戴動詞
 date: 2025-05-09 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 穿著, Clothing, 飾品, Accessories, N5單字]
+tags: [日語, Japanese, 日語單字, 穿著, Clothing, 飾品, Accessories, N5單字]
 excerpt: 學習 N5 級別的日語穿著與飾品相關單字，掌握不同身體部位對應的穿戴動詞（着る、履く、被る等）。
 ---
 
