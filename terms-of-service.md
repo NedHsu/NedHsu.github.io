@@ -4,6 +4,7 @@ date: 2025-01-27 19:00:00 +0800
 categories: [Legal]
 tags: [服務條款, Terms of Service] 
 excerpt: "本服務條款規定使用本網站的條件和限制。"
+description: mins Dream 部落格的服務條款，詳細說明使用本網站的條件和限制，包含用戶行為規範、內容使用權限、免責聲明、智慧財產權保護等條款，請在使用網站前仔細閱讀並遵守相關規定。
 layout: page
 permalink: /terms-of-service/
 ---

@@ -4,6 +4,7 @@ date: 2025-04-07 19:00:00 +0800
 categories: [Language, Japanese]
 tags: [日語, Japanese, 購物, Shopping, 價格, Price] 
 excerpt: 學習日語中購物和價格相關的表達方式，包括購物對話、價格詢問、付款方式等。
+description: 深入學習日語購物與價格相關詞彙，包含百貨公司、便利商店等購物場所，價格詢問與討價還價表達，現金、信用卡等付款方式，退換貨與售後服務對話，以及實用的購物情境對話範例，讓您輕鬆應對日本購物時的各種情況。
 image:
   path: /assets/img/jp/2025-04-07-Japanese-Shopping-Price-Shopping-Dialogue-Price-Inquiry/購物場所.webp
 ---

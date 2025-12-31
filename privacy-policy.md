@@ -4,6 +4,7 @@ date: 2025-01-27 19:00:00 +0800
 categories: [Legal]
 tags: [隱私政策, Privacy Policy] 
 excerpt: "本隱私政策說明我們如何收集、使用和保護您的個人信息。"
+description: mins Dream 部落格的隱私政策，詳細說明我們如何收集、使用、儲存和保護您的個人信息，包含 Cookie 使用、第三方服務、用戶權利等內容，符合 GDPR、CCPA 和台灣個人資料保護法規範，保障您的隱私權益。
 layout: page
 permalink: /privacy-policy/
 ---

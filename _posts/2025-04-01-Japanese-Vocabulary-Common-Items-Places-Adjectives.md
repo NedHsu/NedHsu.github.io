@@ -4,6 +4,7 @@ date: 2025-04-01 19:00:00 +0800
 categories: [Language, Japanese]
 tags: [日語, Japanese, 詞彙, Vocabulary] 
 excerpt: 學習日常生活中常見的日語詞彙，包括物品、地點和形容詞。
+description: 深入學習日語基礎詞彙，包含桌子、椅子等常見物品名稱，學校、醫院等地點表達，大小、顏色等基本形容詞，以及實用的物品描述與地點介紹對話，讓您掌握日常生活中最常用的日語基礎詞彙與表達方式。
 image:
   path: /assets/img/jp/2025-04-01-Japanese-Vocabulary-Common-Items-Places-Adjectives/日常物品.webp
 ---

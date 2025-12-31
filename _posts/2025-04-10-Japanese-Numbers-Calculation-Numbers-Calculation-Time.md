@@ -4,6 +4,7 @@ date: 2025-04-10 19:00:00 +0800
 categories: [Language, Japanese]
 tags: [日語, Japanese, 數字, Numbers, 計算, Calculation] 
 excerpt: 學習日語中數字與計算相關的表達方式，包括基本數字、計算用語、時間表達等。
+description: 完整學習日語數字與計算相關詞彙，涵蓋一到十、百、千、萬等基本數字表達，加減乘除等計算用語，數量詞與計數方式，時間長短與頻率表達，以及實用的數字應用與計算對話範例，幫助您掌握日常生活中的數字與計算日語。
 image:
   path: /assets/img/jp/2025-04-10-Japanese-Numbers-Calculation-Numbers-Calculation-Time/基本數字.webp
 ---

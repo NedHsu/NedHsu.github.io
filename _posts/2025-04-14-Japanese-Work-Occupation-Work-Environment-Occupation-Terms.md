@@ -4,6 +4,7 @@ date: 2025-04-14 19:00:00 +0800
 categories: [Language, Japanese]
 tags: [日語, Japanese, 工作, Work, 職業, Occupation] 
 excerpt: 學習日語中工作與職業相關的表達方式，包括職業類型、工作環境、職場用語、面試對話與工作文化。
+description: 全面學習日語工作與職業相關表達，涵蓋醫生、教師、工程師等各種職業類型，辦公室、會議室等工作環境用語，職場溝通與商務禮儀，面試自我介紹與工作文化介紹，幫助您掌握職場日語溝通技巧。
 image:
   path: /assets/img/jp/2025-04-14-Japanese-Work-Occupation-Work-Environment-Occupation-Terms/職業類型.webp
 ---

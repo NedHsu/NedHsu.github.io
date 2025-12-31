@@ -4,6 +4,7 @@ date: 2025-08-03 19:00:00 +0800
 categories: [Language, Japanese]
 tags: [日語, Japanese, 語法, Grammar, 助詞, Particles] 
 excerpt: 學習日語中更多重要的助詞で・へ・と・から的用法，包括它們的區別、使用場合和常見錯誤。
+description: 深入學習日語進階助詞で・へ・と・から的用法，包含場所助詞で與方向助詞へ的區別，共同動作助詞と與起點助詞から的使用規則，多種助詞的組合運用，以及實用的進階助詞練習與例句分析，讓您掌握更多日語助詞的用法。
 ---
 
 {% include embed/youtube.html id='mjXeo9dqAKU' %}

@@ -2,6 +2,7 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
+description: 關於 mins Dream 部落格，記錄軟體工程師、Unity 開發者、創業者的學習歷程，分享 C#、.NET、設計模式、React.js、Vue.js、SEO 等技術文章與日語學習內容，在學習中找回遊戲最初的感動。
 ---
 
 ## mins Dream 

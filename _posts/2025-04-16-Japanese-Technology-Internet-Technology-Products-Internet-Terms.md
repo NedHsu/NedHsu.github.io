@@ -4,6 +4,7 @@ date: 2025-04-16 19:00:00 +0800
 categories: [Language, Japanese]
 tags: [日語, Japanese, 科技, Technology, 網路, Internet] 
 excerpt: 學習日語中科技與網路相關的表達方式，包括電子產品、網路用語、社交媒體、數位服務與科技對話。
+description: 深入學習日語科技與網路相關詞彙，包含智慧型手機、電腦等電子產品名稱，網路連線、下載上傳等網路用語，社群媒體平台與數位服務表達，以及實用的科技產品購買與使用對話，讓您輕鬆掌握現代科技生活的日語溝通。
 image:
   path: /assets/img/jp/2025-04-16-Japanese-Technology-Internet-Technology-Products-Internet-Terms/電子產品.webp
 ---

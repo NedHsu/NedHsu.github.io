@@ -2,6 +2,7 @@
 # the default layout is 'page'
 icon: fas fa-gavel
 order: 5
+description: mins Dream 部落格的法律聲明頁面，包含隱私政策、服務條款等重要法律文件，說明網站如何收集和使用用戶信息，以及使用本網站的條件和限制，符合 GDPR、CCPA 和台灣個人資料保護法規範。
 ---
 
 ## 法律聲明

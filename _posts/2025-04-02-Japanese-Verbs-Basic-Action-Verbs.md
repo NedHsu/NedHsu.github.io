@@ -4,6 +4,7 @@ date: 2025-04-02 19:00:00 +0800
 categories: [Language, Japanese]
 tags: [日語, Japanese, 動詞, Verbs] 
 excerpt: 學習日常生活中常用的日語動詞，包括基本動作、日常活動、移動動詞、感官動詞和情感動詞。
+description: 完整學習日語基本動作動詞，涵蓋吃、喝、睡等日常生活動詞，走、跑、坐等移動動詞，看、聽、說等感官動詞，喜歡、討厭等情感動詞，以及實用的動詞變化與日常活動描述對話，幫助您掌握日語動詞的基本用法與表達。
 image:
   path: /assets/img/jp/2025-04-02-Japanese-Verbs-Basic-Action-Verbs/基本動作.webp
 ---
