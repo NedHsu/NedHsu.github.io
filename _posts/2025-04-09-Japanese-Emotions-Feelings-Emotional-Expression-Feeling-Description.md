@@ -22,6 +22,7 @@ image:
 
 ## 情境 1: 基本情感
 
+{% include embed/youtube.html id='NJsfaT6kvOc' %}
 <!-- Image Prompt: Japanese emotional expressions and feelings diagram - emotional states and feeling expressions with Japanese labels (嬉しい, 楽しい, 幸せ, 満足, 悲しい, 寂しい, 心配, 不安, 怒る, 驚く, 恥ずかしい, 怖い, 感情, 気持ち, 心, 精神), clean emotional expression layout, educational diagram style, no text overlays, only emotional expression labels positioned at corresponding feeling state elements -->
 
 ### 正面情感

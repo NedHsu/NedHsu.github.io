@@ -93,7 +93,7 @@ image:
 
 ## 情境 2: 日期與星期
 
-![日期星期](/assets/img/jp/2025-04-03-Japanese-Time-Expressions-Date-Time-Seasons/日期星期.webp)
+{% include embed/youtube.html id='DA4xz04XW3o' %}
 <!-- Image Prompt: Japanese calendar and weekly schedule diagram - calendar dates and weekly organization with Japanese labels (月曜日, 火曜日, 水曜日, 木曜日, 金曜日, 土曜日, 日曜日, 昨日, 明日, 明後日, 一昨日, 週, 日, 予定, スケジュール), clean calendar layout, educational diagram style, no text overlays, only calendar labels positioned at corresponding weekly schedule elements -->
 
 ### 星期表達
