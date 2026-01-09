@@ -179,6 +179,8 @@ image:
 - 気候 (kikou) - 氣候
 - 環境 (kankyou) - 環境
 
+{% include embed/youtube.html id='Z9Ac2PblGqk' %}
+
 ---
 
 ## 情境 3: 自然現象

@@ -19,7 +19,7 @@ excerpt: 學習日語中環境與環保相關的表達方式，包括環境問�
 
 ## 情境 1: 環境問題
 
-![環境問題](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
+![環境問題](/assets/img/jp/2025-04-17-Japanese-Environment-Ecology-Environmental-Protection-Sustainable-Development/環境問題.webp)
 <!-- Image Prompt: Japanese environmental issues and problems diagram - environmental damage scenes with Japanese labels (汚染, 大気汚染, 水質汚染, 土壌汚染, 気候変動, 地球温暖化, 温室効果, 森林破壊, 生物多様性, 絶滅危惧種), clean environmental problem illustration, educational diagram style, no text overlays, only environmental issue labels positioned at corresponding environmental problems and damage areas -->
 
 ### 污染問題
@@ -103,7 +103,7 @@ excerpt: 學習日語中環境與環保相關的表達方式，包括環境問�
 
 ## 情境 2: 環保行動
 
-![環保行動](https://images.unsplash.com/photo-1557683316-973673baf926?w=800&h=400&fit=crop&crop=center)
+![環保行動](/assets/img/jp/2025-04-17-Japanese-Environment-Ecology-Environmental-Protection-Sustainable-Development/環保行動.webp)
 <!-- Image Prompt: Japanese environmental protection actions diagram - eco-friendly activities and conservation efforts with Japanese labels (節約, 省エネ, 再利用, リサイクル, ゴミ, 分別, プラスチック, エコ, 自然素材, オーガニック), clean environmental action layout, educational diagram style, no text overlays, only environmental action labels positioned at corresponding eco-friendly activities and conservation efforts -->
 
 ### 資源節約
@@ -187,7 +187,7 @@ excerpt: 學習日語中環境與環保相關的表達方式，包括環境問�
 
 ## 情境 3: 永續發展
 
-![永續發展](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
+![永續發展](/assets/img/jp/2025-04-17-Japanese-Environment-Ecology-Environmental-Protection-Sustainable-Development/永續發展.webp)
 <!-- Image Prompt: Japanese sustainable development concepts diagram - renewable energy and green technology with Japanese labels (再生可能エネルギー, 太陽光発電, 風力発電, 水力発電, 持続可能, 循環型社会, ゼロエミッション, グリーンビル, 断熱, 自然換気), clean sustainable development layout, educational diagram style, no text overlays, only sustainability term labels positioned at corresponding renewable energy sources and green technology elements -->
 
 ### 再生能源
@@ -349,7 +349,7 @@ excerpt: 學習日語中環境與環保相關的表達方式，包括環境問�
 
 ## 情境 5: 環保對話
 
-![環保對話](https://images.unsplash.com/photo-1541746972996-4e0b0f93e586?w=800&h=400&fit=crop&crop=center)
+![環保對話](/assets/img/jp/2025-04-17-Japanese-Environment-Ecology-Environmental-Protection-Sustainable-Development/環保對話.webp)
 <!-- Image Prompt: Japanese environmental discussions and conversations scene - environmental awareness discussions with Japanese labels (環境意識, 地球に優しい, 環境に配慮, 環境問題について話しましょう, どうすれば環境を守れますか, 一緒に環境を守りましょう, 環境を大切にします, 未来の世代のために, 持続可能な未来を), clean environmental discussion setting, educational illustration style, no text overlays, only environmental conversation phrase labels positioned near corresponding environmental discussion elements -->
 
 ### 環保意識
