@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-title: 訂閱 YouTube
+title: 🪐訂閱 YouTube 👽 感謝您
 icon: fab fa-youtube
 order: 6
 redirect_to: https://www.youtube.com/channel/UC9ztxMS8ug3-sGx2b9Pz0TA?sub_confirmation=1
