@@ -57,10 +57,10 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 
 <div style="text-align: left">  
 
-**顧客:** カットとカラーのセットでお願いします。  <br>
-(katto to karaa no setto de onegai shimasu.)  <br>
-請幫我預約剪髮和染髮的套餐。  <br>
-**I'd like to book a haircut and color set.**  <br>
+**顧客:** カットとカラーでお願いします。  <br>
+(katto to karaa de onegai shimasu.)  <br>
+ 請幫我預約剪髮和染髮。  <br>
+**I'd like a haircut and color, please.**  <br>
 </div>  
 
 <div style="text-align: right">  
@@ -73,10 +73,10 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 
 <div style="text-align: left">  
 
-**顧客:** 田中太郎です。  <br>
-(tanaka tarou desu.)  <br>
-我是田中太郎。  <br>
-**I'm Taro Tanaka.**  <br>
+**顧客:** 田中と申します。  <br>
+(tanaka to moushimasu.)  <br>
+我姓田中。  <br>
+**My name is Tanaka.**  <br>
 </div>  
 
 <div style="text-align: right">  
@@ -133,8 +133,8 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 
 <div style="text-align: right">  
 
-**美容師:** はい、承知しました。  <br>
-(hai, shouchi shimashita.)  <br>
+**美容師:** はい、かしこまりました。  <br>
+(hai, kashikomarimashita.)  <br>
 好的，我知道了。  <br>
 **Yes, I understand.**  <br>
 </div>  
@@ -165,10 +165,10 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 
 <div style="text-align: right">  
 
-**美容師:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
-不客氣。  <br>
-**You're welcome.**  <br>
+**美容師:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝您。  <br>
+**Thank you.**  <br>
 </div>
 
 ### 重點句型
@@ -249,10 +249,10 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 
 <div style="text-align: right">  
 
-**美容師:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
-不客氣。  <br>
-**You're welcome.**  <br>
+**美容師:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝您。  <br>
+**Thank you.**  <br>
 </div>
 
 ### 重點句型
@@ -285,7 +285,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 
 <div style="text-align: right">  
 
-**美容師:** こちらが人気のデザインです。  <br>
+**ネイリスト:** こちらが人気のデザインです。  <br>
 (kochira ga ninki no dezain desu.)  <br>
 這些是熱門的設計。  <br>
 **These are our popular designs.**  <br>
@@ -301,7 +301,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 
 <div style="text-align: right">  
 
-**美容師:** 約1時間半かかります。  <br>
+**ネイリスト:** 約1時間半かかります。  <br>
 (yaku ichijikanhan kakarimasu.)  <br>
 大約需要1個半小時。  <br>
 **It will take about an hour and a half.**  <br>
@@ -317,7 +317,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 
 <div style="text-align: right">  
 
-**美容師:** 2週間から3週間ほど持ちます。  <br>
+**ネイリスト:** 2週間から3週間ほど持ちます。  <br>
 (nishuukan kara sanshuukan hodo mochimasu.)  <br>
 可以維持2到3週。  <br>
 **They will last for 2 to 3 weeks.**  <br>
@@ -333,10 +333,10 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 
 <div style="text-align: right">  
 
-**美容師:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
-不客氣。  <br>
-**You're welcome.**  <br>
+**ネイリスト:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝您。  <br>
+**Thank you.**  <br>
 </div>
 
 ### 重點句型
@@ -386,7 +386,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 <div style="text-align: right">  
 
 **美容師:** はい、ご利用いただけます。  <br>
-(hai, go riyou itadakemasu.)  <br>
+(hai, goriyou itadakemasu.)  <br>
 是的，可以使用。  <br>
 **Yes, you can.**  <br>
 </div>  
@@ -418,7 +418,7 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 <div style="text-align: right">  
 
 **美容師:** はい、空いています。ご予約を承ります。  <br>
-(hai, aite imasu. go yoyaku o uketamawarimasu.)  <br>
+(hai, aite imasu. goyoyaku o uketamawarimasu.)  <br>
 是的，有空。我幫您預約。  <br>
 **Yes, it's available. I'll book it for you.**  <br>
 </div>
@@ -441,13 +441,14 @@ excerpt: 學習在日本美容院時常用的日語對話，包括剪髮、染�
 
 ### 小故事：田中さんの美容院体験
 
-田中太郎さんは、初めて日本の美容院を訪れました。少し緊張していましたが、美容師の親切な対応で安心しました。
+田中さんは、初めて日本の美容院を訪れました。少し緊張していましたが、美容師の親切な対応で安心しました。
 
 **予約の流れ：**
 田中さんはカットの予約をし、「カットの予約をお願いします」と伝えました。美容師は「何時がご希望ですか？」と尋ね、田中さんは「明日の午後2時は空いていますか？」と答えました。
 
 **カットとカラーの選択：**
-田中さんは「カットとカラーのセットでお願いします」と伝え、美容師は「かしこまりました」と答えました。
+田中さんは「カットとカラーでお願いします」と伝え、美容師は「かしこまりました」と答えました。
+ 
 
 **施術の流れ：**
 田中さんは施術中に「前髪を少し短くしてください」と伝え、美容師は「このくらいでよろしいですか？」と確認しました。

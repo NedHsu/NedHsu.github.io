@@ -34,7 +34,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 
 <div style="text-align: right">  
 
-**藥師:** こちらが人気の風邪薬です。  <br>
+**薬剤師:** こちらが人気の風邪薬です。  <br>
 (kochira ga ninki no kazegusuri desu.)  <br>
 這是熱門的感冒藥。  <br>
 **This is a popular cold medicine.**  <br>
@@ -50,7 +50,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 
 <div style="text-align: right">  
 
-**藥師:** はい、咳や喉の痛みにも効果があります。  <br>
+**薬剤師:** はい、咳や喉の痛みにも効果があります。  <br>
 (hai, seki ya nodo no itami ni mo kouka ga arimasu.)  <br>
 是的，對咳嗽和喉嚨痛也有效。  <br>
 **Yes, it's effective for coughing and sore throats as well.**  <br>
@@ -66,7 +66,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 
 <div style="text-align: right">  
 
-**藥師:** はい、こちらのビタミン剤も風邪の予防に効果的です。  <br>
+**薬剤師:** はい、こちらのビタミン剤も風邪の予防に効果的です。  <br>
 (hai, kochira no bitaminzai mo kaze no yobou ni koukateki desu.)  <br>
 有的，這款維他命也對預防感冒有效。  <br>
 **Yes, this vitamin supplement is also effective for preventing colds.**  <br>
@@ -82,10 +82,10 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 
 <div style="text-align: right">  
 
-**藥師:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
-不客氣。  <br>
-**You're welcome.**  <br>
+**薬剤師:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝您。  <br>
+**Thank you.**  <br>
 </div>
 
 ### 重點句型
@@ -118,7 +118,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 
 <div style="text-align: right">  
 
-**藥師:** はい、1日3回、食後に飲んでください。  <br>
+**薬剤師:** はい、1日3回、食後に飲んでください。  <br>
 (hai, ichinichi sankai, shokugo ni nonde kudasai.)  <br>
 好的，一天三次，飯後服用。  <br>
 **Yes, take it three times a day after meals.**  <br>
@@ -134,8 +134,8 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 
 <div style="text-align: right">  
 
-**藥師:** 症状が治まるまで、最大1週間続けてください。  <br>
-(shoujou ga osamaru made, saidai isshuukan tsuzukete kudasai.)  <br>
+**薬剤師:** 症状が治まるまで、長くても1週間程度にしてください。  <br>
+(shoujou ga osamaru made, nagakute mo isshuukan teido ni shite kudasai.)  <br>
 請服用到症狀緩解，最多一週。  <br>
 **Take it until your symptoms improve, up to one week.**  <br>
 </div>  
@@ -170,7 +170,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 
 <div style="text-align: right">  
 
-**藥師:** 眠気や胃の不快感が出る場合があります。  <br>
+**薬剤師:** 眠気や胃の不快感が出る場合があります。  <br>
 (nemuke ya i no fukaikan ga deru baai ga arimasu.)  <br>
 可能會出現嗜睡或胃部不適。  <br>
 **You may experience drowsiness or stomach discomfort.**  <br>
@@ -186,7 +186,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 
 <div style="text-align: right">  
 
-**藥師:** 併用する場合はご相談ください。  <br>
+**薬剤師:** 併用する場合はご相談ください。  <br>
 (heiyou suru baai wa go soudan kudasai.)  <br>
 如果要併用的話，請先諮詢我們。  <br>
 **Please consult us if you need to take it with other medicines.**  <br>
@@ -222,10 +222,18 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 
 <div style="text-align: right">  
 
-**藥師:** お薬手帳はお持ちですか？  <br>
+**薬剤師:** お薬手帳はお持ちですか？  <br>
 (okusuri techou wa omochi desu ka?)  <br>
 您有帶用藥手冊嗎？  <br>
 **Do you have your medication notebook?**  <br>
+</div>  
+
+<div style="text-align: left">  
+
+**顧客:** はい、持っています。  <br>
+(hai, motte imasu.)  <br>
+有，帶著。  <br>
+**Yes, I have it.**  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -238,7 +246,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 
 <div style="text-align: right">  
 
-**藥師:** 10分ほどお待ちください。  <br>
+**薬剤師:** 10分ほどお待ちください。  <br>
 (juppun hodo omachi kudasai.)  <br>
 請稍等約10分鐘。  <br>
 **Please wait about 10 minutes.**  <br>
@@ -274,7 +282,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 
 <div style="text-align: right">  
 
-**藥師:** どのような症状ですか？  <br>
+**薬剤師:** どのような症状ですか？  <br>
 (dono you na shoujou desu ka?)  <br>
 是什麼樣的症狀？  <br>
 **What are your symptoms?**  <br>
@@ -290,7 +298,7 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 
 <div style="text-align: right">  
 
-**藥師:** 生活習慣やストレスについてもお伺いしてもよろしいですか？  <br>
+**薬剤師:** 生活習慣やストレスについてもお伺いしてもよろしいですか？  <br>
 (seikatsu shuukan ya sutoresu ni tsuite mo oukagai shite mo yoroshii desu ka?)  <br>
 可以詢問一下生活習慣和壓力狀況嗎？  <br>
 **May I ask about your lifestyle and stress?**  <br>
@@ -314,19 +322,16 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 
 ### 小故事：田中さんの薬局体験
 
-田中太郎さんは、風邪をひいて日本の薬局を訪れました。初めての薬局体験に少し緊張していましたが、薬剤師の親切な対応で安心しました。
+田中さんは、風邪をひいて日本の薬局を訪れました。初めての薬局体験に少し緊張していましたが、薬剤師の親切な対応で安心しました。
 
 **薬の選び方：**
 田中さんは風邪薬を探すために、薬剤師に「風邪薬を探しています」と尋ねました。薬剤師は「こちらが人気の風邪薬です」と教えてくれました。
 
-**価格の確認：**
-田中さんは価格を知るために、「この薬はいくらですか？」と尋ねました。薬剤師は「1,280円です」と答えました。
+**用法・用量の確認：**
+田中さんは薬の使い方を確認したくて、「この薬の使い方を教えていただけますか？」と尋ねました。薬剤師は「1日3回、食後に飲んでください」と説明してくれました。
 
-**サービスの利用：**
-田中さんは薬の使い方を知るために、「この薬の使い方を教えていただけますか？」と尋ねました。薬剤師は使用方法を丁寧に説明してくれました。
-
-**お会計：**
-楽しい一日が終わり、田中さんは「お会計をお願いします」と伝え、現金で支払いを済ませました。薬剤師は「またのお越しをお待ちしております」と笑顔で送り出しました。
+**副作用と併用の相談：**
+田中さんは「副作用はありますか？」と尋ね、薬剤師から「眠気や胃の不快感が出る場合があります」と説明を受けました。また、他の薬と一緒に飲む場合は「併用する場合はご相談ください」と案内され、安心しました。
 
 **健康相談：**
 田中さんは「健康相談をしたいのですが」と尋ね、薬剤師は健康に関するアドバイスを丁寧に説明してくれました。田中さんは日本のサービスの細やかさに感心しました。
@@ -341,14 +346,8 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 **薬の選択について：**
 山田さんは「おすすめはありますか？」と伝えると、薬剤師が丁寧に説明してくれました。山田さんは日本のサービスの細やかさに感心しました。
 
-**料金システムについて：**
-山田さんは「お会計をお願いします」と尋ねると、薬剤師は「合計で1,280円になります」と教えてもらいました。山田さんは日本の料金システムの明確さに感心しました。
-
-**サービスの過程と連絡：**
-山田さんは「この薬を返品したいのですが」と尋ねると、薬剤師は快く対応してくれました。また、サービス中にリラックスできることに感心しました。
-
-**支払いシステム：**
-山田さんは「クレジットカードで支払えますか？」と尋ねると、「はい、クレジットカードも電子マネーも使えます」と教えてもらいました。山田さんは日本の便利な支払いシステムに感心しました。
+**お薬手帳について：**
+山田さんは処方箋を持って薬局に行くと、「お薬手帳はお持ちですか？」と確認されることがあると知りました。飲み合わせの確認にも役立つため、持参するとよいと教えてもらいました。
 
 ### 文化のポイント
 
@@ -365,4 +364,4 @@ excerpt: 學習在日本藥局時常用的日語對話，包括購買藥品、�
 日本では、サービスの過程や時間について事前に説明があり、終了後には連絡をもらうことができます。安心してサービスを受けることができます。
 
 **5. 支払い方法の多様性**
-日本の薬局では、現金やクレジットカードなど、さまざまな支払い方法が利用できます。便利な支払い方法を選ぶことで、スムーズに手続きを進めることができます。 
+日本の薬局では、店舗によって利用できる支払い方法が異なる場合があります。必要なら会計前に確認すると安心です。 

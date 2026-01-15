@@ -41,18 +41,18 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 
 <div style="text-align: left">  
 
-**顧客:** 賞味期限はいつまでですか？  <br>
-(shoumi kigen wa itsu made desu ka?)  <br>
-保存期限到什麼時候？  <br>
+**顧客:** 消費期限はいつまでですか？  <br>
+(shouhi kigen wa itsu made desu ka?)  <br>
+消費期限到什麼時候？  <br>
 **What's the expiration date?**  <br>
 </div>  
 
 <div style="text-align: right">  
 
-**店員:** こちらは3日後までです。  <br>
-(kochira wa mikkago made desu.)  <br>
-這個是到3天後。  <br>
-**This one is good for 3 more days.**  <br>
+**店員:** 消費期限は3日後です。  <br>
+(shouhi kigen wa mikkago desu.)  <br>
+消費期限是3天後。  <br>
+**The expiration date is in three days.**  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -81,18 +81,17 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 
 <div style="text-align: right">  
 
-**店員:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
-不客氣。  <br>
-**You're welcome.**  <br>
+**店員:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝您。  <br>
+**Thank you.**  <br>
 </div>
 
 ### 重點句型
 - 牛乳はどこにありますか？(gyuunyuu wa doko ni arimasu ka?) - 牛奶在哪裡？
 - 冷蔵コーナーの奥にあります。(reizou koonaa no oku ni arimasu) - 在冷藏區的裡面
-- 賞味期限はいつまでですか？(shoumi kigen wa itsu made desu ka?) - 保存期限到什麼時候？
+- 消費期限はいつまでですか？(shouhi kigen wa itsu made desu ka?) - 消費期限到什麼時候？
 - 他におすすめの商品はありますか？(hoka ni osusume no shouhin wa arimasu ka?) - 還有其他推薦的商品嗎？
-- どういたしまして。(dou itashimashite) - 不客氣
 
 ### 相關單字
 - 牛乳 (gyuunyuu) - 牛奶
@@ -100,9 +99,8 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 - コーナー (koonaa) - 區域
 - 商品 (shouhin) - 商品
 - 棚 (tana) - 貨架
-- 賞味期限 (shoumi kigen) - 保存期限
+- 消費期限 (shouhi kigen) - 消費期限
 - ヨーグルト (yooguruto) - 優格
-- どういたしまして (dou itashimashite) - 不客氣
 
 ---
 
@@ -170,10 +168,10 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 
 <div style="text-align: right">  
 
-**店員:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
-不客氣。  <br>
-**You're welcome.**  <br>
+**店員:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝您。  <br>
+**Thank you.**  <br>
 </div>
 
 ### 重點句型
@@ -181,7 +179,6 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 - 1,280円です。(sen nihyaku hachijuu en desu) - 1,280日圓
 - 100グラムあたりいくらですか？(hyaku guramu atari ikura desu ka?) - 每100公克多少錢？
 - 割引はありますか？(waribiki wa arimasu ka?) - 有折扣嗎？
-- どういたしまして。(dou itashimashite) - 不客氣
 
 ### 相關單字
 - お肉 (oniku) - 肉
@@ -190,7 +187,6 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 - 税抜き (zeinuki) - 未稅
 - 割引 (waribiki) - 折扣
 - グラム (guramu) - 公克
-- どういたしまして (dou itashimashite) - 不客氣
 
 ---
 
@@ -218,10 +214,10 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 
 <div style="text-align: left">  
 
-**顧客:** カートの使用料金はかかりますか？  <br>
-(kaato no shiyou ryoukin wa kakarimasu ka?)  <br>
-使用購物車要收費嗎？  <br>
-**Is there a charge for using the cart?**  <br>
+**顧客:** カートを使うのに100円玉は必要ですか？  <br>
+(kaato o tsukau no ni hyaku en dama wa hitsuyou desu ka?)  <br>
+使用購物車需要100日圓硬幣嗎？  <br>
+**Do I need a 100-yen coin to use the cart?**  <br>
 </div>  
 
 <div style="text-align: right">  
@@ -234,18 +230,18 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 
 <div style="text-align: left">  
 
-**顧客:** 使い終わったら戻ってきますか？  <br>
-(tsukai owattara modotte kimasu ka?)  <br>
+**顧客:** 使い終わったら返ってきますか？  <br>
+(tsukai owattara kaette kimasu ka?)  <br>
 用完後會退還嗎？  <br>
-**Will it be returned after use?**  <br>
+**Will I get it back after use?**  <br>
 </div>  
 
 <div style="text-align: right">  
 
-**店員:** はい、元の場所に戻すと返却されます。  <br>
-(hai, moto no basho ni modosu to henkyaku saremasu.)  <br>
-是的，放回原處時會退還。  <br>
-**Yes, it will be returned when you put it back.**  <br>
+**店員:** はい、元の場所に戻すと返ってきます。  <br>
+(hai, moto no basho ni modosu to kaette kimasu.)  <br>
+是的，放回原處就會退還。  <br>
+**Yes, you'll get it back when you return the cart.**  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -258,19 +254,18 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 
 <div style="text-align: right">  
 
-**店員:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
-不客氣。  <br>
-**You're welcome.**  <br>
+**店員:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝您。  <br>
+**Thank you.**  <br>
 </div>
 
 ### 重點句型
 - カートはどこにありますか？(kaato wa doko ni arimasu ka?) - 購物車在哪裡？
 - 入口の右側にあります。(iriguchi no migigawa ni arimasu) - 在入口的右側
-- カートの使用料金はかかりますか？(kaato no shiyou ryoukin wa kakarimasu ka?) - 使用購物車要收費嗎？
+- カートを使うのに100円玉は必要ですか？(kaato o tsukau no ni hyaku en dama wa hitsuyou desu ka?) - 使用購物車需要100日圓硬幣嗎？
 - 100円玉を入れると使えます。(hyaku en dama o ireru to tsukaemasu) - 需要投入100日圓硬幣才能使用
-- 使い終わったら戻ってきますか？(tsukai owattara modotte kimasu ka?) - 用完後會退還嗎？
-- どういたしまして。(dou itashimashite) - 不客氣
+- 使い終わったら返ってきますか？(tsukai owattara kaette kimasu ka?) - 用完後會退還嗎？
 
 ### 相關單字
 - カート (kaato) - 購物車
@@ -279,7 +274,6 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 - 使い方 (tsukaikata) - 使用方法
 - 説明 (setsumei) - 說明
 - レバー (rebaa) - 把手
-- どういたしまして (dou itashimashite) - 不客氣
 
 ---
 
@@ -290,7 +284,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 <div style="text-align: left">  
 
 **店員:** レジ袋は有料ですが、ご利用になりますか？  <br>
-(rejibukuro wa yuuryou desu ga, go riyou ni narimasu ka?)  <br>
+(rejibukuro wa yuuryou desu ga, goriyou ni narimasu ka?)  <br>
 塑膠袋要收費，您需要嗎？  <br>
 **Plastic bags cost extra. Would you like one?**  <br>
 </div>  
@@ -329,14 +323,6 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 **Certainly. Please insert your card.**  <br>
 </div>  
 
-<div style="text-align: right">  
-
-**店員:** はい、クレジットカードも電子マネーも使えます。  <br>
-(hai, kurejitto kaado mo denshi manee mo tsukaemasu.)  <br>
-是的，可以使用信用卡和電子錢包。  <br>
-**Yes, you can use credit cards and electronic money.**  <br>
-</div>  
-
 <div style="text-align: left">  
 
 **顧客:** ありがとうございました。また来ます。  <br>
@@ -354,10 +340,9 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 </div>
 
 ### 重點句型
-- レジ袋は有料ですが、ご利用になりますか？(rejibukuro wa yuuryou desu ga, go riyou ni narimasu ka?) - 塑膠袋要收費，您需要嗎？
+- レジ袋は有料ですが、ご利用になりますか？(rejibukuro wa yuuryou desu ga, goriyou ni narimasu ka?) - 塑膠袋要收費，您需要嗎？
 - お会計は～円です。(okaikei wa ~en desu) - 總共是...日圓
 - 支払いは～で。(shiharai wa ~de) - 我要用...付
-- どういたしまして。(dou itashimashite) - 不客氣
 
 ### 相關單字
 - 会計 (kaikei) - 結帳
@@ -367,7 +352,6 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 - 現金 (genkin) - 現金
 - ポイントカード (pointo kaado) - 點數卡
 - 電子マネー (denshi manee) - 電子錢包
-- どういたしまして (dou itashimashite) - 不客氣
 
 ---
 
@@ -404,7 +388,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 <div style="text-align: right">  
 
 **店員:** 申し訳ありませんが、生鮮食品は返品できません。  <br>
-(moushiwake arimasen ga, sensei shokuhin wa henpin dekimasen.)  <br>
+(moushiwake arimasen ga, seisen shokuhin wa henpin dekimasen.)  <br>
 抱歉，生鮮食品不能退貨。  <br>
 **I'm sorry, but we cannot accept returns on fresh food items.**  <br>
 </div>  
@@ -435,17 +419,16 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 
 <div style="text-align: right">  
 
-**店員:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
-不客氣。  <br>
-**You're welcome.**  <br>
+**店員:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝您。  <br>
+**Thank you.**  <br>
 </div>
 
 ### 重點句型
 - この商品を返品したいのですが。(kono shouhin o henpin shitai no desu ga) - 我想退這件商品
 - レシートをお持ちですか？(reshiito o omochi desu ka?) - 您有收據嗎？
 - 交換は可能ですか？(koukan wa kanou desu ka?) - 可以換貨嗎？
-- どういたしまして。(dou itashimashite) - 不客氣
 
 ### 相關單字
 - 返品 (henpin) - 退貨
@@ -455,7 +438,6 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 - 期間 (kikan) - 期間
 - 生鮮食品 (seisen shokuhin) - 生鮮食品
 - 未開封 (mikaifuu) - 未開封
-- どういたしまして (dou itashimashite) - 不客氣
 
 ---
 
@@ -463,7 +445,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 
 ### 小故事：田中さんのスーパー体験
 
-田中太郎さんは、友人と一緒に日本のスーパーを訪れました。初めてのスーパー体験に少し緊張していましたが、スタッフの親切な対応で安心しました。
+田中さんは、友人と一緒に日本のスーパーを訪れました。初めてのスーパー体験に少し緊張していましたが、スタッフの親切な対応で安心しました。
 
 **商品探しの準備：**
 田中さんは牛乳を探すために、スタッフに「牛乳はどこにありますか？」と尋ねました。スタッフは「冷蔵コーナーの奥にあります」と教えてくれました。
@@ -472,7 +454,7 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 田中さんはお肉の価格を知るために、「このお肉はいくらですか？」と尋ねました。スタッフは「1,280円です」と答えました。
 
 **カートの使用：**
-田中さんはカートを使用するために、「カートの使用料金はかかりますか？」と尋ねました。スタッフは「100円玉を入れると使えます」と説明してくれました。
+田中さんはカートを使用するために、「カートを使うのに100円玉は必要ですか？」と尋ねました。スタッフは「100円玉を入れると使えます」と説明してくれました。
 
 **お会計：**
 田中さんはレジで「レジ袋は有料ですが、ご利用になりますか？」と聞かれ、「はい、お願いします」と答えました。そして「支払いはクレジットカードで」と伝えました。
@@ -490,14 +472,11 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 **商品選択について：**
 山田さんは「おすすめはありますか？」と伝えると、スタッフが丁寧に説明してくれました。山田さんは日本のサービスの細やかさに感心しました。
 
-**料金システムについて：**
-山田さんは「お会計をお願いします」と尋ねると、スタッフは「合計で3,280円になります」と教えてもらいました。山田さんは日本の料金システムの明確さに感心しました。
+**会計と袋：**
+山田さんはレジで「レジ袋は有料ですが、ご利用になりますか？」と聞かれることがあると知りました。必要な場合は「はい、お願いします」と答えます。
 
-**サービスの過程と連絡：**
-山田さんは「この商品を返品したいのですが」と尋ねると、スタッフは快く対応してくれました。また、サービス中にリラックスできることに感心しました。
-
-**支払いシステム：**
-山田さんは「クレジットカードで支払えますか？」と尋ねると、「はい、クレジットカードも電子マネーも使えます」と教えてもらいました。山田さんは日本の便利な支払いシステムに感心しました。
+**カートのしくみ：**
+カートは100円玉を入れて使うタイプがあり、元の場所に戻すと返ってくることがあります。初めての人は戸惑いやすいので、店員に聞くと安心です。
 
 ### 文化のポイント
 
@@ -514,4 +493,4 @@ excerpt: 學習在日本超市時常用的日語對話，包括尋找商品、�
 日本では、サービスの過程や時間について事前に説明があり、終了後には連絡をもらうことができます。安心してサービスを受けることができます。
 
 **5. 支払い方法の多様性**
-日本のスーパーでは、現金やクレジットカードなど、さまざまな支払い方法が利用できます。便利な支払い方法を選ぶことで、スムーズに手続きを進めることができます。 
+日本のスーパーでは、店舗によって利用できる支払い方法が異なる場合があります。会計前に確認すると安心です。 

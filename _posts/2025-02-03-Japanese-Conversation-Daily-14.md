@@ -34,14 +34,14 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 <div style="text-align: right">  
 
 **銀行員:** はい、身分証明書をお願いします。  <br>
-(hai, mibun shoumeisho o onegai shimasu.)  <br>
+(hai, mibun shoumeisho o onegai itashimasu.)  <br>
 好的，請出示身分證明文件。  <br>
 **Yes, please show your ID.**  <br>
 </div>  
 
 <div style="text-align: left">  
 
-**顧客:** 在留カードで大丈夫ですか？  <br>
+**顧客:** 在留カードで大丈夫でしょうか？  <br>
 (zairyuu kaado de daijoubu desu ka?)  <br>
 用居留卡可以嗎？  <br>
 **Is my residence card okay?**  <br>
@@ -49,8 +49,8 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 
 <div style="text-align: right">  
 
-**銀行員:** はい、在留カードで問題ありません。印鑑もお持ちですか？  <br>
-(hai, zairyuu kaado de mondai arimasen. inkan mo omochi desu ka?)  <br>
+**銀行員:** はい、在留カードで問題ございません。印鑑（届出印）はお持ちでしょうか？  <br>
+(hai, zairyuu kaado de mondai gozaimasen. inkan mo omochi deshou ka?)  <br>
 是的，居留卡沒問題。您有帶印章嗎？  <br>
 **Yes, the residence card is fine. Do you have your seal with you?**  <br>
 </div>  
@@ -65,8 +65,8 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 
 <div style="text-align: right">  
 
-**銀行員:** では、申込書に必要事項を記入していただきます。  <br>
-(dewa, moushikomisho ni hitsuyou jikou o kinyuu shite itadakimasu.)  <br>
+**銀行員:** では、申込書に必要事項をご記入ください。  <br>
+(dewa, moushikomisho ni hitsuyou jikou o gokinyuu kudasai.)  <br>
 那麼，請您在申請書上填寫必要事項。  <br>
 **Then, please fill in the required information on the application form.**  <br>
 </div>  
@@ -81,8 +81,8 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 
 <div style="text-align: right">  
 
-**銀行員:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
+**銀行員:** かしこまりました。ご不明点があればお声がけください。  <br>
+(kashikomarimashita. gofumeiten ga areba okoegake kudasai.)  <br>
 不客氣。  <br>
 **You're welcome.**  <br>
 </div>
@@ -108,7 +108,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 <div style="text-align: left">  
 
 **顧客:** 10万円を預け入れたいです。  <br>
-(juu man en o azukeire tai desu.)  <br>
+(juuman en o azukeiretai desu.)  <br>
 我想存入10萬日圓。  <br>
 **I'd like to deposit 100,000 yen.**  <br>
 </div>  
@@ -165,16 +165,16 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 
 <div style="text-align: right">  
 
-**銀行員:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
+**銀行員:** かしこまりました。少々お待ちください。  <br>
+(kashikomarimashita. shoushou omachi kudasai.)  <br>
 不客氣。  <br>
 **You're welcome.**  <br>
 </div>
 
 ### 重點句型
-- ～円を預け入れたいです。(~en o azukeire tai desu) - 我想存入...日圓
+- ～円を預け入れたいです。(~en o azukeiretai desu) - 我想存入...日圓
 - 通帳と印鑑をお願いします。(tsuuchou to inkan o onegai shimasu) - 請出示存摺和印章
-- ～円をお引き出ししたいです。(~en o o-hikidashi shitai desu) - 我想提款...日圓
+- ～円をお引き出ししたいです。(~en o ohikidashi shitai desu) - 我想提款...日圓
 
 ### 相關單字
 - 預金 (yokin) - 存款
@@ -249,8 +249,8 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 
 <div style="text-align: right">  
 
-**銀行員:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
+**銀行員:** かしこまりました。必要書類をご案内いたします。  <br>
+(kashikomarimashita. hitsuyou shorui o goannai itashimasu.)  <br>
 不客氣。  <br>
 **You're welcome.**  <br>
 </div>
@@ -333,8 +333,8 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 
 <div style="text-align: right">  
 
-**銀行員:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
+**銀行員:** かしこまりました。ご不明点があればお知らせください。  <br>
+(kashikomarimashita. gofumeiten ga areba oshirase kudasai.)  <br>
 不客氣。  <br>
 **You're welcome.**  <br>
 </div>
@@ -370,7 +370,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 <div style="text-align: right">  
 
 **銀行員:** 担当者がご案内いたします。  <br>
-(tantousha ga go-annai itashimasu.)  <br>
+(tantou no mono ga goannai itashimasu.)  <br>
 我會請專員為您說明。  <br>
 **I'll have a specialist guide you.**  <br>
 </div>  
@@ -402,7 +402,7 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 <div style="text-align: right">  
 
 **銀行員:** 10万円から投資可能です。  <br>
-(juu man en kara toushi kanou desu.)  <br>
+(juuman en kara toushi kanou desu.)  <br>
 從10萬日圓開始可以投資。  <br>
 **You can invest from 100,000 yen.**  <br>
 </div>  
@@ -417,15 +417,15 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 
 <div style="text-align: right">  
 
-**銀行員:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
+**銀行員:** かしこまりました。本日はありがとうございます。  <br>
+(kashikomarimashita. honjitsu wa arigatou gozaimasu.)  <br>
 不客氣。  <br>
 **You're welcome.**  <br>
 </div>
 
 ### 重點句型
 - 資産運用について相談したいです。(shisan unyou ni tsuite soudan shitai desu) - 我想諮詢資產運用
-- 担当者がご案内いたします。(tantousha ga go-annai itashimasu) - 我會請專員為您說明
+- 担当者がご案内いたします。(tantou no mono ga goannai itashimasu) - 我會請專員為您說明
 - リスクについて説明していただけますか？(risuku ni tsuite setsumei shite itadakemasu ka?) - 可以為我說明風險嗎？
 
 ### 相關單字
@@ -463,19 +463,16 @@ excerpt: 學習在日本銀行辦理業務時常用的日語對話，包括開�
 山田花子さんは、日本の銀行文化に興味がある外国人留学生です。今日は日本の銀行を訪れ、その文化を学びました。
 
 **日本の銀行文化の特徴：**
-山田さんは銀行員に「日本の銀行文化の特徴は何ですか？」と尋ねました。銀行員は「日本では、事前に必要な書類を準備し、正確な情報を提供することが重要です」と説明してくれました。
+山田さんは銀行員に「日本の銀行文化の特徴は何ですか？」と尋ねました。銀行員は「日本では本人確認書類の提示や、申込書の記入など、手続きが丁寧に決められています」と説明してくれました。
 
-**金融商品の選択について：**
-山田さんは「おすすめの金融商品はありますか？」と伝えると、銀行員が丁寧に説明してくれました。山田さんは日本のサービスの細やかさに感心しました。
+**必要書類と印鑑（サイン）：**
+山田さんは「在留カードで大丈夫でしょうか？」と確認すると、銀行員は「問題ございません。印鑑（届出印）はお持ちでしょうか？」と案内しました。銀行によっては印鑑の代わりにサインで手続きできる場合もある、と教えてもらいました。
 
-**料金システムについて：**
-山田さんは「お会計をお願いします」と尋ねると、銀行員は「合計で3,000円になります」と教えてもらいました。山田さんは日本の料金システムの明確さに感心しました。
+**手数料と為替レート：**
+海外送金などの手続きでは、手数料や為替レートが関わります。事前に「手数料はいくらですか？」「為替レートはいくらですか？」と確認すると安心です。
 
-**サービスの過程と連絡：**
-山田さんは「この手続きをキャンセルしたいのですが」と尋ねると、銀行員は快く対応してくれました。また、サービス中にリラックスできることに感心しました。
-
-**支払いシステム：**
-山田さんは「クレジットカードで支払えますか？」と尋ねると、「はい、クレジットカードも電子マネーも使えます」と教えてもらいました。山田さんは日本の便利な支払いシステムに感心しました。
+**待ち時間と確認：**
+混雑している時間帯は手続きに時間がかかることがあります。わからない点は遠慮せずに聞き、「少々お待ちください」と言われたら落ち着いて待つのが一般的です。
 
 ### 文化のポイント
 

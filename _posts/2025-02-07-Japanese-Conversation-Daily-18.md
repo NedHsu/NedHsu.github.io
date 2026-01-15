@@ -23,7 +23,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: left">  
 
-**乘客:** すみません、空車ですか？  <br>
+**乗客:** すみません、空車ですか？  <br>
 (sumimasen, kuusha desu ka?)  <br>
 不好意思，是空車嗎？  <br>
 **Excuse me, are you free?**  <br>
@@ -33,7 +33,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: right">  
 
-**司機:** はい、お乗りください。  <br>
+**運転手:** はい、お乗りください。  <br>
 (hai, onori kudasai.)  <br>
 好的，請上車。  <br>
 **Yes, please get in.**  <br>
@@ -41,7 +41,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: left">  
 
-**乘客:** クレジットカードは使えますか？  <br>
+**乗客:** クレジットカードは使えますか？  <br>
 (kurejitto kaado wa tsukaemasu ka?)  <br>
 可以刷卡嗎？  <br>
 **Can I use a credit card?**  <br>
@@ -49,15 +49,15 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: right">  
 
-**司機:** はい、ご利用いただけます。  <br>
-(hai, go riyou itadakemasu.)  <br>
+**運転手:** はい、ご利用いただけます。  <br>
+(hai, goriyou itadakemasu.)  <br>
 可以使用。  <br>
 **Yes, you can.**  <br>
 </div>  
 
 <div style="text-align: left">  
 
-**乘客:** どのくらいで到着しますか？  <br>
+**乗客:** どのくらいで到着しますか？  <br>
 (dono kurai de touchaku shimasu ka?)  <br>
 大約多久能到？  <br>
 **How long will it take to arrive?**  <br>
@@ -65,7 +65,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: right">  
 
-**司機:** 交通状況によりますが、15分ほどです。  <br>
+**運転手:** 交通状況によりますが、15分ほどです。  <br>
 (koutsuu joukyou ni yorimasu ga, juugofun hodo desu.)  <br>
 視交通狀況，大約15分鐘。  <br>
 **It depends on traffic, but about 15 minutes.**  <br>
@@ -73,7 +73,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: left">  
 
-**乘客:** ありがとうございます。  <br>
+**乗客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
 **Thank you.**  <br>
@@ -81,10 +81,10 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: right">  
 
-**司機:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
-不客氣。  <br>
-**You're welcome.**  <br>
+**運転手:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝您。  <br>
+**Thank you.**  <br>
 </div>
 
 ### 重點句型
@@ -107,7 +107,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: left">  
 
-**乘客:** タクシーを予約したいです。  <br>
+**乗客:** タクシーを予約したいです。  <br>
 (takushii o yoyaku shitai desu.)  <br>
 我想預約計程車。  <br>
 **I'd like to book a taxi.**  <br>
@@ -117,7 +117,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: right">  
 
-**接線員:** 何時にお迎えに参りましょうか？  <br>
+**オペレーター:** 何時にお迎えに参りましょうか？  <br>
 (nanji ni omukae ni mairimashou ka?)  <br>
 什麼時候來接您？  <br>
 **What time should we pick you up?**  <br>
@@ -125,7 +125,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: left">  
 
-**乘客:** 午後3時にお願いします。  <br>
+**乗客:** 午後3時にお願いします。  <br>
 (gogo sanji ni onegai shimasu.)  <br>
 請下午三點來。  <br>
 **Please come at 3 p.m.**  <br>
@@ -133,7 +133,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: right">  
 
-**接線員:** かしこまりました。お名前と電話番号をお願いします。  <br>
+**オペレーター:** かしこまりました。お名前と電話番号をお願いします。  <br>
 (kashikomarimashita. onamae to denwa bangou o onegai shimasu.)  <br>
 好的，請提供您的姓名和電話號碼。  <br>
 **Certainly. May I have your name and phone number?**  <br>
@@ -141,15 +141,15 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: left">  
 
-**乘客:** 田中太郎です。電話番号は090-1234-5678です。  <br>
-(tanaka tarou desu. denwa bangou wa zero kyuu zero no ichi ni san yon no go roku nana hachi desu.)  <br>
-我是田中太郎，電話號碼是090-1234-5678。  <br>
-**I'm Taro Tanaka. My phone number is 090-1234-5678.**  <br>
+**乗客:** 田中と申します。電話番号は090-1234-5678です。  <br>
+(tanaka to moushimasu. denwa bangou wa zero kyuu zero no ichi ni san yon no go roku nana hachi desu.)  <br>
+我姓田中，電話號碼是090-1234-5678。  <br>
+**My name is Tanaka. My phone number is 090-1234-5678.**  <br>
 </div>  
 
 <div style="text-align: right">  
 
-**接線員:** ありがとうございます。タクシーは午後3時に到着予定です。  <br>
+**オペレーター:** ありがとうございます。タクシーは午後3時に到着予定です。  <br>
 (arigatou gozaimasu. takushii wa gogo sanji ni touchaku yotei desu.)  <br>
 謝謝您，計程車預計下午三點到達。  <br>
 **Thank you. The taxi is scheduled to arrive at 3 p.m.**  <br>
@@ -157,18 +157,18 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: left">  
 
-**乘客:** 了解しました。  <br>
-(ryoukai shimashita.)  <br>
+**乗客:** わかりました。  <br>
+(wakarimashita.)  <br>
 了解。  <br>
 **Understood.**  <br>
 </div>  
 
 <div style="text-align: right">  
 
-**接線員:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
-不客氣。  <br>
-**You're welcome.**  <br>
+**オペレーター:** かしこまりました。よろしくお願いいたします。  <br>
+(kashikomarimashita. yoroshiku onegai itashimasu.)  <br>
+好的，麻煩您了。  <br>
+**Certainly. Thank you.**  <br>
 </div>
 
 ### 重點句型
@@ -191,7 +191,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: left">  
 
-**乘客:** 東京駅までお願いします。  <br>
+**乗客:** 東京駅までお願いします。  <br>
 (toukyou eki made onegai shimasu.)  <br>
 請載我到東京站。  <br>
 **Please take me to Tokyo Station.**  <br>
@@ -201,15 +201,15 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: right">  
 
-**司機:** はい、承知しました。  <br>
-(hai, shouchi shimashita.)  <br>
+**運転手:** はい、かしこまりました。  <br>
+(hai, kashikomarimashita.)  <br>
 好的，我知道了。  <br>
 **Yes, I understand.**  <br>
 </div>  
 
 <div style="text-align: left">  
 
-**乘客:** 東京駅までどのくらいかかりますか？  <br>
+**乗客:** 東京駅までどのくらいかかりますか？  <br>
 (toukyou eki made dono kurai kakarimasu ka?)  <br>
 到東京站大約需要多久？  <br>
 **How long will it take to get to Tokyo Station?**  <br>
@@ -217,7 +217,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: right">  
 
-**司機:** 交通状況によりますが、30分ほどです。  <br>
+**運転手:** 交通状況によりますが、30分ほどです。  <br>
 (koutsuu joukyou ni yorimasu ga, sanjuppun hodo desu.)  <br>
 視交通狀況，大約30分鐘。  <br>
 **It depends on traffic, but about 30 minutes.**  <br>
@@ -225,7 +225,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: left">  
 
-**乘客:** 料金はどのくらいになりますか？  <br>
+**乗客:** 料金はどのくらいになりますか？  <br>
 (ryoukin wa dono kurai ni narimasu ka?)  <br>
 車資大概多少？  <br>
 **How much will the fare be?**  <br>
@@ -233,15 +233,15 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: right">  
 
-**司機:** メーターは2,000円です。  <br>
-(meetaa wa nisen en desu.)  <br>
-跳表顯示是2,000日圓。  <br>
-**The meter reads 2,000 yen.**  <br>
+**運転手:** 交通状況にもよりますが、だいたい2,000円くらいです。  <br>
+(koutsuu joukyou ni mo yorimasu ga, daitai nisen en kurai desu.)  <br>
+視交通狀況而定，大概2,000日圓左右。  <br>
+**It depends on traffic, but it's roughly around 2,000 yen.**  <br>
 </div>  
 
 <div style="text-align: left">  
 
-**乘客:** ありがとうございます。  <br>
+**乗客:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
 **Thank you.**  <br>
@@ -249,15 +249,15 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: right">  
 
-**司機:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
-不客氣。  <br>
-**You're welcome.**  <br>
+**運転手:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝您。  <br>
+**Thank you.**  <br>
 </div>
 
 ### 重點句型
 - ～までお願いします。(~made onegai shimasu) - 請載我到...
-- 承知しました。(shouchi shimashita) - 我知道了
+- かしこまりました。(kashikomarimashita) - 好的，我知道了
 - どのくらいかかりますか？(dono kurai kakarimasu ka?) - 需要多久？
 
 ### 相關單字
@@ -275,7 +275,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: left">  
 
-**乘客:** ここまででお願いします。  <br>
+**乗客:** ここまででお願いします。  <br>
 (koko made de onegai shimasu.)  <br>
 請在這裡停。  <br>
 **Please stop here.**  <br>
@@ -285,7 +285,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: right">  
 
-**司機:** メーターは2,000円です。  <br>
+**運転手:** メーターは2,000円です。  <br>
 (meetaa wa nisen en desu.)  <br>
 跳表顯示是2,000日圓。  <br>
 **The meter reads 2,000 yen.**  <br>
@@ -293,7 +293,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: left">  
 
-**乘客:** 追加料金はありますか？  <br>
+**乗客:** 追加料金はありますか？  <br>
 (tsuika ryoukin wa arimasu ka?)  <br>
 有額外費用嗎？  <br>
 **Are there any extra charges?**  <br>
@@ -301,7 +301,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: right">  
 
-**司機:** 深夜料金や高速道路料金は別途かかります。  <br>
+**運転手:** 深夜料金や高速道路料金は別途かかります。  <br>
 (shinya ryoukin ya kousoku douro ryoukin wa betto kakarimasu.)  <br>
 深夜加成和高速公路過路費是另外算的。  <br>
 **Late night surcharges and highway tolls are extra.**  <br>
@@ -309,18 +309,18 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: left">  
 
-**乘客:** 了解しました。  <br>
-(ryoukai shimashita.)  <br>
+**乗客:** わかりました。  <br>
+(wakarimashita.)  <br>
 了解。  <br>
 **Understood.**  <br>
 </div>  
 
 <div style="text-align: right">  
 
-**司機:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
-不客氣。  <br>
-**You're welcome.**  <br>
+**運転手:** かしこまりました。  <br>
+(kashikomarimashita.)  <br>
+好的。  <br>
+**Certainly.**  <br>
 </div>
 
 ### 重點句型
@@ -343,7 +343,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: left">  
 
-**乘客:** お釣りは結構です。  <br>
+**乗客:** お釣りは結構です。  <br>
 (otsuri wa kekkou desu.)  <br>
 不用找零了。  <br>
 **Keep the change.**  <br>
@@ -353,7 +353,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: right">  
 
-**司機:** ありがとうございます。  <br>
+**運転手:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
 謝謝您。  <br>
 **Thank you very much.**  <br>
@@ -361,7 +361,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: left">  
 
-**乘客:** 領収書をお願いします。  <br>
+**乗客:** 領収書をお願いします。  <br>
 (ryoushuusho o onegai shimasu.)  <br>
 請給我收據。  <br>
 **Receipt, please.**  <br>
@@ -369,7 +369,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: right">  
 
-**司機:** かしこまりました。  <br>
+**運転手:** かしこまりました。  <br>
 (kashikomarimashita.)  <br>
 好的，馬上給您。  <br>
 **Certainly.**  <br>
@@ -377,7 +377,7 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: left">  
 
-**乘客:** 今日はありがとうございました。  <br>
+**乗客:** 今日はありがとうございました。  <br>
 (kyou wa arigatou gozaimashita.)  <br>
 今天謝謝您。  <br>
 **Thank you for today.**  <br>
@@ -385,8 +385,8 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 <div style="text-align: right">  
 
-**司機:** こちらこそ、ありがとうございました。またのご利用をお待ちしております。  <br>
-(kochira koso, arigatou gozaimashita. mata no go riyou o omachi shite orimasu.)  <br>
+**運転手:** こちらこそ、ありがとうございました。またのご利用をお待ちしております。  <br>
+(kochira koso, arigatou gozaimashita. mata no goriyou o omachi shite orimasu.)  <br>
 不客氣，期待您再次光臨。  <br>
 **Thank you as well. We look forward to serving you again.**  <br>
 </div>
@@ -409,16 +409,16 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 
 ### 小故事：田中さんのタクシー体験
 
-田中太郎さんは、初めて日本でタクシーを利用しました。少し緊張していましたが、運転手の親切な対応で安心しました。
+田中さんは、初めて日本でタクシーを利用しました。少し緊張していましたが、運転手の親切な対応で安心しました。
 
 **タクシーの呼び方：**
 田中さんは路上でタクシーを呼び、「すみません、空車ですか？」と尋ねました。運転手は「はい、お乗りください」と答えました。
 
 **目的地の告知：**
-田中さんは「東京駅までお願いします」と伝え、運転手は「承知しました」と答えました。
+田中さんは「東京駅までお願いします」と伝え、運転手は「かしこまりました」と答えました。
 
 **料金の確認：**
-田中さんは「料金はいくらになりますか？」と尋ね、運転手は「大体2,000円くらいです」と答えました。
+田中さんは「料金はどのくらいになりますか？」と尋ね、運転手は「だいたい2,000円くらいです」と答えました。
 
 **支払いの流れ：**
 田中さんは「お釣りは結構です」と伝え、運転手は「ありがとうございます」と感謝しました。
@@ -436,14 +436,11 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 **タクシーの選択について：**
 山田さんは「おすすめのタクシー会社はありますか？」と伝えると、運転手が丁寧に説明してくれました。山田さんは日本のサービスの細やかさに感心しました。
 
-**料金システムについて：**
-山田さんは「お会計をお願いします」と尋ねると、運転手は「合計で2,000円になります」と教えてもらいました。山田さんは日本の料金システムの明確さに感心しました。
+**料金の確認：**
+山田さんは「追加料金はありますか？」と尋ね、運転手から「深夜料金や高速道路料金は別途かかります」と説明を受けました。事前に確認できると安心だと感じました。
 
-**サービスの過程と連絡：**
-山田さんは「このタクシーをキャンセルしたいのですが」と尋ねると、運転手は快く対応してくれました。また、サービス中にリラックスできることに感心しました。
-
-**支払いシステム：**
-山田さんは「クレジットカードで支払えますか？」と尋ねると、「はい、クレジットカードも電子マネーも使えます」と教えてもらいました。山田さんは日本の便利な支払いシステムに感心しました。
+**支払いと領収書：**
+山田さんは「領収書をお願いします」と伝えると、運転手は「かしこまりました」と対応してくれました。ビジネス利用では領収書をお願いすることが多いです。
 
 ### 文化のポイント
 
@@ -460,4 +457,4 @@ excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車�
 日本では、サービスの過程や時間について事前に説明があり、終了後には連絡をもらうことができます。安心してサービスを受けることができます。
 
 **5. 支払い方法の多様性**
-日本のタクシーでは、現金やクレジットカードなど、さまざまな支払い方法が利用できます。便利な支払い方法を選ぶことで、スムーズに手続きを進めることができます。 
+日本のタクシーでは、車両や地域によって利用できる支払い方法が異なる場合があります。乗車前に「クレジットカードは使えますか？」と確認すると安心です。 

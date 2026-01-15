@@ -66,7 +66,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 <div style="text-align: right">  
 
 **友人B:** 天気予報によると、午後から雨が降るそうです。  <br>
-(tenki yohou ni yoruto, gogo kara ame ga furu sou desu.)  <br>
+(tenki yohou ni yoru to, gogo kara ame ga furu sou desu.)  <br>
 根據天氣預報，下午會下雨。  <br>
 **According to the weather forecast, it will rain in the afternoon.**  <br>
 </div>  
@@ -250,7 +250,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 <div style="text-align: right">  
 
 **友人B:** そうですね。快適に過ごせます。  <br>
-(sou desu ne. kaiteki ni sugosu koto ga dekimasu.)  <br>
+(sou desu ne. kaiteki ni sugosemasu.)  <br>
 是啊，可以舒適地度過。  <br>
 **Yes, we can be comfortable.**  <br>
 </div>
@@ -261,7 +261,7 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 - 少し～ですね。(sukoshi ~desu ne) - 有點...呢
 
 ### 相關單字
-- 温度 (ondo) - 溫度
+- 気温 (kion) - 氣溫
 - 暑い (atsui) - 熱
 - 寒い (samui) - 冷
 - 涼しい (suzushii) - 涼爽
@@ -309,10 +309,10 @@ excerpt: 學習在日本談論天氣和季節時常用的日語對話，包括�
 
 <div style="text-align: left">  
 
-**友人A:** 気温はどうなりますか？  <br>
-(kion wa dou narimasu ka?)  <br>
-氣溫會怎麼樣？  <br>
-**What will the temperature be like?**  <br>
+**友人A:** 気温はどれくらいになりそうですか？  <br>
+(kion wa dorekurai ni narisou desu ka?)  <br>
+氣溫大概會是多少？  <br>
+**About what will the temperature be?**  <br>
 </div>  
 
 <div style="text-align: right">  

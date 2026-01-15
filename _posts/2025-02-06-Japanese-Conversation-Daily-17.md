@@ -97,10 +97,10 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 
 <div style="text-align: right">  
 
-**店員:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
-不客氣。  <br>
-**You're welcome.**  <br>
+**店員:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝您。  <br>
+**Thank you.**  <br>
 </div>
 
 ### 重點句型
@@ -150,7 +150,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 <div style="text-align: right">  
 
 **店員:** 4K動画撮影やWi-Fi接続、手ぶれ補正機能などが付いています。  <br>
-(yon kei douga satsuei ya waifai setsuzoku, tebure hosei kinou nado ga tsuite imasu.)  <br>
+(yonkei douga satsuei ya waifai setsuzoku, tebure hosei kinou nado ga tsuite imasu.)  <br>
 有4K影片拍攝、Wi-Fi連接、防手震等功能。  <br>
 **It has 4K video recording, Wi-Fi connectivity, image stabilization, and other features.**  <br>
 </div>  
@@ -218,7 +218,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 <div style="text-align: right">  
 
 **店員:** はい、4K対応で、スマートテレビ機能も付いています。  <br>
-(hai, yon kei taiou de, sumato terebi kinou mo tsuite imasu.)  <br>
+(hai, yonkei taiou de, sumaato terebi kinou mo tsuite imasu.)  <br>
 是的，支援4K，還有智慧電視功能。  <br>
 **Yes, it supports 4K and has smart TV features.**  <br>
 </div>  
@@ -226,7 +226,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 <div style="text-align: left">  
 
 **顧客:** スマートテレビ機能では何ができますか？  <br>
-(sumato terebi kinou dewa nani ga dekimasu ka?)  <br>
+(sumaato terebi kinou dewa nani ga dekimasu ka?)  <br>
 智慧電視功能可以做什麼？  <br>
 **What can I do with the smart TV features?**  <br>
 </div>  
@@ -350,7 +350,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 <div style="text-align: right">  
 
 **店員:** 今回は保証期間内ですので、無料で修理いたします。  <br>
-(konkai wa hoshou kikan nai desu node, muryou de shuuri itashimasu.)  <br>
+(konkai wa hoshou kikannai desu node, muryou de shuuri itashimasu.)  <br>
 這次因為在保固期內，所以免費維修。  <br>
 **Since it's within the warranty period this time, the repair is free.**  <br>
 </div>
@@ -417,8 +417,8 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 
 <div style="text-align: right">  
 
-**店員:** 申し訳ありません。交換も可能です。  <br>
-(moushiwake arimasen. koukan mo kanou desu.)  <br>
+**店員:** 申し訳ございません。交換も可能でございます。  <br>
+(moushiwake gozaimasen. koukan mo kanou de gozaimasu.)  <br>
 非常抱歉。也可以換貨。  <br>
 **I apologize. We can also exchange it.**  <br>
 </div>  
@@ -457,7 +457,7 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 
 ### 小故事：田中さんの電器行体験
 
-田中太郎さんは、初めて日本の電器行を訪れました。少し緊張していましたが、店員の親切な対応で安心しました。
+田中さんは、初めて日本の電器行を訪れました。少し緊張していましたが、店員の親切な対応で安心しました。
 
 **商品の選び方：**
 田中さんはカメラを探しており、「このカメラの在庫はありますか？」と尋ねました。店員は「はい、在庫があります」と答えました。
@@ -484,14 +484,11 @@ excerpt: 學習在日本電器行時常用的日語對話，包括購買電器�
 **商品の選択について：**
 山田さんは「おすすめの商品はありますか？」と伝えると、店員が丁寧に説明してくれました。山田さんは日本のサービスの細やかさに感心しました。
 
-**料金システムについて：**
-山田さんは「お会計をお願いします」と尋ねると、店員は「合計で45,000円になります」と教えてもらいました。山田さんは日本の料金システムの明確さに感心しました。
+**料金表示と保証：**
+山田さんは「保証期間はどのくらいですか？」と尋ね、店員から「1年間の保証が付いています」と説明を受けました。価格も「税込み」で案内されることが多く、金額が分かりやすいと感じました。
 
-**サービスの過程と連絡：**
-山田さんは「この商品をキャンセルしたいのですが」と尋ねると、店員は快く対応してくれました。また、サービス中にリラックスできることに感心しました。
-
-**支払いシステム：**
-山田さんは「クレジットカードで支払えますか？」と尋ねると、「はい、クレジットカードも電子マネーも使えます」と教えてもらいました。山田さんは日本の便利な支払いシステムに感心しました。
+**修理と返品対応：**
+電源が入らないなどの不具合がある場合、まず症状を伝え、保証書の有無を確認されることがあります。また、初期不良などでは返品・交換の案内がされることもあります。
 
 ### 文化のポイント
 

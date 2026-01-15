@@ -45,9 +45,9 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: left">
 
-**田中:** はじめまして。 <br>
-(hajimemashite.) <br>
-初次見面。 <br>
+**田中:** はじめまして。よろしくお願いします。 <br>
+(hajimemashite. yoroshiku onegai shimasu.) <br>
+初次見面，請多多指教。 <br>
 **Nice to meet you.** <br>
 
 </div>
@@ -56,17 +56,17 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">
 
-**山田:** はじめまして。よろしくお願いします。 <br>
-(hajimemashite. yoroshiku onegai shimasu.) <br>
-初次見面。請多多指教。 <br>
-**Nice to meet you. Please be kind to me.** <br>
+**山田:** 山田と申します。こちらこそ、よろしくお願いします。 <br>
+(yamada to moushimasu. kochira koso, yoroshiku onegai shimasu.) <br>
+我姓山田，請多多指教。 <br>
+**I'm Yamada. Nice to meet you.** <br>
 
 </div>
 
 <div style="text-align: left">
 
-**田中:** お会いできて嬉しいです。 <br>
-(o-ai dekite ureshii desu.) <br>
+**田中:** お会いできてうれしいです。 <br>
+(oai dekite ureshii desu.) <br>
 很高興見到您。 <br>
 **I'm glad to meet you.** <br>
 
@@ -74,26 +74,26 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">
 
-**山田:** こちらこそ。今日はよろしくお願いします。 <br>
-(kochira koso. kyou wa yoroshiku onegai shimasu.) <br>
-哪裡哪裡。今天請多多指教。 <br>
-**Not at all. Please be kind to me today.** <br>
+**山田:** こちらこそ。 <br>
+(kochira koso.) <br>
+哪裡哪裡。 <br>
+**Likewise.** <br>
 
 </div>
 
 <div style="text-align: left">
 
-**田中:** 今日はどんな活動がありますか？ <br>
-(kyou wa donna katsudou ga arimasu ka?) <br>
-今天有什麼活動嗎？ <br>
-**What activities are planned for today?** <br>
+**田中:** 今日はこの後、何かご予定ありますか？ <br>
+(kyou wa kono ato, nanika go-yotei arimasu ka?) <br>
+今天接下來有什麼安排嗎？ <br>
+**Do you have any plans later today?** <br>
 
 </div>
 
 <div style="text-align: right">
 
-**山田:** 午後に交流會があります。 <br>
-(gogo ni kouryuu kai ga arimasu.) <br>
+**山田:** 午後に交流会があります。 <br>
+(gogo ni kouryuukai ga arimasu.) <br>
 下午有一個交流會。 <br>
 **There's a networking event in the afternoon.** <br>
 
@@ -101,8 +101,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: left">
 
-**田中:** それはいいですね、楽しみにしています。 <br>
-(sore wa ii desu ne, tanoshimi ni shite imasu.) <br>
+**田中:** そうなんですね。楽しみにしています。 <br>
+(sou nan desu ne. tanoshimi ni shite imasu.) <br>
 太好了，我很期待。 <br>
 **Great, I'm looking forward to it.** <br>
 
@@ -112,7 +112,7 @@ tags: [日語, Japanese, 日語對話]
 
 - はじめまして。(hajimemashite) - 初次見面
 - よろしくお願いします。(yoroshiku onegai shimasu) - 請多多指教
-- お会いできて嬉しいです。(o-ai dekite ureshii desu) - 很高興見到您
+- お会いできてうれしいです。(oai dekite ureshii desu) - 很高興見到您
 
 ### 相關單字
 
@@ -141,8 +141,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">
 
-**山田:** 田中さんですね。私は山田です。 <br>
-(tanaka san desu ne. watashi wa yamada desu.) <br>
+**山田:** 田中さんですね。山田と申します。 <br>
+(tanaka san desu ne. yamada to moushimasu.) <br>
 是田中先生/女士對吧。我姓山田。 <br>
 **Mr./Ms. Tanaka, right? I'm Yamada.** <br>
 
@@ -150,9 +150,9 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: left">
 
-**田中:** 山田さんはどちらからいらっしゃいましたか？ <br>
-(yamada san wa dochira kara irasshaimashita ka?) <br>
-山田先生/女士是從哪裡來的？ <br>
+**田中:** 山田さんはご出身はどちらですか？ <br>
+(yamada san wa goshusshin wa dochira desu ka?) <br>
+山田先生/女士的家鄉是哪裡呢？ <br>
 **Where are you from, Mr./Ms. Yamada?** <br>
 
 </div>
@@ -186,8 +186,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: left">
 
-**田中:** 訪問する機会があれば幸いです。 <br>
-(houmon suru kikai ga areba saiwai desu.) <br>
+**田中:** いつか行ってみたいです。 <br>
+(itsuka itte mitai desu.) <br>
 我希望有機會去看看。 <br>
 **I hope to visit someday.** <br>
 
@@ -216,7 +216,7 @@ tags: [日語, Japanese, 日語對話]
 <div style="text-align: left">
 
 **田中:** お仕事は何をされていますか？ <br>
-(o-shigoto wa nani o sarete imasu ka?) <br>
+(oshigoto wa nani o sarete imasu ka?) <br>
 請問您從事什麼工作？ <br>
 **What do you do for a living?** <br>
 
@@ -226,25 +226,25 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">
 
-**山田:** 会社員です。IT 企業で働いています。 <br>
-(kaishain desu. ai ti kigyou de hataraite imasu.) <br>
-我是公司職員。在 IT 公司工作。 <br>
+**山田:** 会社員です。IT企業で働いています。 <br>
+(kaishain desu. aitii kigyou de hataraite imasu.) <br>
+我是公司職員。在IT公司工作。 <br>
 **I'm a company employee. I work at an IT company.** <br>
 
 </div>
 
 <div style="text-align: left">
 
-**田中:** そうですか。どのくらいの経験がありますか？ <br>
-(sou desu ka. dono kurai no keiken ga arimasu ka?) <br>
-是嗎。您有多少工作經驗？ <br>
+**田中:** そうですか。今のお仕事は何年目ですか？ <br>
+(sou desu ka. ima no oshigoto wa nannenme desu ka?) <br>
+是嗎。現在這份工作做幾年了呢？ <br>
 **Is that so? How much experience do you have?** <br>
 
 </div>
 
 <div style="text-align: right">
 
-**山田:** 5 年目になります。 <br>
+**山田:** 5年目になります。 <br>
 (go nen me ni narimasu.) <br>
 已經第五年了。 <br>
 **This is my fifth year.** <br>
@@ -271,8 +271,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: left">
 
-**田中:** それは素晴らしいことです。 <br>
-(sore wa subarashii koto desu.) <br>
+**田中:** それはいいですね。 <br>
+(sore wa ii desu ne.) <br>
 那真是太好了。 <br>
 **That's good to hear.** <br>
 
@@ -280,7 +280,7 @@ tags: [日語, Japanese, 日語對話]
 
 ### 重點句型
 
-- お仕事は何をされていますか？(o-shigoto wa nani o sarete imasu ka?) - 請問您從事什麼工作？
+- お仕事は何をされていますか？(oshigoto wa nani o sarete imasu ka?) - 請問您從事什麼工作？
 - ～をされていますか？(~o sarete imasu ka?) - 您從事...嗎？
 - ～です。(~desu) - 我是...
 
@@ -312,7 +312,7 @@ tags: [日語, Japanese, 日語對話]
 <div style="text-align: right">
 
 **山田:** こちらこそ。またお会いしましょう。 <br>
-(kochira koso. mata o-ai shimashou.) <br>
+(kochira koso. mata oai shimashou.) <br>
 哪裡哪裡。下次再見。 <br>
 **Not at all. Let's meet again.** <br>
 
@@ -321,7 +321,7 @@ tags: [日語, Japanese, 日語對話]
 <div style="text-align: left">
 
 **田中:** はい、またお会いできるのを楽しみにしています。 <br>
-(hai, mata o-ai dekiru no o tanoshimi ni shite imasu.) <br>
+(hai, mata oai dekiru no o tanoshimi ni shite imasu.) <br>
 好的，期待下次見面。 <br>
 **Yes, I'm looking forward to meeting you again.** <br>
 
@@ -330,7 +330,7 @@ tags: [日語, Japanese, 日語對話]
 <div style="text-align: right">
 
 **山田:** お気をつけてお帰りください。 <br>
-(o-ki o tsukete o-kaeri kudasai.) <br>
+(oki o tsukete okaeri kudasai.) <br>
 請小心慢走。 <br>
 **Please take care on your way home.** <br>
 
@@ -345,43 +345,16 @@ tags: [日語, Japanese, 日語對話]
 
 </div>
 
-<div style="text-align: right">
-
-**田中:** 次回は友達を連れて来ます。 <br>
-(jikai wa tomodachi o tsurete kimasu.) <br>
-下次我會帶朋友來。 <br>
-**Next time, I'll bring my friends.** <br>
-
-</div>
-
-<div style="text-align: left">
-
-**山田:** ありがとうございます。お待ちしております。 <br>
-(arigatou gozaimasu. omachi shite orimasu.) <br>
-謝謝。我們會期待您的光臨。 <br>
-**Thank you. We look forward to it.** <br>
-
-</div>
-
-<div style="text-align: right">
-
-**田中:** さようなら！ <br>
-(sayounara!) <br>
-再見！ <br>
-**Goodbye!** <br>
-
-</div>
-
 ### 重點句型
 
 - ありがとうございました。(arigatou gozaimashita) - 非常感謝
 - こちらこそ。(kochira koso) - 哪裡哪裡
-- またお会いしましょう。(mata o-ai shimashou) - 下次再見
+- またお会いしましょう。(mata oai shimashou) - 下次再見
 
 ### 相關單字
 
 - 感謝 (kansha) - 感謝
-- お礼 (o-rei) - 謝意
+- お礼 (orei) - 謝意
 - 再会 (saikai) - 再會
 - 別れ (wakare) - 告別
 - 挨拶 (aisatsu) - 問候
@@ -395,7 +368,7 @@ tags: [日語, Japanese, 日語對話]
 <div style="text-align: left">
 
 **田中:** お元気ですか？ <br>
-(o-genki desu ka?) <br>
+(ogenki desu ka?) <br>
 您好嗎？ <br>
 **How are you?** <br>
 
@@ -405,8 +378,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">
 
-**山田:** はい、おかげさまで。田中さんは？ <br>
-(hai, okagesama de. tanaka san wa?) <br>
+**山田:** はい、おかげさまで。田中さんはいかがですか？ <br>
+(hai, okagesama de. tanaka san wa ikaga desu ka?) <br>
 是的，托您的福。田中先生/女士呢？ <br>
 **Yes, thanks to you. How about you, Mr./Ms. Tanaka?** <br>
 
@@ -448,20 +421,11 @@ tags: [日語, Japanese, 日語對話]
 
 </div>
 
-<div style="text-align: left">
-
-**田中:** それは良かったですね。 <br>
-(sore wa yokatta desu ne.) <br>
-那真是太好了。 <br>
-**That's good to hear.** <br>
-
-</div>
-
 ### 重點句型
 
-- お元気ですか？(o-genki desu ka?) - 您好嗎？
+- お元気ですか？(ogenki desu ka?) - 您好嗎？
 - おかげさまで。(okagesama de) - 托您的福
-- お久しぶりです。(o-hisashiburi desu) - 好久不見
+- お久しぶりです。(ohisashiburi desu) - 好久不見
 
 ### 相關單字
 

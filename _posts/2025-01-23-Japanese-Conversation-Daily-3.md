@@ -42,8 +42,8 @@ image:
 
 <div style="text-align: left">  
 
-**銀行員:** はい、承知しました。パスポートをお願いします。  <br>
-(hai, shouchi shimashita. pasupooto o onegai shimasu.)  <br>
+**銀行員:** かしこまりました。パスポートをお願いいたします。  <br>
+(kashikomarimashita. pasupooto o onegai itashimasu.)  <br>
 好的，請出示您的護照。  <br>
 **I understand. May I see your passport, please?**  <br>
 </div>  
@@ -60,8 +60,8 @@ image:
 
 <div style="text-align: left">  
 
-**銀行員:** はい、在留カードもお願いします。  <br>
-(hai, zairyuu kaado mo onegai shimasu.)  <br>
+**銀行員:** はい、在留カードもお願いいたします。  <br>
+(hai, zairyuu kaado mo onegai itashimasu.)  <br>
 是的，請也出示居留卡。  <br>
 **Yes, please show your residence card as well.**  <br>
 </div>  
@@ -121,8 +121,8 @@ image:
 
 <div style="text-align: right">  
 
-**顧客:** この小包を台湾まで送りたいです。  <br>
-(kono kozutsumi o taiwan made okuritai desu.)  <br>
+**顧客:** この小包を台湾まで送りたいのですが。  <br>
+(kono kozutsumi o taiwan made okuritai no desu ga.)  <br>
 我想把這個包裹寄到台灣。  <br>
 **I'd like to send this package to Taiwan.**  <br>
 </div>  
@@ -131,8 +131,8 @@ image:
 
 <div style="text-align: left">  
 
-**郵便局員:** はい、承知しました。住所を確認させていただきます。  <br>
-(hai, shouchi shimashita. juusho o kakunin sasete itadakimasu.)  <br>
+**郵便局員:** かしこまりました。住所を確認させていただきます。  <br>
+(kashikomarimashita. juusho o kakunin sasete itadakimasu.)  <br>
 好的，讓我確認一下地址。  <br>
 **I understand. Let me check the address.**  <br>
 </div>  
@@ -147,8 +147,8 @@ image:
 
 <div style="text-align: left">  
 
-**郵便局員:** かしこまりました。追跡番号をお知らせします。  <br>
-(kashikomarimashita. tsuiseki bangou o o-shirase shimasu.)  <br>
+**郵便局員:** かしこまりました。追跡番号をお伝えします。  <br>
+(kashikomarimashita. tsuiseki bangou o o-tsutae shimasu.)  <br>
 好的，我會給您追蹤號碼。  <br>
 **I understand. I'll provide you with a tracking number.**  <br>
 </div>  
@@ -157,15 +157,15 @@ image:
 <div style="text-align: right">  
 
 **顧客:** 到着までどのくらいかかりますか？  <br>
-(Tōchaku made dono kurai kakarimasu ka?)  <br>
+(touchaku made dono kurai kakarimasu ka?)  <br>
 需要多久才能到達？  <br>
 **How long will it take to arrive?**  <br>
 </div>  
 
 <div style="text-align: left">  
 
-**郵便局員:** 約3日間です。  <br>
-(yaku mikka kan desu.)  <br>
+**郵便局員:** およそ3日ほどです。  <br>
+(oyoso mikka hodo desu.)  <br>
 大約3天。  <br>
 **About 3 days.**  <br>
 </div>  
@@ -180,7 +180,7 @@ image:
 
 ### 重點句型
 - 何をお送りになりますか？(nani o o-okuri ni narimasu ka?) - 請問您要寄什麼？
-- ～まで送りたいです。(~made okuritai desu) - 我想寄到...
+- ～まで送りたいのですが。(~made okuritai no desu ga) - 我想寄到...
 - 住所を確認させていただきます。(juusho o kakunin sasete itadakimasu) - 讓我確認一下地址
 
 ### 相關單字
@@ -218,8 +218,8 @@ image:
 
 <div style="text-align: left">  
 
-**受付:** はい、承知しました。お名前をお願いします。  <br>
-(hai, shouchi shimashita. o-namae o onegai shimasu.)  <br>
+**受付:** かしこまりました。お名前をお願いします。  <br>
+(kashikomarimashita. o-namae o onegai shimasu.)  <br>
 好的，請告訴我您的姓名。  <br>
 **I understand. May I have your name, please?**  <br>
 </div>  
@@ -234,8 +234,8 @@ image:
 
 <div style="text-align: left">  
 
-**受付:** はい、可能です。カットとカラーで約2時間かかります。  <br>
-(hai, kanou desu. katto to karaa de yaku nijikan kakarimasu.)  <br>
+**受付:** はい、可能でございます。カットとカラーで約2時間ほどかかります。  <br>
+(hai, kanou de gozaimasu. katto to karaa de yaku nijikan hodo kakarimasu.)  <br>
 是的，可以。剪髮和染髮大約需要2小時。  <br>
 **Yes, that's possible. The cut and color will take about 2 hours.**  <br>
 </div>  
@@ -251,18 +251,10 @@ image:
 
 <div style="text-align: left">  
 
-**受付:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
-不客氣。  <br>
-**You're welcome.**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**顧客:** ありがとうございます。  <br>
-(arigatou gozaimasu.)  <br>
-謝謝。  <br>
-**Thank you.**  <br>
+**受付:** かしこまりました。では、明日14時にお待ちしております。  <br>
+(kashikomarimashita. dewa, ashita juu-yoji ni omachi shite orimasu.)  <br>
+好的，那我們明天14:00等您。  <br>
+**Certainly. We'll be expecting you tomorrow at 2 PM.**  <br>
 </div>  
 
 ### 重點句型
@@ -425,17 +417,9 @@ image:
 
 <div style="text-align: left">  
 
-**運転手:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
-不客氣。  <br>
-**You're welcome.**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**乗客:** ありがとうございます。  <br>
+**運転手:** ありがとうございます。  <br>
 (arigatou gozaimasu.)  <br>
-謝謝。  <br>
+謝謝您。  <br>
 **Thank you.**  <br>
 </div>  
 
@@ -456,7 +440,7 @@ image:
 ## 文化小知識
 
 在日本辦理銀行業務時，需要出示護照和居留卡，這不只是「規定」，其實也是為了確認你的身份，確保帳戶安全。<br>
-當銀行員說「パスポートをお願いします」「在留カードもお願いします」的時候，這種清楚的說明，讓你知道需要準備什麼文件，這種對細節的在意，讓日本的銀行服務特別專業。<br>
+當銀行員說「パスポートをお願いいたします」「在留カードもお願いいたします」的時候，這種清楚的說明，讓你知道需要準備什麼文件，這種對細節的在意，讓日本的銀行服務特別專業。<br>
 
 在郵局寄包裹時，郵便局員會問「何をお送りになりますか？」，這種問法不只是「你要寄什麼」，其實也是在確認包裹內容，確保可以安全寄送。<br>
 當你選擇「航空便でお願いします」的時候，這種清楚的選擇，讓郵局可以更快處理你的包裹，這種對效率的重視，讓日本的郵政服務特別可靠。<br>

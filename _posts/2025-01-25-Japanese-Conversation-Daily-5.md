@@ -23,8 +23,8 @@ image:
 
 <div style="text-align: left">  
 
-**醫院接待員:** はい、山田医院でございます。  <br>
-(hai, yamada iin de gozaimasu.)  <br>
+**醫院接待員:** お電話ありがとうございます。山田医院でございます。  <br>
+(o-denwa arigatou gozaimasu. yamada iin de gozaimasu.)  <br>
 您好，這裡是山田醫院。  <br>
 **Hello, this is Yamada Clinic.**  <br>
 </div>  
@@ -43,8 +43,8 @@ image:
 
 <div style="text-align: left">  
 
-**醫院接待員:** はい、承知しました。症状を教えていただけますか？  <br>
-(hai, shouchi shimashita. shoujou o oshiete itadakemasu ka?)  <br>
+**醫院接待員:** かしこまりました。症状を教えていただけますか？  <br>
+(kashikomarimashita. shoujou o oshiete itadakemasu ka?)  <br>
 好的，請問您有什麼症狀？  <br>
 **I understand. Could you tell me your symptoms?**  <br>
 </div>  
@@ -52,16 +52,16 @@ image:
 
 <div style="text-align: right">  
 
-**病患:** 最近頭痛がして疲れを感じています。  <br>
-(Saikin zutsū ga shite tsukare o kanjite imasu.)  <br>
+**病患:** 最近、頭が痛くて、疲れやすいです。  <br>
+(saikin, atama ga itakute, tsukareyasui desu.)  <br>
 最近感到頭痛和疲倦。  <br>
 **I've been experiencing headaches and fatigue lately.**  <br>
 </div>  
 
 <div style="text-align: left">  
 
-**醫院接待員:** かしこまりました。明日の午後に空きがあります。  <br>
-(kashikomarimashita. ashita no gogo ni aki ga arimasu.)  <br>
+**醫院接待員:** かしこまりました。明日の午後でしたら空きがございます。  <br>
+(kashikomarimashita. ashita no gogo deshitara aki ga gozaimasu.)  <br>
 好的，明天下午有空位。  <br>
 **Understood. We have an opening tomorrow afternoon.**  <br>
 </div>  
@@ -114,8 +114,8 @@ image:
 
 <div style="text-align: left">  
 
-**美甲師:** はい、承知しました。デザインのカタログをご覧ください。  <br>
-(hai, shouchi shimashita. dezain no katarogu o go-ran kudasai.)  <br>
+**美甲師:** かしこまりました。デザインのカタログをご覧ください。  <br>
+(kashikomarimashita. dezain no katarogu o goran kudasai.)  <br>
 好的，請看設計目錄。  <br>
 **I understand. Please look at the design catalog.**  <br>
 </div>  
@@ -123,16 +123,16 @@ image:
 
 <div style="text-align: right">  
 
-**顧客:** デザインは綺麗ですね。どれくらい時間がかかりますか？  <br>
-(Dezain wa kireidesu ne. Dorekurai jikan ga kakarimasu ka?)  <br>
+**顧客:** このデザイン、綺麗ですね。どれくらい時間がかかりますか？  <br>
+(kono dezain, kirei desu ne. dorekurai jikan ga kakarimasu ka?)  <br>
 這個設計看起來很漂亮。需要多長時間？  <br>
 **This design looks beautiful. How long will it take?**  <br>
 </div>  
 
 <div style="text-align: left">  
 
-**美甲師:** 約1時間半です。  <br>
-(yaku ichijikan han desu.)  <br>
+**美甲師:** 1時間半ほどです。  <br>
+(ichijikan han hodo desu.)  <br>
 大約1個半小時。  <br>
 **About an hour and a half.**  <br>
 </div>  
@@ -175,8 +175,8 @@ image:
 
 <div style="text-align: right">  
 
-**顧客:** パソコンの調子が悪いので、修理をお願いしたいです。  <br>
-(pasokon no choushi ga warui node, shuuri o onegai shitai desu.)  <br>
+**顧客:** パソコンの調子が悪いので、修理をお願いしたいのですが。  <br>
+(pasokon no choushi ga warui node, shuuri o onegai shitai no desu ga.)  <br>
 我的電腦狀況不好，想請您修理。  <br>
 **My computer isn't working well, I'd like to have it repaired.**  <br>
 </div>  
@@ -185,8 +185,8 @@ image:
 
 <div style="text-align: left">  
 
-**維修人員:** はい、承知しました。具体的な症状を教えていただけますか？  <br>
-(hai, shouchi shimashita. gutaiteki na shoujou o oshiete itadakemasu ka?)  <br>
+**維修人員:** かしこまりました。具体的な症状を教えていただけますか？  <br>
+(kashikomarimashita. gutaiteki na shoujou o oshiete itadakemasu ka?)  <br>
 好的，請問具體是什麼問題？  <br>
 **I understand. Could you tell me the specific problem?**  <br>
 </div>  
@@ -194,8 +194,8 @@ image:
 
 <div style="text-align: right">  
 
-**顧客:** コンピュータの電源をオンにしても正常に動作しません。  <br>
-(Konpyūta no dengen o on ni shite mo seijō ni dōsa shimasen.)  <br>
+**顧客:** パソコンの電源を入れても、うまく起動しません。  <br>
+(pasokon no dengen o irete mo, umaku kidou shimasen.)  <br>
 電腦開機後無法正常運行。  <br>
 **The computer doesn't run properly after booting up.**  <br>
 </div>  
@@ -256,8 +256,8 @@ image:
 
 <div style="text-align: left">  
 
-**預約中心人員:** はい、承知しました。お名前とご住所をお願いします。  <br>
-(hai, shouchi shimashita. o-namae to go-juusho o onegai shimasu.)  <br>
+**預約中心人員:** かしこまりました。お名前とご住所をお願いします。  <br>
+(kashikomarimashita. o-namae to go-juusho o onegai shimasu.)  <br>
 好的，請告訴我您的姓名和地址。  <br>
 **I understand. May I have your name and address, please?**  <br>
 </div>  
@@ -265,8 +265,8 @@ image:
 
 <div style="text-align: right">  
 
-**乘客:** 私の名字は田中、住所は東京都新宿区です。  <br>
-(Watashi no myōji wa Tanaka, jūsho wa tōkyōtoshinjukukudesu.)  <br>
+**乘客:** 田中と申します。住所は東京都新宿区です。  <br>
+(tanaka to moushimasu. juusho wa toukyouto shinjuku ku desu.)  <br>
 我姓田中，地址是東京都新宿區。  <br>
 **My name is Tanaka, and my address is Shinjuku, Tokyo.**  <br>
 </div>  
@@ -336,8 +336,8 @@ image:
 
 <div style="text-align: right">  
 
-**同事B:** 暖かい服を用意したほうがいいでしょう。  <br>
-(atatakai fuku o youi shita hou ga ii deshou.)  <br>
+**同事B:** 暖かい服を用意したほうがいいですね。  <br>
+(atatakai fuku o youi shita hou ga ii desu ne.)  <br>
 我們應該準備好保暖的衣服。  <br>
 **We should prepare warm clothes.**  <br>
 </div>  
@@ -375,7 +375,7 @@ image:
 ## 文化小知識
 
 在日本醫院掛號時，接待員會問「症状を教えていただけますか？」，這種問法不只是「你有什麼症狀」，其實也是為了幫你安排最適合的醫生和時間。<br>
-當你清楚地說「最近頭痛がして疲れを感じています」的時候，這種對症狀的描述，讓醫院可以更快了解你的情況，這種對溝通的細膩，讓日本的醫療服務特別專業。<br>
+當你清楚地說「最近、頭が痛くて、疲れやすいです」的時候，這種對症狀的描述，讓醫院可以更快了解你的情況，這種對溝通的細膩，讓日本的醫療服務特別專業。<br>
 醫院通常會根據你的症狀安排合適的時間，像說「明日の午後に空きがあります」，這種對時間的說明，讓你可以提前安排，這種對顧客的體貼，讓日本的醫療服務特別周到。<br>
 
 在美容院美甲時，美甲師會說「デザインのカタログをご覧ください」，這種提供目錄的方式，不只是「讓你選設計」，其實也是讓你可以慢慢看、慢慢選，找到最喜歡的款式。<br>
@@ -383,7 +383,7 @@ image:
 美甲的過程通常需要1個半小時，這種對時間的說明，讓你知道大概要等多久，這種對顧客的體貼，讓日本的美容服務特別細膩。<br>
 
 在電器行維修時，維修人員會問「具体的な症状を教えていただけますか？」，這種問法不只是「什麼問題」，其實也是為了更快找出故障原因。<br>
-當你清楚地說「コンピュータの電源をオンにしても正常に動作しません」的時候，這種對故障的描述，讓維修人員可以更準確地診斷，這種對溝通的細膩，讓日本的維修服務特別專業。<br>
+當你清楚地說「パソコンの電源を入れても、うまく起動しません」的時候，這種對故障的描述，讓維修人員可以更準確地診斷，這種對溝通的細膩，讓日本的維修服務特別專業。<br>
 當維修人員說「診断には約1時間かかります」的時候，這種對時間的估算，讓你可以安排其他事情，這種對顧客的體貼，讓日本的維修服務特別有效率。<br>
 
 在計程車預約時，預約中心會問「お名前とご住所をお願いします」，這種問法不只是「要你的資料」，其實也是為了確保計程車可以準確到達你的位置。<br>

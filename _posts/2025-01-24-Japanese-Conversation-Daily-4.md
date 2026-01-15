@@ -66,9 +66,9 @@ image:
 
 <div style="text-align: right">  
 
-**顧客:** 日本酒を選びます。  <br>
-(nihonshu o erabimasu.)  <br>
-我會選擇日本酒。  <br>
+**顧客:** 日本酒をお願いします。  <br>
+(nihonshu o onegai shimasu.)  <br>
+請給我日本酒。  <br>
 **I'll choose sake.**  <br>
 </div>  
 
@@ -126,8 +126,8 @@ image:
 
 <div style="text-align: left">  
 
-**店員:** はい、承知しました。レシートはお持ちですか？  <br>
-(hai, shouchi shimashita. reshiito wa o-mochi desu ka?)  <br>
+**店員:** かしこまりました。レシートはお持ちでしょうか？  <br>
+(kashikomarimashita. reshiito wa o-mochi deshou ka?)  <br>
 好的，請問您有收據嗎？  <br>
 **I understand. Do you have the receipt?**  <br>
 </div>  
@@ -148,7 +148,6 @@ image:
 **I understand. I'll process the refund for you.**  <br>
 </div>  
 
-
 <div style="text-align: right">  
 
 **顧客:** どうもありがとうございます。  <br>
@@ -159,18 +158,10 @@ image:
 
 <div style="text-align: left">  
 
-**店員:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
-不客氣。  <br>
-**You're welcome.**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**顧客:** ありがとうございます。  <br>
-(arigatou gozaimasu.)  <br>
-謝謝。  <br>
-**Thank you.**  <br>
+**店員:** かしこまりました。少々お待ちください。  <br>
+(kashikomarimashita. shoushou omachi kudasai.)  <br>
+好的，請稍等。  <br>
+**Certainly. Please wait a moment.**  <br>
 </div>  
 
 ### 重點句型
@@ -203,16 +194,16 @@ image:
 
 <div style="text-align: right">  
 
-**顧客:** 来週の土曜日から2泊3日で予約をお願いしたいのですが。  <br>
-(raishuu no doyoubi kara nihaku mikkade yoyaku o onegai shitai no desu ga.)  <br>
-我想預約下週六開始，住兩晚三天。  <br>
-**I'd like to make a reservation for next Saturday, staying for 2 nights and 3 days.**  <br>
+**顧客:** 来週の土曜日から2泊で予約をお願いしたいのですが。  <br>
+(raishuu no doyoubi kara nihaku de yoyaku o onegai shitai no desu ga.)  <br>
+我想預約下週六開始，住兩晚。  <br>
+**I'd like to make a reservation for next Saturday, staying for two nights.**  <br>
 </div>  
 
 <div style="text-align: left">  
 
-**受付:** はい、承知しました。お部屋のタイプはどうされますか？  <br>
-(hai, shouchi shimashita. o-heya no taipu wa dou saremasu ka?)  <br>
+**受付:** かしこまりました。お部屋のタイプはどのようになさいますか？  <br>
+(kashikomarimashita. o-heya no taipu wa dono you ni nasaimasu ka?)  <br>
 好的，請問您需要什麼類型的房間？  <br>
 **I understand. What type of room would you like?**  <br>
 </div>  
@@ -227,8 +218,8 @@ image:
 
 <div style="text-align: left">  
 
-**受付:** はい、大浴場がございます。朝食は7時から9時までです。  <br>
-(hai, daiyokujou ga gozaimasu. choushoku wa shichiji kara kuji made desu.)  <br>
+**受付:** はい、大浴場がございます。朝食は7時から9時まででございます。  <br>
+(hai, daiyokujou ga gozaimasu. choushoku wa shichiji kara kuji made de gozaimasu.)  <br>
 是的，我們有大浴場。早餐時間是7點到9點。  <br>
 **Yes, we have a large public bath. Breakfast is served from 7 to 9 AM.**  <br>
 </div>  
@@ -236,31 +227,23 @@ image:
 
 <div style="text-align: right">  
 
-**顧客:** 大変ありがとうございます！  <br>
-(taihen arigatou gozaimasu!)  <br>
+**顧客:** ありがとうございます。助かりました。  <br>
+(arigatou gozaimasu. tasukarimashita.)  <br>
 太好了，謝謝！  <br>
 **Great, thank you!**  <br>
 </div>  
 
 <div style="text-align: left">  
 
-**受付:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
-不客氣。  <br>
-**You're welcome.**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**顧客:** ありがとうございます。  <br>
-(arigatou gozaimasu.)  <br>
-謝謝。  <br>
-**Thank you.**  <br>
+**受付:** かしこまりました。では、ご予約を承ります。  <br>
+(kashikomarimashita. dewa, go-yoyaku o uketamawarimasu.)  <br>
+好的，那我幫您確認並受理預約。  <br>
+**Certainly. We'll take your reservation.**  <br>
 </div>  
 
 ### 重點句型
 - ～から～で予約をお願いしたいのですが。(~kara ~de yoyaku o onegai shitai no desu ga) - 我想預約從...開始，住...
-- お部屋のタイプはどうされますか？(o-heya no taipu wa dou saremasu ka?) - 請問您需要什麼類型的房間？
+- お部屋のタイプはどのようになさいますか？(o-heya no taipu wa dono you ni nasaimasu ka?) - 請問您需要什麼類型的房間？
 - ～でございます。(~de gozaimasu) - 這裡是...
 
 ### 相關單字
@@ -322,7 +305,7 @@ image:
 <div style="text-align: right">  
 
 **通行人:** この道沿いに他のお店はありますか？  <br>
-(Kono michi-zoi ni hoka no o-ten wa arimasu ka?)  <br>
+(kono michizoi ni hoka no o-mise wa arimasu ka?)  <br>
 這條路上有其他商店嗎？  <br>
 **Are there other shops on this road?**  <br>
 </div>  
@@ -338,7 +321,7 @@ image:
 <div style="text-align: right">  
 
 **通行人:** 大変ありがとうございます！  <br>
-(taihen arigatou gozaimasu!)  <br>
+(arigatou gozaimasu!)  <br>
 太好了，謝謝！  <br>
 **Great, thank you!**  <br>
 </div>  
@@ -363,8 +346,8 @@ image:
 
 <div style="text-align: left">  
 
-**アナウンサー:** 今日の天気予報を確認しましょう。  <br>
-(kyou no tenki yohou o kakunin shimashou.)  <br>
+**アナウンサー:** それでは、今日の天気予報です。  <br>
+(sore dewa, kyou no tenki yohou desu.)  <br>
 讓我們來看看今天的天氣預報。  <br>
 **Let's check today's weather forecast.**  <br>
 </div>  
@@ -414,22 +397,14 @@ image:
 
 <div style="text-align: left">  
 
-**アナウンサー:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
-不客氣。  <br>
-**You're welcome.**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**視聴者:** ありがとうございます。  <br>
-(arigatou gozaimasu.)  <br>
-謝謝。  <br>
-**Thank you.**  <br>
+**アナウンサー:** お出かけの際はお気をつけください。  <br>
+(o-dekake no sai wa o-ki o tsukete kudasai.)  <br>
+外出時請多注意。  <br>
+**Please take care when you go out.**  <br>
 </div>  
 
 ### 重點句型
-- ～の天気予報を確認しましょう。(~no tenki yohou o kakunin shimashou) - 讓我們來看看...的天氣預報
+- 今日の天気予報です。(kyou no tenki yohou desu) - 今天的天氣預報是...
 - ～は～のち～、最高気温は～度です。(~wa ~nochi ~, saikou kion wa ~do desu) - ...是...轉...，最高気溫...度
 - お願いします。(onegai shimasu) - 麻煩您了
 
@@ -448,11 +423,11 @@ image:
 當你問「おすすめの料理はありますか？」的時候，這種問法不只是「有什麼推薦」，其實也是在向餐廳表達「我想試試你們的招牌菜」，這種對廚師的尊重，讓日本的用餐體驗特別有溫度。<br>
 結帳時說「ありがとうございます」，也不只是「謝謝」，其實也代表「謝謝你的服務，我吃得很開心」，這種對服務的感謝，讓日本的餐廳文化充滿了人情味。<br>
 
-在購物退換貨時，店員會問「レシートはお持ちですか？」，這種問法不只是「你有收據嗎」，其實也是為了確認購買記錄，確保可以順利辦理退換。<br>
+在購物退換貨時，店員會問「レシートはお持ちでしょうか？」，這種問法不只是「你有收據嗎」，其實也是為了確認購買記錄，確保可以順利辦理退換。<br>
 當你說「サイズが合わなかったので」的時候，這種清楚的說明，讓店員可以更快處理你的需求，這種對溝通的細膩，讓日本的購物服務特別專業。<br>
 退換貨政策通常是7天內有效，這種規定不只是「限制」，其實也是為了保護消費者和商家，讓雙方都有保障。<br>
 
-在預約旅館時，清楚地說「来週の土曜日から2泊3日で予約をお願いしたいのですが」，這種說法不只是「我要預約」，其實也包含了「時間、天數我都想好了，可以幫我安排嗎」的意思。<br>
+在預約旅館時，清楚地說「来週の土曜日から2泊で予約をお願いしたいのですが」，這種說法不只是「我要預約」，其實也包含了「時間、住宿天數我都想好了，可以幫我安排嗎」的意思。<br>
 當你問「大浴場はありますか？」的時候，這種對設施的詢問，讓旅館可以更準確地推薦適合的房間，這種對細節的在意，讓日本的旅館服務特別周到。<br>
 對旅館服務表示感謝，也不只是「禮貌」，其實也代表「謝謝你幫我安排好一切」，這種對服務的尊重，讓日本的旅館文化充滿了溫暖。<br>
 

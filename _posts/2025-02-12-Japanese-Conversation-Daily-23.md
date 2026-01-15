@@ -33,8 +33,8 @@ excerpt: 學習在日本百貨公司時常用的日語對話，包括尋找商�
 
 <div style="text-align: right">  
 
-**店員:** 3階にあります。  <br>
-(sankai ni arimasu.)  <br>
+**店員:** 3階にございます。  <br>
+(sankai ni gozaimasu.)  <br>
 在3樓。  <br>
 **It's on the 3rd floor.**  <br>
 </div>  
@@ -89,7 +89,7 @@ excerpt: 學習在日本百貨公司時常用的日語對話，包括尋找商�
 
 ### 重點句型
 - 婦人服は何階にありますか？(fujinfuku wa nankai ni arimasu ka?) - 女裝在幾樓？
-- 3階にあります。(sankai ni arimasu) - 在3樓
+- 3階にございます。(sankai ni gozaimasu) - 在3樓
 - エレベーターはどこにありますか？(erebeetaa wa doko ni arimasu ka?) - 電梯在哪裡？
 - 他におすすめの売場はありますか？(hoka ni osusume no uriba wa arimasu ka?) - 還有其他推薦的賣場嗎？
 - どういたしまして。(dou itashimashite) - 不客氣
@@ -123,8 +123,8 @@ excerpt: 學習在日本百貨公司時常用的日語對話，包括尋找商�
 
 <div style="text-align: right">  
 
-**店員:** 28,000円です。  <br>
-(niman hachi sen en desu.)  <br>
+**店員:** 28,000円でございます。  <br>
+(ni man hassen en de gozaimasu.)  <br>
 28,000日圓。  <br>
 **It's 28,000 yen.**  <br>
 </div>  
@@ -155,18 +155,17 @@ excerpt: 學習在日本百貨公司時常用的日語對話，包括尋找商�
 
 <div style="text-align: right">  
 
-**店員:** 申し訳ありませんが、現在は割引はございません。  <br>
-(moushiwake arimasen ga, genzai wa waribiki wa gozaimasen.)  <br>
+**店員:** 申し訳ございませんが、現在割引はございません。  <br>
+(moushiwake gozaimasen ga, genzai waribiki wa gozaimasen.)  <br>
 很抱歉，目前沒有折扣。  <br>
 **I'm sorry, but there are no discounts at the moment.**  <br>
 </div>
 
 ### 重點句型
 - このドレスはいくらですか？(kono doresu wa ikura desu ka?) - 這件洋裝多少錢？
-- 28,000円です。(niman hachi sen en desu) - 28,000日圓
+- 28,000円でございます。(ni man hassen en de gozaimasu) - 28,000日圓
 - 税込みですか？(zeikomi desu ka?) - 含稅嗎？
 - 割引はありますか？(waribiki wa arimasu ka?) - 有折扣嗎？
-- どういたしまして。(dou itashimashite) - 不客氣
 
 ### 相關單字
 - ドレス (doresu) - 洋裝
@@ -174,7 +173,6 @@ excerpt: 學習在日本百貨公司時常用的日語對話，包括尋找商�
 - 税込み (zeikomi) - 含稅
 - 税抜き (zeinuki) - 未稅
 - 割引 (waribiki) - 折扣
-- どういたしまして (dou itashimashite) - 不客氣
 
 ---
 
@@ -194,8 +192,8 @@ excerpt: 學習在日本百貨公司時常用的日語對話，包括尋找商�
 
 <div style="text-align: right">  
 
-**店員:** はい、試着室はこちらです。  <br>
-(hai, shichakushitsu wa kochira desu.)  <br>
+**店員:** はい、試着室はこちらでございます。  <br>
+(hai, shichakushitsu wa kochira de gozaimasu.)  <br>
 好的，試衣間在這裡。  <br>
 **Yes, the fitting room is this way.**  <br>
 </div>  
@@ -210,34 +208,18 @@ excerpt: 學習在日本百貨公司時常用的日語對話，包括尋找商�
 
 <div style="text-align: right">  
 
-**店員:** はい、お持ちいただければお試しいただけます。  <br>
-(hai, omochi itadakereba otameshi itadakemasu.)  <br>
-是的，如果您拿來的話可以試穿。  <br>
-**Yes, you can try them if you bring them.**  <br>
+**店員:** はい、別のサイズもご用意できますので、少々お待ちください。  <br>
+(hai, betsu no saizu mo go-youi dekimasu node, shoushou omachi kudasai.)  <br>
+好的，我們也可以幫您準備別的尺寸，請稍等。  <br>
+**Yes, we can prepare other sizes as well, so please wait a moment.**  <br>
 </div>  
 
-<div style="text-align: left">  
-
-**顧客:** 試着室はどこにありますか？  <br>
-(shichakushitsu wa doko ni arimasu ka?)  <br>
-試衣間在哪裡？  <br>
-**Where is the fitting room?**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**店員:** こちらの通路をまっすぐ進んで、左側にございます。  <br>
-(kochira no tsuuro o massugu susunde, hidarigawa ni gozaimasu.)  <br>
-沿著這條通道直走，左邊就是。  <br>
-**Go straight down this aisle, and it's on the left.**  <br>
-</div>
+ 
 
 ### 重點句型
 - このドレスを試着したいのですが。(kono doresu o shichaku shitai no desu ga) - 我想試穿這件洋裝
-- 試着室はこちらです。(shichakushitsu wa kochira desu) - 試衣間在這裡
+- 試着室はこちらでございます。(shichakushitsu wa kochira de gozaimasu) - 試衣間在這裡
 - 他のサイズも試着できますか？(hoka no saizu mo shichaku dekimasu ka?) - 可以試穿其他尺寸嗎？
-- 試着室はどこにありますか？(shichakushitsu wa doko ni arimasu ka?) - 試衣間在哪裡？
-- どういたしまして。(dou itashimashite) - 不客氣
 
 ### 相關單字
 - 試着 (shichaku) - 試穿
@@ -245,7 +227,6 @@ excerpt: 學習在日本百貨公司時常用的日語對話，包括尋找商�
 - サイズ (saizu) - 尺寸
 - 色 (iro) - 顏色
 - 素材 (sozai) - 材質
-- 通路 (tsuuro) - 通道
 - どういたしまして (dou itashimashite) - 不客氣
 
 ---
@@ -267,7 +248,7 @@ excerpt: 學習在日本百貨公司時常用的日語對話，包括尋找商�
 <div style="text-align: right">  
 
 **店員:** 合計で28,000円になります。  <br>
-(goukei de niman hachi sen en ni narimasu.)  <br>
+(goukei de ni man hassen en ni narimasu.)  <br>
 總共是28,000日圓。  <br>
 **That will be 28,000 yen in total.**  <br>
 </div>  
@@ -325,7 +306,6 @@ excerpt: 學習在日本百貨公司時常用的日語對話，包括尋找商�
 - 合計で～円になります。(goukei de ~en ni narimasu) - 總共是...日圓
 - カードで支払えますか？(kaado de shiharaemasu ka?) - 可以刷卡嗎？
 - 領収書をいただけますか？(ryoushuusho o itadakemasu ka?) - 可以給我收據嗎？
-- どういたしまして。(dou itashimashite) - 不客氣
 
 ### 相關單字
 - 会計 (kaikei) - 結帳
@@ -335,7 +315,6 @@ excerpt: 學習在日本百貨公司時常用的日語對話，包括尋找商�
 - 現金 (genkin) - 現金
 - 領収書 (ryoushuusho) - 收據
 - 電子マネー (denshi manee) - 電子錢包
-- どういたしまして (dou itashimashite) - 不客氣
 
 ---
 
@@ -387,8 +366,8 @@ excerpt: 學習在日本百貨公司時常用的日語對話，包括尋找商�
 
 <div style="text-align: right">  
 
-**店員:** はい、タグが付いていれば交換可能です。  <br>
-(hai, tagu ga tsuite ireba koukan kanou desu.)  <br>
+**店員:** はい、タグが付いていれば交換可能でございます。  <br>
+(hai, tagu ga tsuite ireba koukan kanou de gozaimasu.)  <br>
 是的，如果標籤還在的話可以換貨。  <br>
 **Yes, if the tag is still attached, an exchange is possible.**  <br>
 </div>  
@@ -422,7 +401,6 @@ excerpt: 學習在日本百貨公司時常用的日語對話，包括尋找商�
 - 可能 (kanou) - 可能
 - 期間 (kikan) - 期間
 - タグ (tagu) - 標籤
-- どういたしまして (dou itashimashite) - 不客氣
 
 ---
 
@@ -452,33 +430,33 @@ excerpt: 學習在日本百貨公司時常用的日語對話，包括尋找商�
 山田花子さんは、日本の百貨店文化に興味がある外国人留学生です。今日は日本の百貨店を訪れ、その文化を学びました。
 
 **日本の百貨店文化の特徴：**
-山田さんはスタッフに「日本の百貨店文化の特徴は何ですか？」と尋ねました。スタッフは「日本では、事前に商品を確認し、価格やサイズの選択ができます」と説明してくれました。
+山田さんはスタッフに「百貨店では、どんなサービスが受けられますか？」と尋ねました。スタッフは「フロアごとに売場が分かれていて、ご案内もできますし、試着やお会計、返品・交換のご相談も承っております」と説明してくれました。
 
 **商品選択について：**
-山田さんは「おすすめはありますか？」と伝えると、スタッフが丁寧に説明してくれました。山田さんは日本のサービスの細やかさに感心しました。
+山田さんが「おすすめはありますか？」と聞くと、スタッフは用途を確認した上で、いくつか商品を提案してくれました。山田さんは接客の丁寧さに感心しました。
 
 **料金システムについて：**
-山田さんは「お会計をお願いします」と尋ねると、スタッフは「合計で28,000円になります」と教えてもらいました。山田さんは日本の料金システムの明確さに感心しました。
+山田さんが「お会計をお願いします」と伝えると、スタッフは「合計で28,000円になります」と案内してくれました。表示や説明が分かりやすく、安心できたそうです。
 
-**サービスの過程と連絡：**
-山田さんは「このドレスを返品したいのですが」と尋ねると、スタッフは快く対応してくれました。また、サービス中にリラックスできることに感心しました。
+**返品・交換のルール：**
+山田さんが「このドレスを返品したいのですが」と相談すると、スタッフはレシートやタグの有無など、条件を丁寧に説明してくれました。ルールがはっきりしていて安心できたそうです。
 
 **支払いシステム：**
-山田さんは「クレジットカードで支払えますか？」と尋ねると、「はい、クレジットカードも電子マネーも使えます」と教えてもらいました。山田さんは日本の便利な支払いシステムに感心しました。
+山田さんが「クレジットカードで支払えますか？」と聞くと、「はい、クレジットカードも電子マネーも使えます」と案内されました。支払い方法が多様で便利だと感じたそうです。
 
 ### 文化のポイント
 
 **1. 事前確認の重要性**
-日本の百貨店では、事前に商品や料金を確認することで、スムーズにサービスを受けることができます。特に人気のある百貨店では、事前確認が推奨されます。
+百貨店はフロアごとに売場が分かれていることが多いので、案内板を見たり、スタッフに聞いたりするとスムーズです。
 
 **2. 商品の選択肢**
-日本の百貨店では、さまざまな商品を選ぶことができます。利用目的に応じて、最適な商品を選ぶことが大切です。
+用途や予算を伝えると、スタッフが候補を提案してくれることが多く、初めてでも選びやすいです。
 
 **3. 料金システムの明確さ**
-日本では、サービスごとに明確な料金が設定されており、事前に確認することができます。安心してサービスを受けるために、料金を確認することが重要です。
+値札表示が分かりやすく、税込みかどうかも確認できます。気になる場合は「税込みですか？」と聞くと安心です。
 
-**4. サービスの過程と連絡**
-日本では、サービスの過程や時間について事前に説明があり、終了後には連絡をもらうことができます。安心してサービスを受けることができます。
+**4. 返品・交換のルール**
+返品・交換には期限やタグの有無など条件があることが多いので、事前に確認しておくと安心です。
 
 **5. 支払い方法の多様性**
-日本の百貨店では、現金やクレジットカードなど、さまざまな支払い方法が利用できます。便利な支払い方法を選ぶことで、スムーズに手続きを進めることができます。 
+現金だけでなく、クレジットカードや電子マネーなどが使える場合が多いです。使える支払い方法は売場で確認できます。 

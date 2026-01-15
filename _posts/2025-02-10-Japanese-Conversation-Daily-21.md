@@ -81,10 +81,10 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 
 <div style="text-align: right">  
 
-**店員:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
-不客氣。  <br>
-**You're welcome.**  <br>
+**店員:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝您。  <br>
+**Thank you.**  <br>
 </div>
 
 ### 重點句型
@@ -92,7 +92,6 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 - 冷蔵コーナーの奥にあります。(reizou koonaa no oku ni arimasu) - 在冷藏區的裡面
 - 飲み物も同じ場所ですか？(nomimono mo onaji basho desu ka?) - 飲料也在同一個地方嗎？
 - 他におすすめの商品はありますか？(hoka ni osusume no shouhin wa arimasu ka?) - 還有其他推薦的商品嗎？
-- どういたしまして。(dou itashimashite) - 不客氣
 
 ### 相關單字
 - おにぎり (onigiri) - 飯糰
@@ -102,7 +101,6 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 - 棚 (tana) - 貨架
 - 飲み物 (nomimono) - 飲料
 - サンドイッチ (sandoicchi) - 三明治
-- どういたしまして (dou itashimashite) - 不客氣
 
 ---
 
@@ -170,10 +168,10 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 
 <div style="text-align: right">  
 
-**店員:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
-不客氣。  <br>
-**You're welcome.**  <br>
+**店員:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝您。  <br>
+**Thank you.**  <br>
 </div>
 
 ### 重點句型
@@ -181,7 +179,6 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 - 580円です。(gohyaku hachijuu en desu) - 580日圓
 - 税込みですか？(zeikomi desu ka?) - 含稅嗎？
 - 割引はありますか？(waribiki wa arimasu ka?) - 有折扣嗎？
-- どういたしまして。(dou itashimashite) - 不客氣
 
 ### 相關單字
 - お弁当 (obentou) - 便當
@@ -189,7 +186,6 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 - 税込み (zeikomi) - 含稅
 - 税抜き (zeinuki) - 未稅
 - 割引 (waribiki) - 折扣
-- どういたしまして (dou itashimashite) - 不客氣
 
 ---
 
@@ -257,10 +253,10 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 
 <div style="text-align: right">  
 
-**店員:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
-不客氣。  <br>
-**You're welcome.**  <br>
+**店員:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝您。  <br>
+**Thank you.**  <br>
 </div>
 
 ### 重點句型
@@ -268,7 +264,6 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 - こちらでお願いします。(kochira de onegai shimasu) - 請在這裡使用
 - 使い方を教えていただけますか？(tsukaikata o oshiete itadakemasu ka?) - 可以教我使用方法嗎？
 - その後はどうすればいいですか？(sono ato wa dou sureba ii desu ka?) - 之後該怎麼做？
-- どういたしまして。(dou itashimashite) - 不客氣
 
 ### 相關單字
 - コピー機 (kopiiki) - 影印機
@@ -278,7 +273,6 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 - 説明 (setsumei) - 說明
 - ボタン (botan) - 按鈕
 - 用紙 (youshi) - 紙張
-- どういたしまして (dou itashimashite) - 不客氣
 
 ---
 
@@ -331,7 +325,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 <div style="text-align: right">  
 
 **店員:** タッチをお願いします。……ありがとうございます。レシートはご利用ですか？  <br>
-(tacchi o onegai shimasu. ... arigatou gozaimasu. reshiito wa go riyou desu ka?)  <br>
+(tacchi o onegai shimasu. ... arigatou gozaimasu. reshiito wa hitsuyou desu ka?)  <br>
 請感應。……謝謝您。需要收據嗎？  <br>
 **Please touch the card reader. ... Thank you. Do you need a receipt?**  <br>
 </div>  
@@ -353,21 +347,19 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 </div>
 
 ### 重點句型
-- お弁当を温めてもらえますか？(obentou o atatamete moraemasu ka?) - 可以幫我加熱便當嗎？
 - レジ袋にお入れしますか？(rejibukuro ni oire shimasu ka?) - 需要裝塑膠袋嗎？
-- 大丈夫です。(daijoubu desu) - 不用了
-- 領収書をいただけますか？(ryoushuusho o itadakemasu ka?) - 可以給我收據嗎？
-- どういたしまして。(dou itashimashite) - 不客氣
+- お支払いはどうされますか？(oshiharai wa dou saremasu ka?) - 請問您要怎麼付款？
+- 交通系ICカードでお願いします。(koutsuu kei aishii kaado de onegai shimasu) - 我要用交通IC卡付款
+- レシートは必要ですか？(reshiito wa hitsuyou desu ka?) - 需要收據嗎？
 
 ### 相關單字
 - 会計 (kaikei) - 結帳
 - 合計 (goukei) - 總計
 - 支払い (shiharai) - 付款
-- カード (kaado) - 信用卡
+- 交通系ICカード (koutsuu kei aishii kaado) - 交通IC卡
 - 現金 (genkin) - 現金
 - 領収書 (ryoushuusho) - 收據
 - 電子マネー (denshi manee) - 電子錢包
-- どういたしまして (dou itashimashite) - 不客氣
 
 ---
 
@@ -404,7 +396,7 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 <div style="text-align: right">  
 
 **店員:** 申し訳ありませんが、生鮮食品は返品できません。  <br>
-(moushiwake arimasen ga, sensei shokuhin wa henpin dekimasen.)  <br>
+(moushiwake arimasen ga, seisen shokuhin wa henpin dekimasen.)  <br>
 抱歉，生鮮食品不能退貨。  <br>
 **I'm sorry, but we cannot accept returns on fresh food items.**  <br>
 </div>  
@@ -435,17 +427,16 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 
 <div style="text-align: right">  
 
-**店員:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
-不客氣。  <br>
-**You're welcome.**  <br>
+**店員:** ありがとうございます。  <br>
+(arigatou gozaimasu.)  <br>
+謝謝您。  <br>
+**Thank you.**  <br>
 </div>
 
 ### 重點句型
 - この商品を返品したいのですが。(kono shouhin o henpin shitai no desu ga) - 我想退這件商品
 - レシートをお持ちですか？(reshiito o omochi desu ka?) - 您有收據嗎？
 - 交換は可能ですか？(koukan wa kanou desu ka?) - 可以換貨嗎？
-- どういたしまして。(dou itashimashite) - 不客氣
 
 ### 相關單字
 - 返品 (henpin) - 退貨
@@ -455,7 +446,6 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 - 期間 (kikan) - 期間
 - 生鮮食品 (seisen shokuhin) - 生鮮食品
 - 未開封 (mikaifuu) - 未開封
-- どういたしまして (dou itashimashite) - 不客氣
 
 ---
 
@@ -463,19 +453,19 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 
 ### 小故事：田中さんのコンビニ体験
 
-田中太郎さんは、友人と一緒に日本のコンビニを訪れました。初めてのコンビニ体験に少し緊張していましたが、スタッフの親切な対応で安心しました。
+田中さんは、友人と一緒に日本のコンビニを訪れました。初めてのコンビニ体験に少し緊張していましたが、スタッフの親切な対応で安心しました。
 
 **商品探しの準備：**
 田中さんはおにぎりを探すために、スタッフに「おにぎりはどこにありますか？」と尋ねました。スタッフは「冷蔵コーナーの奥にあります」と教えてくれました。
 
-**価格の確認：**
-田中さんはお弁当を温めてもらうために、「お弁当を温めてもらえますか？」と尋ねました。スタッフは「温めますか？」と答えました。
+**温めのお願い：**
+田中さんはお弁当を温めてもらいたくて、「お弁当を温めてもらえますか？」と尋ねました。スタッフは「温めますか？」と確認しました。
 
 **サービスの利用：**
 田中さんはコピー機を使用するために、「コピー機を使いたいのですが」と尋ねました。スタッフは使用方法を丁寧に説明してくれました。
 
 **お会計：**
-楽しい一日が終わり、田中さんは「お会計をお願いします」と伝え、カードで支払いを済ませました。スタッフは「またのお越しをお待ちしております」と笑顔で送り出しました。
+楽しい一日が終わり、田中さんは「お会計をお願いします」と伝え、交通系ICカードで支払いを済ませました。スタッフは「またのお越しをお待ちしております」と笑顔で送り出しました。
 
 **返品の確認：**
 田中さんは「この商品を返品したいのですが」と尋ね、スタッフは返品条件を丁寧に説明してくれました。田中さんは日本のサービスの細やかさに感心しました。
@@ -490,14 +480,11 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 **商品選択について：**
 山田さんは「おすすめはありますか？」と伝えると、スタッフが丁寧に説明してくれました。山田さんは日本のサービスの細やかさに感心しました。
 
-**料金システムについて：**
-山田さんは「お会計をお願いします」と尋ねると、スタッフは「合計で1,280円になります」と教えてもらいました。山田さんは日本の料金システムの明確さに感心しました。
+**会計と支払い：**
+山田さんは会計時に「お支払いはどうされますか？」と聞かれることが多いと知りました。現金以外に交通系ICカードなどが使えるお店もあり、手早く支払える点が便利だと感じました。
 
-**サービスの過程と連絡：**
-山田さんは「この商品を返品したいのですが」と尋ねると、スタッフは快く対応してくれました。また、サービス中にリラックスできることに感心しました。
-
-**支払いシステム：**
-山田さんは「クレジットカードで支払えますか？」と尋ねると、「はい、クレジットカードも電子マネーも使えます」と教えてもらいました。山田さんは日本の便利な支払いシステムに感心しました。
+**返品・交換の扱い：**
+コンビニでは、生鮮食品などは返品できない場合があります。レシートの提示が必要になることもあるため、購入後はしばらく保管しておくと安心です。
 
 ### 文化のポイント
 
@@ -514,4 +501,4 @@ excerpt: 學習在日本便利商店時常用的日語對話，包括購買商�
 日本では、サービスの過程や時間について事前に説明があり、終了後には連絡をもらうことができます。安心してサービスを受けることができます。
 
 **5. 支払い方法の多様性**
-日本のコンビニでは、現金やクレジットカードなど、さまざまな支払い方法が利用できます。便利な支払い方法を選ぶことで、スムーズに手続きを進めることができます。 
+日本のコンビニでは、店舗によって利用できる支払い方法が異なる場合があります。会計前に確認すると安心です。 

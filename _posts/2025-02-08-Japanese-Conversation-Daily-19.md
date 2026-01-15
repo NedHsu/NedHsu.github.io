@@ -33,7 +33,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 
 <div style="text-align: right">  
 
-**櫃台人員:** 健康保険証をお持ちですか？  <br>
+**受付:** 健康保険証をお持ちですか？  <br>
 (kenkou hokenshou o omochi desu ka?)  <br>
 您有帶健保卡嗎？  <br>
 **Do you have your health insurance card?**  <br>
@@ -49,7 +49,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 
 <div style="text-align: right">  
 
-**櫃台人員:** 問診票のご記入もお願いします。  <br>
+**受付:** 問診票のご記入もお願いします。  <br>
 (monshinhyou no gokinyuu mo onegai shimasu.)  <br>
 請填寫問診表。  <br>
 **Please fill out this medical questionnaire.**  <br>
@@ -57,31 +57,39 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 
 <div style="text-align: left">  
 
-**患者:** 診察券は必要ですか？  <br>
-(shinsatsuken wa hitsuyou desu ka?)  <br>
-需要診察券嗎？  <br>
-**Do I need a consultation ticket?**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**櫃台人員:** はい、診察券をお作りします。  <br>
-(hai, shinsatsuken o otsukuri shimasu.)  <br>
-好的，我們會為您製作診察券。  <br>
-**Yes, we will make a consultation ticket for you.**  <br>
+**受付:** 診察券はお持ちですか？  <br>
+(shinsatsuken wa omochi desu ka?)  <br>
+請問您有診察券嗎？  <br>
+**Do you have your patient card?**  <br>
 </div>  
 
 <div style="text-align: left">  
 
-**患者:** どうぞよろしくお願いします。  <br>
-(douzo yoroshiku onegai shimasu.)  <br>
-那就麻煩您了。  <br>
-**Please go ahead.**  <br>
+**患者:** 初診なので、持っていません。  <br>
+(shoshin na no de, motte imasen.)  <br>
+我是初診，沒有。  <br>
+**It's my first visit, so I don't have one.**  <br>
 </div>  
 
 <div style="text-align: right">  
 
-**櫃台人員:** では、あちらの待合室でお待ちください。  <br>
+**受付:** かしこまりました。では、診察券をお作りします。  <br>
+(kashikomarimashita. dewa, shinsatsuken o otsukuri shimasu.)  <br>
+好的，那我幫您製作診察券。  <br>
+**Certainly. We'll make a patient card for you.**  <br>
+</div>  
+
+<div style="text-align: left">  
+
+**患者:** よろしくお願いします。  <br>
+(yoroshiku onegai shimasu.)  <br>
+麻煩您了。  <br>
+**Thank you.**  <br>
+</div>  
+
+<div style="text-align: right">  
+
+**受付:** では、あちらの待合室でお待ちください。  <br>
 (dewa, achira no machiaishitsu de omachi kudasai.)  <br>
 那麼，請在那邊的候診室稍候。  <br>
 **Please wait in the waiting room over there.**  <br>
@@ -117,7 +125,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 
 <div style="text-align: right">  
 
-**醫生:** いつから症状が出始めましたか？  <br>
+**医師:** いつから症状が出始めましたか？  <br>
 (itsu kara shoujou ga dehajimemashita ka?)  <br>
 症狀是什麼時候開始的？  <br>
 **When did the symptoms start?**  <br>
@@ -133,7 +141,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 
 <div style="text-align: right">  
 
-**醫生:** 他に症状はありますか？  <br>
+**医師:** 他に症状はありますか？  <br>
 (hoka ni shoujou wa arimasu ka?)  <br>
 還有其他症狀嗎？  <br>
 **Do you have any other symptoms?**  <br>
@@ -169,7 +177,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 
 <div style="text-align: right">  
 
-**醫生:** はい、血液検査をしましょう。  <br>
+**医師:** はい、血液検査をしましょう。  <br>
 (hai, ketsueki kensa o shimashou.)  <br>
 是的，我們來做血液檢查。  <br>
 **Yes, let's do a blood test.**  <br>
@@ -185,7 +193,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 
 <div style="text-align: right">  
 
-**醫生:** 検査結果は今日中に出ますので、少しお待ちください。  <br>
+**医師:** 検査結果は今日中に出ますので、少しお待ちください。  <br>
 (kensa kekka wa kyoujuu ni demasu node, sukoshi omachi kudasai.)  <br>
 檢查結果今天就會出來，請稍等一下。  <br>
 **The results will be ready today, so please wait a moment.**  <br>
@@ -221,7 +229,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 
 <div style="text-align: right">  
 
-**藥師:** はい、1日3回、食後に飲んでください。  <br>
+**薬剤師:** はい、1日3回、食後に飲んでください。  <br>
 (hai, ichinichi sankai, shokugo ni nonde kudasai.)  <br>
 好的，一天三次，飯後服用。  <br>
 **Yes, take it three times a day after meals.**  <br>
@@ -237,7 +245,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 
 <div style="text-align: right">  
 
-**藥師:** 眠気が出る場合がありますので、運転は控えてください。  <br>
+**薬剤師:** 眠気が出る場合がありますので、運転は控えてください。  <br>
 (nemuke ga deru baai ga arimasu node, unten wa hikaete kudasai.)  <br>
 可能會嗜睡，請避免開車。  <br>
 **You may feel drowsy, so please avoid driving.**  <br>
@@ -273,7 +281,7 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 
 <div style="text-align: right">  
 
-**櫃台人員:** 来週の月曜日はいかがですか？  <br>
+**受付:** 来週の月曜日はいかがですか？  <br>
 (raishuu no getsuyoubi wa ikaga desu ka?)  <br>
 下週一如何？  <br>
 **How about next Monday?**  <br>
@@ -289,9 +297,9 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 
 <div style="text-align: right">  
 
-**櫃台人員:** 10時からご案内できます。  <br>
-(juuji kara goannai dekimasu.)  <br>
-可以從10點開始。  <br>
+**受付:** 10時からでご案内できます。  <br>
+(juuji kara de goannai dekimasu.)  <br>
+可以安排10點。  <br>
 **We can see you from 10 o'clock.**  <br>
 </div>  
 
@@ -313,13 +321,13 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 
 ### 小故事：田中さんの病院体験
 
-田中太郎さんは、初めて日本の病院を訪れました。少し緊張していましたが、受付のスタッフの親切な対応で安心しました。
+田中さんは、初めて日本の病院を訪れました。少し緊張していましたが、受付のスタッフの親切な対応で安心しました。
 
 **受付の流れ：**
 田中さんは初診のため、受付で「初診ですが、受付をお願いします」と伝えました。スタッフは「健康保険証をお持ちですか？」と尋ね、田中さんは「はい、こちらです」と答えました。
 
 **問診票の記入：**
-田中さんは問診票を記入するように指示され、「診察券は必要ですか？」と尋ねました。スタッフは「はい、診察券をお作りします」と答えました。
+田中さんは問診票を記入するように指示され、受付から「診察券はお持ちですか？」と確認されました。初診なので持っていないことを伝えると、診察券を作ってもらえました。
 
 **診察の準備：**
 田中さんは診察を受けるために、待合室で待ちました。スタッフは「では、あちらの待合室でお待ちください」と案内しました。
@@ -340,14 +348,14 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 **診察の選択について：**
 山田さんは「おすすめの診察はありますか？」と伝えると、スタッフが丁寧に説明してくれました。山田さんは日本のサービスの細やかさに感心しました。
 
-**料金システムについて：**
-山田さんは「お会計をお願いします」と尋ねると、スタッフは「合計で1,280円になります」と教えてもらいました。山田さんは日本の料金システムの明確さに感心しました。
+**受付での確認：**
+山田さんは初診の受付で、保険証の提示や問診票の記入が必要なことを学びました。わからないことがあれば、受付で相談できると安心しました。
 
-**サービスの過程と連絡：**
-山田さんは「この診察をキャンセルしたいのですが」と尋ねると、スタッフは快く対応してくれました。また、サービス中にリラックスできることに感心しました。
+**診察券について：**
+山田さんは「診察券はお持ちですか？」と聞かれることがあると知りました。初診のときは作ってもらい、次回から持参します。
 
-**支払いシステム：**
-山田さんは「クレジットカードで支払えますか？」と尋ねると、「はい、クレジットカードも電子マネーも使えます」と教えてもらいました。山田さんは日本の便利な支払いシステムに感心しました。
+**薬の説明：**
+処方薬が出た場合、薬剤師から飲み方や注意点の説明があります。「眠気が出る場合がありますので、運転は控えてください」のように、安全面の案内も大切だと感じました。
 
 ### 文化のポイント
 
@@ -364,4 +372,4 @@ excerpt: 學習在日本醫院就診時常用的日語對話，包括掛號、�
 日本では、サービスの過程や時間について事前に説明があり、終了後には連絡をもらうことができます。安心してサービスを受けることができます。
 
 **5. 支払い方法の多様性**
-日本の病院では、現金やクレジットカードなど、さまざまな支払い方法が利用できます。便利な支払い方法を選ぶことで、スムーズに手続きを進めることができます。 
+日本の病院では、施設によって支払い方法が異なる場合があります。事前に受付で確認すると安心です。 

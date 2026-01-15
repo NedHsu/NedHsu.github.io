@@ -43,8 +43,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: left">  
 
-**銀行職員:** はい、承知しました。パスポートと在留カードをお願いします。  <br>
-(hai, shouchi shimashita. pasupooto to zairyuu kaado o onegai shimasu.)  <br>
+**銀行職員:** かしこまりました。パスポートと在留カードをお願いいたします。  <br>
+(kashikomarimashita. pasupooto to zairyuu kaado o onegai itashimasu.)  <br>
 好的，請出示您的護照和居留證。  <br>
 **I understand. May I see your passport and residence card, please?**  <br>
 </div>  
@@ -104,8 +104,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** この小包を台湾まで送りたいです。  <br>
-(kono kozutsumi o taiwan made okuritai desu.)  <br>
+**顧客:** この小包を台湾まで送りたいのですが。  <br>
+(kono kozutsumi o taiwan made okuritai no desu ga.)  <br>
 我想把這個包裹寄到台灣。  <br>
 **I'd like to send this package to Taiwan.**  <br>
 </div>  
@@ -114,8 +114,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: left">  
 
-**郵局職員:** はい、承知しました。住所を確認させていただきます。  <br>
-(hai, shouchi shimashita. juusho o kakunin sasete itadakimasu.)  <br>
+**郵局職員:** かしこまりました。住所を確認させていただきます。  <br>
+(kashikomarimashita. juusho o kakunin sasete itadakimasu.)  <br>
 好的，讓我確認一下地址。  <br>
 **I understand. Let me check the address.**  <br>
 </div>  
@@ -147,7 +147,7 @@ tags: [日語, Japanese, 日語對話]
 
 ### 重點句型
 - 何をお送りになりますか？(nani o o-okuri ni narimasu ka?) - 請問您要寄什麼？
-- ～まで送りたいです。(~made okuritai desu) - 我想寄到...
+- ～まで送りたいのですが。(~made okuritai no desu ga) - 我想寄到...
 - 住所を確認させていただきます。(juusho o kakunin sasete itadakimasu) - 讓我確認一下地址
 
 ### 相關單字
@@ -185,8 +185,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: left">  
 
-**美容師:** はい、承知しました。カラーチャートをご覧ください。  <br>
-(hai, shouchi shimashita. karaa chaato o go-ran kudasai.)  <br>
+**美容師:** かしこまりました。カラーチャートをご覧ください。  <br>
+(kashikomarimashita. karaa chaato o goran kudasai.)  <br>
 好的，請看顏色表。  <br>
 **I understand. Please look at the color chart.**  <br>
 </div>  
@@ -194,16 +194,16 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** 色はいい感じです。どれくらい時間がかかりますか？  <br>
-(Iro wa ī kanjidesu. Dorekurai jikan ga kakarimasu ka?)  <br>
+**顧客:** この色、いい感じですね。どれくらい時間がかかりますか？  <br>
+(kono iro, ii kanji desu ne. dorekurai jikan ga kakarimasu ka?)  <br>
 這個顏色看起來不錯。需要多長時間？  <br>
 **This color looks good. How long will it take?**  <br>
 </div>  
 
 <div style="text-align: left">  
 
-**美容師:** 約2時間です。  <br>
-(yaku ni jikan desu.)  <br>
+**美容師:** 2時間ほどです。  <br>
+(ni jikan hodo desu.)  <br>
 大約2小時。  <br>
 **About 2 hours.**  <br>
 </div>  
@@ -265,16 +265,16 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** この製品には何か特別な機能がありますか?  <br>
-(Kono seihin ni wa nanika tokubetsuna kinou ga arimasu ka?)  <br>
+**顧客:** この機種の特徴は何ですか？  <br>
+(kono kishu no tokuchou wa nan desu ka?)  <br>
 這款有什麼特別功能嗎？  <br>
 **Does this model have any special features?**  <br>
 </div>  
 
 <div style="text-align: left">  
 
-**店員:** はい、高解像度カメラと長時間電池があります。  <br>
-(hai, koukaizoudo kamera to choujikan denchi ga arimasu.)  <br>
+**店員:** はい、高解像度のカメラで、バッテリーも長持ちします。  <br>
+(hai, koukaizoudo no kamera de, batterii mo nagamochi shimasu.)  <br>
 是的，有高解析度相機和長效電池。  <br>
 **Yes, it has a high-resolution camera and long-lasting battery.**  <br>
 </div>  
@@ -336,8 +336,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**乘客:** おおよそどのくらい時間がかかりますか?  <br>
-(ooyoso dono kurai jikan ga kakarimasu ka?)  <br>
+**乘客:** だいたいどのくらい時間がかかりますか？  <br>
+(daitai dono kurai jikan ga kakarimasu ka?)  <br>
 大約需要多長時間？  <br>
 **How long will it take?**  <br>
 </div>  
@@ -374,7 +374,7 @@ tags: [日語, Japanese, 日語對話]
 
 ## 文化小知識
 
-在日本銀行開戶時，職員會說「パスポートと在留カードをお願いします」，這種要求不只是「要你的證件」，其實也是為了確認你的身份，確保帳戶安全。<br>
+在日本銀行開戶時，職員會說「パスポートと在留カードをお願いいたします」，這種要求不只是「要你的證件」，其實也是為了確認你的身份，確保帳戶安全。<br>
 當你問「手続きにはどのくらい時間がかかりますか？」的時候，這種對時間的詢問，讓你可以安排其他事情，這種對細節的在意，讓日本的銀行服務特別有效率。<br>
 開戶的過程通常需要30分鐘，這種對時間的說明，讓你知道大概要等多久，這種對顧客的體貼，讓日本的銀行服務特別專業。<br>
 
@@ -387,11 +387,11 @@ tags: [日語, Japanese, 日語對話]
 染髮的過程通常需要2小時，這種對時間的說明，讓你知道大概要等多久，這種對顧客的體貼，讓日本的美容服務特別細膩。<br>
 
 在電器行購買時，店員會說「こちらの最新モデルはいかがでしょうか？」，這種推薦不只是「介紹產品」，其實也是為了幫你找到最適合的商品。<br>
-當你問「この製品には何か特別な機能がありますか？」的時候，這種對功能的詢問，讓店員可以更準確地介紹，這種對溝通的細膩，讓日本的電器行服務特別專業。<br>
+當你問「この機種の特徴は何ですか？」的時候，這種對功能的詢問，讓店員可以更準確地介紹，這種對溝通的細膩，讓日本的電器行服務特別專業。<br>
 比較價格和功能是購買的關鍵，這種對商品的仔細比較，讓你可以選到最適合的商品，這種對消費的理性，讓日本的購物體驗特別有保障。<br>
 
 在計程車叫車時，司機會問「どちらまででしょうか？」，這種問法不只是「你要去哪裡」，其實也是為了確認目的地，確保可以準確載你到想去的地方。<br>
-當你問「おおよそどのくらい時間がかかりますか？」的時候，這種對時間的詢問，讓你可以安排後續行程，這種對細節的在意，讓日本的計程車服務特別貼心。<br>
+當你問「だいたいどのくらい時間がかかりますか？」的時候，這種對時間的詢問，讓你可以安排後續行程，這種對細節的在意，讓日本的計程車服務特別貼心。<br>
 對司機的服務表示感謝，也不只是「禮貌」，其實也代表「謝謝你安全載我到目的地」，這種對服務的尊重，讓日本的計程車文化充滿了人情味。<br>
 
 所以，當你在練習這些日常對話時，不妨順便想想：這些句子通常會在什麼場合出現？背後的那種「氣氛」是什麼？<br>

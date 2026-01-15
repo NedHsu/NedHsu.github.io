@@ -32,16 +32,16 @@ image:
 
 <div style="text-align: right">  
 
-**顧客:** このシャツのサイズを確認したいです。  <br>
-(kono shatsu no saizu o kakunin shitai desu.)  <br>
+**顧客:** このシャツのサイズを確認したいのですが。  <br>
+(kono shatsu no saizu o kakunin shitai no desu ga.)  <br>
 我想確認這件襯衫的尺寸。  <br>
 **I'd like to check the size of this shirt.**  <br>
 </div>  
 
 <div style="text-align: left">  
 
-**店員:** はい、サイズはこちらに表示されています。  <br>
-(hai, saizu wa kochira ni hyouji sarete imasu.)  <br>
+**店員:** はい、サイズはこちらに表示されております。  <br>
+(hai, saizu wa kochira ni hyouji sarete orimasu.)  <br>
 好的，尺寸標示在這裡。  <br>
 **Yes, the size is shown here.**  <br>
 </div>  
@@ -62,12 +62,10 @@ image:
 **It's on the right side in the back.**  <br>
 </div>  
 
-// Adding more details to the conversation
-
 <div style="text-align: right">  
 
-**顧客:** ありがとう。試着してみます。  <br>
-(Arigatō. Shichaku shite mimasu.)  <br>
+**顧客:** ありがとうございます。試着してみます。  <br>
+(arigatou gozaimasu. shichaku shite mimasu.)  <br>
 謝謝，我會去試穿。  <br>
 **Thank you, I'll try it on.**  <br>
 </div>  
@@ -145,8 +143,6 @@ image:
 **My name is Tanaka.**  <br>
 </div>  
 
-// Adding more details to the conversation
-
 <div style="text-align: left">  
 
 **A:** ありがとうございます。ご来店をお待ちしております。  <br>
@@ -219,13 +215,11 @@ image:
 **Is that so? We'd better bring an umbrella then.**  <br>
 </div>  
 
-// Adding more details to the conversation
-
 <div style="text-align: left">  
 
-**A:** そうですね。雨の日は気をつけてください。  <br>
-(sou desu ne. ame no hi wa ki o tsukete kudasai.)  <br>
-是啊。下雨天請小心。  <br>
+**A:** そうですね。雨の日は足元に気をつけてくださいね。  <br>
+(sou desu ne. ame no hi wa ashimoto ni ki o tsukete kudasai ne.)  <br>
+是啊。下雨天路滑，請小心腳下喔。  <br>
 **Yes, please be careful on rainy days.**  <br>
 </div>  
 
@@ -258,7 +252,7 @@ image:
 <div style="text-align: left">  
 
 **A:** おはようございます。どうされましたか？  <br>
-(ohayou gozaimasu. dou saremasu ka?)  <br>
+(ohayou gozaimasu. dou saremashita ka?)  <br>
 早安。請問您怎麼了？  <br>
 **Good morning. What seems to be the problem?**  <br>
 </div>  
@@ -277,9 +271,9 @@ image:
 
 <div style="text-align: left">  
 
-**A:** はい、承知しました。体温を測りましょう。  <br>
-(hai, shouchi shimashita. taion o hakari mashou.)  <br>
-好的，我明白了。讓我們來量體溫。  <br>
+**A:** わかりました。体温を測りましょう。  <br>
+(wakarimashita. taion o hakarimashou.)  <br>
+好的，我了解了。讓我們來量體溫。  <br>
 **I understand. Let's take your temperature.**  <br>
 </div>  
 
@@ -292,8 +286,6 @@ image:
 好的，麻煩您了。  <br>
 **Yes, please.**  <br>
 </div>  
-
-// Adding more details to the conversation
 
 <div style="text-align: left">  
 
@@ -312,10 +304,10 @@ image:
 </div>  
 
 ### 重點句型
-- どうされましたか？(dou saremasu ka?) - 您怎麼了？
+- どうされましたか？(dou saremashita ka?) - 您怎麼了？
 - ～から～があります。(~kara ~ga arimasu) - 從...開始有...
 - ～が痛いです。(~ga itai desu) - ...很痛
-- 承知しました。(shouchi shimashita) - 我明白了
+- わかりました。(wakarimashita) - 我了解了
 
 ### 相關單字
 - 熱 (netsu) - 發燒
@@ -342,8 +334,8 @@ image:
 
 <div style="text-align: right">  
 
-**顧客:** はい、予約をしています。山田と申します。  <br>
-(hai, yoyaku o shite imasu. yamada to moushimasu.)  <br>
+**顧客:** はい、予約しております。山田と申します。  <br>
+(hai, yoyaku o shite orimasu. yamada to moushimasu.)  <br>
 是的，我有預約。我姓山田。  <br>
 **Yes, I have a reservation. My name is Yamada.**  <br>
 </div>  
@@ -372,8 +364,8 @@ image:
 
 <div style="text-align: left">  
 
-**店員:** ありがとうございます。お部屋は1205号室です。  <br>
-(arigatou gozaimasu. o-heya wa sen nihyaku go gou shitsu desu.)  <br>
+**店員:** ありがとうございます。お部屋は1205号室でございます。  <br>
+(arigatou gozaimasu. o-heya wa sen nihyaku go gou shitsu de gozaimasu.)  <br>
 謝謝。您的房間是1205號房。  <br>
 **Thank you. Your room is 1205.**  <br>
 </div>  
@@ -408,7 +400,7 @@ image:
 
 ### 重點句型
 - チェックインでございますか？(chekku-in de gozaimasu ka?) - 是要辦理入住嗎？
-- 予約をしています。(yoyaku o shite imasu) - 我有預約
+- 予約しております。(yoyaku o shite orimasu) - 我有預約
 - ～をお願いします。(~o onegai shimasu) - 請給我...
 - ～は何時ですか？(~wa nanji desu ka?) - ...是幾點？
 
@@ -437,7 +429,7 @@ image:
 當你清楚地說「昨日から熱があって、のどが痛いです」的時候，你其實也在幫助醫生更快了解你的情況，這種對溝通的細膩，讓日本的醫療服務特別人性化。<br>
 
 在飯店辦理入住時，出示護照不只是「規定」，其實也是讓飯店確認你的身份，確保安全。<br>
-當店員說「お部屋は1205号室です」的時候，這種清楚的說明，讓你可以更快找到房間，這種對細節的在意，讓日本的飯店服務特別專業。<br>
+當店員說「お部屋は1205号室でございます」的時候，這種清楚的說明，讓你可以更快找到房間，這種對細節的在意，讓日本的飯店服務特別專業。<br>
 
 所以，當你在練習這些日常對話時，不妨順便想想：這些句子通常會在什麼場合出現？背後的那種「氣氛」是什麼？<br>
 如果你能在對的時機，用出對的對話，不只可以更順利地完成日常任務，也比較不會跟日本人的習慣「對不上頻率」。<br>

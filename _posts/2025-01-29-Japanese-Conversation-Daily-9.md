@@ -81,10 +81,10 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** 素晴らしいですね、検討させていただきます。  <br>
-(subarashii desu ne, kentou sasete itadakimasu.)  <br>
-太好了，我們會考慮的。  <br>
-**Great, we'll consider it.**  <br>
+**顧客:** いいですね。あとで頼むかもしれません。  <br>
+(ii desu ne. ato de tanomu kamo shiremasen.)  <br>
+太好了，我們等一下可能會點。  <br>
+**Sounds good. We might order it later.**  <br>
 </div>  
 
 ### 重點句型
@@ -108,7 +108,7 @@ tags: [日語, Japanese, 日語對話]
 <div style="text-align: left">  
 
 **店員:** ご注文はお決まりでしょうか？  <br>
-(go-chumon wa o-kimari deshou ka?)  <br>
+(go-chuumon wa o-kimari deshou ka?)  <br>
 請問您決定好要點什麼了嗎？  <br>
 **Have you decided what to order?**  <br>
 </div>  
@@ -150,10 +150,10 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** これらのおかずには何か特別なものがありますか？  <br>
-(korera no okazu ni wa nanika tokubetsu na mono ga arimasu ka?)  <br>
-這些配菜有什麼特別之處嗎？  <br>
-**Is there anything special about these side dishes?**  <br>
+**顧客:** サラダはどんな感じですか？  <br>
+(sarada wa donna kanji desu ka?)  <br>
+沙拉大概是什麼樣的？  <br>
+**What is the salad like?**  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -166,10 +166,10 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** いいですね、サラダを選びます。  <br>
-(ii desu ne, sarada o erabimasu.)  <br>
-太好了，我會選擇沙拉。  <br>
-**Great, I'll choose the salad.**  <br>
+**顧客:** じゃあ、サラダでお願いします。  <br>
+(jaa, sarada de onegai shimasu.)  <br>
+太好了，那我選沙拉。  <br>
+**Great, I'll have the salad.**  <br>
 </div>  
 
 ### 重點句型
@@ -193,7 +193,7 @@ tags: [日語, Japanese, 日語對話]
 <div style="text-align: left">  
 
 **顧客:** すみません。お水をください。  <br>
-(sumimasen. o-mizu o kudasai.)  <br>
+(sumimasen. omizu o kudasai.)  <br>
 不好意思，請給我水。  <br>
 **Excuse me. Could I have some water?**  <br>
 </div>  
@@ -218,10 +218,10 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**店員:** かしこまりました。お手拭きもお持ちしましょうか？  <br>
-(kashikomarimashita. o-tefuki mo o-mochi shimashou ka?)  <br>
-好的，要幫您拿濕紙巾嗎？  <br>
-**I understand. Would you like some wet towels as well?**  <br>
+**店員:** かしこまりました。おしぼりもお持ちしましょうか？  <br>
+(kashikomarimashita. oshibori mo omochi shimashou ka?)  <br>
+好的，也要幫您拿濕毛巾嗎？  <br>
+**Certainly. Would you like an oshibori (wet towel) as well?**  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -235,8 +235,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** ここではどんな銘柄のビールが提供されますか？  <br>
-(koko de wa donna meigara no biiru ga teikyou saremasu ka?)  <br>
+**顧客:** こちらは、どの銘柄のビールですか？  <br>
+(kochira wa, dono meigara no biiru desu ka?)  <br>
 這裡的啤酒是什麼品牌的？  <br>
 **What brand of beer do you serve here?**  <br>
 </div>  
@@ -251,8 +251,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** 素晴らしいです。このブランドが好きです。  <br>
-(subarashii desu. kono burando ga suki desu.)  <br>
+**顧客:** いいですね。キリン、好きです。  <br>
+(ii desu ne. kirin, suki desu.)  <br>
 太好了，我很喜歡這個品牌。  <br>
 **Great, I love this brand.**  <br>
 </div>  
@@ -264,7 +264,7 @@ tags: [日語, Japanese, 日語對話]
 
 ### 相關單字
 - 水 (mizu) - 水
-- お手拭き (o-tefuki) - 濕紙巾
+- おしぼり (oshibori) - 濕毛巾
 - 追加 (tsuika) - 加點
 - サービス (saabisu) - 服務
 - 呼び出し (yobidashi) - 呼叫
@@ -278,7 +278,7 @@ tags: [日語, Japanese, 日語對話]
 <div style="text-align: left">  
 
 **店員:** お会計は3,500円になります。  <br>
-(o-kaikei wa sanzen gohyaku en ni narimasu.)  <br>
+(okaikei wa sanzen gohyaku en ni narimasu.)  <br>
 總共是3,500日圓。  <br>
 **The total is 3,500 yen.**  <br>
 </div>  
@@ -287,18 +287,18 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** クレジットカードでお願いします。  <br>
-(kurejitto kaado de onegai shimasu.)  <br>
-請用信用卡付款。  <br>
-**I'll pay by credit card.**  <br>
+**顧客:** 現金でお願いします。5,000円で。  <br>
+(genkin de onegai shimasu. gosen en de.)  <br>
+請用現金付款。（給5000日圓）  <br>
+**I'll pay in cash. (With 5,000 yen.)**  <br>
 </div>  
 
 <div style="text-align: left">  
 
-**店員:** かしこまりました。領収書もお持ちしましょうか？  <br>
-(kashikomarimashita. ryoushuusho mo o-mochi shimashou ka?)  <br>
-好的，要幫您拿收據嗎？  <br>
-**I understand. Would you like a receipt?**  <br>
+**店員:** かしこまりました。領収書はご入用ですか？  <br>
+(kashikomarimashita. ryoushuusho wa go-iryou desu ka?)  <br>
+好的，請問需要收據嗎？  <br>
+**Certainly. Would you like a receipt?**  <br>
 </div>  
 
 <div style="text-align: right">  
@@ -320,8 +320,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** ここでは電子決済は受け付けられますか？  <br>
-(koko de wa denshi kessai wa uketsukeraremasu ka?)  <br>
+**顧客:** ちなみに、電子マネーやQRコード決済は使えますか？  <br>
+(chinami ni, denshi manee ya kyuuaaru koodo kessai wa tsukaemasu ka?)  <br>
 這裡可以使用電子支付嗎？  <br>
 **Can I use electronic payment here?**  <br>
 </div>  
@@ -389,7 +389,7 @@ tags: [日語, Japanese, 日語對話]
 <div style="text-align: right">  
 
 **店員:** ありがとうございます。お気をつけてお帰りください。  <br>
-(arigatou gozaimasu. o-ki o tsukete o-kaeri kudasai.)  <br>
+(arigatou gozaimasu. oki o tsukete okaeri kudasai.)  <br>
 謝謝。請小心慢走。  <br>
 **Thank you. Please take care on your way home.**  <br>
 </div>  
@@ -400,31 +400,6 @@ tags: [日語, Japanese, 日語對話]
 (shitsurei shimasu.)  <br>
 告辭了。  <br>
 **Goodbye.**  <br>
-</div>  
-
-
-<div style="text-align: right">  
-
-**顧客:** 次回は友達を連れて来ます。  <br>
-(jikai wa tomodachi o tsurete kimasu.)  <br>
-下次我會帶朋友來。  <br>
-**Next time, I'll bring my friends.**  <br>
-</div>  
-
-<div style="text-align: left">  
-
-**店員:** ありがとうございます。お待ちしております。  <br>
-(arigatou gozaimasu. omachi shite orimasu.)  <br>
-謝謝。我們會期待您的光臨。  <br>
-**Thank you. We look forward to it.**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**顧客:** さようなら！  <br>
-(sayounara!)  <br>
-再見！  <br>
-**Goodbye!**  <br>
 </div>  
 
 ### 重點句型
@@ -447,17 +422,17 @@ tags: [日語, Japanese, 日語對話]
 當你離開時說「ごちそうさまでした」，這句話也不只是「謝謝招待」，其實也代表「謝謝你準備這麼美味的料理，我吃得很開心」，這種對廚師和食物的感謝，讓日本的用餐文化充滿了溫暖和敬意。<br>
 
 點餐時，問「おすすめは何ですか？」，這種問法不只是「有什麼推薦」，其實也是在向服務生表達「我想試試你們的招牌菜，可以推薦嗎」，這種對服務生專業的信任，讓日本的點餐體驗特別有溫度。<br>
-當你問「これらのおかずには何か特別なものがありますか？」的時候，這種對食材的詢問，讓服務生可以更詳細地介紹，這種對食物的尊重，讓日本的用餐體驗特別細膩。<br>
+當你問「サラダはどんな感じですか？」的時候，這種對配菜的詢問，讓服務生可以更詳細地介紹，這種對食物的尊重，讓日本的用餐體驗特別細膩。<br>
 當你要求調整口味時，這種對個人喜好的表達，讓餐廳可以更貼心地服務，這種對顧客的體貼，讓日本的餐廳服務特別靈活。<br>
 
 在付款時，店員會說「お会計は3,500円になります」，這種清楚的說明，讓你知道總共多少錢，這種對價格的透明，讓日本的結帳體驗特別安心。<br>
-當你問「クレジットカードでお願いします」的時候，這種對付款方式的選擇，讓餐廳可以更快處理，這種對現代化的適應，讓日本的付款體驗特別便利。<br>
+當你說「現金でお願いします」的時候，這種對付款方式的選擇，讓餐廳可以更快處理，這種對溝通的清楚，讓日本的付款流程特別順暢。<br>
 有些餐廳只收現金，這種傳統的付款方式，其實也反映了日本對現金的重視，這種對傳統的堅持，讓日本的餐廳文化多了一層特色。<br>
-當你問「ここでは電子決済は受け付けられますか？」的時候，這種對電子支付的詢問，讓餐廳可以告訴你有哪些選項，這種對便利性的追求，讓日本的付款體驗特別靈活。<br>
+當你問「電子マネーやQRコード決済は使えますか？」的時候，這種對電子支付的詢問，讓餐廳可以告訴你有哪些選項，這種對便利性的追求，讓日本的付款體驗特別靈活。<br>
 
 在要求服務時，說「すみません。お水をください」，這種開場不只是「不好意思」，其實也是在向服務生表達「可以幫我一下嗎」，這種對服務的信任，讓日本的餐廳服務特別貼心。<br>
 當服務生說「かしこまりました」的時候，這種回應也不只是「好的」，其實也代表「我聽到了，馬上幫你處理」，這種對顧客需求的快速回應，讓日本的餐廳服務特別有效率。<br>
-當服務生主動問「お手拭きもお持ちしましょうか？」的時候，這種貼心的詢問，讓你可以更舒適地用餐，這種對顧客的體貼，讓日本的餐廳服務特別溫暖。<br>
+當服務生主動問「おしぼりもお持ちしましょうか？」的時候，這種貼心的詢問，讓你可以更舒適地用餐，這種對顧客的體貼，讓日本的餐廳服務特別溫暖。<br>
 
 在用餐時間的安排上，午餐時間通常比較短，這種安排不只是「效率」，其實也反映了日本上班族的生活節奏，這種對時間的重視，讓日本的午餐文化特別有效率。<br>
 晚餐時間通常比較長，這種悠長的用餐時間，讓你可以慢慢享用、慢慢聊天，這種對放鬆的追求，讓日本的晚餐文化特別悠閒。<br>

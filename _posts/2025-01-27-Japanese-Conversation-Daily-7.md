@@ -23,8 +23,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: left">  
 
-**餐廳接待員:** はい、レストラン「さくら」でございます。  <br>
-(hai, resutoran "sakura" de gozaimasu.)  <br>
+**餐廳接待員:** お電話ありがとうございます。レストラン「さくら」でございます。  <br>
+(o-denwa arigatou gozaimasu. resutoran "sakura" de gozaimasu.)  <br>
 您好，這裡是櫻花餐廳。  <br>
 **Hello, this is Sakura Restaurant.**  <br>
 </div>  
@@ -43,8 +43,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: left">  
 
-**餐廳接待員:** はい、承知しました。お名前をお願いします。  <br>
-(hai, shouchi shimashita. o-namae o onegai shimasu.)  <br>
+**餐廳接待員:** かしこまりました。お名前をお願いします。  <br>
+(kashikomarimashita. o-namae o onegai shimasu.)  <br>
 好的，請告訴我您的姓名。  <br>
 **I understand. May I have your name, please?**  <br>
 </div>  
@@ -52,16 +52,16 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**顧客:** 私は田中です。窓際の席があればお願いします。  <br>
-(watashi wa tanaka desu. madogiwa no seki ga areba onegai shimasu.)  <br>
+**顧客:** 田中と申します。可能でしたら、窓際の席をお願いできますでしょうか。  <br>
+(tanaka to moushimasu. kanou deshitara, madogiwa no seki o onegai dekimasu deshou ka.)  <br>
 我姓田中。如果有靠窗的座位，請安排。  <br>
 **My name is Tanaka. If there's a window seat available, please arrange it.**  <br>
 </div>  
 
 <div style="text-align: left">  
 
-**餐廳接待員:** かしこまりました。窓際の席を確保いたします。  <br>
-(kashikomarimashita. madogiwa no seki o kakuho itashimasu.)  <br>
+**餐廳接待員:** かしこまりました。可能な限り、窓際のお席をご用意いたします。  <br>
+(kashikomarimashita. kanou na kagiri, madogiwa no o-seki o go-youi itashimasu.)  <br>
 好的，我們會為您保留靠窗的座位。  <br>
 **Understood. We'll reserve a window seat for you.**  <br>
 </div>  
@@ -114,8 +114,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: left">  
 
-**店員:** はい、承知しました。レシートはお持ちですか？  <br>
-(hai, shouchi shimashita. reshiito wa o-mochi desu ka?)  <br>
+**店員:** かしこまりました。レシートはお持ちでしょうか？  <br>
+(kashikomarimashita. reshiito wa o-mochi deshou ka?)  <br>
 好的，請問您有收據嗎？  <br>
 **I understand. Do you have the receipt?**  <br>
 </div>  
@@ -131,8 +131,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: left">  
 
-**店員:** 申し訳ありません。すぐに確認いたします。  <br>
-(moushiwake arimasen. sugu ni kakunin itashimasu.)  <br>
+**店員:** 申し訳ございません。すぐに確認いたします。  <br>
+(moushiwake gozaimasen. sugu ni kakunin itashimasu.)  <br>
 非常抱歉，我會立即確認。  <br>
 **I'm sorry. I'll check it right away.**  <br>
 </div>  
@@ -175,8 +175,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**房客:** はい、予約をしています。山田と申します。  <br>
-(hai, yoyaku o shite imasu. yamada to moushimasu.)  <br>
+**房客:** はい、予約しております。山田と申します。  <br>
+(hai, yoyaku o shite orimasu. yamada to moushimasu.)  <br>
 是的，我有預約。我姓山田。  <br>
 **Yes, I have a reservation. My name is Yamada.**  <br>
 </div>  
@@ -185,8 +185,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: left">  
 
-**櫃檯人員:** 山田様ですね。パスポートをお願いします。  <br>
-(yamada sama desu ne. pasupooto o onegai shimasu.)  <br>
+**櫃檯人員:** 山田様ですね。パスポートをお願いいたします。  <br>
+(yamada sama desu ne. pasupooto o onegai itashimasu.)  <br>
 是山田先生/女士對吧。請出示您的護照。  <br>
 **Mr./Ms. Yamada, right? May I see your passport, please?**  <br>
 </div>  
@@ -194,8 +194,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: right">  
 
-**房客:** こちらです。部屋は禁煙でお願いします。  <br>
-(kochira desu. heya wa kin'en de onegai shimasu.)  <br>
+**房客:** こちらです。禁煙のお部屋をお願いできますでしょうか。  <br>
+(kochira desu. kin'en no o-heya o onegai dekimasu deshou ka.)  <br>
 這是我的護照。請給我禁煙房。  <br>
 **Here it is. I'd like a non-smoking room, please.**  <br>
 </div>  
@@ -218,7 +218,7 @@ tags: [日語, Japanese, 日語對話]
 
 ### 重點句型
 - チェックインでございますか？(chekku-in de gozaimasu ka?) - 是要辦理入住嗎？
-- 予約をしています。(yoyaku o shite imasu) - 我有預約
+- 予約しております。(yoyaku o shite orimasu) - 我有預約
 - ～と申します。(~to moushimasu) - 我姓...
 
 ### 相關單字
@@ -266,7 +266,7 @@ tags: [日語, Japanese, 日語對話]
 <div style="text-align: right">  
 
 **路人:** この道沿いに他のお店はありますか？  <br>
-(Kono michi-zoi ni hoka no o-ten wa arimasu ka?)  <br>
+(kono michizoi ni hoka no o-mise wa arimasu ka?)  <br>
 這條路上有其他商店嗎？  <br>
 **Are there other shops on this road?**  <br>
 </div>  
@@ -307,8 +307,8 @@ tags: [日語, Japanese, 日語對話]
 
 <div style="text-align: left">  
 
-**氣象播報員:** 今日の天気予報を確認しましょう。  <br>
-(kyou no tenki yohou o kakunin shimashou.)  <br>
+**氣象播報員:** それでは、今日の天気予報です。  <br>
+(sore dewa, kyou no tenki yohou desu.)  <br>
 讓我們來看看今天的天氣預報。  <br>
 **Let's check today's weather forecast.**  <br>
 </div>  
@@ -359,7 +359,7 @@ tags: [日語, Japanese, 日語對話]
 </div>  
 
 ### 重點句型
-- ～の天気予報を確認しましょう。(~no tenki yohou o kakunin shimashou) - 讓我們來看看...的天氣預報
+- 今日の天気予報です。(kyou no tenki yohou desu) - 今天的天氣預報是...
 - ～は～のち～、最高気温は～度です。(~wa ~nochi ~, saikou kion wa ~do desu) - ...是...轉...，最高氣溫...度
 - お願いします。(onegai shimasu) - 麻煩您了
 
@@ -378,12 +378,12 @@ tags: [日語, Japanese, 日語對話]
 當你清楚地說「今晩7時、4名様で予約をお願いしたいのですが」的時候，這種對時間和人數的說明，讓餐廳可以更準確地安排，這種對細節的在意，讓日本的餐廳服務特別專業。<br>
 當你問「窓際の席があればお願いします」的時候，這種對座位的要求，讓餐廳可以提前準備，這種對顧客需求的體貼，讓日本的餐廳服務特別周到。<br>
 
-在購物退換貨時，店員會問「レシートはお持ちですか？」，這種問法不只是「你有收據嗎」，其實也是為了確認購買記錄，確保可以順利辦理退換。<br>
+在購物退換貨時，店員會問「レシートはお持ちでしょうか？」，這種問法不只是「你有收據嗎」，其實也是為了確認購買記錄，確保可以順利辦理退換。<br>
 當你清楚地說「商品に不具合があります」的時候，這種對問題的描述，讓店員可以更快處理你的需求，這種對溝通的細膩，讓日本的購物服務特別專業。<br>
 退換貨政策通常是7天內有效，這種規定不只是「限制」，其實也是為了保護消費者和商家，讓雙方都有保障。<br>
 
-在旅館入住時，櫃檯人員會說「パスポートをお願いします」，這種要求不只是「要你的護照」，其實也是為了確認身份，確保安全。<br>
-當你問「部屋は禁煙でお願いします」的時候，這種對房間類型的要求，讓旅館可以提前準備，這種對顧客需求的體貼，讓日本的旅館服務特別周到。<br>
+在旅館入住時，櫃檯人員會說「パスポートをお願いいたします」，這種要求不只是「要你的護照」，其實也是為了確認身份，確保安全。<br>
+當你問「禁煙のお部屋をお願いできますでしょうか」的時候，這種對房間類型的要求，讓旅館可以提前準備，這種對顧客需求的體貼，讓日本的旅館服務特別周到。<br>
 入住時間的準時性，不只是「規定」，其實也反映了日本人對時間的重視，這種對時間的尊重，讓日本的服務特別有效率。<br>
 
 在問路時，禮貌地說「すみません、この近くにコンビニはありますか？」，這種開場不只是「不好意思」，其實也是在向對方表達「打擾你了，但可以幫我一下嗎」的意思。<br>

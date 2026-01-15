@@ -33,8 +33,8 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 
 <div style="text-align: right">  
 
-**顧客:** はい、このシャツのサイズを確認したいです。  <br>
-(hai, kono shatsu no saizu o kakunin shitai desu.)  <br>
+**顧客:** はい、このシャツのサイズを確認したいのですが。  <br>
+(hai, kono shatsu no saizu o kakunin shitai no desu ga.)  <br>
 是的，我想確認這件襯衫的尺寸。  <br>
 **Yes, I'd like to check the size of this shirt.**  <br>
 </div>  
@@ -67,7 +67,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 <div style="text-align: right">  
 
 **顧客:** このシャツは他の素材でも入手可能でしょうか?  <br>
-(kono shatsu wa hoka no sozai de mo nyuushu kanou deshou ka?)  <br>
+(kono shatsu wa hoka no sozai mo arimasu ka?)  <br>
 這件襯衫有其他材質嗎？  <br>
 **Does this shirt come in other materials?**  <br>
 </div>  
@@ -109,7 +109,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 <div style="text-align: left">  
 
 **店員:** 試着室はこちらです。  <br>
-(shichaku-shitsu wa kochira desu.)  <br>
+(shichakushitsu wa kochira desu.)  <br>
 試衣間在這邊。  <br>
 **The fitting room is this way.**  <br>
 </div>  
@@ -160,7 +160,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 <div style="text-align: left">  
 
 **店員:** いいえ、色落ちしにくいです。  <br>
-(iie, irochishinikui desu.)  <br>
+(iie, iroochi shi nikui desu.)  <br>
 不，這個顏色不容易褪色。  <br>
 **No, it doesn't fade easily.**  <br>
 </div>  
@@ -174,12 +174,12 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 </div>  
 
 ### 重點句型
-- 試着室はこちらです。(shichaku-shitsu wa kochira desu) - 試衣間在這邊
+- 試着室はこちらです。(shichakushitsu wa kochira desu) - 試衣間在這邊
 - このサイズで合いますか？(kono saizu de aimasu ka?) - 這個尺寸合適嗎？
 - ～を試着してもいいですか？(~o shichaku shite mo ii desu ka?) - 可以試穿...嗎？
 
 ### 相關單字
-- 試着室 (shichaku-shitsu) - 試衣間
+- 試着室 (shichakushitsu) - 試衣間
 - 合う (au) - 合適
 - 大きい (ookii) - 大
 - 小さい (chiisai) - 小
@@ -194,7 +194,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 <div style="text-align: left">  
 
 **店員:** この商品はセール中で、20%オフです。  <br>
-(kono shouhin wa seeru-chuu de, nijuu paasento ofu desu.)  <br>
+(kono shouhin wa seeru chuu de, nijuu paasento ofu desu.)  <br>
 這件商品正在特價，打八折。  <br>
 **This item is on sale, 20% off.**  <br>
 </div>  
@@ -220,7 +220,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 <div style="text-align: right">  
 
 **顧客:** クレジットカードで支払えますか？  <br>
-(kurejitto kaado de shiharaiemasu ka?)  <br>
+(kurejitto kaado de shiharaemasu ka?)  <br>
 可以用信用卡付款嗎？  <br>
 **Can I pay by credit card?**  <br>
 </div>  
@@ -259,7 +259,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 </div>  
 
 ### 重點句型
-- セール中です。(seeru-chuu desu) - 正在特價
+- セール中です。(seeru chuu desu) - 正在特價
 - 税込みの価格はいくらですか？(zeikomi no kakaku wa ikura desu ka?) - 含稅價格是多少？
 - ～%オフです。(~paasento ofu desu) - 打...折
 
@@ -296,8 +296,8 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 
 <div style="text-align: left">  
 
-**顧客:** はい、こちらです。購入から3日目です。  <br>
-(hai, kochira desu. kounyuu kara mikka me desu.)  <br>
+**顧客:** はい、こちらです。購入してから3日です。  <br>
+(hai, kochira desu. kounyuu shite kara mikka desu.)  <br>
 是的，這是收據。購買後第三天。  <br>
 **Yes, here it is. It's been 3 days since purchase.**  <br>
 </div>  
@@ -382,7 +382,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 <div style="text-align: right">  
 
 **店員:** かしこまりました。包装紙のデザインをお選びください。  <br>
-(kashikomarimashita. housou-shi no dezain o o-erabi kudasai.)  <br>
+(kashikomarimashita. housoushi no dezain o oerabi kudasai.)  <br>
 好的，請選擇包裝紙的設計。  <br>
 **I understand. Please choose a wrapping paper design.**  <br>
 </div>  
@@ -414,10 +414,10 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 
 <div style="text-align: right">  
 
-**店員:** 配送も承りますか？  <br>
-(haisou mo uketamawarimasu ka?)  <br>
-需要配送服務嗎？  <br>
-**Would you like delivery service as well?**  <br>
+**店員:** 配送も承れますが、いかがなさいますか？  <br>
+(haisou mo uketama waremasu ga, ikaga nasaimasu ka?)  <br>
+也可以幫您配送，需要嗎？  <br>
+**We can also arrange delivery. Would you like that?**  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -466,7 +466,7 @@ excerpt: 學習在日本購物時常用的日語對話，包括詢問商品、�
 離開時說「ありがとうございました」，也不只是「謝謝」，其實也代表「謝謝你今天的一切，我買得很開心」，這種對服務的感謝，讓日本的購物文化充滿了人情味。<br>
 
 在退換貨時，店員會問「レシートはお持ちですか？」，這種問法不只是「你有收據嗎」，其實也是為了確認購買記錄，確保可以順利辦理退換。<br>
-當你清楚地說「購入から3日目です」「未使用の状態です」的時候，這種對時間和狀態的說明，讓店員可以更快處理你的需求，這種對溝通的細膩，讓日本的退換貨服務特別專業。<br>
+當你清楚地說「購入してから3日です」「未使用の状態です」的時候，這種對時間和狀態的說明，讓店員可以更快處理你的需求，這種對溝通的細膩，讓日本的退換貨服務特別專業。<br>
 退換貨政策通常是7天內有效，這種規定不只是「限制」，其實也是為了保護消費者和商家，讓雙方都有保障。<br>
 當店員說「返品は可能です。返金をご希望ですか？」的時候，這種清楚的選項，讓你可以選擇退款或換貨，這種對顧客的體貼，讓日本的退換貨服務特別周到。<br>
 

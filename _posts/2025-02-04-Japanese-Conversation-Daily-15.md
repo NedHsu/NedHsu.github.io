@@ -49,10 +49,10 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 
 <div style="text-align: right">  
 
-**郵局職員:** ありがとうございます。料金は1500円になります。  <br>
+**郵局職員:** ありがとうございます。料金は1,500円になります。  <br>
 (arigatou gozaimasu. ryoukin wa sen gohyaku en ni narimasu.)  <br>
-謝謝您。費用是1500日圓。  <br>
-**Thank you. That will be 1500 yen.**  <br>
+謝謝您。費用是1,500日圓。  <br>
+**Thank you. That will be 1,500 yen.**  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -81,8 +81,8 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 
 <div style="text-align: right">  
 
-**郵局職員:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
+**郵局職員:** かしこまりました。  <br>
+(kashikomarimashita.)  <br>
 不客氣。  <br>
 **You're welcome.**  <br>
 </div>
@@ -165,8 +165,8 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 
 <div style="text-align: right">  
 
-**郵局職員:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
+**郵局職員:** かしこまりました。  <br>
+(kashikomarimashita.)  <br>
 不客氣。  <br>
 **You're welcome.**  <br>
 </div>
@@ -233,8 +233,8 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 
 <div style="text-align: right">  
 
-**郵局職員:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
+**郵局職員:** かしこまりました。  <br>
+(kashikomarimashita.)  <br>
 不客氣。  <br>
 **You're welcome.**  <br>
 </div>
@@ -269,8 +269,8 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 
 <div style="text-align: right">  
 
-**郵局職員:** 追跡番号をお願いします。  <br>
-(tsuiseki bangou o onegai shimasu.)  <br>
+**郵局職員:** 追跡番号をお願いいたします。  <br>
+(tsuiseki bangou o onegai itashimasu.)  <br>
 請給我追蹤號碼。  <br>
 **Please give me the tracking number.**  <br>
 </div>  
@@ -285,8 +285,8 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 
 <div style="text-align: right">  
 
-**郵局職員:** 確認いたします。……現在、配送中です。  <br>
-(kakunin itashimasu. ... genzai, haisouchuu desu.)  <br>
+**郵局職員:** 確認いたします。……現在、配達中です。  <br>
+(kakunin itashimasu. ... genzai, haitatsuchuu desu.)  <br>
 我確認一下……目前正在配送中。  <br>
 **Let me check... It is currently out for delivery.**  <br>
 </div>  
@@ -301,15 +301,15 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 
 <div style="text-align: right">  
 
-**郵局職員:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
+**郵局職員:** かしこまりました。  <br>
+(kashikomarimashita.)  <br>
 不客氣。  <br>
 **You're welcome.**  <br>
 </div>
 
 ### 重點句型
 - 荷物の配送状況を確認したいのですが。(nimotsu no haisou joukyou o kakunin shitai no desu ga) - 我想確認包裹的配送狀況
-- 追跡番号をお願いします。(tsuiseki bangou o onegai shimasu) - 請給我追蹤號碼
+- 追跡番号をお願いいたします。(tsuiseki bangou o onegai itashimasu) - 請給我追蹤號碼
 - いつ届きますか？(itsu todokimasu ka?) - 什麼時候會送到？
 
 ### 相關單字
@@ -338,7 +338,7 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 <div style="text-align: right">  
 
 **郵局職員:** 身分証明書をお願いします。  <br>
-(mibun shoumeisho o onegai shimasu.)  <br>
+(mibun shoumeisho o onegai itashimasu.)  <br>
 請出示身分證明文件。  <br>
 **Please show your ID.**  <br>
 </div>  
@@ -385,8 +385,8 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 
 <div style="text-align: right">  
 
-**郵局職員:** どういたしまして。  <br>
-(dou itashimashite.)  <br>
+**郵局職員:** かしこまりました。  <br>
+(kashikomarimashita.)  <br>
 不客氣。  <br>
 **You're welcome.**  <br>
 </div>
@@ -421,10 +421,10 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 田中さんは郵便貯金の口座を開設したくて、「郵便貯金の口座を開設したいです」と伝え、職員は「身分証明書をお願いします」と対応しました。
 
 **郵便物の追跡：**
-田中さんは郵便物の追跡をしたくて、「荷物の追跡番号を教えていただけますか？」と尋ね、職員は追跡番号を教えてくれました。
+田中さんは郵便物の追跡をしたくて、「荷物の配送状況を確認したいのですが」と伝え、職員に「追跡番号をお願いいたします」と案内されました。
 
-**郵便局での支払い：**
-田中さんは郵便局での支払いをしたくて、「お会計をお願いします」と伝え、職員は合計金額を教えてくれました。
+**料金の確認：**
+田中さんは料金を確認したくて、「料金はいくらですか？」と尋ね、職員に「1,500円になります」と教えてもらいました。
 
 ### 小故事：山田さんの郵便局文化体験
 
@@ -437,13 +437,10 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 山田さんは「おすすめの郵便物はありますか？」と伝えると、職員が丁寧に説明してくれました。山田さんは日本のサービスの細やかさに感心しました。
 
 **料金システムについて：**
-山田さんは「お会計をお願いします」と尋ねると、職員は「合計で250円になります」と教えてもらいました。山田さんは日本の料金システムの明確さに感心しました。
+山田さんは「全部でいくらになりますか？」と尋ねると、職員は「全部で250円になります」と教えてくれました。山田さんは日本の料金表示の明確さに感心しました。
 
-**サービスの過程と連絡：**
-山田さんは「この郵便物をキャンセルしたいのですが」と尋ねると、職員は快く対応してくれました。また、サービス中にリラックスできることに感心しました。
-
-**支払いシステム：**
-山田さんは「クレジットカードで支払えますか？」と尋ねると、「はい、クレジットカードも電子マネーも使えます」と教えてもらいました。山田さんは日本の便利な支払いシステムに感心しました。
+**サービスの過程と確認：**
+山田さんは「いつ届きますか？」と尋ねると、職員が「通常は2日ほどで届きます」と教えてくれました。必要に応じて追跡番号で状況確認できることも案内され、安心できました。
 
 ### 文化のポイント
 
@@ -460,4 +457,4 @@ excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄�
 日本では、サービスの過程や時間について事前に説明があり、終了後には連絡をもらうことができます。安心してサービスを受けることができます。
 
 **5. 支払い方法の多様性**
-日本の郵便局では、現金やクレジットカードなど、さまざまな支払い方法が利用できます。便利な支払い方法を選ぶことで、スムーズに手続きを進めることができます。 
+日本の郵便局では、窓口や手続き内容によって利用できる支払い方法が異なる場合があります。事前に「支払い方法は何が使えますか？」と確認すると安心です。 
