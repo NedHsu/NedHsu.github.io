@@ -4,6 +4,8 @@ date: 2025-04-23 19:00:00 +0800
 categories: [Language, Japanese]
 tags: [日語, Japanese, 日語單字, 運動, Sports, 健身, Fitness] 
 excerpt: 學習日語中運動與健身相關的表達方式，包括運動項目、健身設施、運動動作、運動競賽與健身對話。
+image:
+  path: /assets/img/jp/2025-04-23-Japanese-Sports-Fitness-Sports-Activities-Fitness-Terms/運動項目.webp
 ---
 
 ## 課程預覽
@@ -19,7 +21,6 @@ excerpt: 學習日語中運動與健身相關的表達方式，包括運動項�
 
 ## 情境 1: 運動項目
 
-![運動項目](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&crop=center)
 <!-- Image Prompt: Japanese sports activities and athletic events diagram - various sports with Japanese labels (サッカー, バスケットボール, テニス, 野球, 水泳, サーフィン, ダイビング, ヨット, 柔道, 空手, 剣道, 相撲), clean sports activity layout, educational diagram style, no text overlays, only sports labels positioned at corresponding athletic activities and sports equipment -->
 
 ### 球類運動
@@ -115,7 +116,7 @@ excerpt: 學習日語中運動與健身相關的表達方式，包括運動項�
 
 ## 情境 2: 健身設施
 
-![健身設施](https://images.unsplash.com/photo-1557683316-973673baf926?w=800&h=400&fit=crop&crop=center)
+![健身設施](/assets/img/jp/2025-04-23-Japanese-Sports-Fitness-Sports-Activities-Fitness-Terms/健身設施.webp)
 <!-- Image Prompt: Japanese fitness facilities and gym equipment diagram - gym facilities and fitness equipment with Japanese labels (ジム, フィットネスクラブ, プール, 体育館, トレーニングマシン, ダンベル, ランニングマシン, エアロバイク, グラウンド, コート, トラック, フィールド), clean fitness facility layout, educational diagram style, no text overlays, only fitness facility labels positioned at corresponding gym equipment and sports venues -->
 
 ### 健身場所
@@ -211,7 +212,7 @@ excerpt: 學習日語中運動與健身相關的表達方式，包括運動項�
 
 ## 情境 3: 運動動作
 
-![運動動作](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&crop=center)
+![運動動作](/assets/img/jp/2025-04-23-Japanese-Sports-Fitness-Sports-Activities-Fitness-Terms/運動動作.webp)
 <!-- Image Prompt: Japanese sports movements and exercise actions diagram - physical activities and exercise movements with Japanese labels (走る, 歩く, 跳ぶ, 投げる, 筋トレ, ストレッチ, 腹筋, 腕立て伏せ, 軽い運動, 激しい運動, 有酸素運動, 無酸素運動), clean exercise movement layout, educational diagram style, no text overlays, only exercise movement labels positioned at corresponding physical activities and fitness exercises -->
 
 ### 基本動作
@@ -307,7 +308,7 @@ excerpt: 學習日語中運動與健身相關的表達方式，包括運動項�
 
 ## 情境 4: 運動競賽
 
-![運動競賽](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=400&fit=crop&crop=center)
+![運動競賽](/assets/img/jp/2025-04-23-Japanese-Sports-Fitness-Sports-Activities-Fitness-Terms/運動競賽.webp)
 <!-- Image Prompt: Japanese sports competitions and athletic events diagram - competitive sports and tournaments with Japanese labels (試合, 大会, 競技, オリンピック, 勝つ, 負ける, 引き分け, 記録, 選手, コーチ, 審判, 応援), clean sports competition layout, educational diagram style, no text overlays, only competition labels positioned at corresponding athletic events and sports competition elements -->
 
 ### 比賽類型
@@ -403,7 +404,7 @@ excerpt: 學習日語中運動與健身相關的表達方式，包括運動項�
 
 ## 情境 5: 健身對話
 
-![健身對話](https://images.unsplash.com/photo-1541746972996-4e0b0f93e586?w=800&h=400&fit=crop&crop=center)
+![健身對話](/assets/img/jp/2025-04-23-Japanese-Sports-Fitness-Sports-Activities-Fitness-Terms/健身對話.webp)
 <!-- Image Prompt: Japanese fitness conversations and gym interactions scene - fitness discussions and workout conversations with Japanese labels (一緒に運動しませんか, ジムに行きませんか, ランニングしませんか, 運動の計画を立てましょう, 毎日運動します, 週に3回ジムに行きます, 運動が好きです, 体が軽くなりました, 筋肉がつきました, 無理をしないでください, 水分を取ってください, ストレッチを忘れずに), clean fitness conversation setting, educational illustration style, no text overlays, only fitness conversation phrase labels positioned near corresponding gym interactions and workout discussion elements -->
 
 ### 運動邀請
