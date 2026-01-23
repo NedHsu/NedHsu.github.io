@@ -393,19 +393,16 @@ excerpt: 學習日語中藝術與文化相關的表達方式，包括傳統藝�
 <div style="text-align: left">  
 **この作品についてどう思いますか？** (kono sakuhin ni tsuite dou omoimasu ka?) - 你對這個作品有什麼想法？  <br>
 **What do you think about this work?**  <br>
-*例句：この作品についてどう思いますか？- 你對這個作品有什麼想法？*  <br>
 </div>  
 
 <div style="text-align: left">  
 **とても興味深いですね** (totemo kyoumi fukai desu ne) - 很有趣呢  <br>
 **That's very interesting**  <br>
-*例句：とても興味深いですね。- 很有趣呢。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **文化について教えてください** (bunka ni tsuite oshiete kudasai) - 請教我文化相關知識  <br>
 **Please teach me about culture**  <br>
-*例句：文化について教えてください。- 請教我文化相關知識。*  <br>
 </div>  
 
 ### 文化體驗
@@ -413,19 +410,16 @@ excerpt: 學習日語中藝術與文化相關的表達方式，包括傳統藝�
 <div style="text-align: left">  
 **一緒に美術館に行きませんか？** (issho ni bijutsukan ni ikimasen ka?) - 要一起去美術館嗎？  <br>
 **Won't you go to the art museum together?**  <br>
-*例句：一緒に美術館に行きませんか？- 要一起去美術館嗎？*  <br>
 </div>  
 
 <div style="text-align: left">  
 **文化体験をしてみたいです** (bunka taiken wo shite mitai desu) - 我想嘗試文化體驗  <br>
 **I want to try cultural experiences**  <br>
-*例句：文化体験をしてみたいです。- 我想嘗試文化體驗。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **伝統芸能を見たいです** (dento geinou wo mitai desu) - 我想看傳統藝能  <br>
 **I want to see traditional performing arts**  <br>
-*例句：伝統芸能を見たいです。- 我想看傳統藝能。*  <br>
 </div>  
 
 ### 文化學習
@@ -433,19 +427,16 @@ excerpt: 學習日語中藝術與文化相關的表達方式，包括傳統藝�
 <div style="text-align: left">  
 **日本の文化を学びたいです** (nihon no bunka wo manabitai desu) - 我想學習日本文化  <br>
 **I want to learn Japanese culture**  <br>
-*例句：日本の文化を学びたいです。- 我想學習日本文化。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **芸術に興味があります** (geijutsu ni kyoumi ga arimasu) - 我對藝術有興趣  <br>
 **I'm interested in art**  <br>
-*例句：芸術に興味があります。- 我對藝術有興趣。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **文化の違いを理解したいです** (bunka no chigai wo rikai shitai desu) - 我想理解文化差異  <br>
 **I want to understand cultural differences**  <br>
-*例句：文化の違いを理解したいです。- 我想理解文化差異。*  <br>
 </div>  
 
 ### 重點句型

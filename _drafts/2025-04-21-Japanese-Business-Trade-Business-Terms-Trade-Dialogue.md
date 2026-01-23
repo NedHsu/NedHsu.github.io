@@ -411,19 +411,16 @@ excerpt: 學習日語中商務與貿易相關的表達方式，包括商業活�
 <div style="text-align: left">  
 **お疲れ様です** (otsukare sama desu) - 辛苦了  <br>
 **Good work**  <br>
-*例句：お疲れ様です。- 辛苦了。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **よろしくお願いします** (yoroshiku onegai shimasu) - 請多指教  <br>
 **Please treat me well**  <br>
-*例句：よろしくお願いします。- 請多指教。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **お世話になります** (osewa ni narimasu) - 承蒙關照  <br>
 **Thank you for your support**  <br>
-*例句：お世話になります。- 承蒙關照。*  <br>
 </div>  
 
 ### 商務詢問
@@ -431,19 +428,16 @@ excerpt: 學習日語中商務與貿易相關的表達方式，包括商業活�
 <div style="text-align: left">  
 **お忙しいところ申し訳ありません** (oisogashii tokoro moushiwake arimasen) - 在您忙碌時打擾很抱歉  <br>
 **Sorry to bother you when you're busy**  <br>
-*例句：お忙しいところ申し訳ありません。- 在您忙碌時打擾很抱歉。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **お時間をいただけますか？** (ojikan wo itadakemasu ka?) - 能給我一些時間嗎？  <br>
 **Could I have some of your time?**  <br>
-*例句：お時間をいただけますか？- 能給我一些時間嗎？*  <br>
 </div>  
 
 <div style="text-align: left">  
 **ご都合はいかがですか？** (gotsugou wa ikaga desu ka?) - 您方便嗎？  <br>
 **How is your schedule?**  <br>
-*例句：ご都合はいかがですか？- 您方便嗎？*  <br>
 </div>  
 
 ### 商務回應
@@ -451,19 +445,16 @@ excerpt: 學習日語中商務與貿易相關的表達方式，包括商業活�
 <div style="text-align: left">  
 **承知いたしました** (shouchi itashimashita) - 我明白了  <br>
 **I understand**  <br>
-*例句：承知いたしました。- 我明白了。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **検討させていただきます** (kentou sasete itadakimasu) - 讓我考慮一下  <br>
 **Let me consider it**  <br>
-*例句：検討させていただきます。- 讓我考慮一下。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **お返事をお待ちしております** (ohenji wo omachi shite orimasu) - 我等您的回覆  <br>
 **I'm waiting for your reply**  <br>
-*例句：お返事をお待ちしております。- 我等您的回覆。*  <br>
 </div>  
 
 ### 商務結束
@@ -471,19 +462,16 @@ excerpt: 學習日語中商務與貿易相關的表達方式，包括商業活�
 <div style="text-align: left">  
 **ありがとうございました** (arigatou gozaimashita) - 謝謝您  <br>
 **Thank you very much**  <br>
-*例句：ありがとうございました。- 謝謝您。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **失礼いたします** (shitsurei itashimasu) - 失禮了  <br>
 **Excuse me**  <br>
-*例句：失礼いたします。- 失禮了。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **またお会いしましょう** (mata oai shimashou) - 再見  <br>
 **Let's meet again**  <br>
-*例句：またお会いしましょう。- 再見。*  <br>
 </div>  
 
 ### 重點句型

@@ -315,25 +315,21 @@ excerpt: 學習日語中醫療與健康相關的表達方式，包括醫療機�
 <div style="text-align: left">  
 **どこが痛いですか？** (doko ga itai desu ka?) - 哪裡痛？  <br>
 **Where does it hurt?**  <br>
-*例句：どこが痛いですか？- 哪裡痛？*  <br>
 </div>  
 
 <div style="text-align: left">  
 **いつからですか？** (itsu kara desu ka?) - 從什麼時候開始？  <br>
 **Since when?**  <br>
-*例句：いつからですか？- 從什麼時候開始？*  <br>
 </div>  
 
 <div style="text-align: left">  
 **どのような症状ですか？** (dono you na shoujou desu ka?) - 有什麼症狀？  <br>
 **What kind of symptoms do you have?**  <br>
-*例句：どのような症状ですか？- 有什麼症狀？*  <br>
 </div>  
 
 <div style="text-align: left">  
 **薬のアレルギーはありますか？** (kusuri no arerugii wa arimasu ka?) - 對藥物過敏嗎？  <br>
 **Do you have any drug allergies?**  <br>
-*例句：薬のアレルギーはありますか？- 對藥物過敏嗎？*  <br>
 </div>  
 
 ### 症狀描述
@@ -341,25 +337,21 @@ excerpt: 學習日語中醫療與健康相關的表達方式，包括醫療機�
 <div style="text-align: left">  
 **頭が痛いです** (atama ga itai desu) - 頭痛  <br>
 **I have a headache**  <br>
-*例句：頭が痛いです。- 頭痛。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **熱があります** (netsu ga arimasu) - 發燒  <br>
 **I have a fever**  <br>
-*例句：熱があります。- 發燒。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **咳が出ます** (seki ga demasu) - 咳嗽  <br>
 **I have a cough**  <br>
-*例句：咳が出ます。- 咳嗽。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **吐き気がします** (hakike ga shimasu) - 想吐  <br>
 **I feel nauseous**  <br>
-*例句：吐き気がします。- 想吐。*  <br>
 </div>  
 
 ### 醫療建議
@@ -367,25 +359,21 @@ excerpt: 學習日語中醫療與健康相關的表達方式，包括醫療機�
 <div style="text-align: left">  
 **薬を飲んでください** (kusuri wo nonde kudasai) - 請吃藥  <br>
 **Please take medicine**  <br>
-*例句：薬を飲んでください。- 請吃藥。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **安静にしてください** (ansei ni shite kudasai) - 請安靜休息  <br>
 **Please rest**  <br>
-*例句：安静にしてください。- 請安靜休息。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **水分をたくさん取ってください** (suibun wo takusan totte kudasai) - 請多喝水  <br>
 **Please drink plenty of water**  <br>
-*例句：水分をたくさん取ってください。- 請多喝水。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **また来てください** (mata kite kudasai) - 請再來  <br>
 **Please come again**  <br>
-*例句：また来てください。- 請再來。*  <br>
 </div>  
 
 ### 重點句型

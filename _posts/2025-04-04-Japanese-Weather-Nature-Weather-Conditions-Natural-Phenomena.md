@@ -411,25 +411,21 @@ image:
 <div style="text-align: left">  
 **今日の天気はどうですか？** (kyou no tenki wa dou desu ka?) - 今天天氣怎麼樣？  <br>
 **How is the weather today?**  <br>
-*例句：今日の天気はどうですか？(kyou no tenki wa dou desu ka?) - 今天天氣怎麼樣？*  <br>
 </div>  
 
 <div style="text-align: left">  
 **明日は雨が降りますか？** (ashita wa ame ga furimasu ka?) - 明天會下雨嗎？  <br>
 **Will it rain tomorrow?**  <br>
-*例句：明日は雨が降りますか？(ashita wa ame ga furimasu ka?) - 明天會下雨嗎？*  <br>
 </div>  
 
 <div style="text-align: left">  
 **気温は何度ですか？** (kion wa nan do desu ka?) - 氣溫是幾度？  <br>
 **What is the temperature?**  <br>
-*例句：気温は何度ですか？(kion wa nan do desu ka?) - 氣溫是幾度？*  <br>
 </div>  
 
 <div style="text-align: left">  
 **傘は必要ですか？** (kasa wa hitsuyou desu ka?) - 需要雨傘嗎？  <br>
 **Do you need an umbrella?**  <br>
-*例句：傘は必要ですか？(kasa wa hitsuyou desu ka?) - 需要雨傘嗎？*  <br>
 </div>  
 
 ### 天氣回答
@@ -455,7 +451,6 @@ image:
 <div style="text-align: left">  
 **傘を持って行ってください** (kasa wo motte itte kudasai) - 請帶雨傘去  <br>
 **Please take an umbrella**  <br>
-*例句：傘を持って行ってください。(kasa wo motte itte kudasai) - 請帶雨傘去。*  <br>
 </div>  
 
 ### 天氣預報

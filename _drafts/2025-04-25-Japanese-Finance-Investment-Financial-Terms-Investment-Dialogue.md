@@ -411,25 +411,21 @@ excerpt: 學習日語中金融與投資相關的表達方式，包括銀行服�
 <div style="text-align: left">  
 **投資について相談したいです** (toushi ni tsuite soudan shitai desu) - 我想諮詢投資相關問題  <br>
 **I'd like to consult about investment**  <br>
-*例句：投資について相談したいです。- 我想諮詢投資相關問題。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **リスクを教えてください** (risuku wo oshiete kudasai) - 請告訴我風險  <br>
 **Please tell me about the risks**  <br>
-*例句：リスクを教えてください。- 請告訴我風險。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **どのくらいのリターンが期待できますか？** (dono kurai no ritaun ga kitai dekimasu ka?) - 可以期待多少報酬？  <br>
 **How much return can I expect?**  <br>
-*例句：どのくらいのリターンが期待できますか？- 可以期待多少報酬？*  <br>
 </div>  
 
 <div style="text-align: left">  
 **手数料はいくらですか？** (tesuuryou wa ikura desu ka?) - 手續費是多少？  <br>
 **How much are the fees?**  <br>
-*例句：手数料はいくらですか？- 手續費是多少？*  <br>
 </div>  
 
 ### 投資建議
@@ -437,25 +433,21 @@ excerpt: 學習日語中金融與投資相關的表達方式，包括銀行服�
 <div style="text-align: left">  
 **分散投資をお勧めします** (bunsan toushi wo osusume shimasu) - 我建議分散投資  <br>
 **I recommend diversified investment**  <br>
-*例句：分散投資をお勧めします。- 我建議分散投資。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **長期投資が良いでしょう** (chouki toushi ga yoi deshou) - 長期投資比較好  <br>
 **Long-term investment would be better**  <br>
-*例句：長期投資が良いでしょう。- 長期投資比較好。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **リスク管理が重要です** (risuku kanri ga juuyou desu) - 風險管理很重要  <br>
 **Risk management is important**  <br>
-*例句：リスク管理が重要です。- 風險管理很重要。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **定期的に見直しをしましょう** (teikiteki ni minaoshi wo shimashou) - 我們定期檢視吧  <br>
 **Let's review regularly**  <br>
-*例句：定期的に見直しをしましょう。- 我們定期檢視吧。*  <br>
 </div>  
 
 ### 投資結果
@@ -463,25 +455,21 @@ excerpt: 學習日語中金融與投資相關的表達方式，包括銀行服�
 <div style="text-align: left">  
 **利益が出ました** (rieki ga demashita) - 有獲利了  <br>
 **I made a profit**  <br>
-*例句：利益が出ました。- 有獲利了。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **損失が出ました** (sonshitsu ga demashita) - 有損失了  <br>
 **I incurred a loss**  <br>
-*例句：損失が出ました。- 有損失了。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **相場が上がりました** (souba ga agarimashita) - 行情上漲了  <br>
 **The market went up**  <br>
-*例句：相場が上がりました。- 行情上漲了。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **相場が下がりました** (souba ga sagarimashita) - 行情下跌了  <br>
 **The market went down**  <br>
-*例句：相場が下がりました。- 行情下跌了。*  <br>
 </div>  
 
 ### 重點句型
