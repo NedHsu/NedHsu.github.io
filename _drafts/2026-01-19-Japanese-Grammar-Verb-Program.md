@@ -16,7 +16,7 @@ excerpt: 將日語動詞變化視為字串處理與規則匹配，透過 Python 
 
 ---
 
-## 情境 1: 動詞分類器 (Classification Logic)
+## 動詞分類器 (Classification Logic)
 
 在程式中，我們透過字尾字元來判斷動詞屬性。這是所有變化的「進入點」。
 
@@ -42,7 +42,7 @@ def classify(verb):
 
 ---
 
-## 情境 2: 基礎語幹與五十音矩陣 (Basic Stems)
+## 基礎語幹與五十音矩陣 (Basic Stems)
 
 日語動詞變化本質上是「母音移位」。五段動詞在母音圖（a, i, u, e, o）上垂直移動，而一段動詞則固定「去る」。
 
@@ -79,7 +79,7 @@ def get_stem(verb, target_row):
 
 ---
 
-## 情境 3: 音便演算法 (Onbin Algorithm)
+## 音便演算法 (Onbin Algorithm)
 
 五段動詞接續 `て/た` 時，為求發音效率會產生「音便」 。
 
@@ -104,7 +104,7 @@ def get_te_form(verb):
 
 ---
 
-## 情境 4: 語態粘著與複合邏輯 (Agglutination)
+## 語態粘著與複合邏輯 (Agglutination)
 
 日語是「粘著語」，可像樂高一樣組合語素。例如：`被迫吃` = `吃 + 使役 + 受身`。
 
