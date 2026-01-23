@@ -292,19 +292,16 @@ image:
 <div style="text-align: left">  
 **明けましておめでとうございます** (akemashite omedetou gozaimasu) - 新年快樂  <br>
 **Happy New Year**  <br>
-*例句：明けましておめでとうございます。- 新年快樂。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **今年もよろしくお願いします** (kotoshi mo yoroshiku onegai shimasu) - 今年也請多指教  <br>
 **Please treat me well this year too**  <br>
-*例句：今年もよろしくお願いします。- 今年也請多指教。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **良いお年を** (yoi otoshi wo) - 祝您新年好  <br>
 **Have a good year**  <br>
-*例句：良いお年を。- 祝您新年好。*  <br>
 </div>  
 
 ### 生日祝福
@@ -312,19 +309,16 @@ image:
 <div style="text-align: left">  
 **お誕生日おめでとうございます** (otanjoubi omedetou gozaimasu) - 生日快樂  <br>
 **Happy Birthday**  <br>
-*例句：お誕生日おめでとうございます。- 生日快樂。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **おめでとうございます** (omedetou gozaimasu) - 恭喜  <br>
 **Congratulations**  <br>
-*例句：おめでとうございます。- 恭喜。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **お祝い申し上げます** (oiwai moushiagemasu) - 恭賀  <br>
 **I congratulate you**  <br>
-*例句：お祝い申し上げます。- 恭賀。*  <br>
 </div>  
 
 ### 節日問候
@@ -332,19 +326,16 @@ image:
 <div style="text-align: left">  
 **クリスマスおめでとう** (kurisumasu omedetou) - 聖誕快樂  <br>
 **Merry Christmas**  <br>
-*例句：クリスマスおめでとう。- 聖誕快樂。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **ハッピーハロウィン** (happii harowin) - 萬聖節快樂  <br>
 **Happy Halloween**  <br>
-*例句：ハッピーハロウィン。- 萬聖節快樂。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **母の日おめでとう** (haha no hi omedetou) - 母親節快樂  <br>
 **Happy Mother's Day**  <br>
-*例句：母の日おめでとう。- 母親節快樂。*  <br>
 </div>  
 
 ### 重點句型
@@ -370,19 +361,16 @@ image:
 <div style="text-align: left">  
 **祭りに行きませんか？** (matsuri ni ikimasen ka?) - 要去祭典嗎？  <br>
 **Won't you go to the festival?**  <br>
-*例句：祭りに行きませんか？- 要去祭典嗎？*  <br>
 </div>  
 
 <div style="text-align: left">  
 **一緒に行きましょう** (issho ni ikimashou) - 一起去吧  <br>
 **Let's go together**  <br>
-*例句：一緒に行きましょう。- 一起去吧。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **何時に会いますか？** (nanji ni aimasu ka?) - 幾點見面？  <br>
 **What time shall we meet?**  <br>
-*例句：何時に会いますか？- 幾點見面？*  <br>
 </div>  
 
 ### 節慶體驗
@@ -390,19 +378,16 @@ image:
 <div style="text-align: left">  
 **楽しかったですか？** (tanoshikatta desu ka?) - 開心嗎？  <br>
 **Did you have fun?**  <br>
-*例句：楽しかったですか？- 開心嗎？*  <br>
 </div>  
 
 <div style="text-align: left">  
 **とても楽しかったです** (totemo tanoshikatta desu) - 非常開心  <br>
 **It was very fun**  <br>
-*例句：とても楽しかったです。- 非常開心。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **また来年も来たいです** (mata rainen mo kitai desu) - 明年也想來  <br>
 **I want to come again next year**  <br>
-*例句：また来年も来たいです。- 明年也想來。*  <br>
 </div>  
 
 ### 節慶準備
@@ -410,19 +395,16 @@ image:
 <div style="text-align: left">  
 **準備はできましたか？** (junbi wa dekimashita ka?) - 準備好了嗎？  <br>
 **Are you ready?**  <br>
-*例句：準備はできましたか？- 準備好了嗎？*  <br>
 </div>  
 
 <div style="text-align: left">  
 **何か持っていきますか？** (nanika motte ikimasu ka?) - 要帶什麼嗎？  <br>
 **Will you bring anything?**  <br>
-*例句：何か持っていきますか？- 要帶什麼嗎？*  <br>
 </div>  
 
 <div style="text-align: left">  
 **お土産を買いましょう** (omiyage wo kaimashou) - 買伴手禮吧  <br>
 **Let's buy souvenirs**  <br>
-*例句：お土産を買いましょう。- 買伴手禮吧。*  <br>
 </div>  
 
 ### 重點句型

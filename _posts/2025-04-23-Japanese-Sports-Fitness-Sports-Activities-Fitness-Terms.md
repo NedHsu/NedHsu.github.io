@@ -412,19 +412,16 @@ image:
 <div style="text-align: left">  
 **一緒に運動しませんか？** (issho ni undou shimasen ka?) - 要一起運動嗎？  <br>
 **Won't you exercise together?**  <br>
-*例句：一緒に運動しませんか？- 要一起運動嗎？*  <br>
 </div>  
 
 <div style="text-align: left">  
 **ジムに行きませんか？** (jimu ni ikimasen ka?) - 要去健身房嗎？  <br>
 **Won't you go to the gym?**  <br>
-*例句：ジムに行きませんか？- 要去健身房嗎？*  <br>
 </div>  
 
 <div style="text-align: left">  
 **ランニングしませんか？** (ranningu shimasen ka?) - 要跑步嗎？  <br>
 **Won't you go running?**  <br>
-*例句：ランニングしませんか？- 要跑步嗎？*  <br>
 </div>  
 
 ### 運動計劃
@@ -432,19 +429,16 @@ image:
 <div style="text-align: left">  
 **運動の計画を立てましょう** (undou no keikaku wo tatemashou) - 我們來制定運動計劃  <br>
 **Let's make an exercise plan**  <br>
-*例句：運動の計画を立てましょう。- 我們來制定運動計劃。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **毎日運動します** (mainichi undou shimasu) - 我每天運動  <br>
 **I exercise every day**  <br>
-*例句：毎日運動します。- 我每天運動。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **週に3回ジムに行きます** (shuu ni sankai jimu ni ikimasu) - 我每週去健身房3次  <br>
 **I go to the gym three times a week**  <br>
-*例句：週に3回ジムに行きます。- 我每週去健身房3次。*  <br>
 </div>  
 
 ### 運動感受
@@ -452,19 +446,16 @@ image:
 <div style="text-align: left">  
 **運動が好きです** (undou ga suki desu) - 我喜歡運動  <br>
 **I like exercise**  <br>
-*例句：運動が好きです。- 我喜歡運動。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **体が軽くなりました** (karada ga karuku narimashita) - 身體變輕了  <br>
 **My body feels lighter**  <br>
-*例句：体が軽くなりました。- 身體變輕了。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **筋肉がつきました** (kinniku ga tsukimashita) - 長肌肉了  <br>
 **I've gained muscle**  <br>
-*例句：筋肉がつきました。- 長肌肉了。*  <br>
 </div>  
 
 ### 運動建議
@@ -472,19 +463,16 @@ image:
 <div style="text-align: left">  
 **無理をしないでください** (muri wo shinaide kudasai) - 請不要勉強  <br>
 **Please don't overdo it**  <br>
-*例句：無理をしないでください。- 請不要勉強。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **水分を取ってください** (suibun wo totte kudasai) - 請補充水分  <br>
 **Please drink water**  <br>
-*例句：水分を取ってください。- 請補充水分。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **ストレッチを忘れずに** (sutoretchi wo wasurezu ni) - 別忘了做伸展  <br>
 **Don't forget to stretch**  <br>
-*例句：ストレッチを忘れずに。- 別忘了做伸展。*  <br>
 </div>  
 
 ### 重點句型

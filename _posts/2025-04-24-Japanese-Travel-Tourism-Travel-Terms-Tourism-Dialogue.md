@@ -412,25 +412,21 @@ image:
 <div style="text-align: left">  
 **すみません、道を教えてください** (sumimasen, michi wo oshiete kudasai) - 不好意思，請告訴我路  <br>
 **Excuse me, could you tell me the way?**  <br>
-*例句：すみません、道を教えてください。- 不好意思，請告訴我路。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **駅はどこですか？** (eki wa doko desu ka?) - 車站在哪裡？  <br>
 **Where is the station?**  <br>
-*例句：駅はどこですか？- 車站在哪裡？*  <br>
 </div>  
 
 <div style="text-align: left">  
 **この近くにホテルはありますか？** (kono chikaku ni hoteru wa arimasu ka?) - 這附近有飯店嗎？  <br>
 **Is there a hotel nearby?**  <br>
-*例句：この近くにホテルはありますか？- 這附近有飯店嗎？*  <br>
 </div>  
 
 <div style="text-align: left">  
 **歩いてどのくらいですか？** (aruite dono kurai desu ka?) - 走路要多久？  <br>
 **How long does it take to walk?**  <br>
-*例句：歩いてどのくらいですか？- 走路要多久？*  <br>
 </div>  
 
 ### 住宿對話
@@ -438,25 +434,21 @@ image:
 <div style="text-align: left">  
 **チェックインをお願いします** (chekku in wo onegai shimasu) - 請辦理入住  <br>
 **I'd like to check in**  <br>
-*例句：チェックインをお願いします。- 請辦理入住。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **予約をしています** (yoyaku wo shite imasu) - 我有預訂  <br>
 **I have a reservation**  <br>
-*例句：予約をしています。- 我有預訂。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **Wi-Fiのパスワードは何ですか？** (waifai no pasuwaado wa nan desu ka?) - Wi-Fi密碼是什麼？  <br>
 **What is the Wi-Fi password?**  <br>
-*例句：Wi-Fiのパスワードは何ですか？- Wi-Fi密碼是什麼？*  <br>
 </div>  
 
 <div style="text-align: left">  
 **朝食は何時からですか？** (choushoku wa nanji kara desu ka?) - 早餐從幾點開始？  <br>
 **What time does breakfast start?**  <br>
-*例句：朝食は何時からですか？- 早餐從幾點開始？*  <br>
 </div>  
 
 ### 觀光詢問
@@ -464,25 +456,21 @@ image:
 <div style="text-align: left">  
 **おすすめの観光地はどこですか？** (osusume no kankouchi wa doko desu ka?) - 推薦的觀光地是哪裡？  <br>
 **What tourist attractions do you recommend?**  <br>
-*例句：おすすめの観光地はどこですか？- 推薦的觀光地是哪裡？*  <br>
 </div>  
 
 <div style="text-align: left">  
 **入場料はいくらですか？** (nyuujou ryou wa ikura desu ka?) - 入場費是多少？  <br>
 **How much is the admission fee?**  <br>
-*例句：入場料はいくらですか？- 入場費是多少？*  <br>
 </div>  
 
 <div style="text-align: left">  
 **写真を撮ってもいいですか？** (shashin wo totte mo ii desu ka?) - 可以拍照嗎？  <br>
 **May I take photos?**  <br>
-*例句：写真を撮ってもいいですか？- 可以拍照嗎？*  <br>
 </div>  
 
 <div style="text-align: left">  
 **お土産はどこで買えますか？** (omiyage wa doko de kaemasu ka?) - 在哪裡可以買伴手禮？  <br>
 **Where can I buy souvenirs?**  <br>
-*例句：お土産はどこで買えますか？- 在哪裡可以買伴手禮？*  <br>
 </div>  
 
 ### 重點句型

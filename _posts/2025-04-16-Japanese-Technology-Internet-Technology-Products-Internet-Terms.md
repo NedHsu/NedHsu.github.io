@@ -409,19 +409,16 @@ image:
 <div style="text-align: left">  
 **使い方を教えてください** (tsukaikata wo oshiete kudasai) - 請教我使用方法  <br>
 **Please teach me how to use it**  <br>
-*例句：使い方を教えてください。- 請教我使用方法。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **どうやって使いますか？** (douyatte tsukaimasu ka?) - 怎麼使用？  <br>
 **How do you use it?**  <br>
-*例句：どうやって使いますか？- 怎麼使用？*  <br>
 </div>  
 
 <div style="text-align: left">  
 **どこで買えますか？** (doko de kaemasu ka?) - 在哪裡可以買到？  <br>
 **Where can I buy it?**  <br>
-*例句：どこで買えますか？- 在哪裡可以買到？*  <br>
 </div>  
 
 ### 功能說明
@@ -429,13 +426,11 @@ image:
 <div style="text-align: left">  
 **この機能は何ですか？** (kono kinou wa nan desu ka?) - 這個功能是什麼？  <br>
 **What is this function?**  <br>
-*例句：この機能は何ですか？- 這個功能是什麼？*  <br>
 </div>  
 
 <div style="text-align: left">  
 **どういう意味ですか？** (dou iu imi desu ka?) - 是什麼意思？  <br>
 **What does it mean?**  <br>
-*例句：どういう意味ですか？- 是什麼意思？*  <br>
 </div>  
 
 <div style="text-align: left">  
