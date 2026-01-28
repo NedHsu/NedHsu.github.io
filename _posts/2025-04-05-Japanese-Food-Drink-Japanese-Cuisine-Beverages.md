@@ -24,6 +24,7 @@ image:
 
 ## 情境 1: 基本食物詞彙
 
+![基本食物](/assets/img/jp/2025-04-05-Japanese-Food-Drink-Japanese-Cuisine-Beverages/基本食物.webp)
 <!-- Image Prompt: Japanese food categories and ingredients diagram - food categories and cooking ingredients with Japanese labels (ご飯, パン, 麺, うどん, 魚, 肉, 卵, 豆腐, 野菜, 大根, 白菜, きのこ, 食材, 料理, 調理, 栄養), clean food category layout, educational diagram style, no text overlays, only food category labels positioned at corresponding ingredient elements -->
 
 ### 主食類
@@ -32,29 +33,20 @@ image:
 **ご飯** (gohan) - 米飯  <br>
 **Rice**  <br>
 *例句：*  <br>
-*• 毎日ご飯を食べます。(mainichi gohan wo tabemasu) - 我每天吃米飯。*  <br>
-*• 茶碗にご飯を盛ります。(chawan ni gohan wo morimasu) - 我把米飯盛到碗裡。*  <br>
-*• ご飯と味噌汁を一緒に食べます。(gohan to misoshiru wo issho ni tabemasu) - 我一起吃米飯和味噌湯。*  <br>
-*• A: 何を食べますか？(nani wo tabemasu ka?) - 要吃什麼？*  <br>
-*• B: ご飯を食べます。(gohan wo tabemasu) - 吃米飯。*  <br>
+*• 毎日ご飯を食べます。(mainichi gohan o tabemasu) - 我每天吃米飯。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **パン** (pan) - 麵包  <br>
 **Bread**  <br>
 *例句：*  <br>
-*• 朝食にパンを食べます。(choushoku ni pan wo tabemasu) - 早餐吃麵包。*  <br>
-*• パンとコーヒーで朝食を済ませます。(pan to koohii de choushoku wo sumasemasu) - 用麵包和咖啡解決早餐。*  <br>
-*• このパンは美味しいです。(kono pan wa oishii desu) - 這個麵包很好吃。*  <br>
-*• パン屋でパンを買います。(panya de pan wo kaimasu) - 在麵包店買麵包。*  <br>
+*• 朝食にパンを食べます。(choushoku ni pan o tabemasu) - 早餐吃麵包。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **麺** (men) - 麵條  <br>
 **Noodles**  <br>
 *例句：*  <br>
-*• ラーメンを食べます。(raamen wo tabemasu) - 我吃拉麵。*  <br>
-*• 麺類が好きです。(menrui ga suki desu) - 我喜歡麵類。*  <br>
 *• うどんとそば、どちらが好きですか？(udon to soba, dochira ga suki desu ka?) - 烏龍麵和蕎麥麵，你喜歡哪個？*  <br>
 *• この店の麺は美味しいです。(kono mise no men wa oishii desu) - 這家店的麵很好吃。*  <br>
 </div>  
@@ -64,9 +56,6 @@ image:
 **Udon noodles**  <br>
 *例句：*  <br>
 *• うどんが好きです。(udon ga suki desu) - 我喜歡烏龍麵。*  <br>
-*• 温かいうどんを食べます。(atatakai udon wo tabemasu) - 我吃熱烏龍麵。*  <br>
-*• うどん屋に行きます。(udon ya ni ikimasu) - 我去烏龍麵店。*  <br>
-*• きつねうどんを注文します。(kitsune udon wo chuumon shimasu) - 我點狐狸烏龍麵。*  <br>
 </div>  
 
 ### 蛋白質類
@@ -75,9 +64,7 @@ image:
 **魚** (sakana) - 魚  <br>
 **Fish**  <br>
 *例句：*  <br>
-*• 魚を焼きます。(sakana wo yakimasu) - 我烤魚。*  <br>
-*• 新鮮な魚を買います。(shinsen na sakana wo kaimasu) - 我買新鮮的魚。*  <br>
-*• 魚が好きです。(sakana ga suki desu) - 我喜歡魚。*  <br>
+*• 魚を焼きます。(sakana o yakimasu) - 我烤魚。*  <br>
 *• 今日の夕食は魚です。(kyou no yuushoku wa sakana desu) - 今天的晚餐是魚。*  <br>
 </div>  
 
@@ -85,9 +72,7 @@ image:
 **肉** (niku) - 肉  <br>
 **Meat**  <br>
 *例句：*  <br>
-*• 牛肉を食べます。(gyuuniku wo tabemasu) - 我吃牛肉。*  <br>
-*• 肉料理が好きです。(niku ryouri ga suki desu) - 我喜歡肉類料理。*  <br>
-*• スーパーで肉を買います。(suupaa de niku wo kaimasu) - 在超市買肉。*  <br>
+*• スーパーで肉を買います。(suupaa de niku o kaimasu) - 在超市買肉。*  <br>
 *• この肉は柔らかいです。(kono niku wa yawarakai desu) - 這個肉很嫩。*  <br>
 </div>  
 
@@ -95,18 +80,16 @@ image:
 **卵** (tamago) - 雞蛋  <br>
 **Egg**  <br>
 *例句：*  <br>
-*• 卵焼きを作ります。(tamagoyaki wo tsukurimasu) - 我做玉子燒。*  <br>
-*• 朝食に卵を食べます。(choushoku ni tamago wo tabemasu) - 早餐吃雞蛋。*  <br>
+*• 卵焼きを作ります。(tamagoyaki o tsukurimasu) - 我做玉子燒。*  <br>
+*• 朝食に卵を食べます。(choushoku ni tamago o tabemasu) - 早餐吃雞蛋。*  <br>
 *• 卵のアレルギーがあります。(tamago no arerugii ga arimasu) - 我對雞蛋過敏。*  <br>
-*• 目玉焼きを作ります。(medamayaki wo tsukurimasu) - 我做荷包蛋。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **豆腐** (toufu) - 豆腐  <br>
 **Tofu**  <br>
 *例句：*  <br>
-*• 豆腐の味噌汁を飲みます。(toufu no misoshiru wo nomimasu) - 我喝豆腐味噌湯。*  <br>
-*• 冷ややっこを作ります。(hiyayakko wo tsukurimasu) - 我做涼拌豆腐。*  <br>
+*• 豆腐の味噌汁を飲みます。(toufu no misoshiru o nomimasu) - 我喝豆腐味噌湯。*  <br>
 *• 豆腐は健康に良いです。(toufu wa kenkou ni yoi desu) - 豆腐對健康有益。*  <br>
 *• 麻婆豆腐が好きです。(mabou doufu ga suki desu) - 我喜歡麻婆豆腐。*  <br>
 </div>  
@@ -117,18 +100,18 @@ image:
 **野菜** (yasai) - 蔬菜  <br>
 **Vegetables**  <br>
 *例句：*  <br>
-*• 野菜をたくさん食べます。(yasai wo takusan tabemasu) - 我吃很多蔬菜。*  <br>
-*• 野菜サラダを作ります。(yasai sarada wo tsukurimasu) - 我做蔬菜沙拉。*  <br>
+*• 野菜をたくさん食べます。(yasai o takusan tabemasu) - 我吃很多蔬菜。*  <br>
+*• 野菜サラダを作ります。(yasai sarada o tsukurimasu) - 我做蔬菜沙拉。*  <br>
 *• 野菜は健康に良いです。(yasai wa kenkou ni yoi desu) - 蔬菜對健康有益。*  <br>
-*• 毎日野菜を食べるようにしています。(mainichi yasai wo taberu you ni shite imasu) - 我努力每天吃蔬菜。*  <br>
+*• 毎日野菜を食べるようにしています。(mainichi yasai o taberu you ni shite imasu) - 我努力每天吃蔬菜。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **大根** (daikon) - 白蘿蔔  <br>
 **Daikon radish**  <br>
 *例句：*  <br>
-*• 大根おろしを作ります。(daikon oroshi wo tsukurimasu) - 我做蘿蔔泥。*  <br>
-*• 大根の煮物を作ります。(daikon no nimono wo tsukurimasu) - 我做蘿蔔燉菜。*  <br>
+*• 大根おろしを作ります。(daikon oroshi o tsukurimasu) - 我做蘿蔔泥。*  <br>
+*• 大根の煮物を作ります。(daikon no nimono o tsukurimasu) - 我做蘿蔔燉菜。*  <br>
 *• 大根サラダが好きです。(daikon sarada ga suki desu) - 我喜歡蘿蔔沙拉。*  <br>
 *• 大根は日本の伝統的な野菜です。(daikon wa nihon no dentouteki na yasai desu) - 蘿蔔是日本的傳統蔬菜。*  <br>
 </div>  
@@ -137,19 +120,19 @@ image:
 **白菜** (hakusai) - 白菜  <br>
 **Chinese cabbage**  <br>
 *例句：*  <br>
-*• 白菜の漬物を食べます。(hakusai no tsukemono wo tabemasu) - 我吃白菜醃菜。*  <br>
-*• 白菜の鍋物を作ります。(hakusai no nabemono wo tsukurimasu) - 我做白菜火鍋。*  <br>
+*• 白菜の漬物を食べます。(hakusai no tsukemono o tabemasu) - 我吃白菜醃菜。*  <br>
+*• 白菜の鍋物を作ります。(hakusai no nabemono o tsukurimasu) - 我做白菜火鍋。*  <br>
 *• 白菜は冬の野菜です。(hakusai wa fuyu no yasai desu) - 白菜是冬天的蔬菜。*  <br>
-*• 白菜と豚肉の炒め物を作ります。(hakusai to butaniku no itamemono wo tsukurimasu) - 我做白菜炒豬肉。*  <br>
+*• 白菜と豚肉の炒め物を作ります。(hakusai to butaniku no itamemono o tsukurimasu) - 我做白菜炒豬肉。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **きのこ** (kinoko) - 蘑菇  <br>
 **Mushroom**  <br>
 *例句：*  <br>
-*• きのこの炒め物を作ります。(kinoko no itamemono wo tsukurimasu) - 我做炒蘑菇。*  <br>
+*• きのこの炒め物を作ります。(kinoko no itamemono o tsukurimasu) - 我做炒蘑菇。*  <br>
 *• きのこが好きです。(kinoko ga suki desu) - 我喜歡蘑菇。*  <br>
-*• きのこご飯を作ります。(kinoko gohan wo tsukurimasu) - 我做蘑菇飯。*  <br>
+*• きのこご飯を作ります。(kinoko gohan o tsukurimasu) - 我做蘑菇飯。*  <br>
 *• 秋はきのこの季節です。(aki wa kinoko no kisetsu desu) - 秋天是蘑菇的季節。*  <br>
 </div>  
 
@@ -178,11 +161,11 @@ image:
 **寿司** (sushi) - 壽司  <br>
 **Sushi**  <br>
 *例句：*  <br>
-*• 寿司を食べに行きます。(sushi wo tabe ni ikimasu) - 我去吃壽司。*  <br>
+*• 寿司を食べに行きます。(sushi o tabe ni ikimasu) - 我去吃壽司。*  <br>
 *• 寿司が大好きです。(sushi ga daisuki desu) - 我非常喜歡壽司。*  <br>
 *• 回転寿司に行きます。(kaiten sushi ni ikimasu) - 我要去一家迴轉壽司店。*  <br>
-*• A: 何を食べたいですか？(nani wo tabetai desu ka?) - 想吃什麼？*  <br>
-*• B: 寿司を食べたいです。(sushi wo tabetai desu) - 想吃壽司。*  <br>
+*• A: 何を食べたいですか？(nani o tabetai desu ka?) - 想吃什麼？*  <br>
+*• B: 寿司を食べたいです。(sushi o tabetai desu) - 想吃壽司。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -190,7 +173,7 @@ image:
 **Tempura**  <br>
 *例句：*  <br>
 *• 天ぷらが美味しいです。(tenpura ga oishii desu) - 天婦羅很美味。*  <br>
-*• 天ぷら定食を注文します。(tenpura teishoku wo chuumon shimasu) - 我點天婦羅定食。*  <br>
+*• 天ぷら定食を注文します。(tenpura teishoku o chuumon shimasu) - 我點天婦羅定食。*  <br>
 *• エビの天ぷらが好きです。(ebi no tenpura ga suki desu) - 我喜歡炸蝦天婦羅。*  <br>
 *• 天ぷらは熱いうちに食べます。(tenpura wa atsui uchi ni tabemasu) - 天婦羅趁熱吃。*  <br>
 </div>  
@@ -199,20 +182,20 @@ image:
 **刺身** (sashimi) - 生魚片  <br>
 **Sashimi**  <br>
 *例句：*  <br>
-*• 刺身を注文します。(sashimi wo chuumon shimasu) - 我點生魚片。*  <br>
+*• 刺身を注文します。(sashimi o chuumon shimasu) - 我點生魚片。*  <br>
 *• マグロの刺身が好きです。(maguro no sashimi ga suki desu) - 我喜歡鮪魚生魚片。*  <br>
 *• 刺身は新鮮な魚で作ります。(sashimi wa shinsen na sakana de tsukurimasu) - 生魚片用新鮮的魚製作。*  <br>
-*• 刺身と日本酒を一緒に楽しみます。(sashimi to nihonshu wo issho ni tanoshimimasu) - 我一起享受生魚片和日本酒。*  <br>
+*• 刺身と日本酒を一緒に楽しみます。(sashimi to nihonshu o issho ni tanoshimimasu) - 我一起享受生魚片和日本酒。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **焼き鳥** (yakitori) - 烤雞肉串  <br>
 **Grilled chicken skewers**  <br>
 *例句：*  <br>
-*• 焼き鳥を食べます。(yakitori wo tabemasu) - 我吃烤雞肉串。*  <br>
+*• 焼き鳥を食べます。(yakitori o tabemasu) - 我吃烤雞肉串。*  <br>
 *• 焼き鳥屋に行きます。(yakitori ya ni ikimasu) - 我去烤雞肉串店。*  <br>
-*• 焼き鳥とビールを一緒に楽しみます。(yakitori to biiru wo issho ni tanoshimimasu) - 我一起享受烤雞肉串和啤酒。*  <br>
-*• もも肉の焼き鳥を注文します。(momoni ku no yakitori wo chuumon shimasu) - 我點雞腿肉串。*  <br>
+*• 焼き鳥とビールを一緒に楽しみます。(yakitori to biiru o issho ni tanoshimimasu) - 我一起享受烤雞肉串和啤酒。*  <br>
+*• もも肉の焼き鳥を注文します。(momoni ku no yakitori o chuumon shimasu) - 我點雞腿肉串。*  <br>
 </div>  
 
 ### 湯品與鍋物
@@ -221,9 +204,9 @@ image:
 **味噌汁** (misoshiru) - 味噌湯  <br>
 **Miso soup**  <br>
 *例句：*  <br>
-*• 味噌汁を飲みます。(misoshiru wo nomimasu) - 我喝味噌湯。*  <br>
-*• 毎朝味噌汁を飲みます。(maiasa misoshiru wo nomimasu) - 我每天早上喝味噌湯。*  <br>
-*• 豆腐の味噌汁を作ります。(toufu no misoshiru wo tsukurimasu) - 我做豆腐味噌湯。*  <br>
+*• 味噌汁を飲みます。(misoshiru o nomimasu) - 我喝味噌湯。*  <br>
+*• 毎朝味噌汁を飲みます。(maiasa misoshiru o nomimasu) - 我每天早上喝味噌湯。*  <br>
+*• 豆腐の味噌汁を作ります。(toufu no misoshiru o tsukurimasu) - 我做豆腐味噌湯。*  <br>
 *• 味噌汁は日本の伝統的な料理です。(misoshiru wa nihon no dentouteki na ryouri desu) - 味噌湯是日本的傳統料理。*  <br>
 </div>  
 
@@ -231,9 +214,9 @@ image:
 **鍋物** (nabemono) - 火鍋  <br>
 **Hot pot**  <br>
 *例句：*  <br>
-*• 鍋物を作ります。(nabemono wo tsukurimasu) - 我做火鍋。*  <br>
+*• 鍋物を作ります。(nabemono o tsukurimasu) - 我做火鍋。*  <br>
 *• 冬は鍋物が美味しいです。(fuyu wa nabemono ga oishii desu) - 冬天火鍋很好吃。*  <br>
-*• 家族で鍋物を食べます。(kazoku de nabemono wo tabemasu) - 和家人一起吃火鍋。*  <br>
+*• 家族で鍋物を食べます。(kazoku de nabemono o tabemasu) - 和家人一起吃火鍋。*  <br>
 *• 鍋物は体が温まります。(nabemono wa karada ga atatamarimasu) - 火鍋能讓身體暖和。*  <br>
 </div>  
 
@@ -241,19 +224,19 @@ image:
 **しゃぶしゃぶ** (shabushabu) - 涮涮鍋  <br>
 **Shabu-shabu**  <br>
 *例句：*  <br>
-*• しゃぶしゃぶを食べます。(shabushabu wo tabemasu) - 我吃涮涮鍋。*  <br>
+*• しゃぶしゃぶを食べます。(shabushabu o tabemasu) - 我吃涮涮鍋。*  <br>
 *• しゃぶしゃぶ店に行きます。(shabushabu ten ni ikimasu) - 我去涮涮鍋店。*  <br>
-*• 牛肉のしゃぶしゃぶを注文します。(gyuuniku no shabushabu wo chuumon shimasu) - 我點牛肉涮涮鍋。*  <br>
-*• しゃぶしゃぶは薄切り肉を茹でて食べます。(shabushabu wa usugiri niku wo yudete tabemasu) - 涮涮鍋是把薄切肉涮熟後吃。*  <br>
+*• 牛肉のしゃぶしゃぶを注文します。(gyuuniku no shabushabu o chuumon shimasu) - 我點牛肉涮涮鍋。*  <br>
+*• しゃぶしゃぶは薄切り肉を茹でて食べます。(shabushabu wa usugiri niku o yudete tabemasu) - 涮涮鍋是把薄切肉涮熟後吃。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **すき焼き** (sukiyaki) - 壽喜燒  <br>
 **Sukiyaki**  <br>
 *例句：*  <br>
-*• すき焼きを作ります。(sukiyaki wo tsukurimasu) - 我做壽喜燒。*  <br>
+*• すき焼きを作ります。(sukiyaki o tsukurimasu) - 我做壽喜燒。*  <br>
 *• すき焼きが大好きです。(sukiyaki ga daisuki desu) - 我非常喜歡壽喜燒。*  <br>
-*• 家族ですき焼きを食べます。(kazoku de sukiyaki wo tabemasu) - 和家人一起吃壽喜燒。*  <br>
+*• 家族ですき焼きを食べます。(kazoku de sukiyaki o tabemasu) - 和家人一起吃壽喜燒。*  <br>
 *• すき焼きは甘辛い味が特徴です。(sukiyaki wa amakara i aji ga tokuchou desu) - 壽喜燒的特點是甜鹹的味道。*  <br>
 </div>  
 
@@ -263,9 +246,9 @@ image:
 **弁当** (bentou) - 便當  <br>
 **Bento box**  <br>
 *例句：*  <br>
-*• 弁当を作ります。(bentou wo tsukurimasu) - 我做便當。*  <br>
-*• 毎朝お弁当を作ります。(maiasa obentou wo tsukurimasu) - 我每天早上做便當。*  <br>
-*• コンビニでお弁当を買います。(konbini de obentou wo kaimasu) - 在便利商店買便當。*  <br>
+*• 弁当を作ります。(bentou o tsukurimasu) - 我做便當。*  <br>
+*• 毎朝お弁当を作ります。(maiasa obentou o tsukurimasu) - 我每天早上做便當。*  <br>
+*• コンビニでお弁当を買います。(konbini de obentou o kaimasu) - 在便利商店買便當。*  <br>
 *• お弁当は見た目も大切です。(obentou wa mitame mo taisetsu desu) - 便當的外觀也很重要。*  <br>
 </div>  
 
@@ -273,8 +256,8 @@ image:
 **漬物** (tsukemono) - 醃菜  <br>
 **Pickled vegetables**  <br>
 *例句：*  <br>
-*• 漬物を食べます。(tsukemono wo tabemasu) - 我吃醃菜。*  <br>
-*• ご飯と漬物を一緒に食べます。(gohan to tsukemono wo issho ni tabemasu) - 我一起吃米飯和醃菜。*  <br>
+*• 漬物を食べます。(tsukemono o tabemasu) - 我吃醃菜。*  <br>
+*• ご飯と漬物を一緒に食べます。(gohan to tsukemono o issho ni tabemasu) - 我一起吃米飯和醃菜。*  <br>
 *• 白菜の漬物が好きです。(hakusai no tsukemono ga suki desu) - 我喜歡白菜醃菜。*  <br>
 *• 漬物は日本の伝統的な保存食です。(tsukemono wa nihon no dentouteki na hozonshoku desu) - 醃菜是日本的傳統保存食品。*  <br>
 </div>  
@@ -283,8 +266,8 @@ image:
 **おにぎり** (onigiri) - 飯糰  <br>
 **Rice ball**  <br>
 *例句：*  <br>
-*• おにぎりを作ります。(onigiri wo tsukurimasu) - 我做飯糰。*  <br>
-*• コンビニでおにぎりを買います。(konbini de onigiri wo kaimasu) - 在便利商店買飯糰。*  <br>
+*• おにぎりを作ります。(onigiri o tsukurimasu) - 我做飯糰。*  <br>
+*• コンビニでおにぎりを買います。(konbini de onigiri o kaimasu) - 在便利商店買飯糰。*  <br>
 *• 梅干しのおにぎりが好きです。(umeboshi no onigiri ga suki desu) - 我喜歡梅乾飯糰。*  <br>
 *• おにぎりは手軽な食べ物です。(onigiri wa tegaru na tabemono desu) - 飯糰是方便的食物。*  <br>
 </div>  
@@ -293,10 +276,10 @@ image:
 **茶碗蒸し** (chawanmushi) - 茶碗蒸  <br>
 **Steamed egg custard**  <br>
 *例句：*  <br>
-*• 茶碗蒸しを食べます。(chawanmushi wo tabemasu) - 我吃茶碗蒸。*  <br>
-*• 茶碗蒸しを作ります。(chawanmushi wo tsukurimasu) - 我做茶碗蒸。*  <br>
+*• 茶碗蒸しを食べます。(chawanmushi o tabemasu) - 我吃茶碗蒸。*  <br>
+*• 茶碗蒸しを作ります。(chawanmushi o tsukurimasu) - 我做茶碗蒸。*  <br>
 *• 茶碗蒸しは滑らかで美味しいです。(chawanmushi wa nameraka de oishii desu) - 茶碗蒸很滑嫩美味。*  <br>
-*• 茶碗蒸しにはエビやきのこを入れます。(chawanmushi ni wa ebi ya kinoko wo iremasu) - 茶碗蒸裡會放蝦和蘑菇。*  <br>
+*• 茶碗蒸しにはエビやきのこを入れます。(chawanmushi ni wa ebi ya kinoko o iremasu) - 茶碗蒸裡會放蝦和蘑菇。*  <br>
 </div>  
 
 ### 重點句型
@@ -309,6 +292,8 @@ image:
 - 伝統 (dento) - 傳統
 - 調理法 (chourihou) - 烹調方法
 - 盛り付け (moritsuke) - 擺盤
+
+{% include embed/youtube.html id='WpMVaOJg5G0' %}
 
 ---
 
@@ -323,11 +308,11 @@ image:
 **お茶** (ocha) - 茶  <br>
 **Tea**  <br>
 *例句：*  <br>
-*• お茶を飲みます。(ocha wo nomimasu) - 我喝茶。*  <br>
-*• 食後にお茶を飲みます。(shokugo ni ocha wo nomimasu) - 飯後喝茶。*  <br>
-*• お茶を淹れます。(ocha wo iremasu) - 我泡茶。*  <br>
+*• お茶を飲みます。(ocha o nomimasu) - 我喝茶。*  <br>
+*• 食後にお茶を飲みます。(shokugo ni ocha o nomimasu) - 飯後喝茶。*  <br>
+*• お茶を淹れます。(ocha o iremasu) - 我泡茶。*  <br>
 *• A: 何か飲み物はいかがですか？(nanika nomimono wa ikaga desu ka?) - 要喝點什麼嗎？*  <br>
-*• B: お茶をお願いします。(ocha wo onegai shimasu) - 請給我茶。*  <br>
+*• B: お茶をお願いします。(ocha o onegai shimasu) - 請給我茶。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -335,29 +320,28 @@ image:
 **Green tea**  <br>
 *例句：*  <br>
 *• 緑茶が好きです。(ryokucha ga suki desu) - 我喜歡綠茶。*  <br>
-*• 毎日緑茶を飲みます。(mainichi ryokucha wo nomimasu) - 我每天喝綠茶。*  <br>
+*• 毎日緑茶を飲みます。(mainichi ryokucha o nomimasu) - 我每天喝綠茶。*  <br>
 *• 緑茶は健康に良いです。(ryokucha wa kenkou ni yoi desu) - 綠茶對健康有益。*  <br>
-*• 熱い緑茶を飲みます。(atsui ryokucha wo nomimasu) - 我喝熱綠茶。*  <br>
+*• 熱い緑茶を飲みます。(atsui ryokucha o nomimasu) - 我喝熱綠茶。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **抹茶** (matcha) - 抹茶  <br>
 **Matcha**  <br>
 *例句：*  <br>
-*• 抹茶を点てます。(matcha wo tatemasu) - 我點抹茶。*  <br>
 *• 抹茶が好きです。(matcha ga suki desu) - 我喜歡抹茶。*  <br>
-*• 抹茶アイスクリームを食べます。(matcha aisukuriimu wo tabemasu) - 我吃抹茶冰淇淋。*  <br>
-*• 茶道で抹茶を点てます。(sadou de matcha wo tatemasu) - 在茶道中點抹茶。*  <br>
+*• 抹茶アイスクリームを食べます。(matcha aisukuriimu o tabemasu) - 我吃抹茶冰淇淋。*  <br>
+*• 茶道で抹茶を点てます。(sadou de matcha o tatemasu) - 在茶道中點抹茶。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **玄米茶** (genmaicha) - 玄米茶  <br>
 **Brown rice tea**  <br>
 *例句：*  <br>
-*• 玄米茶を飲みます。(genmaicha wo nomimasu) - 我喝玄米茶。*  <br>
+*• 玄米茶を飲みます。(genmaicha o nomimasu) - 我喝玄米茶。*  <br>
 *• 玄米茶は香ばしい味がします。(genmaicha wa kobashii aji ga shimasu) - 玄米茶有香氣。*  <br>
 *• 玄米茶が好きです。(genmaicha ga suki desu) - 我喜歡玄米茶。*  <br>
-*• 玄米茶は玄米と緑茶を混ぜたお茶です。(genmaicha wa genmai to ryokucha wo mazeta ocha desu) - 玄米茶是玄米和綠茶混合的茶。*  <br>
+*• 玄米茶は玄米と緑茶を混ぜたお茶です。(genmaicha wa genmai to ryokucha o mazeta ocha desu) - 玄米茶是玄米和綠茶混合的茶。*  <br>
 </div>  
 
 ### 酒精飲品
@@ -366,9 +350,9 @@ image:
 **日本酒** (nihonshu) - 日本酒  <br>
 **Sake**  <br>
 *例句：*  <br>
-*• 日本酒を飲みます。(nihonshu wo nomimasu) - 我喝日本酒。*  <br>
-*• 刺身と日本酒を一緒に楽しみます。(sashimi to nihonshu wo issho ni tanoshimimasu) - 我一起享受生魚片和日本酒。*  <br>
-*• 熱燗の日本酒を飲みます。(atsukan no nihonshu wo nomimasu) - 我喝熱日本酒。*  <br>
+*• 日本酒を飲みます。(nihonshu o nomimasu) - 我喝日本酒。*  <br>
+*• 刺身と日本酒を一緒に楽しみます。(sashimi to nihonshu o issho ni tanoshimimasu) - 我一起享受生魚片和日本酒。*  <br>
+*• 熱燗の日本酒を飲みます。(atsukan no nihonshu o nomimasu) - 我喝熱日本酒。*  <br>
 *• 日本酒は日本の伝統的なお酒です。(nihonshu wa nihon no dentouteki na osake desu) - 日本酒是日本的傳統酒類。*  <br>
 </div>  
 
@@ -376,18 +360,18 @@ image:
 **ビール** (biiru) - 啤酒  <br>
 **Beer**  <br>
 *例句：*  <br>
-*• ビールを注文します。(biiru wo chuumon shimasu) - 我點啤酒。*  <br>
-*• ビールを飲みます。(biiru wo nomimasu) - 我喝啤酒。*  <br>
+*• ビールを注文します。(biiru o chuumon shimasu) - 我點啤酒。*  <br>
+*• ビールを飲みます。(biiru o nomimasu) - 我喝啤酒。*  <br>
 *• 乾杯！ビールで乾杯します。(kanpai! biiru de kanpai shimasu) - 乾杯！用啤酒乾杯。*  <br>
-*• 焼き鳥とビールを一緒に楽しみます。(yakitori to biiru wo issho ni tanoshimimasu) - 我一起享受烤雞肉串和啤酒。*  <br>
+*• 焼き鳥とビールを一緒に楽しみます。(yakitori to biiru o issho ni tanoshimimasu) - 我一起享受烤雞肉串和啤酒。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **焼酎** (shouchuu) - 燒酒  <br>
 **Shochu**  <br>
 *例句：*  <br>
-*• 焼酎を飲みます。(shouchuu wo nomimasu) - 我喝燒酒。*  <br>
-*• 焼酎のお湯割りを飲みます。(shouchuu no oyu wari wo nomimasu) - 我喝燒酒兌熱水。*  <br>
+*• 焼酎を飲みます。(shouchuu o nomimasu) - 我喝燒酒。*  <br>
+*• 焼酎のお湯割りを飲みます。(shouchuu no oyu wari o nomimasu) - 我喝燒酒兌熱水。*  <br>
 *• 焼酎は九州地方が有名です。(shouchuu wa kyuushuu chihou ga yuumei desu) - 燒酒以九州地區聞名。*  <br>
 *• 芋焼酎が好きです。(imo shouchuu ga suki desu) - 我喜歡地瓜燒酒。*  <br>
 </div>  
@@ -397,9 +381,9 @@ image:
 **Plum wine**  <br>
 *例句：*  <br>
 *• 梅酒が美味しいです。(umeshu ga oishii desu) - 梅酒很美味。*  <br>
-*• 梅酒を飲みます。(umeshu wo nomimasu) - 我喝梅酒。*  <br>
+*• 梅酒を飲みます。(umeshu o nomimasu) - 我喝梅酒。*  <br>
 *• 梅酒は甘くて飲みやすいです。(umeshu wa amakute nomiyasui desu) - 梅酒很甜容易喝。*  <br>
-*• 梅酒のロックを注文します。(umeshu no rokku wo chuumon shimasu) - 我點梅酒加冰。*  <br>
+*• 梅酒のロックを注文します。(umeshu no rokku o chuumon shimasu) - 我點梅酒加冰。*  <br>
 </div>  
 
 ### 軟性飲品
@@ -408,29 +392,28 @@ image:
 **水** (mizu) - 水  <br>
 **Water**  <br>
 *例句：*  <br>
-*• 水を飲みます。(mizu wo nomimasu) - 我喝水。*  <br>
-*• お水をください。(omizu wo kudasai) - 請給我水。*  <br>
+*• お水をください。(omizu o kudasai) - 請給我水。*  <br>
 *• 冷たい水が欲しいです。(tsumetai mizu ga hoshii desu) - 我想要冷水。*  <br>
-*• 運動後、水をたくさん飲みます。(undougo, mizu wo takusan nomimasu) - 運動後，我喝很多水。*  <br>
+*• 運動後、水をたくさん飲みます。(undougo, mizu o takusan nomimasu) - 運動後，我喝很多水。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **ジュース** (juusu) - 果汁  <br>
 **Juice**  <br>
 *例句：*  <br>
-*• オレンジジュースを飲みます。(orenji juusu wo nomimasu) - 我喝柳橙汁。*  <br>
+*• オレンジジュースを飲みます。(orenji juusu o nomimasu) - 我喝柳橙汁。*  <br>
 *• りんごジュースが好きです。(ringo juusu ga suki desu) - 我喜歡蘋果汁。*  <br>
-*• 朝食にジュースを飲みます。(choushoku ni juusu wo nomimasu) - 早餐喝果汁。*  <br>
-*• 新鮮なジュースを買います。(shinsen na juusu wo kaimasu) - 我買新鮮的果汁。*  <br>
+*• 朝食にジュースを飲みます。(choushoku ni juusu o nomimasu) - 早餐喝果汁。*  <br>
+*• 新鮮なジュースを買います。(shinsen na juusu o kaimasu) - 我買新鮮的果汁。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **コーヒー** (koohii) - 咖啡  <br>
 **Coffee**  <br>
 *例句：*  <br>
-*• コーヒーを飲みます。(koohii wo nomimasu) - 我喝咖啡。*  <br>
-*• 朝、コーヒーを飲みます。(asa, koohii wo nomimasu) - 早上喝咖啡。*  <br>
-*• コーヒーを淹れます。(koohii wo iremasu) - 我泡咖啡。*  <br>
+*• コーヒーを飲みます。(koohii o nomimasu) - 我喝咖啡。*  <br>
+*• 朝、コーヒーを飲みます。(asa, koohii o nomimasu) - 早上喝咖啡。*  <br>
+*• コーヒーを淹れます。(koohii o iremasu) - 我泡咖啡。*  <br>
 *• A: コーヒーはいかがですか？(koohii wa ikaga desu ka?) - 要喝咖啡嗎？*  <br>
 *• B: はい、お願いします。(hai, onegai shimasu) - 好的，麻煩了。*  <br>
 </div>  
@@ -439,9 +422,9 @@ image:
 **牛乳** (gyuunyuu) - 牛奶  <br>
 **Milk**  <br>
 *例句：*  <br>
-*• 牛乳を飲みます。(gyuunyuu wo nomimasu) - 我喝牛奶。*  <br>
-*• 毎朝牛乳を飲みます。(maiasa gyuunyuu wo nomimasu) - 我每天早上喝牛奶。*  <br>
-*• 温かい牛乳を飲みます。(atatakai gyuunyuu wo nomimasu) - 我喝熱牛奶。*  <br>
+*• 牛乳を飲みます。(gyuunyuu o nomimasu) - 我喝牛奶。*  <br>
+*• 毎朝牛乳を飲みます。(maiasa gyuunyuu o nomimasu) - 我每天早上喝牛奶。*  <br>
+*• 温かい牛乳を飲みます。(atatakai gyuunyuu o nomimasu) - 我喝熱牛奶。*  <br>
 *• 牛乳は栄養があります。(gyuunyuu wa eiyou ga arimasu) - 牛奶有營養。*  <br>
 </div>  
 
@@ -455,6 +438,8 @@ image:
 - 酒類 (shurui) - 酒類
 - 茶道 (sadou) - 茶道
 - 乾杯 (kanpai) - 乾杯
+
+{% include embed/youtube.html id='SfiKo_nKZKc' %}
 
 ---
 
@@ -472,7 +457,7 @@ image:
 *• いただきますと言います。(itadakimasu to iimasu) - 說「我開動了」。*  <br>
 *• 食事の前に「いただきます」と言います。(shokuji no mae ni "itadakimasu" to iimasu) - 用餐前說「我開動了」。*  <br>
 *• 家族で「いただきます」と言ってから食べます。(kazoku de "itadakimasu" to itte kara tabemasu) - 和家人一起說「我開動了」後開始吃。*  <br>
-*• 「いただきます」は感謝の気持ちを表します。("itadakimasu" wa kansha no kimochi wo arawashimasu.) - 「我開動了」表達感謝的心情。*  <br>
+*• 「いただきます」は感謝の気持ちを表します。("itadakimasu" wa kansha no kimochi o arawashimasu.) - 「我開動了」表達感謝的心情。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -482,26 +467,26 @@ image:
 *• ごちそうさまでしたと言います。(gochisousama deshita to iimasu) - 說「謝謝招待」。*  <br>
 *• 食事の後、「ごちそうさまでした」と言います。(shokuji no ato, "gochisousama deshita" to iimasu) - 用餐後說「謝謝招待」。*  <br>
 *• レストランで「ごちそうさまでした」と言って帰ります。(resutoran de "gochisousama deshita" to itte kaerimasu) - 在餐廳說「謝謝招待」後離開。*  <br>
-*• 「ごちそうさまでした」は料理を作ってくれた人への感謝です。("gochisousama deshita" wa ryouri wo tsukutte kureta hito e no kansha desu.) - 「謝謝招待」是對做料理的人的感謝。*  <br>
+*• 「ごちそうさまでした」は料理を作ってくれた人への感謝です。("gochisousama deshita" wa ryouri o tsukutte kureta hito e no kansha desu.) - 「謝謝招待」是對做料理的人的感謝。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **箸** (hashi) - 筷子  <br>
 **Chopsticks**  <br>
 *例句：*  <br>
-*• 箸を使います。(hashi wo tsukaimasu) - 我使用筷子。*  <br>
-*• 箸でご飯を食べます。(hashi de gohan wo tabemasu) - 用筷子吃飯。*  <br>
-*• 箸の使い方を練習します。(hashi no tsukaikata wo renshuu shimasu) - 我練習筷子的使用方法。*  <br>
-*• 箸を置きます。(hashi wo okimasu) - 我放下筷子。*  <br>
+*• 箸を使います。(hashi o tsukaimasu) - 我使用筷子。*  <br>
+*• 箸でご飯を食べます。(hashi de gohan o tabemasu) - 用筷子吃飯。*  <br>
+*• 箸の使い方を練習します。(hashi no tsukaikata o renshuu shimasu) - 我練習筷子的使用方法。*  <br>
+*• 箸を置きます。(hashi o okimasu) - 我放下筷子。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **茶碗** (chawan) - 飯碗  <br>
 **Rice bowl**  <br>
 *例句：*  <br>
-*• 茶碗にご飯を盛ります。(chawan ni gohan wo morimasu) - 我把米飯盛到碗裡。*  <br>
-*• 茶碗を持って食べます。(chawan wo motte tabemasu) - 我端著碗吃。*  <br>
-*• 茶碗に味噌汁を入れます。(chawan ni misoshiru wo iremasu) - 我把味噌湯倒進碗裡。*  <br>
+*• 茶碗にご飯を盛ります。(chawan ni gohan o morimasu) - 我把米飯盛到碗裡。*  <br>
+*• 茶碗を持って食べます。(chawan o motte tabemasu) - 我端著碗吃。*  <br>
+*• 茶碗に味噌汁を入れます。(chawan ni misoshiru o iremasu) - 我把味噌湯倒進碗裡。*  <br>
 *• 茶碗は日本の伝統的な食器です。(chawan wa nihon no dentouteki na shokki desu) - 飯碗是日本的傳統餐具。*  <br>
 </div>  
 
@@ -512,7 +497,7 @@ image:
 **To eat**  <br>
 *例句：*  <br>
 *• 美味しく食べます。(oishiku tabemasu) - 我吃得津津有味。*  <br>
-*• ご飯を食べます。(gohan wo tabemasu) - 我吃飯。*  <br>
+*• ご飯を食べます。(gohan o tabemasu) - 我吃飯。*  <br>
 *• 一緒に食べましょう。(issho ni tabemashou) - 一起吃吧。*  <br>
 *• ゆっくり食べます。(yukkuri tabemasu) - 我慢慢吃。*  <br>
 </div>  
@@ -522,9 +507,9 @@ image:
 **To drink**  <br>
 *例句：*  <br>
 *• ゆっくり飲みます。(yukkuri nomimasu) - 我慢慢喝。*  <br>
-*• お茶を飲みます。(ocha wo nomimasu) - 我喝茶。*  <br>
-*• 水をたくさん飲みます。(mizu wo takusan nomimasu) - 我喝很多水。*  <br>
-*• 熱いものを飲みます。(atsui mono wo nomimasu) - 我喝熱的東西。*  <br>
+*• お茶を飲みます。(ocha o nomimasu) - 我喝茶。*  <br>
+*• 水をたくさん飲みます。(mizu o takusan nomimasu) - 我喝很多水。*  <br>
+*• 熱いものを飲みます。(atsui mono o nomimasu) - 我喝熱的東西。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -532,7 +517,7 @@ image:
 **To chew**  <br>
 *例句：*  <br>
 *• よく噛んで食べます。(yoku kande tabemasu) - 我細嚼慢嚥。*  <br>
-*• 食べ物をよく噛みます。(tabemono wo yoku kamimasu) - 我仔細咀嚼食物。*  <br>
+*• 食べ物をよく噛みます。(tabemono o yoku kamimasu) - 我仔細咀嚼食物。*  <br>
 *• よく噛むことは健康に良いです。(yoku kamu koto wa kenkou ni yoi desu) - 細嚼慢嚥對健康有益。*  <br>
 *• 30回噛んで食べます。(sanjuu kai kande tabemasu) - 我咀嚼30次後吃。*  <br>
 </div>  
@@ -541,9 +526,9 @@ image:
 **味わう** (ajiwau) - 品嚐  <br>
 **To taste**  <br>
 *例句：*  <br>
-*• 味を味わいます。(aji wo ajiwaimasu) - 我品嚐味道。*  <br>
-*• 料理をゆっくり味わいます。(ryouri wo yukkuri ajiwaimasu) - 我慢慢品嚐料理。*  <br>
-*• 美味しさを味わいます。(oishisa wo ajiwaimasu) - 我品嚐美味。*  <br>
+*• 味を味わいます。(aji o ajiwaimasu) - 我品嚐味道。*  <br>
+*• 料理をゆっくり味わいます。(ryouri o yukkuri ajiwaimasu) - 我慢慢品嚐料理。*  <br>
+*• 美味しさを味わいます。(oishisa o ajiwaimasu) - 我品嚐美味。*  <br>
 *• 一口ずつ味わって食べます。(hitokuchi zutsu ajiwatte tabemasu) - 我一口一口地品嚐著吃。*  <br>
 </div>  
 
@@ -557,7 +542,7 @@ image:
 *• この料理は美味しいです。(kono ryouri wa oishii desu) - 這道菜很好吃。*  <br>
 *• A: どうですか？(dou desu ka?) - 怎麼樣？*  <br>
 *• B: とても美味しいです！(totemo oishii desu!) - 非常好吃！*  <br>
-*• 美味しい料理をありがとうございます。(oishii ryouri wo arigatou gozaimasu) - 謝謝您美味的料理。*  <br>
+*• 美味しい料理をありがとうございます。(oishii ryouri o arigatou gozaimasu) - 謝謝您美味的料理。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -577,7 +562,7 @@ image:
 *• この料理は辛いです。(kono ryouri wa karai desu) - 這道菜很辣。*  <br>
 *• 辛いものが苦手です。(karai mono ga nigate desu) - 我不擅長吃辣的東西。*  <br>
 *• このカレーはとても辛いです。(kono karee wa totemo karai desu) - 這個咖哩很辣。*  <br>
-*• 辛い料理を食べます。(karai ryouri wo tabemasu) - 我吃辣的料理。*  <br>
+*• 辛い料理を食べます。(karai ryouri o tabemasu) - 我吃辣的料理。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -611,23 +596,23 @@ image:
 ### 點餐對話
 
 <div style="text-align: left">  
-**メニューを見せてください** (menyuu wo misete kudasai) - 請給我看菜單  <br>
+**メニューを見せてください** (menyuu o misete kudasai) - 請給我看菜單  <br>
 **Please show me the menu**  <br>
 *例句：*  <br>
-*• メニューを見せてください。(menyuu wo misete kudasai) - 請給我看菜單。*  <br>
+*• メニューを見せてください。(menyuu o misete kudasai) - 請給我看菜單。*  <br>
 *• A: いらっしゃいませ。何にしますか？(irasshaimase. nani ni shimasu ka?) - 歡迎光臨。要點什麼？*  <br>
-*• B: メニューを見せてください。(menyuu wo misete kudasai) - 請給我看菜單。*  <br>
-*• すみません、メニューをお願いします。(sumimasen, menyuu wo onegai shimasu) - 不好意思，請給我菜單。*  <br>
+*• B: メニューを見せてください。(menyuu o misete kudasai) - 請給我看菜單。*  <br>
+*• すみません、メニューをお願いします。(sumimasen, menyuu o onegai shimasu) - 不好意思，請給我菜單。*  <br>
 </div>  
 
 <div style="text-align: left">  
-**これを注文します** (kore wo chuumon shimasu) - 我要點這個  <br>
+**これを注文します** (kore o chuumon shimasu) - 我要點這個  <br>
 **I'll order this**  <br>
 *例句：*  <br>
-*• これを注文します。(kore wo chuumon shimasu) - 我要點這個。*  <br>
+*• これを注文します。(kore o chuumon shimasu) - 我要點這個。*  <br>
 *• A: どれにしますか？(dore ni shimasu ka?) - 要點哪個？*  <br>
-*• B: これを注文します。(kore wo chuumon shimasu) - 我要點這個。*  <br>
-*• この定食を注文します。(kono teishoku wo chuumon shimasu) - 我點這個定食。*  <br>
+*• B: これを注文します。(kore o chuumon shimasu) - 我要點這個。*  <br>
+*• この定食を注文します。(kono teishoku o chuumon shimasu) - 我點這個定食。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -637,7 +622,7 @@ image:
 *• おすすめは何ですか？(osusume wa nan desu ka?) - 推薦什麼？*  <br>
 *• A: おすすめは何ですか？(osusume wa nan desu ka?) - 推薦什麼？*  <br>
 *• B: 今日のおすすめは天ぷら定食です。(kyou no osusume wa tenpura teishoku desu) - 今天的推薦是天婦羅定食。*  <br>
-*• この店のおすすめを教えてください。(kono mise no osusume wo oshiete kudasai) - 請告訴我這家店的推薦。*  <br>
+*• この店のおすすめを教えてください。(kono mise no osusume o oshiete kudasai) - 請告訴我這家店的推薦。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -707,25 +692,24 @@ image:
 </div>  
 
 <div style="text-align: left">  
-**嫌いです** (kirai desu) - 不喜歡  <br>
+**嫌いです** (kirai desu) - 討厭  <br>
 **I don't like it**  <br>
 *例句：*  <br>
-*• 納豆が嫌いです。(nattou ga kirai desu) - 我不喜歡納豆。*  <br>
-*• 苦いものが嫌いです。(nigai mono ga kirai desu) - 我不喜歡苦的東西。*  <br>
-*• A: 何が嫌いですか？(nani ga kirai desu ka?) - 不喜歡什麼？*  <br>
-*• B: 魚が嫌いです。(sakana ga kirai desu) - 我不喜歡魚。*  <br>
-*• 嫌いな食べ物はありますか？(kirai na tabemono wa arimasu ka?) - 有不喜歡的食物嗎？*  <br>
+*• 納豆が嫌いです。(nattou ga kirai desu) - 我討厭納豆。*  <br>
+*• 苦いものが嫌いです。(nigai mono ga kirai desu) - 我討厭苦的東西。*  <br>
+*• A: 何が嫌いですか？(nani ga kirai desu ka?) - 討厭什麼？*  <br>
+*• B: 魚が嫌いです。(sakana ga kirai desu) - 我討厭魚。*  <br>
+*• 嫌いな食べ物はありますか？(kirai na tabemono wa arimasu ka?) - 有討厭的食物嗎？*  <br>
 </div>  
 
 <div style="text-align: left">  
-**苦手です** (nigate desu) - 不擅長  <br>
+**苦手です** (nigate desu) - 不擅長/不喜歡  <br>
 **I'm not good with it**  <br>
 *例句：*  <br>
-*• 辛いものが苦手です。(karai mono ga nigate desu) - 我不擅長吃辣的東西。*  <br>
-*• 魚が苦手です。(sakana ga nigate desu) - 我不擅長吃魚。*  <br>
-*• A: 何が苦手ですか？(nani ga nigate desu ka?) - 不擅長什麼？*  <br>
-*• B: 酸っぱいものが苦手です。(suppai mono ga nigate desu) - 我不擅長吃酸的東西。*  <br>
-*• 苦手な食べ物を避けます。(nigate na tabemono wo sakemasu) - 我避開不擅長的食物。*  <br>
+*• 辛いものが苦手です。(karai mono ga nigate desu) - 我不喜歡吃辣的食物。*  <br>
+*• A: 何が苦手ですか？(nani ga nigate desu ka?) - 不喜歡什麼？*  <br>
+*• B: 酸っぱいものが苦手です。(suppai mono ga nigate desu) - 我不喜歡吃酸的東西。*  <br>
+*• 苦手な食べ物を避けます。(nigate na tabemono o sakemasu) - 我避開不喜歡的食物。*  <br>
 </div>  
 
 <div style="text-align: left">  
@@ -736,52 +720,44 @@ image:
 *• この料理は美味しいです。(kono ryouri wa oishii desu) - 這道菜很好吃。*  <br>
 *• A: どうですか？(dou desu ka?) - 怎麼樣？*  <br>
 *• B: とても美味しいです！(totemo oishii desu!) - 非常好吃！*  <br>
-*• 美味しい料理をありがとうございます。(oishii ryouri wo arigatou gozaimasu) - 謝謝您美味的料理。*  <br>
+*• 美味しい料理をありがとうございます。(oishii ryouri o arigatou gozaimasu) - 謝謝您美味的料理。*  <br>
 </div>  
 
 ### 烹飪對話
 
 <div style="text-align: left">  
-**料理を作ります** (ryouri wo tsukurimasu) - 做料理  <br>
+**料理を作ります** (ryouri o tsukurimasu) - 做料理  <br>
 **I'll cook**  <br>
 *例句：*  <br>
-*• 今日は料理を作ります。(kyou wa ryouri wo tsukurimasu) - 今天我做料理。*  <br>
-*• 週末に料理を作ります。(shuumatsu ni ryouri wo tsukurimasu) - 週末做料理。*  <br>
-*• 家族のために料理を作ります。(kazoku no tame ni ryouri wo tsukurimasu) - 為家人做料理。*  <br>
-*• A: 何をしますか？(nani wo shimasu ka?) - 要做什麼？*  <br>
-*• B: 夕食の料理を作ります。(yuushoku no ryouri wo tsukurimasu) - 做晚餐的料理。*  <br>
+*• 週末に料理を作ります。(shuumatsu ni ryouri o tsukurimasu) - 週末做料理。*  <br>
+*• 家族のために料理を作ります。(kazoku no tame ni ryouri o tsukurimasu) - 為家人做料理。*  <br>
+*• A: 何をしますか？(nani o shimasu ka?) - 要做什麼？*  <br>
+*• B: 夕食の料理を作ります。(yuushoku no ryouri o tsukurimasu) - 做晚餐的料理。*  <br>
 </div>  
 
 <div style="text-align: left">  
 **手伝ってください** (tetsudatte kudasai) - 請幫忙  <br>
 **Please help me**  <br>
 *例句：*  <br>
-*• 料理を手伝ってください。(ryouri wo tetsudatte kudasai) - 請幫忙做料理。*  <br>
-*• 野菜を切るのを手伝ってください。(yasai wo kiru no wo tetsudatte kudasai) - 請幫忙切蔬菜。*  <br>
+*• 料理を手伝ってください。(ryouri o tetsudatte kudasai) - 請幫忙做料理。*  <br>
+*• 野菜を切るのを手伝ってください。(yasai o kiru no o tetsudatte kudasai) - 請幫忙切蔬菜。*  <br>
 *• A: 手伝いましょうか？(tetsudaimashou ka?) - 要我幫忙嗎？*  <br>
 *• B: はい、お願いします。(hai, onegai shimasu) - 好的，麻煩了。*  <br>
-*• 料理の準備を手伝ってください。(ryouri no junbi wo tetsudatte kudasai) - 請幫忙準備料理。*  <br>
 </div>  
 
 <div style="text-align: left">  
-**材料を買います** (zairyou wo kaimasu) - 買材料  <br>
+**材料を買います** (zairyou o kaimasu) - 買材料  <br>
 **I'll buy ingredients**  <br>
 *例句：*  <br>
-*• スーパーで材料を買います。(suupaa de zairyou wo kaimasu) - 在超市買材料。*  <br>
-*• 料理の材料を買いに行きます。(ryouri no zairyou wo kai ni ikimasu) - 去買料理的材料。*  <br>
-*• 必要な材料を買います。(hitsuyou na zairyou wo kaimasu) - 我買需要的材料。*  <br>
-*• A: どこで材料を買いますか？(doko de zairyou wo kaimasu ka?) - 在哪裡買材料？*  <br>
-*• B: スーパーで買います。(suupaa de kaimasu) - 在超市買。*  <br>
+*• スーパーで材料を買います。(suupaa de zairyou o kaimasu) - 在超市買材料。*  <br>
 </div>  
 
 <div style="text-align: left">  
-**レシピを見ます** (reshipi wo mimasu) - 看食譜  <br>
+**レシピを見ます** (reshipi o mimasu) - 看食譜  <br>
 **I'll look at the recipe**  <br>
 *例句：*  <br>
-*• レシピを見て作ります。(reshipi wo mite tsukurimasu) - 看食譜來做。*  <br>
-*• レシピを見ながら料理を作ります。(reshipi wo minagara ryouri wo tsukurimasu) - 一邊看食譜一邊做料理。*  <br>
-*• 新しいレシピを見ます。(atarashii reshipi wo mimasu) - 我看新的食譜。*  <br>
-*• インターネットでレシピを探します。(intaanetto de reshipi wo sagashimasu) - 在網路上找食譜。*  <br>
+*• レシピを見ながら料理を作ります。(reshipi o minagara ryouri o tsukurimasu) - 一邊看食譜一邊做料理。*  <br>
+*• インターネットでレシピを探します。(intaanetto de reshipi o sagashimasu) - 在網路上找食譜。*  <br>
 </div>  
 
 ### 重點句型
