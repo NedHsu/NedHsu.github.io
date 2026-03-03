@@ -1,460 +1,327 @@
 ---
-title: 日語對話 - 計程車叫車與預約
+title: 日語對話 - 計程車搭乘指南 (タクシー)
 date: 2025-02-07 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 日語對話] 
-excerpt: 學習在日本搭乘計程車時常用的日語對話，包括叫車、預約、告知目的地、詢問價格和付款等實用情境。每個情境都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，幫助您更好地理解和記憶。
+tags: [日語, Japanese, 日語對話, 交通] 
+excerpt: 學習在日本搭乘計程車(タクシー)時常用的實用日語對話，包括攔車、告知目的地、指示路線、詢問預估車資、以及付款索取收據。
+image:
+  path: /assets/img/jp/2025-02-07-Japanese-Conversation-Daily-18/路邊叫車.webp
 ---
 
 ## 課程預覽
 
-今天我們將學習計程車的對話：
-1. 路邊叫車
-2. 電話預約
-3. 告知目的地
-4. 詢問價格
-5. 付款下車
+在日本搭計程車（タクシー）雖然不便宜，但提著大件行李或深夜沒有電車時非常方便。本篇將介紹搭車時最實用的 5 個情境：
+1. 路邊攔車與確認付款方式 (タクシーを拾う)
+2. 告知目的地與預估車資 (行き先を伝える)
+3. 指示路線與停車位置 (道案内と降車)
+4. APP或飯店代叫車 (配車アプリ・ホテル)
+5. 結帳與索取收據 (お会計と領収書)
 
 ---
 
-## 情境 1: 路邊叫車
+## 情境 1: 路邊攔車與確認付款方式 (タクシーを拾う)
 
 ![叫車](/assets/img/jp/2025-02-07-Japanese-Conversation-Daily-18/路邊叫車.webp)
 
 <div style="text-align: left">  
 
-**乗客:** すみません、空車ですか？  <br>
-(sumimasen, kuusha desu ka?)  <br>
-不好意思，是空車嗎？  <br>
-**Excuse me, are you free?**  <br>
+**乗客:** （車門自動打開後）すみません、クレジットカードは使えますか？  <br>
+(sumimasen, kurejitto kaado wa tsukaemasu ka?)  <br>
+不好意思，請問可以使用信用卡嗎？  <br>
+**Excuse me, can I use a credit card?**  <br>
 </div>  
 
 <br>  
 
 <div style="text-align: right">  
 
-**運転手:** はい、お乗りください。  <br>
-(hai, onori kudasai.)  <br>
-好的，請上車。  <br>
-**Yes, please get in.**  <br>
+**運転手:** はい、ご利用いただけます。どうぞご乗車ください。  <br>
+(hai, goriyou itadakemasu. douzo gojousha kudasai.)  <br>
+是的，可以使用。請上車。  <br>
+**Yes, you can. Please get in.**  <br>
 </div>  
+
+<br>  
 
 <div style="text-align: left">  
 
-**乗客:** クレジットカードは使えますか？  <br>
-(kurejitto kaado wa tsukaemasu ka?)  <br>
-可以刷卡嗎？  <br>
-**Can I use a credit card?**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**運転手:** はい、ご利用いただけます。  <br>
-(hai, goriyou itadakemasu.)  <br>
-可以使用。  <br>
-**Yes, you can.**  <br>
-</div>  
-
-<div style="text-align: left">  
-
-**乗客:** どのくらいで到着しますか？  <br>
-(dono kurai de touchaku shimasu ka?)  <br>
-大約多久能到？  <br>
-**How long will it take to arrive?**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**運転手:** 交通状況によりますが、15分ほどです。  <br>
-(koutsuu joukyou ni yorimasu ga, juugofun hodo desu.)  <br>
-視交通狀況，大約15分鐘。  <br>
-**It depends on traffic, but about 15 minutes.**  <br>
-</div>  
-
-<div style="text-align: left">  
-
-**乗客:** ありがとうございます。  <br>
-(arigatou gozaimasu.)  <br>
-謝謝您。  <br>
-**Thank you.**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**運転手:** ありがとうございます。  <br>
-(arigatou gozaimasu.)  <br>
-謝謝您。  <br>
-**Thank you.**  <br>
-</div>
-
-### 重點句型
-- タクシーを呼びたいのですが。(takushii o yobitai no desu ga) - 我想叫計程車
-- お乗りください。(onori kudasai) - 請上車
-- 空車はありますか？(kuusha wa arimasu ka?) - 有空車嗎？
-
-### 相關單字
-- タクシー (takushii) - 計程車
-- 空車 (kuusha) - 空車
-- 乗車 (jousha) - 上車
-- 運転手 (untenshu) - 司機
-- 料金 (ryoukin) - 車資
-
----
-
-## 情境 2: 電話預約
-
-![預約](/assets/img/jp/2025-02-07-Japanese-Conversation-Daily-18/電話預約.webp)
-
-<div style="text-align: left">  
-
-**乗客:** タクシーを予約したいです。  <br>
-(takushii o yoyaku shitai desu.)  <br>
-我想預約計程車。  <br>
-**I'd like to book a taxi.**  <br>
+**乗客:** トランクに荷物を入れてもいいですか？  <br>
+(toranku ni nimotsu o irete mo ii desu ka?)  <br>
+可以把行李放進行李箱嗎？  <br>
+**Can I put my luggage in the trunk?**  <br>
 </div>  
 
 <br>  
 
 <div style="text-align: right">  
 
-**オペレーター:** 何時にお迎えに参りましょうか？  <br>
-(nanji ni omukae ni mairimashou ka?)  <br>
-什麼時候來接您？  <br>
-**What time should we pick you up?**  <br>
+**運転手:** はい、開けますね。お手伝いします。  <br>
+(hai, akemasu ne. otetsudai shimasu.)  <br>
+好的，我幫您打開。我來幫忙。  <br>
+**Yes, I'll open it. Let me help you.**  <br>
 </div>  
-
-<div style="text-align: left">  
-
-**乗客:** 午後3時にお願いします。  <br>
-(gogo sanji ni onegai shimasu.)  <br>
-請下午三點來。  <br>
-**Please come at 3 p.m.**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**オペレーター:** かしこまりました。お名前と電話番号をお願いします。  <br>
-(kashikomarimashita. onamae to denwa bangou o onegai shimasu.)  <br>
-好的，請提供您的姓名和電話號碼。  <br>
-**Certainly. May I have your name and phone number?**  <br>
-</div>  
-
-<div style="text-align: left">  
-
-**乗客:** 田中と申します。電話番号は090-1234-5678です。  <br>
-(tanaka to moushimasu. denwa bangou wa zero kyuu zero no ichi ni san yon no go roku nana hachi desu.)  <br>
-我姓田中，電話號碼是090-1234-5678。  <br>
-**My name is Tanaka. My phone number is 090-1234-5678.**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**オペレーター:** ありがとうございます。タクシーは午後3時に到着予定です。  <br>
-(arigatou gozaimasu. takushii wa gogo sanji ni touchaku yotei desu.)  <br>
-謝謝您，計程車預計下午三點到達。  <br>
-**Thank you. The taxi is scheduled to arrive at 3 p.m.**  <br>
-</div>  
-
-<div style="text-align: left">  
-
-**乗客:** わかりました。  <br>
-(wakarimashita.)  <br>
-了解。  <br>
-**Understood.**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**オペレーター:** かしこまりました。よろしくお願いいたします。  <br>
-(kashikomarimashita. yoroshiku onegai itashimasu.)  <br>
-好的，麻煩您了。  <br>
-**Certainly. Thank you.**  <br>
-</div>
 
 ### 重點句型
-- タクシーを予約したいです。(takushii o yoyaku shitai desu) - 我想預約計程車
-- 何時にお迎えに参りましょうか？(nanji ni omukae ni mairimashou ka?) - 什麼時候來接您？
-- ～時にお願いします。(~ji ni onegai shimasu) - 請在...點來接我
-
-### 相關單字
-- 予約 (yoyaku) - 預約
-- お迎え (omukae) - 接人
-- 時間 (jikan) - 時間
-- 場所 (basho) - 地點
-- 連絡先 (renrakusaki) - 聯絡方式
+- ～は使えますか？(~wa tsukaemasu ka?) - 可以使用...嗎？
+- トランク (toranku) - 後車廂
+- 荷物を入れる (nimotsu o ireru) - 放行李
 
 ---
 
-## 情境 3: 告知目的地
+## 情境 2: 告知目的地與預估車資 (行き先を伝える)
 
 ![目的地](/assets/img/jp/2025-02-07-Japanese-Conversation-Daily-18/告知目的地.webp)
 
 <div style="text-align: left">  
 
-**乗客:** 東京駅までお願いします。  <br>
-(toukyou eki made onegai shimasu.)  <br>
-請載我到東京站。  <br>
-**Please take me to Tokyo Station.**  <br>
+**運転手:** お客さん、どちらまで行かれますか？  <br>
+(okyakusan, dochira made ikaremasu ka?)  <br>
+客人，請問您要到哪裡？  <br>
+**Where to, sir/ma'am?**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: left">  
+
+**乗客:** 新宿駅の東口までお願いします。  <br>
+(shinjuku eki no higashiguchi made onegai shimasu.)  <br>
+請載我到新宿車站的東口。  <br>
+**To the east exit of Shinjuku Station, please.**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: left">  
+
+**乗客:** だいたい、いくらくらいかかりますか？  <br>
+(daitai, ikura kurai kakarimasu ka?)  <br>
+大概要花多少錢呢？  <br>
+**Roughly how much will it cost?**  <br>
 </div>  
 
 <br>  
 
 <div style="text-align: right">  
 
-**運転手:** はい、かしこまりました。  <br>
-(hai, kashikomarimashita.)  <br>
-好的，我知道了。  <br>
-**Yes, I understand.**  <br>
+**運転手:** 道が混んでいなければ、2,000円くらいですね。  <br>
+(michi ga konde inakereba, nisen en kurai desu ne.)  <br>
+如果不塞車的話，大約 2,000 日圓左右。  <br>
+**If the roads aren't congested, about 2,000 yen.**  <br>
 </div>  
+
+<br>  
 
 <div style="text-align: left">  
 
-**乗客:** 東京駅までどのくらいかかりますか？  <br>
-(toukyou eki made dono kurai kakarimasu ka?)  <br>
-到東京站大約需要多久？  <br>
-**How long will it take to get to Tokyo Station?**  <br>
+**乗客:** わかりました。急いでいるので、高速（道路）を使ってください。  <br>
+(wakarimashita. isoide iru node, kousoku (douro) o tsukatte kudasai.)  <br>
+知道了。因為我趕時間，請走高速公路。  <br>
+**I see. I'm in a hurry, so please use the highway.**  <br>
 </div>  
-
-<div style="text-align: right">  
-
-**運転手:** 交通状況によりますが、30分ほどです。  <br>
-(koutsuu joukyou ni yorimasu ga, sanjuppun hodo desu.)  <br>
-視交通狀況，大約30分鐘。  <br>
-**It depends on traffic, but about 30 minutes.**  <br>
-</div>  
-
-<div style="text-align: left">  
-
-**乗客:** 料金はどのくらいになりますか？  <br>
-(ryoukin wa dono kurai ni narimasu ka?)  <br>
-車資大概多少？  <br>
-**How much will the fare be?**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**運転手:** 交通状況にもよりますが、だいたい2,000円くらいです。  <br>
-(koutsuu joukyou ni mo yorimasu ga, daitai nisen en kurai desu.)  <br>
-視交通狀況而定，大概2,000日圓左右。  <br>
-**It depends on traffic, but it's roughly around 2,000 yen.**  <br>
-</div>  
-
-<div style="text-align: left">  
-
-**乗客:** ありがとうございます。  <br>
-(arigatou gozaimasu.)  <br>
-謝謝您。  <br>
-**Thank you.**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**運転手:** ありがとうございます。  <br>
-(arigatou gozaimasu.)  <br>
-謝謝您。  <br>
-**Thank you.**  <br>
-</div>
 
 ### 重點句型
-- ～までお願いします。(~made onegai shimasu) - 請載我到...
-- かしこまりました。(kashikomarimashita) - 好的，我知道了
-- どのくらいかかりますか？(dono kurai kakarimasu ka?) - 需要多久？
-
-### 相關單字
-- 目的地 (mokutekichi) - 目的地
-- 駅 (eki) - 車站
-- 時間 (jikan) - 時間
-- 距離 (kyori) - 距離
-- 料金 (ryoukin) - 車資
+- どちらまで？(dochira made?) - 去哪裡？
+- ～までお願いします。(~made onegai shimasu) - 請到...
+- だいたい、いくらくらいかかりますか？(daitai, ikura kurai kakarimasu ka?) - 大概要多少錢？
+- 急いでいるので (isoide iru node) - 因為趕時間
 
 ---
 
-## 情境 4: 詢問價格
+## 情境 3: 指示路線與停車位置 (道案内と降車)
 
 ![價格](/assets/img/jp/2025-02-07-Japanese-Conversation-Daily-18/詢問價格.webp)
 
 <div style="text-align: left">  
 
-**乗客:** ここまででお願いします。  <br>
-(koko made de onegai shimasu.)  <br>
-請在這裡停。  <br>
-**Please stop here.**  <br>
+**乗客:** 次の信号を右に曲がってください。  <br>
+(tsugi no shingou o migi ni magatte kudasai.)  <br>
+請在下一個紅綠燈右轉。  <br>
+**Please turn right at the next traffic light.**  <br>
 </div>  
 
 <br>  
 
 <div style="text-align: right">  
 
-**運転手:** メーターは2,000円です。  <br>
-(meetaa wa nisen en desu.)  <br>
-跳表顯示是2,000日圓。  <br>
-**The meter reads 2,000 yen.**  <br>
+**運転手:** はい、右ですね。  <br>
+(hai, migi desu ne.)  <br>
+好的，右轉對吧。  <br>
+**Okay, turning right.**  <br>
 </div>  
+
+<br>  
 
 <div style="text-align: left">  
 
-**乗客:** 追加料金はありますか？  <br>
-(tsuika ryoukin wa arimasu ka?)  <br>
-有額外費用嗎？  <br>
-**Are there any extra charges?**  <br>
+**乗客:** その先のコンビニの手前で止めてください。  <br>
+(sono saki no konbini no temae de tomete kudasai.)  <br>
+請停在前面那家便利商店的前面。  <br>
+**Please stop just before the convenience store ahead.**  <br>
 </div>  
+
+<br>  
 
 <div style="text-align: right">  
 
-**運転手:** 深夜料金や高速道路料金は別途かかります。  <br>
-(shinya ryoukin ya kousoku douro ryoukin wa betto kakarimasu.)  <br>
-深夜加成和高速公路過路費是另外算的。  <br>
-**Late night surcharges and highway tolls are extra.**  <br>
+**運転手:** ここでよろしいですか？  <br>
+(koko de yoroshii desu ka?)  <br>
+停在這裡可以嗎？  <br>
+**Is here okay?**  <br>
 </div>  
+
+<br>  
 
 <div style="text-align: left">  
 
-**乗客:** わかりました。  <br>
-(wakarimashita.)  <br>
-了解。  <br>
-**Understood.**  <br>
+**乗客:** はい、大丈夫です。  <br>
+(hai, daijoubu desu.)  <br>
+是的，沒問題。  <br>
+**Yes, that's fine.**  <br>
 </div>  
-
-<div style="text-align: right">  
-
-**運転手:** かしこまりました。  <br>
-(kashikomarimashita.)  <br>
-好的。  <br>
-**Certainly.**  <br>
-</div>
 
 ### 重點句型
-- ここまででお願いします。(koko made de onegai shimasu) - 請在這裡停
-- メーターは～円です。(meetaa wa ~en desu) - 跳表顯示是...日圓
-- 追加料金はありますか？(tsuika ryoukin wa arimasu ka?) - 有額外費用嗎？
-
-### 相關單字
-- 料金 (ryoukin) - 車資
-- 大体 (daitai) - 大概
-- 追加料金 (tsuika ryoukin) - 額外費用
-- メーター (meetaa) - 計費表
-- 支払い (shiharai) - 付款
+- 右に曲がる (migi ni magaru) / 左に曲がる (hidari ni magaru) - 右轉 / 左轉
+- まっすぐ (massugu) - 直走
+- ～の手前で止めてください (~no temae de tomete kudasai) - 請停在...的前面
 
 ---
 
-## 情境 5: 付款下車
+## 情境 4: 飯店代叫車或使用 APP (配車アプリ・ホテル)
+
+![預約](/assets/img/jp/2025-02-07-Japanese-Conversation-Daily-18/電話預約.webp)
+
+<div style="text-align: left">  
+
+**顧客:** すみません、明日の朝8時にタクシーを1台呼んでもらえませんか？  <br>
+(sumimasen, ashita no asa hachiji ni takushii o ichidai yonde moraemasen ka?)  <br>
+*(對飯店櫃檯說)* 不好意思，可以幫我叫一台明天早上8點的計程車嗎？  <br>
+**Excuse me, could you call a taxi for me for 8 a.m. tomorrow?**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+
+**ホテルのスタッフ:** かしこまりました。どこへ行かれますか？  <br>
+(kashikomarimashita. doko e ikaremasu ka?)  <br>
+好的。請問您要搭到哪裡？  <br>
+**Certainly. Where will you be going?**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: left">  
+
+**顧客:** 成田空港までです。荷物が大きいので、大きめの車がいいです。  <br>
+(narita kuukou made desu. nimotsu ga ookii node, ookime no kuruma ga ii desu.)  <br>
+要到成田機場。因為行李很大，希望能叫大一點的車。  <br>
+**To Narita Airport. Since I have large luggage, a larger car would be good.**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+
+**ホテルのスタッフ:** 承知いたしました。迎車料金が別途かかりますがよろしいでしょうか？  <br>
+(shouchi itashimashita. geisha ryoukin ga betto kakarimasu ga yoroshii deshou ka?)  <br>
+明白了。會另外收取叫車費（派車費），可以嗎？  <br>
+**Understood. There will be an additional pick-up fee. Is that alright?**  <br>
+</div>  
+
+### 重點句型
+- タクシーを呼んでもらえませんか？(takushii o yonde moraemasen ka?) - 可以幫我叫計程車嗎？
+- 迎車料金 (geisha ryoukin) - 叫車費/派車費（日本叫車通常會加收這筆費用）
+- 大きめの車 (ookime no kuruma) - 大一點的車
+
+---
+
+## 情境 5: 結帳與索取收據 (お会計と領収書)
 
 ![付款](/assets/img/jp/2025-02-07-Japanese-Conversation-Daily-18/付款下車.webp)
 
 <div style="text-align: left">  
 
-**乗客:** お釣りは結構です。  <br>
-(otsuri wa kekkou desu.)  <br>
-不用找零了。  <br>
-**Keep the change.**  <br>
+**乗客:** いくらですか？  <br>
+(ikura desu ka?)  <br>
+多少錢？  <br>
+**How much is it?**  <br>
 </div>  
 
 <br>  
 
 <div style="text-align: right">  
 
-**運転手:** ありがとうございます。  <br>
-(arigatou gozaimasu.)  <br>
-謝謝您。  <br>
-**Thank you very much.**  <br>
+**運転手:** メーターは2,500円です。高速代が700円ですので、合計3,200円になります。  <br>
+(meetaa wa nisen gohyaku en desu. kousokudai ga nanahyaku en desu node, goukei sanzen nihyaku en ni narimasu.)  <br>
+跳表是 2,500 日圓。高速公路過路費是 700 日圓，總共是 3,200 日圓。  <br>
+**The meter is 2,500 yen. The highway toll is 700 yen, so the total is 3,200 yen.**  <br>
 </div>  
+
+<br>  
 
 <div style="text-align: left">  
 
-**乗客:** 領収書をお願いします。  <br>
-(ryoushuusho o onegai shimasu.)  <br>
-請給我收據。  <br>
-**Receipt, please.**  <br>
+**乗客:** 交通系ICカード（Suica/PASMO）で払います。  <br>
+(koutsuukei aishii kaado de haraimasu.)  <br>
+我要用交通IC卡（Suica/PASMO）付款。  <br>
+**I'll pay with a transportation IC card.**  <br>
 </div>  
+
+<br>  
 
 <div style="text-align: right">  
 
-**運転手:** かしこまりました。  <br>
-(kashikomarimashita.)  <br>
-好的，馬上給您。  <br>
-**Certainly.**  <br>
+**運転手:** はい、こちらにタッチしてください。  <br>
+(hai, kochira ni tacchi shite kudasai.)  <br>
+好的，請感應這裡。  <br>
+**Okay, please touch here.**  <br>
 </div>  
+
+<br>  
 
 <div style="text-align: left">  
 
-**乗客:** 今日はありがとうございました。  <br>
-(kyou wa arigatou gozaimashita.)  <br>
-今天謝謝您。  <br>
-**Thank you for today.**  <br>
+**乗客:** 領収書をもらえますか？  <br>
+(ryoushuusho o moraemasu ka?)  <br>
+可以給我收據嗎？  <br>
+**Can I have a receipt?**  <br>
 </div>  
+
+<br>  
 
 <div style="text-align: right">  
 
-**運転手:** こちらこそ、ありがとうございました。またのご利用をお待ちしております。  <br>
-(kochira koso, arigatou gozaimashita. mata no goriyou o omachi shite orimasu.)  <br>
-不客氣，期待您再次光臨。  <br>
-**Thank you as well. We look forward to serving you again.**  <br>
-</div>
+**運転手:** はい、こちらです。忘れ物にご注意ください。  <br>
+(hai, kochira desu. wasuremono ni gochuui kudasai.)  <br>
+好的，這是您的收據。下車時請注意不要遺忘物品。  <br>
+**Yes, here it is. Please be careful not to leave anything behind.**  <br>
+</div>  
 
 ### 重點句型
-- お釣りは結構です。(otsuri wa kekkou desu) - 不用找零了
-- ありがとうございます。(arigatou gozaimasu) - 謝謝您
-- 領収書をお願いします。(ryoushuusho o onegai shimasu) - 請給我收據
-
-### 相關單字
-- お釣り (otsuri) - 找零
-- 領収書 (ryoushuusho) - 收據
-- 支払い (shiharai) - 付款
-- 現金 (genkin) - 現金
-- カード (kaado) - 信用卡
+- 領収書をもらえますか？(ryoushuusho o moraemasu ka?) - 可以給我收據嗎？（搭車必索取，若遺失物品才有聯絡資訊）
+- 高速代 (kousokudai) - 高速公路過路費
+- 忘れ物 (wasuremono) - 遺失物
 
 ---
 
 ## 文化小知識
 
-### 小故事：田中さんのタクシー体験
+### 1. 自動開關的後車門
+日本計程車最讓外國人驚訝的，就是**「左後方的車門是自動開關的」**！司機會透過駕駛座的拉桿控制車門。請千萬不要自己用手去拉車門，這不僅容易弄壞機械，也可能不小心夾到手。您只需要站在門口等門打開，上車坐好即可。
 
-田中さんは、初めて日本でタクシーを利用しました。少し緊張していましたが、運転手の親切な対応で安心しました。
+### 2. 「空車」與「割増」的標誌
+在路上攔車時，請看計程車擋風玻璃右下角的霓虹燈牌：
+- **空車 (Kuusha):** 紅字，表示無人搭乘，可以招手攔車。
+- **賃走 (Chinso):** 綠字，表示已經載客。
+- **割増 (Warimashi):** 綠字，通常在深夜（22:00～清晨5:00）出現，代表現在是深夜加成時段（車資增加約20%）。
 
-**タクシーの呼び方：**
-田中さんは路上でタクシーを呼び、「すみません、空車ですか？」と尋ねました。運転手は「はい、お乗りください」と答えました。
+### 3. 為什麼一定要拿「領収書 (收據)」？
+下車時，強烈建議向司機索取收據（領収書 / Ryoushuusho）。因為收據上會印有**車行名稱、電話以及車輛編號**。如果您下車後發現手機或錢包掉在車上，這張收據是您找回失物唯一的救命線！
 
-**目的地の告知：**
-田中さんは「東京駅までお願いします」と伝え、運転手は「かしこまりました」と答えました。
+### 小故事：約翰的「暴力」關門
 
-**料金の確認：**
-田中さんは「料金はどのくらいになりますか？」と尋ね、運転手は「だいたい2,000円くらいです」と答えました。
-
-**支払いの流れ：**
-田中さんは「お釣りは結構です」と伝え、運転手は「ありがとうございます」と感謝しました。
-
-**タクシーの降り方：**
-田中さんは「今日はありがとうございました」と伝え、運転手は「またのご利用をお待ちしております」と笑顔で送り出しました。
-
-### 小故事：山田さんのタクシー文化体験
-
-山田花子さんは、日本のタクシー文化に興味がある外国人留学生です。今日は日本のタクシーを利用し、その文化を学びました。
-
-**日本のタクシー文化の特徴：**
-山田さんは運転手に「日本のタクシー文化の特徴は何ですか？」と尋ねました。運転手は「日本では、事前に目的地を告げ、料金を確認することができます」と説明してくれました。
-
-**タクシーの選択について：**
-山田さんは「おすすめのタクシー会社はありますか？」と伝えると、運転手が丁寧に説明してくれました。山田さんは日本のサービスの細やかさに感心しました。
-
-**料金の確認：**
-山田さんは「追加料金はありますか？」と尋ね、運転手から「深夜料金や高速道路料金は別途かかります」と説明を受けました。事前に確認できると安心だと感じました。
-
-**支払いと領収書：**
-山田さんは「領収書をお願いします」と伝えると、運転手は「かしこまりました」と対応してくれました。ビジネス利用では領収書をお願いすることが多いです。
-
-### 文化のポイント
-
-**1. 事前確認の重要性**
-日本のタクシーでは、事前に目的地を告げることで、スムーズにサービスを受けることができます。特に人気のあるタクシーでは、事前確認が推奨されます。
-
-**2. タクシーの選択肢**
-日本のタクシーでは、さまざまなタクシー会社を選ぶことができます。利用目的に応じて、最適なタクシーを選ぶことが大切です。
-
-**3. 料金システムの明確さ**
-日本では、サービスごとに明確な料金が設定されており、事前に確認することができます。安心してサービスを受けるために、料金を確認することが重要です。
-
-**4. サービスの過程と連絡**
-日本では、サービスの過程や時間について事前に説明があり、終了後には連絡をもらうことができます。安心してサービスを受けることができます。
-
-**5. 支払い方法の多様性**
-日本のタクシーでは、車両や地域によって利用できる支払い方法が異なる場合があります。乗車前に「クレジットカードは使えますか？」と確認すると安心です。 
+來自美國的約翰第一次到東京，提著大行李好不容易攔到了一輛計程車。
+門自動彈開時他嚇了一跳，但還是順利上車了。到了飯店，約翰付完錢後，習慣性地轉身、「砰！」的一聲重重地把車門甩上。
+司機阿伯嚇得從座位上彈了起來，搖下車窗無奈地喊：「お客さん！自動ドアですよ！（客人！這是自動門啊！）」
+約翰這才意識到自己的「粗魯」，連忙鞠躬道歉。從此以後，他在日本搭計程車，下車後都乖乖地像個木頭人一樣站在旁邊，看著車門緩緩關上才敢離開。

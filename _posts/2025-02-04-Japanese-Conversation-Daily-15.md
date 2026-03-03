@@ -1,460 +1,314 @@
 ---
-title: 日語對話 - 郵局寄包裹與郵務
+title: 日語對話 - 郵局寄包裹與郵務 (郵便局)
 date: 2025-02-04 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 日語對話] 
-excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄包裹、寄信、購買郵票、查詢郵件和郵政儲蓄等實用情境。每個情境都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，幫助您更好地理解和記憶。
+tags: [日語, Japanese, 日語對話, 生活] 
+excerpt: 學習在日本郵局辦理業務時常用的日語對話，包括寄送國際包裹、購買郵票與明信片、郵件追蹤查詢，以及特殊信件(如掛號信)的寄送方法。
+image:
+  path: /assets/img/jp/2025-02-04-Japanese-Conversation-Daily-15/寄包裹.webp
 ---
 
 ## 課程預覽
 
-今天我們將學習郵局和郵務的對話：
-1. 寄包裹
-2. 寄信與明信片
-3. 購買郵票
-4. 查詢郵件
-5. 郵政儲蓄
+在日本生活或旅遊時，去郵局（郵便局）寄送行李或明信片是很常見的。本篇將介紹 5 個最實用的郵局情境：
+1. 寄送國際包裹 (海外へ荷物を送る)
+2. 寄信與明信片 (手紙・はがきを出す)
+3. 購買郵票 (切手を買う)
+4. 寄送掛號信 (書留で送る)
+5. 查詢郵件狀況 (配達状況の確認)
 
 ---
 
-## 情境 1: 寄包裹
+## 情境 1: 寄送國際包裹 (海外へ荷物を送る)
 
 ![包裹](/assets/img/jp/2025-02-04-Japanese-Conversation-Daily-15/寄包裹.webp)
 
 <div style="text-align: left">  
 
-**顧客:** この荷物を送りたいのですが。  <br>
-(kono nimotsu o okuritai no desu ga.)  <br>
-我想寄這個包裹。  <br>
-**I'd like to send this package.**  <br>
+**顧客:** すみません、この荷物を台湾に送りたいのですが。  <br>
+(sumimasen, kono nimotsu o taiwan ni okuritai no desu ga.)  <br>
+不好意思，我想把這個包裹寄到台灣。  <br>
+**Excuse me, I'd like to send this package to Taiwan.**  <br>
 </div>  
 
 <br>  
 
 <div style="text-align: right">  
 
-**郵局職員:** 送り先の住所を教えていただけますか？  <br>
-(okurisaki no juusho o oshiete itadakemasu ka?)  <br>
-請告訴我收件地址。  <br>
-**Could you tell me the recipient's address?**  <br>
+**郵局職員:** かしこまりました。発送方法はEMS（国際スピード郵便）、航空便、船便のどれになさいますか？  <br>
+(kashikomarimashita. hassou houhou wa ii emu esu, koukuubin, funabin no dore ni nasaimasu ka?)  <br>
+好的。寄送方式要選擇EMS（國際快捷）、航空便還是海運呢？  <br>
+**Certainly. Which shipping method would you like: EMS, airmail, or surface mail?**  <br>
 </div>  
+
+<br>  
 
 <div style="text-align: left">  
 
-**顧客:** こちらが住所です。  <br>
-(kochira ga juusho desu.)  <br>
-這是地址。  <br>
-**Here's the address.**  <br>
+**顧客:** EMSでお願いします。どのくらいで届きますか？  <br>
+(ii emu esu de onegai shimasu. dono kurai de todokimasu ka?)  <br>
+請用EMS。大概要多久才會到？  <br>
+**EMS, please. How long will it take to arrive?**  <br>
 </div>  
+
+<br>  
 
 <div style="text-align: right">  
 
-**郵局職員:** ありがとうございます。料金は1,500円になります。  <br>
-(arigatou gozaimasu. ryoukin wa sen gohyaku en ni narimasu.)  <br>
-謝謝您。費用是1,500日圓。  <br>
-**Thank you. That will be 1,500 yen.**  <br>
+**郵局職員:** 台湾でしたら、通常3日ほどで到着します。中身は何ですか？  <br>
+(taiwan deshita ra, tsuujou mikka hodo de touchaku shimasu. nakami wa nan desu ka?)  <br>
+如果是台灣的話，通常3天左右會到。裡面裝的是什麼？  <br>
+**To Taiwan, it usually takes about 3 days. What are the contents?**  <br>
 </div>  
+
+<br>  
 
 <div style="text-align: left">  
 
-**顧客:** 届くまでどのくらいかかりますか？  <br>
-(todoku made dono kurai kakarimasu ka?)  <br>
-寄到那邊要多久？  <br>
-**How long will it take to arrive?**  <br>
+**顧客:** お菓子と服です。  <br>
+(okashi to fuku desu.)  <br>
+是零食和衣服。  <br>
+**Snacks and clothes.**  <br>
 </div>  
+
+<br>  
 
 <div style="text-align: right">  
 
-**郵局職員:** 通常は3日ほどで届きます。  <br>
-(tsuujou wa mikka hodo de todokimasu.)  <br>
-通常需要3天左右。  <br>
-**It usually takes about 3 days.**  <br>
+**郵局職員:** かしこまりました。では、こちらのラベルに英語でご記入をお願いします。  <br>
+(kashikomarimashita. dewa, kochira no raberu ni eigo de gokinyuu o onegai shimasu.)  <br>
+好的。那麼請用英文填寫這張托運單。  <br>
+**Understood. Then, please fill out this label in English.**  <br>
 </div>  
-
-<div style="text-align: left">  
-
-**顧客:** ありがとうございます。  <br>
-(arigatou gozaimasu.)  <br>
-謝謝您。  <br>
-**Thank you.**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**郵局職員:** かしこまりました。  <br>
-(kashikomarimashita.)  <br>
-不客氣。  <br>
-**You're welcome.**  <br>
-</div>
 
 ### 重點句型
-- この荷物を送りたいのですが。(kono nimotsu o okuritai no desu ga) - 我想寄這個包裹
-- 送り先の住所を教えていただけますか？(okurisaki no juusho o oshiete itadakemasu ka?) - 請告訴我收件地址
-- 料金はいくらですか？(ryoukin wa ikura desu ka?) - 費用是多少？
+- ～に送りたいのですが。(~ni okuritai no desu ga) - 我想寄到...
+- 発送方法 (hassou houhou) - 寄送方式
+- 中身は何ですか？(nakami wa nan desu ka?) - 內容物是什麼？
 
 ### 相關單字
-- 荷物 (nimotsu) - 包裹
-- 送り先 (okurisaki) - 收件人
-- 住所 (juusho) - 地址
-- 郵便番号 (yuubin bangou) - 郵遞區號
-- 料金 (ryoukin) - 費用
+- EMS (国際スピード郵便) - 國際快捷
+- 航空便 (koukuubin) - 空運
+- 船便 (funabin) - 海運
+- ラベル (raberu) / 伝票 (denpyou) - 托運單/標籤
 
 ---
 
-## 情境 2: 寄信與明信片
+## 情境 2: 寄信與明信片 (手紙・はがきを出す)
 
 ![信件](/assets/img/jp/2025-02-04-Japanese-Conversation-Daily-15/寄信與明信片.webp)
 
 <div style="text-align: left">  
 
-**顧客:** 手紙を送りたいです。  <br>
-(tegami o okuritai desu.)  <br>
-我想寄信。  <br>
-**I'd like to send a letter.**  <br>
+**顧客:** このはがきをアメリカに送りたいです。  <br>
+(kono hagaki o amerika ni okuritai desu.)  <br>
+我想把這張明信片寄到美國。  <br>
+**I'd like to send this postcard to America.**  <br>
 </div>  
 
 <br>  
 
 <div style="text-align: right">  
 
-**郵局職員:** 切手は貼りましたか？  <br>
-(kitte wa harimashita ka?)  <br>
-您貼郵票了嗎？  <br>
-**Have you put on the stamp?**  <br>
+**郵局職員:** 国際航空はがきですね。料金は100円になります。  <br>
+(kokusai koukuu hagaki desu ne. ryoukin wa hyaku en ni narimasu.)  <br>
+是國際航空明信片對吧。費用是100日圓。  <br>
+**International airmail postcard, right? The fee is 100 yen.**  <br>
 </div>  
+
+<br>  
 
 <div style="text-align: left">  
 
-**顧客:** はい、貼りました。  <br>
-(hai, harimashita.)  <br>
-是的，已經貼好了。  <br>
-**Yes, I have.**  <br>
+**顧客:** （お金を払って）切手はこのまま貼ればいいですか？  <br>
+((okane o haratte) kitte wa kono mama hareba ii desu ka?)  <br>
+（付錢後）郵票就這樣直接貼上去可以嗎？  <br>
+**(Paying) Should I just stick the stamp on like this?**  <br>
 </div>  
+
+<br>  
 
 <div style="text-align: right">  
 
-**郵局職員:** ありがとうございます。こちらでお預かりします。  <br>
-(arigatou gozaimasu. kochira de oazukari shimasu.)  <br>
-謝謝您，我們會在這裡收下。  <br>
-**Thank you. We'll take it from here.**  <br>
+**郵局職員:** はい、結構です。貼りましたら、あちらのポストの「国際郵便」の口に入れてください。  <br>
+(hai, kekkou desu. harimashita ra, achira no posuto no "kokusai yuubin" no kuchi ni irete kudasai.)  <br>
+是的，可以。貼好之後，請投入那邊郵筒標示「國際郵件」的洞口。  <br>
+**Yes, that's fine. After you stick it on, please drop it into the "International Mail" slot of that postbox.**  <br>
 </div>  
-
-<div style="text-align: left">  
-
-**顧客:** いつ届きますか？  <br>
-(itsu todokimasu ka?)  <br>
-什麼時候會送到？  <br>
-**When will it arrive?**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**郵局職員:** 通常は2日ほどで届きます。  <br>
-(tsuujou wa futsuka hodo de todokimasu.)  <br>
-通常需要2天左右。  <br>
-**It usually takes about 2 days.**  <br>
-</div>  
-
-<div style="text-align: left">  
-
-**顧客:** ありがとうございます。  <br>
-(arigatou gozaimasu.)  <br>
-謝謝您。  <br>
-**Thank you.**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**郵局職員:** かしこまりました。  <br>
-(kashikomarimashita.)  <br>
-不客氣。  <br>
-**You're welcome.**  <br>
-</div>
 
 ### 重點句型
-- 手紙を送りたいです。(tegami o okuritai desu) - 我想寄信
-- 切手は貼りましたか？(kitte wa harimashita ka?) - 您貼郵票了嗎？
-- はがきを送りたいです。(hagaki o okuritai desu) - 我想寄明信片
-
-### 相關單字
-- 手紙 (tegami) - 信
-- はがき (hagaki) - 明信片
-- 切手 (kitte) - 郵票
-- 封筒 (fuutou) - 信封
-- 投函 (toukan) - 投遞
+- 料金はいくらですか？(ryoukin wa ikura desu ka?) - 費用是多少？
+- 切手を貼る (kitte o haru) - 貼郵票
+- ポストに入れる (posuto ni ireru) - 投入郵筒
 
 ---
 
-## 情境 3: 購買郵票
+## 情境 3: 購買郵票 (切手を買う)
 
 ![郵票](/assets/img/jp/2025-02-04-Japanese-Conversation-Daily-15/購買郵票.webp)
 
 <div style="text-align: left">  
 
-**顧客:** 切手を5枚ください。  <br>
-(kitte o gomai kudasai.)  <br>
-請給我5張郵票。  <br>
-**Please give me 5 stamps.**  <br>
+**顧客:** 84円切手を10枚ください。  <br>
+(hachijuu yon en kitte o juumai kudasai.)  <br>
+請給我10張84日圓的郵票。  <br>
+**Please give me ten 84-yen stamps.**  <br>
 </div>  
 
 <br>  
 
 <div style="text-align: right">  
 
-**郵局職員:** はい、全部で250円になります。  <br>
-(hai, zenbu de nihyaku gojuu en ni narimasu.)  <br>
-好的，總共250日圓。  <br>
-**Yes, that will be 250 yen in total.**  <br>
+**郵局職員:** はい、普通の切手と記念切手、どちらになさいますか？  <br>
+(hai, futsuu no kitte to kinen kitte, dochira ni nasaimasu ka?)  <br>
+好的，您要普通的郵票還是紀念郵票呢？  <br>
+**Yes, would you like regular stamps or commemorative stamps?**  <br>
 </div>  
+
+<br>  
 
 <div style="text-align: left">  
 
-**顧客:** 記念切手はありますか？  <br>
-(kinen kitte wa arimasu ka?)  <br>
-有紀念郵票嗎？  <br>
-**Do you have any commemorative stamps?**  <br>
+**顧客:** きれいなデザインの記念切手がいいです。  <br>
+(kirei na dezain no kinen kitte ga ii desu.)  <br>
+我想要設計漂亮的紀念郵票。  <br>
+**I'd prefer commemorative stamps with a nice design.**  <br>
 </div>  
+
+<br>  
 
 <div style="text-align: right">  
 
-**郵局職員:** はい、こちらにございます。  <br>
-(hai, kochira ni gozaimasu.)  <br>
-有的，在這裡。  <br>
-**Yes, we have them here.**  <br>
+**郵局職員:** では、こちらの季節の花のデザインはいかがですか？全部で840円になります。  <br>
+(dewa, kochira no kisetsu no hana no dezain wa ikaga desu ka? zenbu de happyaku yonjuu en ni narimasu.)  <br>
+那麼，這款季節花卉的設計如何？總共是840日圓。  <br>
+**Then, how about this seasonal flower design? That will be 840 yen in total.**  <br>
 </div>  
-
-<div style="text-align: left">  
-
-**顧客:** ありがとうございます。  <br>
-(arigatou gozaimasu.)  <br>
-謝謝您。  <br>
-**Thank you.**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**郵局職員:** かしこまりました。  <br>
-(kashikomarimashita.)  <br>
-不客氣。  <br>
-**You're welcome.**  <br>
-</div>
 
 ### 重點句型
-- 切手を～枚ください。(kitte o ~mai kudasai) - 請給我...張郵票
-- 全部で～円になります。(zenbu de ~en ni narimasu) - 總共...日圓
-- 記念切手はありますか？(kinen kitte wa arimasu ka?) - 有紀念郵票嗎？
-
-### 相關單字
-- 切手 (kitte) - 郵票
+- ～切手を～枚ください。(~en kitte o ~mai kudasai) - 請給我...張...元的郵票
 - 記念切手 (kinen kitte) - 紀念郵票
-- 料金 (ryoukin) - 費用
-- 販売 (hanbai) - 販賣
-- 在庫 (zaiko) - 庫存
+- どちらになさいますか？(dochira ni nasaimasu ka?) - 您要哪一種？
 
 ---
 
-## 情境 4: 查詢郵件
+## 情境 4: 寄送掛號信 (書留で送る)
+
+<div style="text-align: left">  
+
+**顧客:** この封筒を「簡易書留」で送りたいのですが。  <br>
+(kono fuutou o "kani kakitome" de okuritai no desu ga.)  <br>
+我想用「簡易掛號」寄這封信。  <br>
+**I'd like to send this envelope by "simplified registered mail".**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+
+**郵局職員:** かしこまりました。重要な書類ですか？  <br>
+(kashikomarimashita. juuyou na shorui desu ka?)  <br>
+好的。是重要的文件嗎？  <br>
+**Certainly. Are these important documents?**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: left">  
+
+**顧客:** はい、契約書が入っています。  <br>
+(hai, keiyakusho ga haitte imasu.)  <br>
+是的，裡面有合約書。  <br>
+**Yes, there is a contract inside.**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+
+**郵局職員:** では、こちらが控えと追跡番号になります。大切に保管してください。  <br>
+(dewa, kochira ga hikae to tsuiseki bangou ni narimasu. taisetsu ni hokan shite kudasai.)  <br>
+那麼，這是您的收據和追蹤號碼。請妥善保管。  <br>
+**Then, here is your receipt and tracking number. Please keep them safe.**  <br>
+</div>  
+
+### 重點句型
+- 書留 (kakitome) - 掛號信（有紀錄、需簽收）
+- 簡易書留 (kani kakitome) - 簡易掛號（較便宜，理賠金額較低）
+- 控え (hikae) - 存根/收據
+- 追跡番号 (tsuiseki bangou) - 追蹤號碼
+
+---
+
+## 情境 5: 查詢郵件狀況 (配達状況の確認)
 
 ![查詢](/assets/img/jp/2025-02-04-Japanese-Conversation-Daily-15/查詢郵件.webp)
 
 <div style="text-align: left">  
 
-**顧客:** 荷物の配送状況を確認したいのですが。  <br>
-(nimotsu no haisou joukyou o kakunin shitai no desu ga.)  <br>
-我想確認包裹的配送狀況。  <br>
-**I'd like to check the delivery status of my package.**  <br>
+**顧客:** 昨日不在票が入っていたのですが、荷物を受け取れますか？  <br>
+(kinou fuzaihyou ga haitte ita no desu ga, nimotsu o uketoremasu ka?)  <br>
+昨天信箱裡有「不在通知單」，我可以領取包裹嗎？  <br>
+**I received an absence notice yesterday. Can I pick up my package?**  <br>
 </div>  
 
 <br>  
 
 <div style="text-align: right">  
 
-**郵局職員:** 追跡番号をお願いいたします。  <br>
-(tsuiseki bangou o onegai itashimasu.)  <br>
-請給我追蹤號碼。  <br>
-**Please give me the tracking number.**  <br>
+**郵局職員:** はい、不在票と身分証明書はお持ちですか？  <br>
+(hai, fuzaihyou to mibun shoumeisho wa omochi desu ka?)  <br>
+可以。請問您有帶不在通知單和身分證明文件嗎？  <br>
+**Yes, do you have the absence notice and your ID?**  <br>
 </div>  
+
+<br>  
 
 <div style="text-align: left">  
 
-**顧客:** はい、こちらです。  <br>
-(hai, kochira desu.)  <br>
-好的，在這裡。  <br>
-**Here it is.**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**郵局職員:** 確認いたします。……現在、配達中です。  <br>
-(kakunin itashimasu. ... genzai, haitatsuchuu desu.)  <br>
-我確認一下……目前正在配送中。  <br>
-**Let me check... It is currently out for delivery.**  <br>
-</div>  
-
-<div style="text-align: left">  
-
-**顧客:** ありがとうございます。  <br>
-(arigatou gozaimasu.)  <br>
-謝謝您。  <br>
-**Thank you.**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**郵局職員:** かしこまりました。  <br>
-(kashikomarimashita.)  <br>
-不客氣。  <br>
-**You're welcome.**  <br>
-</div>
-
-### 重點句型
-- 荷物の配送状況を確認したいのですが。(nimotsu no haisou joukyou o kakunin shitai no desu ga) - 我想確認包裹的配送狀況
-- 追跡番号をお願いいたします。(tsuiseki bangou o onegai itashimasu) - 請給我追蹤號碼
-- いつ届きますか？(itsu todokimasu ka?) - 什麼時候會送到？
-
-### 相關單字
-- 追跡番号 (tsuiseki bangou) - 追蹤號碼
-- 配達状況 (haitatsu joukyou) - 配送狀況
-- 届く (todoku) - 送到
-- 確認 (kakunin) - 確認
-- 問い合わせ (toiawase) - 查詢
-
----
-
-## 情境 5: 郵政儲蓄
-
-![儲蓄](/assets/img/jp/2025-02-04-Japanese-Conversation-Daily-15/郵政儲蓄.webp)
-
-<div style="text-align: left">  
-
-**顧客:** 郵便貯金の口座を開設したいです。  <br>
-(yuubin chokin no kouza o kaisetsu shitai desu.)  <br>
-我想開設郵政儲蓄帳戶。  <br>
-**I'd like to open a postal savings account.**  <br>
+**顧客:** はい、これです。  <br>
+(hai, kore desu.)  <br>
+有，在這裡。  <br>
+**Yes, here they are.**  <br>
 </div>  
 
 <br>  
 
 <div style="text-align: right">  
 
-**郵局職員:** 身分証明書をお願いします。  <br>
-(mibun shoumeisho o onegai itashimasu.)  <br>
-請出示身分證明文件。  <br>
-**Please show your ID.**  <br>
+**郵局職員:** 確認いたします。……お待たせしました。こちらのお荷物ですね。ここに受領のサインをお願いします。  <br>
+(kakunin itashimasu. ... omatase shimashita. kochira no onimotsu desu ne. koko ni juryou no sain o onegai shimasu.)  <br>
+我確認一下。……讓您久等了。是這件包裹。請在這裡簽名簽收。  <br>
+**Let me check... Thank you for waiting. It's this package. Please sign here for receipt.**  <br>
 </div>  
-
-<div style="text-align: left">  
-
-**顧客:** こちらです。  <br>
-(kochira desu.)  <br>
-在這裡。  <br>
-**Here it is.**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**郵局職員:** ありがとうございます。少々お待ちください。  <br>
-(arigatou gozaimasu. shoushou omachi kudasai.)  <br>
-謝謝您。請稍等。  <br>
-**Thank you. Please wait a moment.**  <br>
-</div>  
-
-<div style="text-align: left">  
-
-**顧客:** 今の利率はどのくらいですか？  <br>
-(ima no riritsu wa dono kurai desu ka?)  <br>
-現在的利率是多少？  <br>
-**What is the current interest rate?**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**郵局職員:** 現在の利率は0.01%です。  <br>
-(genzai no riritsu wa zero ten zero ichi paasento desu.)  <br>
-目前的利率是0.01%。  <br>
-**The current interest rate is 0.01%.**  <br>
-</div>  
-
-<div style="text-align: left">  
-
-**顧客:** ありがとうございます。  <br>
-(arigatou gozaimasu.)  <br>
-謝謝您。  <br>
-**Thank you.**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**郵局職員:** かしこまりました。  <br>
-(kashikomarimashita.)  <br>
-不客氣。  <br>
-**You're welcome.**  <br>
-</div>
 
 ### 重點句型
-- 郵便貯金の口座を開設したいです。(yuubin chokin no kouza o kaisetsu shitai desu) - 我想開設郵政儲蓄帳戶
-- 身分証明書をお願いします。(mibun shoumeisho o onegai shimasu) - 請出示身分證明文件
-- 利率はいくらですか？(riritsu wa ikura desu ka?) - 利率是多少？
-
-### 相關單字
-- 郵便貯金 (yuubin chokin) - 郵政儲蓄
-- 口座 (kouza) - 帳戶
-- 利率 (riritsu) - 利率
-- 預金 (yokin) - 存款
-- 引き出し (hikidashi) - 提款
+- 不在票 (fuzaihyou) - 不在通知單（送件時無人應門留下的單子）
+- 受け取る (uketoru) - 領取/接收
+- サインをお願いします (sain o onegai shimasu) - 請簽名
 
 ---
 
 ## 文化小知識
 
-### 小故事：田中さんの郵便局体験
+### 1. 寄往海外的明信片費用
+在日本旅遊時，寄一張明信片給海外的朋友是非常棒的紀念。目前（截至2024年），從日本寄往全世界任何國家的**航空明信片統一價格都是 100 日圓**。您可以直接在郵局櫃台買郵票，或者在便利商店（如Lawson、7-11）買好 100 日圓郵票，貼好後丟進路邊的紅色郵筒即可。
 
-田中太郎さんは、初めて日本の郵便局を訪れました。少し緊張していましたが、職員の親切な対応で安心しました。
+### 2. 「不在票」怎麼處理？
+如果郵差送包裹或掛號信時您剛好不在家，他們會在信箱留下一張「ご不在連絡票 (不在通知單)」。
+這時您有三種選擇：
+1. 掃描單子上的 QR Code，上網申請「再配達 (重新配送)」並指定您在家的時間。
+2. 打電話申請再配達。
+3. 帶著「不在票」和「在留卡/護照」直接去負責該區域的郵局（ゆうゆう窓口）領取。
 
-**荷物の発送：**
-田中さんは荷物を送りたくて、「この荷物を送りたいのですが」と伝えました。職員は「送り先の住所を教えていただけますか？」と尋ね、田中さんは住所を伝えました。
+### 3. 國際包裹的「禁運品」
+寄包裹回國時（尤其是用 EMS），郵局人員會非常嚴格地詢問「中身は何ですか？(裡面是什麼？)」。
+請注意，**香水、防曬噴霧（高壓氣體）、含有酒精的化妝品**，以及**肉類製品**都是禁止用國際郵件寄送的。如果謊報被海關查到，包裹會被退回且不退運費喔！
 
-**手紙の発送：**
-田中さんは手紙を送りたくて、「手紙を送りたいです」と伝え、職員は「切手は貼りましたか？」と確認しました。
+### 小故事：瑪麗的明信片
 
-**郵便貯金の開設：**
-田中さんは郵便貯金の口座を開設したくて、「郵便貯金の口座を開設したいです」と伝え、職員は「身分証明書をお願いします」と対応しました。
-
-**郵便物の追跡：**
-田中さんは郵便物の追跡をしたくて、「荷物の配送状況を確認したいのですが」と伝え、職員に「追跡番号をお願いいたします」と案内されました。
-
-**料金の確認：**
-田中さんは料金を確認したくて、「料金はいくらですか？」と尋ね、職員に「1,500円になります」と教えてもらいました。
-
-### 小故事：山田さんの郵便局文化体験
-
-山田花子さんは、日本の郵便局文化に興味がある外国人留学生です。今日は日本の郵便局を訪れ、その文化を学びました。
-
-**日本の郵便局文化の特徴：**
-山田さんは職員に「日本の郵便局文化の特徴は何ですか？」と尋ねました。職員は「日本では、事前に必要な書類を準備し、正確な情報を提供することが重要です」と説明してくれました。
-
-**郵便物の選択について：**
-山田さんは「おすすめの郵便物はありますか？」と伝えると、職員が丁寧に説明してくれました。山田さんは日本のサービスの細やかさに感心しました。
-
-**料金システムについて：**
-山田さんは「全部でいくらになりますか？」と尋ねると、職員は「全部で250円になります」と教えてくれました。山田さんは日本の料金表示の明確さに感心しました。
-
-**サービスの過程と確認：**
-山田さんは「いつ届きますか？」と尋ねると、職員が「通常は2日ほどで届きます」と教えてくれました。必要に応じて追跡番号で状況確認できることも案内され、安心できました。
-
-### 文化のポイント
-
-**1. 事前確認の重要性**
-日本の郵便局では、事前に必要な書類を準備することで、スムーズにサービスを受けることができます。特に人気のある郵便局では、事前確認が推奨されます。
-
-**2. 郵便物の選択肢**
-日本の郵便局では、さまざまな郵便物を選ぶことができます。利用目的に応じて、最適な郵便物を選ぶことが大切です。
-
-**3. 料金システムの明確さ**
-日本では、サービスごとに明確な料金が設定されており、事前に確認することができます。安心してサービスを受けるために、料金を確認することが重要です。
-
-**4. サービスの過程と連絡**
-日本では、サービスの過程や時間について事前に説明があり、終了後には連絡をもらうことができます。安心してサービスを受けることができます。
-
-**5. 支払い方法の多様性**
-日本の郵便局では、窓口や手続き内容によって利用できる支払い方法が異なる場合があります。事前に「支払い方法は何が使えますか？」と確認すると安心です。 
+瑪麗在京都買了一張很漂亮的藝妓明信片，想寄給遠在美國的奶奶。
+她走進郵局，用剛學會的日文說：「アメリカに、はがきを送りたいです。(我想寄明信片去美國)」
+職員微笑著給了她一張 100 日圓的郵票。瑪麗貼好後，職員指著門外的紅色大郵筒說：「左側の口に入れてください。(請投入左邊的洞口)」
+原來，日本的郵筒通常有兩個洞口，右邊較小的是「国内用 (國內用)」，左邊較大的是「国際郵便・その他 (國際郵件及其他)」。
+瑪麗小心翼翼地把明信片投進左邊的洞口，心想：「希望奶奶會喜歡這個來自京都的驚喜！」

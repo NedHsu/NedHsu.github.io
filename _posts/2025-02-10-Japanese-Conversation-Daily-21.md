@@ -1,504 +1,320 @@
 ---
-title: 日語對話 - 便利商店購物
+title: 日語對話 - 便利商店生存指南 (コンビニ)
 date: 2025-02-10 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 日語對話] 
-excerpt: 學習在日本便利商店時常用的日語對話，包括購買商品、詢問價格、使用服務、結帳付款和退換貨等實用情境。每個情境都包含日文原文、羅馬拼音、中文翻譯和英文翻譯，幫助您更好地理解和記憶。
+tags: [日語, Japanese, 日語對話, 購物] 
+excerpt: 學習在日本便利商店(コンビニ)的實用日語，包括購買炸雞(Hot Snacks)、加熱便當、購買現沖咖啡、結帳流程與取貨服務。
+image:
+  path: /assets/img/jp/2025-02-10-Japanese-Conversation-Daily-21/購買商品.webp
 ---
 
 ## 課程預覽
 
-今天我們將學習便利商店的對話：
-1. 購買商品
-2. 詢問價格
-3. 使用服務
-4. 結帳付款
-5. 退換貨
+日本便利商店（コンビニ）功能強大，是旅遊與生活的補給站。本篇將介紹 5 個最常見的實用情境：
+1. 購買熱食 (炸雞、肉包)
+2. 購買便當 (微波加熱)
+3. 購買現沖咖啡 (自助咖啡機)
+4. 結帳流程 (集點卡、年齡確認)
+5. 取貨服務 (網購領取)
 
 ---
 
-## 情境 1: 購買商品
+## 情境 1: 購買熱食 (ホットスナック)
 
-![商品](/assets/img/jp/2025-02-10-Japanese-Conversation-Daily-21/購買商品.webp)
+![熱食](/assets/img/jp/2025-02-10-Japanese-Conversation-Daily-21/購買商品.webp)
 
 <div style="text-align: left">  
 
-**顧客:** おにぎりはどこにありますか？  <br>
-(onigiri wa doko ni arimasu ka?)  <br>
-飯糰在哪裡？  <br>
-**Where are the rice balls?**  <br>
+**顧客:** ファミチキを一つください。  <br>
+(famichiki o hitotsu kudasai.)  <br>
+請給我一個法米炸雞（全家便利商店名產）。  <br>
+**One Famichiki, please.**  <br>
 </div>  
 
 <br>  
 
 <div style="text-align: right">  
 
-**店員:** 冷蔵コーナーの奥にあります。  <br>
-(reizou koonaa no oku ni arimasu.)  <br>
-在冷藏區的裡面。  <br>
-**They're in the back of the refrigerated section.**  <br>
+**店員:** ファミチキお一つですね。他にご注文はありますか？  <br>
+(famichiki o hitotsu desu ne. hoka ni gochuumon wa arimasu ka?)  <br>
+一個法米炸雞對嗎。還有其他要點的嗎？  <br>
+**One Famichiki. Anything else?**  <br>
 </div>  
+
+<br>  
 
 <div style="text-align: left">  
 
-**顧客:** 飲み物も同じ場所ですか？  <br>
-(nomimono mo onaji basho desu ka?)  <br>
-飲料也在同一個地方嗎？  <br>
-**Are the drinks in the same place?**  <br>
+**顧客:** あと、肉まんもお願いします。  <br>
+(ato, nikuman mo onegai shimasu.)  <br>
+還有，請給我一個肉包。  <br>
+**Also, a meat bun, please.**  <br>
 </div>  
+
+<br>  
 
 <div style="text-align: right">  
 
-**店員:** 飲み物はその隣の棚にございます。  <br>
-(nomimono wa sono tonari no tana ni gozaimasu.)  <br>
-飲料在旁邊的貨架上。  <br>
-**The drinks are on the shelf next to it.**  <br>
+**店員:** かしこまりました。すぐにお出しします。  <br>
+(kashikomarimashita. sugu ni odashi shimasu.)  <br>
+好的。我馬上拿給您。  <br>
+**Certainly. I'll get that for you right away.**  <br>
 </div>  
-
-<div style="text-align: left">  
-
-**顧客:** 他におすすめの商品はありますか？  <br>
-(hoka ni osusume no shouhin wa arimasu ka?)  <br>
-還有其他推薦的商品嗎？  <br>
-**Are there any other recommended products?**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**店員:** はい、こちらのサンドイッチも人気です。  <br>
-(hai, kochira no sandoicchi mo ninki desu.)  <br>
-有的，這款三明治也很受歡迎。  <br>
-**Yes, this sandwich is also popular.**  <br>
-</div>  
-
-<div style="text-align: left">  
-
-**顧客:** ありがとうございます。  <br>
-(arigatou gozaimasu.)  <br>
-謝謝您。  <br>
-**Thank you.**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**店員:** ありがとうございます。  <br>
-(arigatou gozaimasu.)  <br>
-謝謝您。  <br>
-**Thank you.**  <br>
-</div>
 
 ### 重點句型
-- おにぎりはどこにありますか？(onigiri wa doko ni arimasu ka?) - 飯糰在哪裡？
-- 冷蔵コーナーの奥にあります。(reizou koonaa no oku ni arimasu) - 在冷藏區的裡面
-- 飲み物も同じ場所ですか？(nomimono mo onaji basho desu ka?) - 飲料也在同一個地方嗎？
-- 他におすすめの商品はありますか？(hoka ni osusume no shouhin wa arimasu ka?) - 還有其他推薦的商品嗎？
+- ～を一つください。(~o hitotsu kudasai) - 請給我一個...
+- 肉まん (nikuman) - 肉包
+- からあげ (karaage) - 炸雞塊
 
 ### 相關單字
-- おにぎり (onigiri) - 飯糰
-- 冷蔵 (reizou) - 冷藏
-- コーナー (koonaa) - 區域
-- 商品 (shouhin) - 商品
-- 棚 (tana) - 貨架
-- 飲み物 (nomimono) - 飲料
-- サンドイッチ (sandoicchi) - 三明治
+- アメリカンドッグ (amerikandoggu) - 美式熱狗
+- フライドポテト (furaido poteto) - 薯條
+- おでん (oden) - 關東煮
 
 ---
 
-## 情境 2: 詢問價格
-
-![價格](/assets/img/jp/2025-02-10-Japanese-Conversation-Daily-21/詢問價格.webp)
+## 情境 2: 購買便當與加熱 (お弁当の温め)
 
 <div style="text-align: left">  
 
-**顧客:** このお弁当はいくらですか？  <br>
-(kono obentou wa ikura desu ka?)  <br>
-這個便當多少錢？  <br>
-**How much is this bento box?**  <br>
+**店員:** こちらのお弁当、温めますか？  <br>
+(kochira no obentou, atatamemasu ka?)  <br>
+這個便當要加熱嗎？  <br>
+**Would you like this bento heated?**  <br>
 </div>  
 
 <br>  
 
 <div style="text-align: right">  
-
-**店員:** 580円です。  <br>
-(gohyaku hachijuu en desu.)  <br>
-580日圓。  <br>
-**It's 580 yen.**  <br>
-</div>  
-
-<div style="text-align: left">  
-
-**顧客:** お弁当を温めてもらえますか？  <br>
-(obentou o atatamete moraemasu ka?)  <br>
-可以幫我微波加熱便當嗎？  <br>
-**Could you heat up this bento box?**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**店員:** 温めますか？  <br>
-(atatamemasu ka?)  <br>
-要加熱嗎？  <br>
-**Would you like it heated?**  <br>
-</div>  
-
-<div style="text-align: left">  
 
 **顧客:** はい、お願いします。  <br>
 (hai, onegai shimasu.)  <br>
-是的，麻煩你了。  <br>
+好的，麻煩了。  <br>
 **Yes, please.**  <br>
 </div>  
 
-<div style="text-align: right">  
-
-**店員:** 少々お待ちください。  <br>
-(shoushou omachi kudasai.)  <br>
-請稍等一下。  <br>
-**Please wait a moment.**  <br>
-</div>  
+<br>  
 
 <div style="text-align: left">  
 
-**顧客:** ありがとうございます。  <br>
-(arigatou gozaimasu.)  <br>
-謝謝您。  <br>
-**Thank you.**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**店員:** ありがとうございます。  <br>
-(arigatou gozaimasu.)  <br>
-謝謝您。  <br>
-**Thank you.**  <br>
-</div>
-
-### 重點句型
-- このお弁当はいくらですか？(kono obentou wa ikura desu ka?) - 這個便當多少錢？
-- 580円です。(gohyaku hachijuu en desu) - 580日圓
-- 税込みですか？(zeikomi desu ka?) - 含稅嗎？
-- 割引はありますか？(waribiki wa arimasu ka?) - 有折扣嗎？
-
-### 相關單字
-- お弁当 (obentou) - 便當
-- 価格 (kakaku) - 價格
-- 税込み (zeikomi) - 含稅
-- 税抜き (zeinuki) - 未稅
-- 割引 (waribiki) - 折扣
-
----
-
-## 情境 3: 使用服務
-
-![服務](/assets/img/jp/2025-02-10-Japanese-Conversation-Daily-21/使用服務.webp)
-
-<div style="text-align: left">  
-
-**顧客:** コピー機を使いたいのですが。  <br>
-(kopiiki o tsukaitai no desu ga.)  <br>
-我想使用影印機。  <br>
-**I'd like to use the copy machine.**  <br>
+**店員:** お箸とお手拭きはお付けしますか？  <br>
+(ohashi to otefuki wa otsuke shimasu ka?)  <br>
+需要附筷子和濕紙巾嗎？  <br>
+**Do you need chopsticks and a wet wipe?**  <br>
 </div>  
 
 <br>  
 
 <div style="text-align: right">  
 
-**店員:** はい、こちらでお願いします。  <br>
-(hai, kochira de onegai shimasu.)  <br>
-好的，請在這裡使用。  <br>
-**Yes, please use it here.**  <br>
+**顧客:** はい、お願いします。スプーンもください。  <br>
+(hai, onegai shimasu. supuun mo kudasai.)  <br>
+好的。請也給我湯匙。  <br>
+**Yes, please. Also a spoon, please.**  <br>
 </div>  
+
+<br>  
 
 <div style="text-align: left">  
 
-**顧客:** 使い方を教えていただけますか？  <br>
-(tsukaikata o oshiete itadakemasu ka?)  <br>
-可以教我怎麼用嗎？  <br>
-**Could you show me how to use it?**  <br>
+**店員:** 少々お待ちください……はい、温まりました。お熱いのでお気をつけください。  <br>
+(shoushou omachi kudasai... hai, atatamarimashita. oatsui node okiotsuke kudasai.)  <br>
+請稍等……好的，熱好了。很燙請小心。  <br>
+**Please wait a moment... Okay, it's ready. Be careful, it's hot.**  <br>
 </div>  
-
-<div style="text-align: right">  
-
-**店員:** はい、まずこのボタンを押してください。  <br>
-(hai, mazu kono botan o oshite kudasai.)  <br>
-好的，請先按這個按鈕。  <br>
-**Yes, please press this button first.**  <br>
-</div>  
-
-<div style="text-align: left">  
-
-**顧客:** その後はどうすればいいですか？  <br>
-(sono ato wa dou sureba ii desu ka?)  <br>
-之後該怎麼做？  <br>
-**What should I do next?**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**店員:** 次に、用紙をセットして、スタートボタンを押してください。  <br>
-(tsugi ni, youshi o setto shite, sutaato botan o oshite kudasai.)  <br>
-接下來，放入紙張，然後按下開始按鈕。  <br>
-**Next, set the paper and press the start button.**  <br>
-</div>  
-
-<div style="text-align: left">  
-
-**顧客:** ありがとうございます。  <br>
-(arigatou gozaimasu.)  <br>
-謝謝您。  <br>
-**Thank you.**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**店員:** ありがとうございます。  <br>
-(arigatou gozaimasu.)  <br>
-謝謝您。  <br>
-**Thank you.**  <br>
-</div>
 
 ### 重點句型
-- コピー機を使いたいのですが。(kopiiki o tsukaitai no desu ga) - 我想使用影印機
-- こちらでお願いします。(kochira de onegai shimasu) - 請在這裡使用
-- 使い方を教えていただけますか？(tsukaikata o oshiete itadakemasu ka?) - 可以教我使用方法嗎？
-- その後はどうすればいいですか？(sono ato wa dou sureba ii desu ka?) - 之後該怎麼做？
-
-### 相關單字
-- コピー機 (kopiiki) - 影印機
-- 使い方 (tsukaikata) - 使用方法
-- サービス (saabisu) - 服務
-- 料金 (ryoukin) - 費用
-- 説明 (setsumei) - 說明
-- ボタン (botan) - 按鈕
-- 用紙 (youshi) - 紙張
+- 温めますか？(atatamemasu ka?) - 要加熱嗎？
+- お手拭き (otefuki) - 濕紙巾
+- お熱いので (oatsui node) - 因為很燙
 
 ---
 
-## 情境 4: 結帳付款
+## 情境 3: 購買現沖咖啡 (コンビニコーヒー)
+
+![現沖咖啡](/assets/img/jp/2025-02-10-Japanese-Conversation-Daily-21/使用服務.webp)
+
+<div style="text-align: left">  
+
+**顧客:** ホットコーヒーのSサイズをください。  <br>
+(hotto koohii no esu saizu o kudasai.)  <br>
+請給我一杯熱咖啡，S號。  <br>
+**A small hot coffee, please.**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+
+**店員:** かしこまりました。カップをお渡ししますので、マシーンでご利用ください。  <br>
+(kashikomarimashita. kappu o owatashi shimasu node, mashiin de goriyou kudasai.)  <br>
+好的。這是杯子，請使用旁邊的機器操作。  <br>
+**Certainly. Here is the cup, please use the machine.**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: left">  
+
+**顧客:** アイスカフェラテはありますか？  <br>
+(aisu kaferate wa arimasu ka?)  <br>
+有冰拿鐵嗎？  <br>
+**Do you have iced latte?**  <br>
+</div>  
+
+<br>  
+
+<div style="text-align: right">  
+
+**店員:** はい、冷凍ケースから氷の入ったカップをお持ちください。  <br>
+(hai, reitou keesu kara koori no haitta kappu o omochi kudasai.)  <br>
+有的，請從冷凍櫃拿裝有冰塊的杯子來結帳。  <br>
+**(For iced drinks) Yes, please bring a cup with ice from the freezer.**  <br>
+</div>  
+
+### 重點句型
+- ホット (hotto) / アイス (aisu) - 熱 / 冰
+- マシーン (mashiin) - 機器
+- 氷 (koori) - 冰塊
+
+---
+
+## 情境 4: 結帳流程與年齡確認 (お会計)
 
 ![結帳](/assets/img/jp/2025-02-10-Japanese-Conversation-Daily-21/結帳付款.webp)
 
 <div style="text-align: left">  
 
-**顧客:** お会計をお願いします。  <br>
-(okaikei o onegai shimasu.)  <br>
-請幫我結帳。  <br>
-**I'd like to pay, please.**  <br>
+**店員:** ポイントカードはお持ちですか？  <br>
+(pointo kaado wa omochi desu ka?)  <br>
+有集點卡嗎？  <br>
+**Do you have a point card?**  <br>
 </div>  
 
 <br>  
 
 <div style="text-align: right">  
 
-**店員:** レジ袋にお入れしますか？  <br>
-(rejibukuro ni oire shimasu ka?)  <br>
-需要裝塑膠袋嗎？  <br>
-**Would you like a plastic bag?**  <br>
+**顧客:** ないです。  <br>
+(nai desu.)  <br>
+沒有。  <br>
+**No.**  <br>
 </div>  
+
+<br>  
 
 <div style="text-align: left">  
 
-**顧客:** 大丈夫です。  <br>
-(daijoubu desu.)  <br>
-不用了。  <br>
-**I'm fine.**  <br>
+**店員:** 画面の年齢確認ボタンを押してください。（お酒・タバコを買う場合）  <br>
+(gamen no nenrei kakunin botan o oshite kudasai.)  <br>
+請按螢幕上的年齡確認按鈕。（購買酒/菸時）  <br>
+**Please press the age verification button on the screen.**  <br>
 </div>  
+
+<br>  
 
 <div style="text-align: right">  
 
-**店員:** 合計で1,280円になります。お支払いはどうされますか？  <br>
-(goukei de sen nihyaku hachijuu en ni narimasu. oshiharai wa dou saremasu ka?)  <br>
-總共是1,280日圓。請問您要怎麼付款？  <br>
-**That will be 1,280 yen in total. How would you like to pay?**  <br>
+**顧客:** はい。（ボタンを押す）  <br>
+(hai.)  <br>
+好。（按下按鈕「20歳以上」）  <br>
+**Okay. (Presses button)**  <br>
 </div>  
+
+<br>  
 
 <div style="text-align: left">  
 
-**顧客:** 交通系ICカードでお願いします。  <br>
-(koutsuu kei aishii kaado de onegai shimasu.)  <br>
-我要用交通IC卡付款。  <br>
-**I'd like to pay with a transportation IC card.**  <br>
+**店員:** 袋はご利用ですか？  <br>
+(fukuro wa goriyou desu ka?)  <br>
+需要袋子嗎？  <br>
+**Do you need a bag?**  <br>
 </div>  
+
+<br>  
 
 <div style="text-align: right">  
 
-**店員:** タッチをお願いします。……ありがとうございます。レシートはご利用ですか？  <br>
-(tacchi o onegai shimasu. ... arigatou gozaimasu. reshiito wa hitsuyou desu ka?)  <br>
-請感應。……謝謝您。需要收據嗎？  <br>
-**Please touch the card reader. ... Thank you. Do you need a receipt?**  <br>
+**顧客:** 結構です。このままでいいです。  <br>
+(kekkou desu. kono mama de ii desu.)  <br>
+不用了。這樣就好。  <br>
+**No thank you. Like this is fine.**  <br>
 </div>  
-
-<div style="text-align: left">  
-
-**顧客:** ありがとうございました。また来ます。  <br>
-(arigatou gozaimashita. mata kimasu.)  <br>
-謝謝您。我會再來。  <br>
-**Thank you. I'll come again.**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**店員:** ありがとうございました。またのお越しをお待ちしております。  <br>
-(arigatou gozaimashita. mata no okoshi o omachi shite orimasu.)  <br>
-謝謝您。期待您再次光臨。  <br>
-**Thank you very much. We look forward to your next visit.**  <br>
-</div>
 
 ### 重點句型
-- レジ袋にお入れしますか？(rejibukuro ni oire shimasu ka?) - 需要裝塑膠袋嗎？
-- お支払いはどうされますか？(oshiharai wa dou saremasu ka?) - 請問您要怎麼付款？
-- 交通系ICカードでお願いします。(koutsuu kei aishii kaado de onegai shimasu) - 我要用交通IC卡付款
-- レシートは必要ですか？(reshiito wa hitsuyou desu ka?) - 需要收據嗎？
-
-### 相關單字
-- 会計 (kaikei) - 結帳
-- 合計 (goukei) - 總計
-- 支払い (shiharai) - 付款
-- 交通系ICカード (koutsuu kei aishii kaado) - 交通IC卡
-- 現金 (genkin) - 現金
-- 領収書 (ryoushuusho) - 收據
-- 電子マネー (denshi manee) - 電子錢包
+- 年齢確認 (nenrei kakunin) - 年齡確認
+- ボタンを押してください (botan o oshite kudasai) - 請按按鈕
+- このままでいいです (kono mama de ii desu) - 這樣（拿著）就好（不用袋子）
 
 ---
 
-## 情境 5: 退換貨
+## 情境 5: 取貨服務 (荷物の受け取り)
 
 ![退換](/assets/img/jp/2025-02-10-Japanese-Conversation-Daily-21/退換貨.webp)
 
 <div style="text-align: left">  
 
-**顧客:** これを返品したいのですが。  <br>
-(kore o henpin shitai no desu ga.)  <br>
-我想退這個。  <br>
-**I'd like to return this.**  <br>
+**顧客:** 荷物の受け取りをお願いします。  <br>
+(nimotsu no uketori o onegai shimasu.)  <br>
+我想領取包裹。  <br>
+**I'd like to pick up a package.**  <br>
 </div>  
 
 <br>  
 
 <div style="text-align: right">  
 
-**店員:** レシートをお持ちですか？  <br>
-(reshiito o omochi desu ka?)  <br>
-您有收據嗎？  <br>
-**Do you have the receipt?**  <br>
+**店員:** はい、バーコードをお見せいただけますか？  <br>
+(hai, baakoodo o omise itadakemasu ka?)  <br>
+好的，請讓我看條碼。  <br>
+**Yes, could you show me the barcode?**  <br>
 </div>  
+
+<br>  
 
 <div style="text-align: left">  
 
-**顧客:** はい、こちらです。  <br>
-(hai, kochira desu.)  <br>
-是的，在這裡。  <br>
-**Yes, here it is.**  <br>
+**顧客:** これです。（スマホを見せる）  <br>
+(kore desu.)  <br>
+這個。  <br>
+**This one.**  <br>
 </div>  
+
+<br>  
 
 <div style="text-align: right">  
 
-**店員:** 申し訳ありませんが、生鮮食品は返品できません。  <br>
-(moushiwake arimasen ga, seisen shokuhin wa henpin dekimasen.)  <br>
-抱歉，生鮮食品不能退貨。  <br>
-**I'm sorry, but we cannot accept returns on fresh food items.**  <br>
+**店員:** 確認します……はい、こちらのお荷物ですね。ここにサインをお願いします。  <br>
+(kakunin shimasu... hai, kochira no onimotsu desu ne. koko ni sain o onegai shimasu.)  <br>
+確認一下……好的，是這件包裹。請在這裡簽名。  <br>
+**Checking... Yes, this is the package. Please sign here.**  <br>
 </div>  
-
-<div style="text-align: left">  
-
-**顧客:** 交換は可能ですか？  <br>
-(koukan wa kanou desu ka?)  <br>
-可以換貨嗎？  <br>
-**Is an exchange possible?**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**店員:** はい、未開封であれば交換可能です。  <br>
-(hai, mikaifuu de areba koukan kanou desu.)  <br>
-是的，如果未開封的話可以換貨。  <br>
-**Yes, if it's unopened, an exchange is possible.**  <br>
-</div>  
-
-<div style="text-align: left">  
-
-**顧客:** ありがとうございます。  <br>
-(arigatou gozaimasu.)  <br>
-謝謝您。  <br>
-**Thank you.**  <br>
-</div>  
-
-<div style="text-align: right">  
-
-**店員:** ありがとうございます。  <br>
-(arigatou gozaimasu.)  <br>
-謝謝您。  <br>
-**Thank you.**  <br>
-</div>
 
 ### 重點句型
-- この商品を返品したいのですが。(kono shouhin o henpin shitai no desu ga) - 我想退這件商品
-- レシートをお持ちですか？(reshiito o omochi desu ka?) - 您有收據嗎？
-- 交換は可能ですか？(koukan wa kanou desu ka?) - 可以換貨嗎？
-
-### 相關單字
-- 返品 (henpin) - 退貨
-- レシート (reshiito) - 收據
-- 交換 (koukan) - 換貨
-- 可能 (kanou) - 可能
-- 期間 (kikan) - 期間
-- 生鮮食品 (seisen shokuhin) - 生鮮食品
-- 未開封 (mikaifuu) - 未開封
+- 荷物の受け取り (nimotsu no uketori) - 領取包裹
+- バーコード (baakoodo) - 條碼
+- サイン (sain) - 簽名
 
 ---
 
 ## 文化小知識
 
-### 小故事：田中さんのコンビニ体験
+### 1. 櫃台旁的「誘惑」 (ホットスナック)
+結帳櫃台旁的玻璃櫃裡總是放滿了炸雞 (L-Chiki, Famichiki, Karaagekun)、熱狗和肉包。這些熟食通常直接跟店員點：「これください (請給我這個)」或說出名稱即可。冬天還會有關東煮 (おでん)，是日本便利商店的一大特色。
 
-田中さんは、友人と一緒に日本のコンビニを訪れました。初めてのコンビニ体験に少し緊張していましたが、スタッフの親切な対応で安心しました。
+### 2. 咖啡怎麼買？ (コンビニコーヒー)
+- **熱咖啡 (Hot):** 直接跟店員說要 Hot Coffee 和尺寸 (S/M/L)，店員會給你一個空杯子。
+- **冰咖啡 (Ice):** 去冷凍櫃拿裝滿冰塊的「冰咖啡專用杯」，拿到櫃台結帳。
+結帳後，拿著杯子去旁邊的咖啡機，按下對應的按鈕（小心別按錯大小或冰熱！），自己操作完成。
 
-**商品探しの準備：**
-田中さんはおにぎりを探すために、スタッフに「おにぎりはどこにありますか？」と尋ねました。スタッフは「冷蔵コーナーの奥にあります」と教えてくれました。
+### 3. 年齡確認 (年齢確認)
+購買酒類或香菸時，收銀機螢幕會跳出「您是否已滿 20 歲？」的確認畫面。店員不能幫你按，**必須由顧客自己按下「はい (是)」的按鈕**，這是法律規定。
 
-**温めのお願い：**
-田中さんはお弁当を温めてもらいたくて、「お弁当を温めてもらえますか？」と尋ねました。スタッフは「温めますか？」と確認しました。
+### 小故事：約翰的「冰咖啡」謎題
 
-**サービスの利用：**
-田中さんはコピー機を使用するために、「コピー機を使いたいのですが」と尋ねました。スタッフは使用方法を丁寧に説明してくれました。
-
-**お会計：**
-楽しい一日が終わり、田中さんは「お会計をお願いします」と伝え、交通系ICカードで支払いを済ませました。スタッフは「またのお越しをお待ちしております」と笑顔で送り出しました。
-
-**返品の確認：**
-田中さんは「この商品を返品したいのですが」と尋ね、スタッフは返品条件を丁寧に説明してくれました。田中さんは日本のサービスの細やかさに感心しました。
-
-### 小故事：山田さんのコンビニ文化体験
-
-山田花子さんは、日本のコンビニ文化に興味がある外国人留学生です。今日は日本のコンビニを訪れ、その文化を学びました。
-
-**日本のコンビニ文化の特徴：**
-山田さんはスタッフに「日本のコンビニ文化の特徴は何ですか？」と尋ねました。スタッフは「日本では、事前に商品を確認し、価格やサイズの選択ができます」と説明してくれました。
-
-**商品選択について：**
-山田さんは「おすすめはありますか？」と伝えると、スタッフが丁寧に説明してくれました。山田さんは日本のサービスの細やかさに感心しました。
-
-**会計と支払い：**
-山田さんは会計時に「お支払いはどうされますか？」と聞かれることが多いと知りました。現金以外に交通系ICカードなどが使えるお店もあり、手早く支払える点が便利だと感じました。
-
-**返品・交換の扱い：**
-コンビニでは、生鮮食品などは返品できない場合があります。レシートの提示が必要になることもあるため、購入後はしばらく保管しておくと安心です。
-
-### 文化のポイント
-
-**1. 事前確認の重要性**
-日本のコンビニでは、事前に商品や料金を確認することで、スムーズにサービスを受けることができます。特に人気のあるコンビニでは、事前確認が推奨されます。
-
-**2. 商品の選択肢**
-日本のコンビニでは、さまざまな商品を選ぶことができます。利用目的に応じて、最適な商品を選ぶことが大切です。
-
-**3. 料金システムの明確さ**
-日本では、サービスごとに明確な料金が設定されており、事前に確認することができます。安心してサービスを受けるために、料金を確認することが重要です。
-
-**4. サービスの過程と連絡**
-日本では、サービスの過程や時間について事前に説明があり、終了後には連絡をもらうことができます。安心してサービスを受けることができます。
-
-**5. 支払い方法の多様性**
-日本のコンビニでは、店舗によって利用できる支払い方法が異なる場合があります。会計前に確認すると安心です。 
+美國遊客約翰想喝冰拿鐵，他在飲料櫃找了半天，只看到鋁箔包和寶特瓶，找不到現沖的。
+他跑去問店員：「Ice Latte?」
+店員指著冷凍櫃說：「Freezer!」
+約翰困惑地打開冷凍櫃，發現裡面全是裝著冰塊的塑膠杯。他心想：「這是賣冰塊嗎？」
+半信半疑地拿著冰塊杯去結帳後，店員指引他到咖啡機前。當熱騰騰的濃縮咖啡注入冰塊杯，瞬間變成完美的冰拿鐵時，約翰驚呼：「Magic! (魔法！)」
+從此，約翰愛上了日本便利商店這種有趣的自助咖啡文化。
