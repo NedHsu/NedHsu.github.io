@@ -1,481 +1,395 @@
 ---
-title: 日語對話 - 交通
+title: 日語對話 - 交通工具全攻略
 date: 2025-01-01 19:00:00 +0800
 categories: [Language, Japanese]
-tags: [日語, Japanese, 日語對話] 
+tags: [日語, Japanese, 日語對話, 交通] 
+excerpt: 學習在日本搭乘各種交通工具時的實用對話，包含公車、電車、計程車、新幹線、租車與飛機。掌握這些關鍵句型，讓您的日本自由行暢行無阻。
 pin: true
 image:
   path: /assets/img/jp/現代東京公車站.webp
 ---
 
-一些交通方面的情境對話，透過對話學習日常用語
+## 課程預覽
+
+本篇將涵蓋日本旅遊最常用的交通情境對話：
+1. 搭公車
+2. 搭計程車
+3. 搭電車/捷運
+4. 搭新幹線
+5. 租車
+6. 搭飛機 (報到與託運)
 
 ---
 
-## 情境：搭公車
+## 情境 1: 搭公車 (バス)
+
+在日本搭公車，通常是「後門上車，前門下車」，並在下車時付款（部分均一價公車則是前門上車先付款）。
 
 <div style="text-align: left">  
 
-**乘客:** すみません、このバスは駅に行きますか？<br>  
-翻譯：不好意思，這班公車會到車站嗎？<br>  
-音標：すみません、このバスはえきにいきますか？<br>  
-拼音：Sumimasen, kono basu wa eki ni ikimasu ka?<br>  
+**乘客:** すみません、このバスは京都駅に行きますか？<br>  
+(sumimasen, kono basu wa kyouto eki ni ikimasu ka?)<br>  
+不好意思，這班公車會到京都車站嗎？<br>  
+**Excuse me, does this bus go to Kyoto Station?**<br>  
 </div>
+
+<br>
 
 <div style="text-align: right">  
 
-**司機:** はい、行きますよ。次の駅で降りられます。<br>  
-翻譯：是的，會到。您可以在下一站下車。<br>  
-音標：はい、いきますよ。つぎのえきでおりられます。<br>  
-拼音：Hai, ikimasu yo. Tsugi no eki de oriraremasu.<br>  
+**司機:** はい、行きますよ。<br>  
+(hai, ikimasu yo.)<br>  
+是的，會到喔。<br>  
+**Yes, it does.**<br>  
 </div>
+
+<br>
 
 <div style="text-align: left">  
 
-**乘客:** ありがとうございます！料金はいくらですか？<br>  
-翻譯：非常感謝！車費是多少錢呢？<br>  
-音標：ありがとうございます！りょうきんはいくらですか？<br>  
-拼音：Arigatou gozaimasu! Ryokin wa ikura desu ka?<br>  
+**乘客:** 料金は先払いですか？後払いですか？<br>  
+(ryoukin wa sakibarai desu ka? atobarai desu ka?)<br>  
+請問是先付款還是後付款？<br>  
+**Do I pay first or later?**<br>  
 </div>
+
+<br>
 
 <div style="text-align: right">  
 
-**司機:** 大人は220円、子供は110円です。<br>  
-翻譯：大人220日圓，小孩110日圓。<br>  
-音標：おとなはにひゃくにじゅうえん、こどもはひゃくじゅうえんです。<br>  
-拼音：Otona wa nihyakunijuu en, kodomo wa hyakujuu en desu.<br>  
+**司機:** 後払いです。整理券を取ってください。<br>  
+(atobarai desu. seiriken o totte kudasai.)<br>  
+後付款。請抽取整理券。<br>  
+**Pay later. Please take a numbered ticket.**<br>  
 </div>
+
+<br>
 
 <div style="text-align: left">  
 
-**乘客:** はい、大人一人分お願いします。<br>  
-翻譯：好的，請給我一個大人的車費。<br>  
-音標：はい、おとなひとりぶんおねがいします。<br>  
-拼音：Hai, otona hitoribun onegai shimasu.<br>  
+**乘客:** 次の駅で降ります。<br>  
+(tsugi no eki de orimasu.)<br>  
+我在下一站下車。<br>  
+**I'll get off at the next stop.**<br>  
 </div>
+
+### 重點句型
+- ～に行きますか？ (~ni ikimasu ka?) - 會去...嗎？
+- 整理券を取ってください。(seiriken o totte kudasai) - 請拿整理券（用於計算車資）。
+- 次で降ります。(tsugi de orimasu) - 我下一站下車。
+
+### 相關單字
+- バス停 (basu tei) - 公車站
+- 運賃 (unchin) - 車資
+- 小銭 (kozeni) - 零錢
+- 両替 (ryougae) - 換錢（公車投幣機通常附帶換零錢功能）
 
 ---
 
-## 搭飛機情境對話
-
-![機場辦理登機](/assets/img/jp/機場辦理登機.webp)
-
-### 1. 買票
-
-<div style="text-align: left">  
-
-**乘客:** 東京行きのチケットをお願いします。<br>  
-翻譯：請給我一張到東京的機票。<br>  
-音標：とうきょうゆきのチケットをおねがいします。<br>  
-拼音：Toukyou yuki no chiketto wo onegai shimasu.<br>  
-</div>
-
-<div style="text-align: right">  
-
-**櫃台人員:** 片道ですか、それとも往復ですか？<br>  
-翻譯：是單程票還是來回票呢？<br>  
-音標：かたみちですか、それともおうふくですか？<br>  
-拼音：Katamichi desu ka, soretomo oufuku desu ka?<br>  
-</div>
-
-<div style="text-align: left">  
-
-**乘客:** 往復でお願いします。来月の15日と22日で。<br>  
-翻譯：請給我來回票。下個月15號去，22號回。<br>  
-音標：おうふくでおねがいします。らいげつのじゅうごにちとにじゅうににちで。<br>  
-拼音：Oufuku de onegai shimasu. Raigetsu no juugonichi to nijuuninichi de.<br>  
-</div>
-
-<div style="text-align: right">  
-
-**櫃台人員:** 承知いたしました。エコノミークラスでよろしいですか？<br>  
-翻譯：明白了。經濟艙可以嗎？<br>  
-音標：しょうちいたしました。エコノミークラスでよろしいですか？<br>  
-拼音：Shouchi itashimashita. Ekonomii kurasu de yoroshii desu ka?<br>  
-</div>
-
-<div style="text-align: left">  
-
-**乘客:** はい、エコノミーでお願いします。窓側の席を希望します。<br>  
-翻譯：好的，請給我經濟艙。我想要靠窗的座位。<br>  
-音標：はい、エコノミーでおねがいします。まどがわのせきをきぼうします。<br>  
-拼音：Hai, ekonomii de onegai shimasu. Madogawa no seki wo kibou shimasu.<br>  
-</div>
-
----
-
-### 2. 報到
-
-<div style="text-align: left">  
-
-**乘客:** すみません、チェックインをお願いします。<br>  
-翻譯：不好意思，我要辦理報到。<br>  
-音標：すみません、チェックインをおねがいします。<br>  
-拼音：Sumimasen, chekkuin wo onegai shimasu.<br>  
-</div>
-
-<div style="text-align: right">  
-
-**櫃台人員:** パスポートをお預かりいたします。お客様のお名前は？<br>  
-翻譯：請出示您的護照。請問您的姓名是？<br>  
-音標：パスポートをおあずかりいたします。おきゃくさまのおなまえは？<br>  
-拼音：Pasupooto wo oazukari itashimasu. Okyakusama no onamae wa?<br>  
-</div>
-
-<div style="text-align: left">  
-
-**乘客:** 田中太郎です。予約番号はABC123です。<br>  
-翻譯：我是田中太郎。預訂號碼是ABC123。<br>  
-音標：たなかたろうです。よやくばんごうはABC123です。<br>  
-拼音：Tanaka Tarou desu. Yoyaku bangou wa ABC123 desu.<br>  
-</div>
-
-<div style="text-align: right">  
-
-**櫃台人員:** 田中様ですね。確認いたしました。搭乗券をお渡しします。<br>  
-翻譯：是田中先生對吧。確認了。這是您的登機證。<br>  
-音標：たなかさまですね。かくにんいたしました。とうじょうけんをおわたしします。<br>  
-拼音：Tanaka sama desu ne. Kakunin itashimashita. Toujouken wo owatashi shimasu.<br>  
-</div>
-
----
-
-### 3. 托運行李
-
-<div style="text-align: left">  
-
-**乘客:** 荷物を預けたいのですが。<br>  
-翻譯：我想要托運行李。<br>  
-音標：にもつをあずけたいのですが。<br>  
-拼音：Nimotsu wo azuketai no desu ga.<br>  
-</div>
-
-<div style="text-align: right">  
-
-**櫃台人員:** 承知しました。こちらでお預かりします。お荷物は何個ですか？<br>  
-翻譯：明白了，我會在這裡為您托運。您有幾件行李呢？<br>  
-音標：しょうちしました。こちらでおあずかりします。おにもつはなんこですか？<br>  
-拼音：Shouchi shimashita. Kochira de oazukari shimasu. Onimotsu wa nanko desu ka?<br>  
-</div>
-
-<div style="text-align: left">  
-
-**乘客:** スーツケースが2つと、手荷物が1つです。<br>  
-翻譯：有兩個行李箱和一個手提行李。<br>  
-音標：スーツケースがふたつと、てにもつがひとつです。<br>  
-拼音：Suutsu keesu ga futatsu to, tenimotsu ga hitotsu desu.<br>  
-</div>
-
-<div style="text-align: right">  
-
-**櫃台人員:** 手荷物は機内に持ち込めますが、スーツケースは預けていただきます。<br>  
-翻譯：手提行李可以帶上飛機，但行李箱需要托運。<br>  
-音標：てにもつはきないにもちこめますが、スーツケースはあずけていただきます。<br>  
-拼音：Tenimotsu wa kinai ni mochikomemasu ga, suutsu keesu wa azukete itadakimasu.<br>  
-</div>
-
----
-
-### 4. 退票
-
-<div style="text-align: left">  
-
-**乘客:** すみません、チケットをキャンセルしたいのですが。<br>  
-翻譯：不好意思，我想要取消機票。<br>  
-音標：すみません、チケットをキャンセルしたいのですが。<br>  
-拼音：Sumimasen, chiketto wo kyanseru shitai no desu ga.<br>  
-</div>
-
-<div style="text-align: right">  
-
-**櫃台人員:** かしこまりました。払い戻しの手続きをいたします。キャンセル料がかかりますが、よろしいですか？<br>  
-翻譯：明白了，我會為您辦理退票手續。需要收取取消手續費，可以嗎？<br>  
-音標：かしこまりました。はらいもどしのてつづきをいたします。キャンセルりょうがかかりますが、よろしいですか？<br>  
-拼音：Kashikomarimashita. Haraimodoshi no tetsuzuki wo itashimasu. Kyanseru ryou ga kakarimasu ga, yoroshii desu ka?<br>  
-</div>
-
-<div style="text-align: left">  
-
-**乘客:** はい、承知しました。手数料はいくらですか？<br>  
-翻譯：好的，我明白了。手續費是多少錢呢？<br>  
-音標：はい、しょうちしました。てすうりょうはいくらですか？<br>  
-拼音：Hai, shouchi shimashita. Tesuuryou wa ikura desu ka?<br>  
-</div>
-
-<div style="text-align: right">  
-
-**櫃台人員:** キャンセル料は5000円です。払い戻しは1週間程度でお振込みいたします。<br>  
-翻譯：取消手續費是5000日圓。退款會在一週內匯入您的帳戶。<br>  
-音標：キャンセルりょうはごせんえんです。はらいもどしはいっしゅうかんでどでおふりこみいたします。<br>  
-拼音：Kyanseru ryou wa gosen en desu. Haraimodoshi wa isshuukan teido de ofurikomi itashimasu.<br>  
-</div>
-
----
-
-## 情境：搭計程車
+## 情境 2: 搭計程車 (タクシー)
 
 ![搭計程車](/assets/img/jp/東京計程車在澀谷.webp)
 
 <div style="text-align: left">  
 
-**乘客:** すみません、新宿駅までお願いします。<br>  
-翻譯：不好意思，請載我到新宿站。<br>  
-音標：すみません、しんじゅくえきまでおねがいします。<br>  
-拼音：Sumimasen, Shinjuku eki made onegai shimasu.<br>  
+**乘客:** 新宿駅の東口までお願いします。<br>  
+(shinjuku eki no higashiguchi made onegai shimasu.)<br>  
+請載我到新宿站的東口。<br>  
+**To the east exit of Shinjuku Station, please.**<br>  
 </div>
+
+<br>
 
 <div style="text-align: right">  
 
-**司機:** 承知しました。新宿のどこでしょうか？<br>  
-翻譯：了解。新宿的哪個地方呢？<br>  
-音標：しょうちしました。しんじゅくのどこでしょうか？<br>  
-拼音：Shouchi shimashita. Shinjuku no doko deshou ka?<br>  
+**司機:** かしこまりました。高速道路は使いますか？<br>  
+(kashikomarimashita. kousoku douro wa tsukaimasu ka?)<br>  
+好的。要走高速公路嗎？<br>  
+**Certainly. Should we use the highway?**<br>  
 </div>
+
+<br>
 
 <div style="text-align: left">  
 
-**乘客:** 新宿駅の東口でお願いします。<br>  
-翻譯：請在新宿站的東口停。<br>  
-音標：しんじゅくえきのひがしぐちでおねがいします。<br>  
-拼音：Shinjuku eki no higashiguchi de onegai shimasu.<br>  
+**乘客:** いいえ、一般道でいいです。急いでいません。<br>  
+(iie, ippandou de ii desu. isoide imasen.)<br>  
+不用，走一般道路就好。我不趕時間。<br>  
+**No, the regular road is fine. I'm not in a hurry.**<br>  
 </div>
 
-<div style="text-align: right">  
-
-**司機:** かしこまりました。料金はメーター制ですので、到着時に精算いたします。<br>  
-翻譯：明白了。車費是計程表制，到達時會結算。<br>  
-音標：かしこまりました。りょうきんはメーターせいですので、とうちゃくじにせいさんいたします。<br>  
-拼音：Kashikomarimashita. Ryokin wa meetaa sei desu node, touchakuji ni seisan itashimasu.<br>  
-</div>
+<br>
 
 <div style="text-align: left">  
 
-**乘客:** はい、お願いします。クレジットカードで支払えますか？<br>  
-翻譯：好的，麻煩您了。可以用信用卡付款嗎？<br>  
-音標：はい、おねがいします。クレジットカードではらえますか？<br>  
-拼音：Hai, onegai shimasu. Kurejitto kaado de haraemasu ka?<br>  
+**乘客:** カードで支払えますか？<br>  
+(kaado de shiharaemasu ka?)<br>  
+可以用信用卡付款嗎？<br>  
+**Can I pay by credit card?**<br>  
 </div>
+
+<br>
 
 <div style="text-align: right">  
 
-**司機:** はい、クレジットカードも現金もお受けできます。<br>  
-翻譯：是的，信用卡和現金都可以。<br>  
-音標：はい、クレジットカードもげんきんもおうけできます。<br>  
-拼音：Hai, kurejitto kaado mo genkin mo ouke dekimasu.<br>  
+**司機:** はい、タッチ決済も可能です。<br>  
+(hai, tacchi kessai mo kanou desu.)<br>  
+可以，感應支付也可以。<br>  
+**Yes, contactless payment is also available.**<br>  
 </div>
+
+### 重點句型
+- ～までお願いします。(~made onegai shimasu) - 請到...
+- ここで下ろしてください。(koko de oroshite kudasai) - 請在這裡讓我下車。
+- 領収書をください。(ryoushuusho o kudasai) - 請給我收據（如需報帳或找回遺失物很重要）。
+
+### 相關單字
+- 信号 (shingou) - 紅綠燈
+- 角 (kado) - 轉角
+- まっすぐ (massugu) - 直走
+- 近道 (chikamichi) - 捷徑
 
 ---
 
-## 情境：租車
-
-<div style="text-align: left">  
-
-**顧客:** 車を借りたいのですが、1日いくらですか？<br>  
-翻譯：我想租車，一天多少錢？<br>  
-音標：くるまをかりたいのですが、いちにちいくらですか？<br>  
-拼音：Kuruma o karitai no desu ga, ichinichi ikura desu ka?<br>  
-</div>
-
-<div style="text-align: right">  
-
-**店員:** 1日あたり5000円です。何日間ご利用予定でしょうか？<br>  
-翻譯：一天5000日圓。您預計租幾天呢？<br>  
-音標：いちにちあたりごせんえんです。なんにちかんごりようよていでしょうか？<br>  
-拼音：Ichinichi atari gosen en desu. Nannichikan goriyou yotei deshou ka?<br>  
-</div>
-
-<div style="text-align: left">  
-
-**顧客:** 3日間お願いします。小型車でお願いします。<br>  
-翻譯：請租3天。請給我小型車。<br>  
-音標：みっかかんおねがいします。こがたしゃでおねがいします。<br>  
-拼音：Mikkakan onegai shimasu. Kogata sha de onegai shimasu.<br>  
-</div>
-
-<div style="text-align: right">  
-
-**店員:** 承知いたしました。保険は加入されますか？<br>  
-翻譯：明白了。您要加入保險嗎？<br>  
-音標：しょうちいたしました。ほけんはかにゅうされますか？<br>  
-拼音：Shouchi itashimashita. Hoken wa kanyuu saremasu ka?<br>  
-</div>
-
-<div style="text-align: left">  
-
-**顧客:** はい、保険もお願いします。ガソリンは満タンで返す必要がありますか？<br>  
-翻譯：好的，請加入保險。還車時需要加滿油嗎？<br>  
-音標：はい、ほけんもおねがいします。ガソリンはまんタンでかえすひつようがありますか？<br>  
-拼音：Hai, hoken mo onegai shimasu. Gasorin wa man tan de kaesu hitsuyou ga arimasu ka?<br>  
-</div>
-
-<div style="text-align: right">  
-
-**店員:** はい、満タンでお返しください。ガソリン代は別途かかります。<br>  
-翻譯：是的，請加滿油歸還。油費另計。<br>  
-音標：はい、まんタンでおかえしください。ガソリンだいはべっとかかります。<br>  
-拼音：Hai, man tan de okaeshi kudasai. Gasorin dai wa betto kakarimasu.<br>  
-</div>
-
----
-
-## 情境：搭捷運
+## 情境 3: 搭電車/捷運 (電車・地下鉄)
 
 ![搭捷運](/assets/img/jp/繁忙的東京地鐵站.webp)
 
 <div style="text-align: left">  
 
-**乘客:** すみません、渋谷駅に行きたいのですが、どの路線ですか？<br>  
-翻譯：不好意思，我想去澀谷站，請問搭哪條線？<br>  
-音標：すみません、しぶやえきにいきたいのですが、どのろせんですか？<br>  
-拼音：Sumimasen, Shibuya eki ni ikitai no desu ga, dono rosen desu ka?<br>  
+**乘客:** すみません、渋谷駅にはどう行けばいいですか？<br>  
+(sumimasen, shibuya eki niwa dou ikeba ii desu ka?)<br>  
+不好意思，請問去澀谷站該怎麼走？<br>  
+**Excuse me, how do I get to Shibuya Station?**<br>  
 </div>
+
+<br>
 
 <div style="text-align: right">  
 
-**站務人員:** 山手線に乗れば、渋谷駅に行けますよ。<br>  
-翻譯：搭山手線就可以到澀谷站。<br>  
-音標：やまのてせんにのれば、しぶやえきにいけますよ。<br>  
-拼音：Yamanote-sen ni noreba, Shibuya eki ni ikemasu yo.<br>  
+**站員:** 山手線に乗って、3つ目の駅です。<br>  
+(yamanotesen ni notte, mittsume no eki desu.)<br>  
+搭山手線，在第3個站下車。<br>  
+**Take the Yamanote Line, it's the 3rd stop.**<br>  
 </div>
+
+<br>
 
 <div style="text-align: left">  
 
-**乘客:** ありがとうございます。料金はいくらですか？<br>  
-翻譯：非常感謝。車費是多少錢呢？<br>  
-音標：ありがとうございます。りょうきんはいくらですか？<br>  
-拼音：Arigatou gozaimasu. Ryokin wa ikura desu ka?<br>  
+**乘客:** 乗り換えは必要ですか？<br>  
+(norikae wa hitsuyou desu ka?)<br>  
+需要轉車嗎？<br>  
+**Do I need to transfer?**<br>  
 </div>
+
+<br>
 
 <div style="text-align: right">  
 
-**站務人員:** 大人は280円です。PASMOやSuicaなどの交通系ICカードが便利ですよ。<br>  
-翻譯：大人280日圓。PASMO或Suica等交通IC卡比較方便喔。<br>  
-音標：おとなはにひゃくはちじゅうえんです。PASMOやSuicaなどのこうつうけいICカードがべんりですよ。<br>  
-拼音：Otona wa nihyakuhachijuu en desu. PASMO ya Suica nado no koutsuu kei IC kaado ga benri desu yo.<br>  
+**站員:** いいえ、直通です。<br>  
+(iie, chokutsuu desu.)<br>  
+不用，是直達的。<br>  
+**No, it's direct.**<br>  
 </div>
+
+<br>
 
 <div style="text-align: left">  
 
-**乘客:** はい、PASMOでお願いします。チャージもできますか？<br>  
-翻譯：好的，請用PASMO。也可以儲值嗎？<br>  
-音標：はい、PASMOでおねがいします。チャージもできますか？<br>  
-拼音：Hai, PASMO de onegai shimasu. Chaaji mo dekimasu ka?<br>  
+**乘客:** ICカードのチャージはどこでできますか？<br>  
+(aishii kaado no chaaji wa doko de dekimasu ka?)<br>  
+請問哪裡可以儲值IC卡？<br>  
+**Where can I recharge my IC card?**<br>  
 </div>
 
-<div style="text-align: right">  
+### 重點句型
+- どう行けばいいですか？(dou ikeba ii desu ka?) - 該怎麼去？
+- 乗り換え (norikae) - 轉車
+- 何番線ですか？(nanban sen desu ka?) - 是第幾月台？
 
-**站務人員:** はい、チャージ機で簡単にチャージできます。1000円からチャージ可能です。<br>  
-翻譯：是的，可以在儲值機輕鬆儲值。從1000日圓開始儲值。<br>  
-音標：はい、チャージきでかんたんにチャージできます。せんえんからチャージかのうです。<br>  
-拼音：Hai, chaaji ki de kantan ni chaaji dekimasu. Sen en kara chaaji kanou desu.<br>  
-</div>
+### 相關單字
+- 改札口 (kaisatsuguchi) - 驗票口/閘門
+- 終電 (shuuden) - 末班車
+- ラッシュアワー (rasshuawaa) - 尖峰時刻
+- 路線図 (rosenzu) - 路線圖
 
 ---
 
-## 情境：搭新幹線
+## 情境 4: 搭新幹線 (新幹線)
 
 ![搭新幹線](/assets/img/jp/現代新幹線車站.webp)
 
 <div style="text-align: left">  
 
-**乘客:** すみません、東京から大阪まで新幹線で行きたいのですが。<br>  
-翻譯：不好意思，我想從東京搭新幹線到大阪。<br>  
-音標：すみません、とうきょうからおおさかまでしんかんせんでいきたいのですが。<br>  
-拼音：Sumimasen, Toukyou kara Oosaka made shinkansen de ikitai no desu ga.<br>  
+**乘客:** 大阪までの指定席を2枚お願いします。<br>  
+(oosaka made no shiteiseki o nimai onegai shimasu.)<br>  
+請給我兩張到大阪的指定席車票。<br>  
+**Two reserved seat tickets to Osaka, please.**<br>  
 </div>
+
+<br>
 
 <div style="text-align: right">  
 
-**售票員:** かしこまりました。指定席と自由席がございますが、どちらをご希望でしょうか？<br>  
-翻譯：明白了。有指定席和自由席，您想要哪一種呢？<br>  
-音標：かしこまりました。していせきとじゆうせきがございますが、どちらをごきぼうでしょうか？<br>  
-拼音：Kashikomarimashita. Shiteiseki to jiyuuseki ga gozaimasu ga, dochira wo gokibou deshou ka?<br>  
+**站員:** 何時頃の列車がよろしいですか？<br>  
+(nanji goro no ressha ga yoroshii desu ka?)<br>  
+請問您想要幾點左右的列車？<br>  
+**Around what time would you like?**<br>  
 </div>
+
+<br>
 
 <div style="text-align: left">  
 
-**乘客:** 指定席でお願いします。窓側の席を希望します。<br>  
-翻譯：請給我指定席。我想要靠窗的座位。<br>  
-音標：していせきでおねがいします。まどがわのせきをきぼうします。<br>  
-拼音：Shiteiseki de onegai shimasu. Madogawa no seki wo kibou shimasu.<br>  
+**乘客:** 一番早い列車でお願いします。窓側がいいです。<br>  
+(ichiban hayai ressha de onegai shimasu. madogawa ga ii desu.)<br>  
+請給我最早的一班車。我想要靠窗的座位。<br>  
+**The earliest train, please. I'd like window seats.**<br>  
 </div>
+
+<br>
 
 <div style="text-align: right">  
 
-**售票員:** 承知いたしました。料金は大人片道14,000円です。何時発の列車をご希望でしょうか？<br>  
-翻譯：明白了。車費是大人單程14,000日圓。您想要幾點的列車呢？<br>  
-音標：しょうちいたしました。りょうきんはおとなかたみちいちまんよんせんえんです。なんじはつのれっしゃをごきぼうでしょうか？<br>  
-拼音：Shouchi itashimashita. Ryokin wa otona katamichi ichiman yonsen en desu. Nanji hatsu no ressha wo gokibou deshou ka?<br>  
+**站員:** かしこまりました。9時15分発の「のぞみ」ですね。<br>  
+(kashikomarimashita. kuji juugofun hatsu no nozomi desu ne.)<br>  
+好的。9點15分發車的「希望號」。<br>  
+**Understood. The "Nozomi" departing at 9:15.**<br>  
 </div>
 
-<div style="text-align: left">  
+### 重點句型
+- 指定席 (shiteiseki) vs 自由席 (jiyuuseki) - 指定席 vs 自由座
+- 窓側 (madogawa) vs 通路側 (tsuurogawa) - 靠窗 vs 靠走道
+- 片道 (katamichi) vs 往復 (oufuku) - 單程 vs 來回
 
-**乘客:** 午前9時発の列車でお願いします。<br>  
-翻譯：請給我上午9點發車的列車。<br>  
-音標：ごぜんくじはつのれっしゃでおねがいします。<br>  
-拼音：Gozen kuji hatsu no ressha de onegai shimasu.<br>  
-</div>
-
-<div style="text-align: right">  
-
-**售票員:** かしこまりました。9時発ののぞみ号でございます。乗車券をお渡しします。<br>  
-翻譯：明白了。是9點發車的希望號。這是您的車票。<br>  
-音標：かしこまりました。くじはつののぞみごうでございます。じょうしゃけんをおわたしします。<br>  
-拼音：Kashikomarimashita. Kuji hatsu no Nozomi gou de gozaimasu. Joushaken wo owatashi shimasu.<br>  
-</div>
+### 相關單字
+- みどりの窓口 (midori no madoguchi) - 綠色窗口（JR售票處）
+- 乗車券 (joushaken) - 乘車券（基本車資）
+- 特急券 (tokkyuuken) - 特急券（搭快車需加購）
 
 ---
 
-## 情境：搭渡輪
-
-![搭渡輪](/assets/img/jp/現代渡輪碼頭.webp)
+## 情境 5: 租車 (レンタカー)
 
 <div style="text-align: left">  
 
-**乘客:** すみません、神戸から淡路島までフェリーで行きたいのですが。<br>  
-翻譯：不好意思，我想從神戶搭渡輪到淡路島。<br>  
-音標：すみません、こうべからあわじしままでフェリーでいきたいのですが。<br>  
-拼音：Sumimasen, Koube kara Awajishima made ferii de ikitai no desu ga.<br>  
+**顧客:** 予約していた田中です。<br>  
+(yoyaku shite ita tanaka desu.)<br>  
+我是預約的田中。<br>  
+**I'm Tanaka, I have a reservation.**<br>  
 </div>
+
+<br>
 
 <div style="text-align: right">  
 
-**售票員:** かしこまりました。大人片道1,200円です。車もお持ちでしょうか？<br>  
-翻譯：明白了。大人單程1,200日圓。您有開車嗎？<br>  
-音標：かしこまりました。おとなかたみちせんにひゃくえんです。くるまもおもちでしょうか？<br>  
-拼音：Kashikomarimashita. Otona katamichi sen nihyaku en desu. Kuruma mo omochi deshou ka?<br>  
+**店員:** お待ちしておりました。免許証をお願いします。<br>  
+(omachi shite orimashita. menkyoshou o onegai shimasu.)<br>  
+等您很久了。請出示駕照。<br>  
+**We've been expecting you. Please show me your driver's license.**<br>  
 </div>
+
+<br>
 
 <div style="text-align: left">  
 
-**乘客:** はい、車も一緒にお願いします。車の料金はいくらですか？<br>  
-翻譯：是的，車子也一起拜託了。車子的費用是多少呢？<br>  
-音標：はい、くるまもいっしょにおねがいします。くるまのりょうきんはいくらですか？<br>  
-拼音：Hai, kuruma mo issho ni onegai shimasu. Kuruma no ryokin wa ikura desu ka?<br>  
+**顧客:** はい。カーナビは日本語以外も対応していますか？<br>  
+(hai. kaanabi wa nihongo igai mo taiou shite imasu ka?)<br>  
+好的。請問導航支援日文以外的語言嗎？<br>  
+**Yes. Does the GPS support languages other than Japanese?**<br>  
 </div>
+
+<br>
 
 <div style="text-align: right">  
 
-**售票員:** 車は片道3,500円です。出航時刻の30分前までにご来場ください。<br>  
-翻譯：車子單程3,500日圓。請在開船時刻前30分鐘到場。<br>  
-音標：くるまはかたみちさんぜんごひゃくえんです。しゅっこうじこくのさんじゅっぷんまえまでにごらいじょうください。<br>  
-拼音：Kuruma wa katamichi sanzen gohyaku en desu. Shukkou jikoku no sanjuppun mae made ni goraijou kudasai.<br>  
+**店員:** はい、英語と中国語に切り替え可能です。返却時はガソリンを満タンにしてください。<br>  
+(hai, eigo to chuugokugo ni kirikae kanou desu. henkyakuji wa gasorin o mantan ni shite kudasai.)<br>  
+是的，可以切換成英文和中文。歸還時請將油加滿。<br>  
+**Yes, it can be switched to English and Chinese. Please return the car with a full tank.**<br>  
 </div>
 
-<div style="text-align: left">  
-
-**乘客:** ありがとうございます。船内にレストランはありますか？<br>  
-翻譯：非常感謝。船內有餐廳嗎？<br>  
-音標：ありがとうございます。せんないにレストランはありますか？<br>  
-拼音：Arigatou gozaimasu. Sennai ni resutoran wa arimasu ka?<br>  
-</div>
-
-<div style="text-align: right">  
-
-**售票員:** はい、船内にレストランと売店がございます。約45分で到着いたします。<br>  
-翻譯：是的，船內有餐廳和商店。約45分鐘到達。<br>  
-音標：はい、せんないにレストランとばいてんがございます。やくよんじゅうごふんでとうちゃくいたします。<br>  
-拼音：Hai, sennai ni resutoran to baiten ga gozaimasu. Yaku yonjuu gofun de touchaku itashimasu.<br>  
-</div>
+### 重點句型
+- ガソリン満タン返し (gasorin mantan gaeshi) - 滿油歸還
+- 乗り捨て (norisute) - 甲地租乙地還（通常需加錢）
+- 免責補償 (menseki hoshou) - 免責補償保險（建議加入）
 
 ---
+
+## 情境 6: 搭飛機 (飛行機) - 報到與託運
+
+![機場辦理登機](/assets/img/jp/機場辦理登機.webp)
+
+<div style="text-align: left">  
+
+**乘客:** チェックインをお願いします。<br>  
+(chekkuin o onegai shimasu.)<br>  
+我要辦理登機報到。<br>  
+**Check-in, please.**<br>  
+</div>
+
+<br>
+
+<div style="text-align: right">  
+
+**地勤:** パスポートをご提示ください。預け入れ荷物はございますか？<br>  
+(pasupooto o goteiji kudasai. azukeire nimotsu wa gozaimasu ka?)<br>  
+請出示護照。請問有託運的行李嗎？<br>  
+**Passport, please. Do you have any checked baggage?**<br>  
+</div>
+
+<br>
+
+<div style="text-align: left">  
+
+**乘客:** スーツケースが一つです。これは機内に持ち込めますか？<br>  
+(suutsukeesu ga hitotsu desu. kore wa kinai ni mochikomemasu ka?)<br>  
+有一個行李箱。請問這個（手提包）可以帶上飛機嗎？<br>  
+**One suitcase. Can I carry this on the plane?**<br>  
+</div>
+
+<br>
+
+<div style="text-align: right">  
+
+**地勤:** はい、大丈夫です。窓側と通路側、どちらがよろしいですか？<br>  
+(hai, daijoubu desu. madogawa to tsuurogawa, dochira ga yoroshii desu ka?)<br>  
+可以的。請問要靠窗還是靠走道？<br>  
+**Yes, that's fine. Window or aisle seat?**<br>  
+</div>
+
+### 重點句型
+- 預け入れ荷物 (azukeire nimotsu) - 託運行李
+- 機内持ち込み (kinai mochikomi) - 手提上機
+- 搭乗口 (toujouaguchi) - 登機門
+
+---
+
+## 文化小知識：日本交通潛規則
+
+### 1. 計程車的自動門
+在日本搭計程車時，**後座左側的車門是自動的**。上下車時請不要自己動手開關門，司機會透過操作桿控制。如果您自己去拉門，可能會損壞機械或讓司機嚇一跳。
+
+### 2. 電車上的禮儀
+- **手機靜音：** 上車後請將手機設為靜音模式 (マナーモード)，並避免通話。
+- **優先席：** 博愛座附近請關閉手機電源（雖然現在規定放寬，但在擁擠時仍建議遵守）。
+- **背包前背：** 滿員電車時，請將後背包改為前背，以免撞到他人。
+
+### 3. 公車的「整理券」
+搭乘日本公車（尤其是鄉下地區），上車時需從門口的機器抽取一張「整理券」，上面會有號碼（如 1 號）。下車時，看前方的電子看板，對照 1 號對應的金額，將錢和整理券一起投入運賃箱。如果是刷 IC 卡 (Suica/ICOCA)，則上下車各刷一次即可。
+
+### 4. 走路靠左還是靠右？
+- **東京/關東：** 手扶梯靠**左**站立，右側通行。
+- **大阪/關西：** 手扶梯靠**右**站立，左側通行。
+這是一個有趣的文化差異，旅遊時觀察一下前面的人怎麼站就對了！
+
+---
+
+## 小故事：迷路的太郎
+
+田中太郎第一次去東京出差。他在新宿站迷路了，新宿站就像個巨大的迷宮。
+他想搭計程車去飯店，但他習慣性地自己去開計程車的門，結果司機急忙揮手說：「自動です！(是自動的！)」。太郎尷尬地笑了笑。
+接著他去搭山手線，因為講電話太大聲，被旁邊的歐巴桑瞪了一眼。他才想起日本電車上是不能講電話的。
+雖然發生了很多小插曲，但透過這些經驗，太郎也越來越適應日本的交通文化了。
+希望大家去日本旅遊時，也能記住這些小知識，享受愉快的旅程！
