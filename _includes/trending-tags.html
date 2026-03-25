@@ -33,6 +33,19 @@
   {% endfor %}
 {% endfor %}
 
+{% comment %}Move tags starting with "日語" to the front{% endcomment %}
+{% assign jp_prefix_tags = '' | split: '' %}
+{% assign other_tags = '' | split: '' %}
+{% for tag_name in trending_tags %}
+  {% assign tag_prefix = tag_name | slice: 0, 2 %}
+  {% if tag_prefix == '日語' %}
+    {% assign jp_prefix_tags = jp_prefix_tags | push: tag_name %}
+  {% else %}
+    {% assign other_tags = other_tags | push: tag_name %}
+  {% endif %}
+{% endfor %}
+{% assign trending_tags = jp_prefix_tags | concat: other_tags %}
+
 {% if trending_tags.size > 0 %}
   <section>
     <h2 class="panel-heading">{{- site.data.locales[include.lang].panel.trending_tags -}}</h2>

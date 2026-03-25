@@ -18,6 +18,9 @@ package-lock.json
 .idea
 .vscode
 
+# Python (venv for scripts / Cursor agent)
+.venv
+
 # Misc
 assets/js/dist
 .env
