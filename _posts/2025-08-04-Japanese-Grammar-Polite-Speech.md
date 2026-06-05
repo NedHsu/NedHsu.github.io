@@ -1,6 +1,6 @@
 ---
 title: 日語敬語 - です・ます・だ・である
-date: 2025-08-04 19:00:00 +0800
+date: 2025-08-04 19:00:01 +0800
 categories: [Language, Japanese]
 tags: [日語, Japanese, 語法, Grammar, 敬語, Polite-Speech] 
 excerpt: 學習日語敬語的基礎，包括です・ます・だ・である的用法，以及敬語的使用場合和區別。

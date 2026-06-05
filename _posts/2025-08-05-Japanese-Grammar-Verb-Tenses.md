@@ -1,6 +1,6 @@
 ---
 title: 日語動詞時態 - 現在・過去・未來
-date: 2025-08-05 19:00:00 +0800
+date: 2025-08-05 19:00:01 +0800
 categories: [Language, Japanese]
 tags: [日語, Japanese, 語法, Grammar, 動詞, Verbs, 時態, Tenses] 
 excerpt: 學習日語動詞的時態變化，包括現在時、過去時、未來時的表達方式，以及動詞的變化規則
