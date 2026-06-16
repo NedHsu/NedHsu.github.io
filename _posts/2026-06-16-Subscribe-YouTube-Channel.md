@@ -30,16 +30,18 @@ toc: true
 .yt-section-title span { font-size: 1.5rem; }
 .yt-featured { background: linear-gradient(to bottom, #fafafa, #fff); border: 1px solid #eee; border-radius: 12px; padding: 1.5rem; margin-bottom: 1rem; }
 .yt-featured-label { display: inline-block; background: var(--yt-red); color: #fff; font-size: .75rem; font-weight: 700; padding: .25rem .75rem; border-radius: 20px; margin-bottom: 1rem; letter-spacing: .05em; }
-.yt-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1.25rem; margin-bottom: 1.5rem; }
-.yt-card { border-radius: 12px; overflow: hidden; background: #fff; border: 1px solid #eee; box-shadow: var(--yt-card-shadow); transition: transform .2s, box-shadow .2s; text-decoration: none !important; color: inherit !important; display: block; }
-.yt-card:hover { transform: translateY(-4px); box-shadow: 0 12px 32px rgba(0,0,0,.18); color: inherit !important; text-decoration: none !important; }
-.yt-card-thumb { position: relative; padding-top: 56.25%; background: #111; overflow: hidden; }
-.yt-card-thumb img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; }
-.yt-card-play { position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%); width: 48px; height: 48px; background: rgba(255,0,0,.9); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: #fff; font-size: 1.2rem; opacity: 0; transition: opacity .2s; }
-.yt-card:hover .yt-card-play { opacity: 1; }
-.yt-card-body { padding: .85rem 1rem 1rem; }
-.yt-card-title { font-weight: 600; font-size: .95rem; line-height: 1.4; margin-bottom: .35rem; color: #212529; }
-.yt-card-meta { font-size: .8rem; color: #6c757d; }
+.yt-landing .yt-grid { display: grid !important; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1.25rem; margin-bottom: 1.5rem; width: 100%; }
+.yt-landing .yt-grid > .yt-card { display: block !important; min-width: 0; border-radius: 12px; overflow: hidden; background: #fff; border: 1px solid #eee; box-shadow: var(--yt-card-shadow); transition: transform .2s, box-shadow .2s; }
+.yt-landing .yt-grid > .yt-card:hover { transform: translateY(-4px); box-shadow: 0 12px 32px rgba(0,0,0,.18); }
+.yt-landing .yt-card-link { display: block !important; text-decoration: none !important; color: inherit !important; }
+.yt-landing .yt-card-link:hover { text-decoration: none !important; color: inherit !important; }
+.yt-landing .yt-card-thumb { position: relative; aspect-ratio: 16 / 9; background-color: #111; background-size: cover; background-position: center; background-repeat: no-repeat; overflow: hidden; }
+.yt-landing .yt-card-play { position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%); width: 48px; height: 48px; background: rgba(255,0,0,.9); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: #fff; font-size: 1.2rem; opacity: 0; transition: opacity .2s; pointer-events: none; }
+.yt-landing .yt-card:hover .yt-card-play { opacity: 1; }
+.yt-landing .yt-card-body { padding: .85rem 1rem 1rem; }
+.yt-landing .yt-card-title { font-weight: 600; font-size: .95rem; line-height: 1.4; margin-bottom: .35rem; color: #212529; }
+.yt-landing .yt-card-meta { font-size: .8rem; color: #6c757d; }
+.yt-landing .yt-card-link:not(.popup) { border-bottom: none !important; }
 .yt-badge { display: inline-block; font-size: .7rem; font-weight: 600; padding: .15rem .55rem; border-radius: 4px; margin-right: .35rem; }
 .yt-badge-grammar { background: #e8f4fd; color: #0d6efd; }
 .yt-badge-basic { background: #fff3cd; color: #856404; }
@@ -56,7 +58,7 @@ toc: true
 .yt-table th, .yt-table td { padding: .6rem .75rem; border: 1px solid #dee2e6; text-align: left; }
 .yt-table th { background: #f8f9fa; font-weight: 600; }
 .yt-table tr:hover td { background: #f8f9fa; }
-@media (max-width: 576px) { .yt-hero { padding: 2rem 1.25rem; } .yt-hero h2 { font-size: 1.4rem; } .yt-grid { grid-template-columns: 1fr; } }
+@media (max-width: 576px) { .yt-hero { padding: 2rem 1.25rem; } .yt-hero h2 { font-size: 1.4rem; } .yt-landing .yt-grid { grid-template-columns: 1fr !important; } }
 </style>
 
 {::nomarkdown}
@@ -106,9 +108,9 @@ toc: true
 
 <div class="yt-grid">
 
-<a class="yt-card" href="https://www.youtube.com/watch?v=mjXeo9dqAKU" target="_blank" rel="noopener noreferrer">
-<div class="yt-card-thumb">
-<img src="https://img.youtube.com/vi/mjXeo9dqAKU/hqdefault.jpg" alt="日語助詞 で・へ・と・から" loading="lazy">
+<div class="yt-card">
+<a class="yt-card-link" href="https://www.youtube.com/watch?v=mjXeo9dqAKU" target="_blank" rel="noopener noreferrer">
+<div class="yt-card-thumb" style="background-image:url('https://img.youtube.com/vi/mjXeo9dqAKU/hqdefault.jpg')">
 <div class="yt-card-play"><i class="fas fa-play"></i></div>
 </div>
 <div class="yt-card-body">
@@ -116,10 +118,11 @@ toc: true
 <div class="yt-card-meta"><span class="yt-badge yt-badge-grammar">文法</span>2025-08</div>
 </div>
 </a>
+</div>
 
-<a class="yt-card" href="https://www.youtube.com/watch?v=dK6GNIVaET0" target="_blank" rel="noopener noreferrer">
-<div class="yt-card-thumb">
-<img src="https://img.youtube.com/vi/dK6GNIVaET0/hqdefault.jpg" alt="日語助詞 は・が・を・に" loading="lazy">
+<div class="yt-card">
+<a class="yt-card-link" href="https://www.youtube.com/watch?v=dK6GNIVaET0" target="_blank" rel="noopener noreferrer">
+<div class="yt-card-thumb" style="background-image:url('https://img.youtube.com/vi/dK6GNIVaET0/hqdefault.jpg')">
 <div class="yt-card-play"><i class="fas fa-play"></i></div>
 </div>
 <div class="yt-card-body">
@@ -127,10 +130,11 @@ toc: true
 <div class="yt-card-meta"><span class="yt-badge yt-badge-grammar">文法</span>2025-08</div>
 </div>
 </a>
+</div>
 
-<a class="yt-card" href="https://www.youtube.com/watch?v=N4i0-FqHnBs" target="_blank" rel="noopener noreferrer">
-<div class="yt-card-thumb">
-<img src="https://img.youtube.com/vi/N4i0-FqHnBs/hqdefault.jpg" alt="日語娛樂與休閒" loading="lazy">
+<div class="yt-card">
+<a class="yt-card-link" href="https://www.youtube.com/watch?v=N4i0-FqHnBs" target="_blank" rel="noopener noreferrer">
+<div class="yt-card-thumb" style="background-image:url('https://img.youtube.com/vi/N4i0-FqHnBs/hqdefault.jpg')">
 <div class="yt-card-play"><i class="fas fa-play"></i></div>
 </div>
 <div class="yt-card-body">
@@ -138,10 +142,11 @@ toc: true
 <div class="yt-card-meta"><span class="yt-badge yt-badge-life">生活主題</span>2025-04</div>
 </div>
 </a>
+</div>
 
-<a class="yt-card" href="https://www.youtube.com/watch?v=NJsfaT6kvOc" target="_blank" rel="noopener noreferrer">
-<div class="yt-card-thumb">
-<img src="https://img.youtube.com/vi/NJsfaT6kvOc/hqdefault.jpg" alt="日語情感與感受" loading="lazy">
+<div class="yt-card">
+<a class="yt-card-link" href="https://www.youtube.com/watch?v=NJsfaT6kvOc" target="_blank" rel="noopener noreferrer">
+<div class="yt-card-thumb" style="background-image:url('https://img.youtube.com/vi/NJsfaT6kvOc/hqdefault.jpg')">
 <div class="yt-card-play"><i class="fas fa-play"></i></div>
 </div>
 <div class="yt-card-body">
@@ -149,10 +154,11 @@ toc: true
 <div class="yt-card-meta"><span class="yt-badge yt-badge-life">生活主題</span>2025-04</div>
 </div>
 </a>
+</div>
 
-<a class="yt-card" href="https://www.youtube.com/watch?v=Z9Ac2PblGqk" target="_blank" rel="noopener noreferrer">
-<div class="yt-card-thumb">
-<img src="https://img.youtube.com/vi/Z9Ac2PblGqk/hqdefault.jpg" alt="日語天氣與自然" loading="lazy">
+<div class="yt-card">
+<a class="yt-card-link" href="https://www.youtube.com/watch?v=Z9Ac2PblGqk" target="_blank" rel="noopener noreferrer">
+<div class="yt-card-thumb" style="background-image:url('https://img.youtube.com/vi/Z9Ac2PblGqk/hqdefault.jpg')">
 <div class="yt-card-play"><i class="fas fa-play"></i></div>
 </div>
 <div class="yt-card-body">
@@ -160,10 +166,11 @@ toc: true
 <div class="yt-card-meta"><span class="yt-badge yt-badge-life">生活主題</span>2025-04</div>
 </div>
 </a>
+</div>
 
-<a class="yt-card" href="https://www.youtube.com/watch?v=DA4xz04XW3o" target="_blank" rel="noopener noreferrer">
-<div class="yt-card-thumb">
-<img src="https://img.youtube.com/vi/DA4xz04XW3o/hqdefault.jpg" alt="日語時間表達" loading="lazy">
+<div class="yt-card">
+<a class="yt-card-link" href="https://www.youtube.com/watch?v=DA4xz04XW3o" target="_blank" rel="noopener noreferrer">
+<div class="yt-card-thumb" style="background-image:url('https://img.youtube.com/vi/DA4xz04XW3o/hqdefault.jpg')">
 <div class="yt-card-play"><i class="fas fa-play"></i></div>
 </div>
 <div class="yt-card-body">
@@ -171,6 +178,7 @@ toc: true
 <div class="yt-card-meta"><span class="yt-badge yt-badge-life">生活主題</span>2025-04</div>
 </div>
 </a>
+</div>
 
 </div>
 
@@ -296,9 +304,9 @@ toc: true
 
 <div class="yt-grid">
 
-<a class="yt-card" href="https://www.youtube.com/watch?v=CDwTtCODRDY" target="_blank" rel="noopener noreferrer">
-<div class="yt-card-thumb">
-<img src="https://img.youtube.com/vi/CDwTtCODRDY/hqdefault.jpg" alt="日式料理入門" loading="lazy">
+<div class="yt-card">
+<a class="yt-card-link" href="https://www.youtube.com/watch?v=CDwTtCODRDY" target="_blank" rel="noopener noreferrer">
+<div class="yt-card-thumb" style="background-image:url('https://img.youtube.com/vi/CDwTtCODRDY/hqdefault.jpg')">
 <div class="yt-card-play"><i class="fas fa-play"></i></div>
 </div>
 <div class="yt-card-body">
@@ -306,10 +314,11 @@ toc: true
 <div class="yt-card-meta"><span class="yt-badge yt-badge-food">美食</span></div>
 </div>
 </a>
+</div>
 
-<a class="yt-card" href="https://www.youtube.com/watch?v=WpMVaOJg5G0" target="_blank" rel="noopener noreferrer">
-<div class="yt-card-thumb">
-<img src="https://img.youtube.com/vi/WpMVaOJg5G0/hqdefault.jpg" alt="飲品與點餐" loading="lazy">
+<div class="yt-card">
+<a class="yt-card-link" href="https://www.youtube.com/watch?v=WpMVaOJg5G0" target="_blank" rel="noopener noreferrer">
+<div class="yt-card-thumb" style="background-image:url('https://img.youtube.com/vi/WpMVaOJg5G0/hqdefault.jpg')">
 <div class="yt-card-play"><i class="fas fa-play"></i></div>
 </div>
 <div class="yt-card-body">
@@ -317,10 +326,11 @@ toc: true
 <div class="yt-card-meta"><span class="yt-badge yt-badge-food">美食</span></div>
 </div>
 </a>
+</div>
 
-<a class="yt-card" href="https://www.youtube.com/watch?v=SfiKo_nKZKc" target="_blank" rel="noopener noreferrer">
-<div class="yt-card-thumb">
-<img src="https://img.youtube.com/vi/SfiKo_nKZKc/hqdefault.jpg" alt="用餐禮儀" loading="lazy">
+<div class="yt-card">
+<a class="yt-card-link" href="https://www.youtube.com/watch?v=SfiKo_nKZKc" target="_blank" rel="noopener noreferrer">
+<div class="yt-card-thumb" style="background-image:url('https://img.youtube.com/vi/SfiKo_nKZKc/hqdefault.jpg')">
 <div class="yt-card-play"><i class="fas fa-play"></i></div>
 </div>
 <div class="yt-card-body">
@@ -328,6 +338,7 @@ toc: true
 <div class="yt-card-meta"><span class="yt-badge yt-badge-food">美食</span></div>
 </div>
 </a>
+</div>
 
 </div>
 
