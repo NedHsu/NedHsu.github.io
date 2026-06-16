@@ -1,0 +1,327 @@
+---
+title: 🪐 訂閱 mins Dream YouTube 頻道 👽 一起學日語
+date: 2026-06-16 10:00:00 +0800
+categories: [Language, Japanese]
+tags: [YouTube, 訂閱, 日語, Japanese, mins Dream, 影片]
+excerpt: 歡迎訂閱 mins Dream YouTube 頻道！精選最新日語教學影片、分類整理、搭配部落格文章，讓學習更有系統。
+description: mins Dream YouTube 頻道訂閱頁面，收錄最新日語教學影片、文法、五十音、生活主題單字等分類內容，搭配部落格文章同步學習，一鍵訂閱不錯過新片。
+pin: true
+toc: true
+---
+
+<style>
+.yt-landing { --yt-red: #ff0000; --yt-red-dark: #cc0000; --yt-hero-bg: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%); --yt-card-shadow: 0 8px 24px rgba(0,0,0,.12); }
+.yt-hero { background: var(--yt-hero-bg); border-radius: 16px; padding: 2.5rem 2rem; text-align: center; color: #fff; margin-bottom: 2rem; position: relative; overflow: hidden; }
+.yt-hero::before { content: "🪐"; position: absolute; top: 1rem; left: 1.5rem; font-size: 2rem; opacity: .6; animation: yt-float 4s ease-in-out infinite; }
+.yt-hero::after { content: "👽"; position: absolute; bottom: 1rem; right: 1.5rem; font-size: 2rem; opacity: .6; animation: yt-float 4s ease-in-out infinite reverse; }
+@keyframes yt-float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+.yt-hero h2 { color: #fff !important; font-size: 1.75rem; margin-bottom: .5rem; border: none !important; }
+.yt-hero p { color: rgba(255,255,255,.85); font-size: 1.05rem; margin-bottom: 1.5rem; max-width: 560px; margin-left: auto; margin-right: auto; }
+.yt-subscribe-btn { display: inline-flex; align-items: center; gap: .6rem; background: var(--yt-red); color: #fff !important; font-size: 1.1rem; font-weight: 700; padding: .85rem 2rem; border-radius: 50px; text-decoration: none !important; box-shadow: 0 4px 20px rgba(255,0,0,.4); transition: transform .2s, box-shadow .2s, background .2s; animation: yt-pulse 2.5s ease-in-out infinite; }
+.yt-subscribe-btn:hover { background: var(--yt-red-dark); color: #fff !important; transform: translateY(-2px) scale(1.03); box-shadow: 0 8px 28px rgba(255,0,0,.5); text-decoration: none !important; }
+.yt-subscribe-btn i { font-size: 1.3rem; }
+@keyframes yt-pulse { 0%, 100% { box-shadow: 0 4px 20px rgba(255,0,0,.4); } 50% { box-shadow: 0 4px 32px rgba(255,0,0,.65); } }
+.yt-stats { display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap; margin-top: 1.5rem; }
+.yt-stat { text-align: center; }
+.yt-stat-num { font-size: 1.5rem; font-weight: 800; color: #ffd700; }
+.yt-stat-label { font-size: .85rem; color: rgba(255,255,255,.7); }
+.yt-section-title { display: flex; align-items: center; gap: .5rem; margin: 2.5rem 0 1.25rem; padding-bottom: .5rem; border-bottom: 2px solid #e9ecef; }
+.yt-section-title span { font-size: 1.5rem; }
+.yt-featured { background: linear-gradient(to bottom, #fafafa, #fff); border: 1px solid #eee; border-radius: 12px; padding: 1.5rem; margin-bottom: 1rem; }
+.yt-featured-label { display: inline-block; background: var(--yt-red); color: #fff; font-size: .75rem; font-weight: 700; padding: .25rem .75rem; border-radius: 20px; margin-bottom: 1rem; letter-spacing: .05em; }
+.yt-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1.25rem; margin-bottom: 1.5rem; }
+.yt-card { border-radius: 12px; overflow: hidden; background: #fff; border: 1px solid #eee; box-shadow: var(--yt-card-shadow); transition: transform .2s, box-shadow .2s; text-decoration: none !important; color: inherit !important; display: block; }
+.yt-card:hover { transform: translateY(-4px); box-shadow: 0 12px 32px rgba(0,0,0,.18); color: inherit !important; text-decoration: none !important; }
+.yt-card-thumb { position: relative; padding-top: 56.25%; background: #111; overflow: hidden; }
+.yt-card-thumb img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; }
+.yt-card-play { position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%); width: 48px; height: 48px; background: rgba(255,0,0,.9); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: #fff; font-size: 1.2rem; opacity: 0; transition: opacity .2s; }
+.yt-card:hover .yt-card-play { opacity: 1; }
+.yt-card-body { padding: .85rem 1rem 1rem; }
+.yt-card-title { font-weight: 600; font-size: .95rem; line-height: 1.4; margin-bottom: .35rem; color: #212529; }
+.yt-card-meta { font-size: .8rem; color: #6c757d; }
+.yt-badge { display: inline-block; font-size: .7rem; font-weight: 600; padding: .15rem .55rem; border-radius: 4px; margin-right: .35rem; }
+.yt-badge-grammar { background: #e8f4fd; color: #0d6efd; }
+.yt-badge-basic { background: #fff3cd; color: #856404; }
+.yt-badge-life { background: #d1e7dd; color: #0f5132; }
+.yt-badge-food { background: #f8d7da; color: #842029; }
+.yt-category-block { margin-bottom: 2.5rem; }
+.yt-category-header { background: linear-gradient(90deg, #f8f9fa, transparent); border-left: 4px solid var(--yt-red); padding: .75rem 1rem; margin-bottom: 1.25rem; border-radius: 0 8px 8px 0; }
+.yt-category-header h3 { margin: 0; font-size: 1.15rem; }
+.yt-category-header p { margin: .25rem 0 0; font-size: .9rem; color: #6c757d; }
+.yt-cta-bottom { background: var(--yt-hero-bg); border-radius: 16px; padding: 2rem; text-align: center; color: #fff; margin-top: 2.5rem; }
+.yt-cta-bottom h3 { color: #fff !important; border: none !important; margin-bottom: .75rem; }
+.yt-cta-bottom p { color: rgba(255,255,255,.8); margin-bottom: 1.25rem; }
+@media (max-width: 576px) { .yt-hero { padding: 2rem 1.25rem; } .yt-hero h2 { font-size: 1.4rem; } .yt-grid { grid-template-columns: 1fr; } }
+</style>
+
+<div class="yt-landing">
+
+<!-- Hero 訂閱區 -->
+<div class="yt-hero">
+  <h2>mins Dream — 夢醒時分</h2>
+  <p>用影片輕鬆學日語！每支影片都搭配部落格文章，從五十音、文法到生活主題單字，讓你在闖關中找回學習的樂趣 🎮</p>
+  <a class="yt-subscribe-btn" href="https://www.youtube.com/channel/UC9ztxMS8ug3-sGx2b9Pz0TA?sub_confirmation=1" target="_blank" rel="noopener noreferrer">
+    <i class="fab fa-youtube"></i> 感謝訂閱 YouTube 頻道 👽
+  </a>
+  <div class="yt-stats">
+    <div class="yt-stat">
+      <div class="yt-stat-num">20+</div>
+      <div class="yt-stat-label">教學影片</div>
+    </div>
+    <div class="yt-stat">
+      <div class="yt-stat-num">4</div>
+      <div class="yt-stat-label">學習分類</div>
+    </div>
+    <div class="yt-stat">
+      <div class="yt-stat-num">∞</div>
+      <div class="yt-stat-label">持續更新</div>
+    </div>
+  </div>
+</div>
+
+---
+
+## 最新精選影片
+
+<div class="yt-featured">
+  <span class="yt-featured-label">🔥 LATEST</span>
+
+  <h3>日語助詞 — で・へ・と・から的用法</h3>
+  <p>進階助詞完整解析，搭配例句與常見錯誤，讓你的日語更道地。</p>
+
+  {% include embed/youtube.html id='mjXeo9dqAKU' %}
+
+  <p style="margin-top:1rem; margin-bottom:0;">
+    📖 搭配閱讀：<a href="/posts/Japanese-Grammar-Particles-Advanced/">日語助詞 — で・へ・と・から的用法</a>
+  </p>
+</div>
+
+---
+
+## 最新影片列表
+
+<div class="yt-section-title"><span>📺</span><h2 style="margin:0;border:none;">近期上架</h2></div>
+
+<div class="yt-grid">
+
+<a class="yt-card" href="https://www.youtube.com/watch?v=mjXeo9dqAKU" target="_blank" rel="noopener noreferrer">
+  <div class="yt-card-thumb">
+    <img src="https://img.youtube.com/vi/mjXeo9dqAKU/hqdefault.jpg" alt="日語助詞 で・へ・と・から" loading="lazy">
+    <div class="yt-card-play"><i class="fas fa-play"></i></div>
+  </div>
+  <div class="yt-card-body">
+    <div class="yt-card-title">日語助詞 — で・へ・と・から的用法</div>
+    <div class="yt-card-meta"><span class="yt-badge yt-badge-grammar">文法</span>2025-08</div>
+  </div>
+</a>
+
+<a class="yt-card" href="https://www.youtube.com/watch?v=dK6GNIVaET0" target="_blank" rel="noopener noreferrer">
+  <div class="yt-card-thumb">
+    <img src="https://img.youtube.com/vi/dK6GNIVaET0/hqdefault.jpg" alt="日語助詞 は・が・を・に" loading="lazy">
+    <div class="yt-card-play"><i class="fas fa-play"></i></div>
+  </div>
+  <div class="yt-card-body">
+    <div class="yt-card-title">日語助詞 — は・が・を・に的用法</div>
+    <div class="yt-card-meta"><span class="yt-badge yt-badge-grammar">文法</span>2025-08</div>
+  </div>
+</a>
+
+<a class="yt-card" href="https://www.youtube.com/watch?v=N4i0-FqHnBs" target="_blank" rel="noopener noreferrer">
+  <div class="yt-card-thumb">
+    <img src="https://img.youtube.com/vi/N4i0-FqHnBs/hqdefault.jpg" alt="日語娛樂與休閒" loading="lazy">
+    <div class="yt-card-play"><i class="fas fa-play"></i></div>
+  </div>
+  <div class="yt-card-body">
+    <div class="yt-card-title">日語娛樂與休閒 — 娛樂活動</div>
+    <div class="yt-card-meta"><span class="yt-badge yt-badge-life">生活主題</span>2025-04</div>
+  </div>
+</a>
+
+<a class="yt-card" href="https://www.youtube.com/watch?v=NJsfaT6kvOc" target="_blank" rel="noopener noreferrer">
+  <div class="yt-card-thumb">
+    <img src="https://img.youtube.com/vi/NJsfaT6kvOc/hqdefault.jpg" alt="日語情感與感受" loading="lazy">
+    <div class="yt-card-play"><i class="fas fa-play"></i></div>
+  </div>
+  <div class="yt-card-body">
+    <div class="yt-card-title">日語情感與感受 — 情感表達</div>
+    <div class="yt-card-meta"><span class="yt-badge yt-badge-life">生活主題</span>2025-04</div>
+  </div>
+</a>
+
+<a class="yt-card" href="https://www.youtube.com/watch?v=Z9Ac2PblGqk" target="_blank" rel="noopener noreferrer">
+  <div class="yt-card-thumb">
+    <img src="https://img.youtube.com/vi/Z9Ac2PblGqk/hqdefault.jpg" alt="日語天氣與自然" loading="lazy">
+    <div class="yt-card-play"><i class="fas fa-play"></i></div>
+  </div>
+  <div class="yt-card-body">
+    <div class="yt-card-title">日語天氣與自然 — 天氣狀況</div>
+    <div class="yt-card-meta"><span class="yt-badge yt-badge-life">生活主題</span>2025-04</div>
+  </div>
+</a>
+
+<a class="yt-card" href="https://www.youtube.com/watch?v=DA4xz04XW3o" target="_blank" rel="noopener noreferrer">
+  <div class="yt-card-thumb">
+    <img src="https://img.youtube.com/vi/DA4xz04XW3o/hqdefault.jpg" alt="日語時間表達" loading="lazy">
+    <div class="yt-card-play"><i class="fas fa-play"></i></div>
+  </div>
+  <div class="yt-card-body">
+    <div class="yt-card-title">日語時間表達 — 日期、時間、季節</div>
+    <div class="yt-card-meta"><span class="yt-badge yt-badge-life">生活主題</span>2025-04</div>
+  </div>
+</a>
+
+</div>
+
+---
+
+## 分類影片
+
+### 🎓 日語文法
+
+<div class="yt-category-block">
+<div class="yt-category-header">
+  <h3>助詞與句型</h3>
+  <p>從基礎助詞到進階用法，打好文法根基</p>
+</div>
+
+**は・が・を・に — 基礎助詞**
+
+{% include embed/youtube.html id='dK6GNIVaET0' %}
+
+📖 <a href="/posts/Japanese-Grammar-Particles-Basic/">搭配文章閱讀</a>
+
+---
+
+**で・へ・と・から — 進階助詞**
+
+{% include embed/youtube.html id='mjXeo9dqAKU' %}
+
+📖 <a href="/posts/Japanese-Grammar-Particles-Advanced/">搭配文章閱讀</a>
+
+</div>
+
+### 📚 日語基礎與五十音
+
+<div class="yt-category-block">
+<div class="yt-category-header">
+  <h3>發音規則 & 五十音對照</h3>
+  <p>從零開始，掌握假名與正確發音</p>
+</div>
+
+**日語發音規則入門**
+
+{% include embed/youtube.html id='1jKPTpNNEhY' %}
+
+{% include embed/youtube.html id='iJk_JqWLrQ8' %}
+
+📖 <a href="/posts/Japanese-Day1-2/">搭配文章閱讀</a>
+
+---
+
+**五十音對照表 — あ行・か行**
+
+{% include embed/youtube.html id='hhuuyTK0M3I' %}
+
+**さ行・た行**
+
+{% include embed/youtube.html id='Oh4se70uFns' %}
+
+**な行・は行**
+
+{% include embed/youtube.html id='p24PAoXoXtI' %}
+
+**ま行・や行**
+
+{% include embed/youtube.html id='7t4QAaBgLHc' %}
+
+**ら行・わ行**
+
+{% include embed/youtube.html id='xoV_QHzCCiE' %}
+
+📖 <a href="/posts/平假名片假名平漢字演化對照表/">完整五十音對照表文章</a>
+
+</div>
+
+### 🗣️ 生活主題單字
+
+<div class="yt-category-block">
+<div class="yt-category-header">
+  <h3>日常情境詞彙</h3>
+  <p>時間、天氣、動詞、情感……涵蓋生活各場景</p>
+</div>
+
+| 主題 | 影片 | 文章 |
+|------|------|------|
+| ⏰ 時間表達 | [觀看](https://www.youtube.com/watch?v=DA4xz04XW3o) | [閱讀](/posts/Japanese-Time-Expressions-Date-Time-Seasons/) |
+| 🌤️ 天氣自然 | [觀看](https://www.youtube.com/watch?v=Z9Ac2PblGqk) | [閱讀](/posts/Japanese-Weather-Nature-Weather-Conditions-Natural-Phenomena/) |
+| 🏃 基本動詞 | [觀看](https://www.youtube.com/watch?v=E9SnwoqTWsQ) | [閱讀](/posts/Japanese-Verbs-Basic-Action-Verbs/) |
+| 😊 情感感受 | [觀看](https://www.youtube.com/watch?v=NJsfaT6kvOc) | [閱讀](/posts/Japanese-Emotions-Feelings-Emotional-Expression-Feeling-Description/) |
+| 🎮 娛樂休閒 | [觀看](https://www.youtube.com/watch?v=N4i0-FqHnBs) | [閱讀](/posts/Japanese-Entertainment-Leisure-Entertainment-Activities-Leisure-Terms/) |
+
+**精選預覽 — 日語時間表達**
+
+{% include embed/youtube.html id='DA4xz04XW3o' %}
+
+</div>
+
+### 🍱 美食飲料專題
+
+<div class="yt-category-block">
+<div class="yt-category-header">
+  <h3>日式料理 & 飲品</h3>
+  <p>邊學日語邊認識日本飲食文化</p>
+</div>
+
+<div class="yt-grid">
+
+<a class="yt-card" href="https://www.youtube.com/watch?v=CDwTtCODRDY" target="_blank" rel="noopener noreferrer">
+  <div class="yt-card-thumb">
+    <img src="https://img.youtube.com/vi/CDwTtCODRDY/hqdefault.jpg" alt="日式料理入門" loading="lazy">
+    <div class="yt-card-play"><i class="fas fa-play"></i></div>
+  </div>
+  <div class="yt-card-body">
+    <div class="yt-card-title">日式料理入門</div>
+    <div class="yt-card-meta"><span class="yt-badge yt-badge-food">美食</span></div>
+  </div>
+</a>
+
+<a class="yt-card" href="https://www.youtube.com/watch?v=WpMVaOJg5G0" target="_blank" rel="noopener noreferrer">
+  <div class="yt-card-thumb">
+    <img src="https://img.youtube.com/vi/WpMVaOJg5G0/hqdefault.jpg" alt="飲品與點餐" loading="lazy">
+    <div class="yt-card-play"><i class="fas fa-play"></i></div>
+  </div>
+  <div class="yt-card-body">
+    <div class="yt-card-title">飲品與點餐用語</div>
+    <div class="yt-card-meta"><span class="yt-badge yt-badge-food">美食</span></div>
+  </div>
+</a>
+
+<a class="yt-card" href="https://www.youtube.com/watch?v=SfiKo_nKZKc" target="_blank" rel="noopener noreferrer">
+  <div class="yt-card-thumb">
+    <img src="https://img.youtube.com/vi/SfiKo_nKZKc/hqdefault.jpg" alt="用餐禮儀" loading="lazy">
+    <div class="yt-card-play"><i class="fas fa-play"></i></div>
+  </div>
+  <div class="yt-card-body">
+    <div class="yt-card-title">用餐禮儀與味道描述</div>
+    <div class="yt-card-meta"><span class="yt-badge yt-badge-food">美食</span></div>
+  </div>
+</a>
+
+</div>
+
+📖 <a href="/posts/Japanese-Food-Drink-Japanese-Cuisine-Beverages/">完整美食飲料文章</a>
+
+</div>
+
+---
+
+<!-- 底部訂閱 CTA -->
+<div class="yt-cta-bottom">
+  <h3>喜歡這些內容嗎？</h3>
+  <p>訂閱頻道，新片上架時 YouTube 會第一時間通知你 🔔<br>也歡迎在影片下方留言，告訴我想學什麼主題！</p>
+  <a class="yt-subscribe-btn" href="https://www.youtube.com/channel/UC9ztxMS8ug3-sGx2b9Pz0TA?sub_confirmation=1" target="_blank" rel="noopener noreferrer">
+    <i class="fab fa-youtube"></i> 感謝訂閱 YouTube 頻道 👽
+  </a>
+</div>
+
+</div>
