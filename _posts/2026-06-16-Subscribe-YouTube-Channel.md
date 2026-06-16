@@ -47,6 +47,8 @@ toc: true
 .yt-badge-basic { background: #fff3cd; color: #856404; }
 .yt-badge-life { background: #d1e7dd; color: #0f5132; }
 .yt-badge-food { background: #f8d7da; color: #842029; }
+.yt-badge-vocab { background: #e2d9f3; color: #432874; }
+.yt-badge-playlist { background: #212529; color: #fff; }
 .yt-category-block { margin-bottom: 2.5rem; }
 .yt-category-header { background: linear-gradient(90deg, #f8f9fa, transparent); border-left: 4px solid var(--yt-red); padding: .75rem 1rem; margin-bottom: 1.25rem; border-radius: 0 8px 8px 0; }
 .yt-category-header h3 { margin: 0; font-size: 1.15rem; }
@@ -107,6 +109,18 @@ toc: true
 <div class="yt-section-title"><span>📺</span><h2 id="最新影片列表">近期上架</h2></div>
 
 <div class="yt-grid">
+
+<div class="yt-card">
+<a class="yt-card-link" href="https://www.youtube.com/playlist?list=PLbNs1kHt1l2z1wvvQ9sYWJ-mALbxQ4yor" target="_blank" rel="noopener noreferrer">
+<div class="yt-card-thumb" style="background-image:url('https://i.ytimg.com/vi/f4ZRg2yjbG8/hqdefault.jpg')">
+<div class="yt-card-play"><i class="fas fa-list"></i></div>
+</div>
+<div class="yt-card-body">
+<div class="yt-card-title">日語單字 — N5 播放清單</div>
+<div class="yt-card-meta"><span class="yt-badge yt-badge-vocab">N5 單字</span><span class="yt-badge yt-badge-playlist">播放清單</span>2026-06</div>
+</div>
+</a>
+</div>
 
 <div class="yt-card">
 <a class="yt-card-link" href="https://www.youtube.com/watch?v=mjXeo9dqAKU" target="_blank" rel="noopener noreferrer">
