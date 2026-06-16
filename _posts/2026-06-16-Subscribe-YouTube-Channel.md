@@ -129,7 +129,7 @@ toc: true
 </div>
 <div class="yt-card-body">
 <div class="yt-card-title">日語助詞 — で・へ・と・から的用法</div>
-<div class="yt-card-meta"><span class="yt-badge yt-badge-grammar">文法</span>2025-08</div>
+<div class="yt-card-meta"><span class="yt-badge yt-badge-grammar">文法</span>2025-12</div>
 </div>
 </a>
 </div>
@@ -141,7 +141,7 @@ toc: true
 </div>
 <div class="yt-card-body">
 <div class="yt-card-title">日語助詞 — は・が・を・に的用法</div>
-<div class="yt-card-meta"><span class="yt-badge yt-badge-grammar">文法</span>2025-08</div>
+<div class="yt-card-meta"><span class="yt-badge yt-badge-grammar">文法</span>2025-12</div>
 </div>
 </a>
 </div>
@@ -153,7 +153,7 @@ toc: true
 </div>
 <div class="yt-card-body">
 <div class="yt-card-title">日語娛樂與休閒 — 娛樂活動</div>
-<div class="yt-card-meta"><span class="yt-badge yt-badge-life">生活主題</span>2025-04</div>
+<div class="yt-card-meta"><span class="yt-badge yt-badge-life">生活主題</span>2025-11</div>
 </div>
 </a>
 </div>
@@ -165,7 +165,7 @@ toc: true
 </div>
 <div class="yt-card-body">
 <div class="yt-card-title">日語情感與感受 — 情感表達</div>
-<div class="yt-card-meta"><span class="yt-badge yt-badge-life">生活主題</span>2025-04</div>
+<div class="yt-card-meta"><span class="yt-badge yt-badge-life">生活主題</span>2026-01</div>
 </div>
 </a>
 </div>
@@ -177,7 +177,7 @@ toc: true
 </div>
 <div class="yt-card-body">
 <div class="yt-card-title">日語天氣與自然 — 天氣狀況</div>
-<div class="yt-card-meta"><span class="yt-badge yt-badge-life">生活主題</span>2025-04</div>
+<div class="yt-card-meta"><span class="yt-badge yt-badge-life">生活主題</span>2026-01</div>
 </div>
 </a>
 </div>
@@ -189,7 +189,7 @@ toc: true
 </div>
 <div class="yt-card-body">
 <div class="yt-card-title">日語時間表達 — 日期、時間、季節</div>
-<div class="yt-card-meta"><span class="yt-badge yt-badge-life">生活主題</span>2025-04</div>
+<div class="yt-card-meta"><span class="yt-badge yt-badge-life">生活主題</span>2026-01</div>
 </div>
 </a>
 </div>
