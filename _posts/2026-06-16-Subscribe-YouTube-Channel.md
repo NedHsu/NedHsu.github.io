@@ -93,7 +93,19 @@ toc: true
 <h2 id="最新精選影片">最新精選影片</h2>
 
 <div class="yt-featured">
-<span class="yt-featured-label">🔥 LATEST</span>
+<span class="yt-featured-label">🔥 NEW</span>
+<h3>日語動詞語態 — 輕鬆搞懂動詞變化規律</h3>
+<p>將日語動詞變化視為規律的拼圖遊戲，透過簡單易懂的方式深入理解五段動詞、一段動詞與不規則變化的內在邏輯。</p>
+{:/nomarkdown}
+
+{% include embed/youtube.html id='ZWEXR3HVIh4' %}
+
+{::nomarkdown}
+<p>📖 搭配閱讀：<a href="/posts/Japanese-Grammar-Verb-Natural/">日語動詞語態 — 輕鬆搞懂動詞變化規律</a></p>
+</div>
+
+<div class="yt-featured">
+<span class="yt-featured-label">🔥 HOT</span>
 <h3>日語助詞 — で・へ・と・から的用法</h3>
 <p>進階助詞完整解析，搭配例句與常見錯誤，讓你的日語更道地。</p>
 {:/nomarkdown}
